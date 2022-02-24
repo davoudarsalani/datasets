@@ -1,0 +1,19 @@
+name: CurrentsAPI
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *'  ## at minute 0 past every 6th hour
+
+jobs:
+  currentsapi:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Downloading the news
+        uses: ./.github/actions
+        with:
+          url: 'https://api.currentsapi.services/v1/latest-news?language=en&apiKey=${{ secrets.API_CURRENTSAPI }}'
+          news_key: 'news'

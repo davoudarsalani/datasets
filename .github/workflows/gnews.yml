@@ -1,0 +1,19 @@
+name: GNews
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '30 */6 * * *'  ## at minute 30 past every 6th hour
+
+jobs:
+  gnews:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Downloading the news
+        uses: ./.github/actions
+        with:
+          url: 'https://gnews.io/api/v4/search?q=a&token=${{ secrets.API_GNEWS }}'
+          news_key: 'articles'

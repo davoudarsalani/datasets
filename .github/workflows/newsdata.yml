@@ -1,0 +1,19 @@
+name: NewsData
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '20 */6 * * *'  ## at minute 20 past every 6th hour
+
+jobs:
+  newsdata:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Downloading the news
+        uses: ./.github/actions
+        with:
+          url: 'https://newsdata.io/api/1/news?country=us&language=en&apikey=${{ secrets.API_NEWSDATA }}'
+          news_key: 'results'

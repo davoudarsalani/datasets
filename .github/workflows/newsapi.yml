@@ -1,0 +1,19 @@
+name: NewsAPI
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '10 */6 * * *'  ## at minute 10 past every 6th hour
+
+jobs:
+  newsapi:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Downloading the news
+        uses: ./.github/actions
+        with:
+          url: 'https://newsapi.org/v2/top-headlines?country=us&category=general&pageSize=100&apiKey=${{ secrets.API_NEWSAPI }}'
+          news_key: 'articles'

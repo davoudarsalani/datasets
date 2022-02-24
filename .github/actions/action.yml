@@ -1,0 +1,24 @@
+name: Download News
+
+inputs:
+  url:
+    required: true
+  news_key:
+    required: true
+
+runs:
+  using: 'composite'
+  steps:
+    - name: Setting up python
+      uses: actions/setup-python@v2
+
+    - name: Downloading news
+      shell: bash
+      run: |
+        ./.github/actions/download-news.py \
+          --source='${{ github.workflow }}' \
+          --url='${{ inputs.url }}' \
+          --news-key='${{ inputs.news_key }}'
+
+    - name: Pushing changes
+      uses: davoudarsalani/action-push@master
