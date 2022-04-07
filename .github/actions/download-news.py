@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 from getopt import getopt
-from json import load as j_load, dump as j_dump
+from json import load as j_load, dumps as j_dumps
 from re import match, sub
 from sys import argv
 from urllib.request import urlopen
@@ -77,8 +77,8 @@ def main() -> None:
 
         print('write')
         with open(main_file, 'w') as main2:
-            j_dump(final_list, main2, indent=2)  ## write pretty
-            main2.write('\n')
+            dumped = j_dumps(final_list, indent=2)
+            main2.write(dumped)
 
     except Exception as exc:
         print(f'ERROR: {exc!r}')
