@@ -78,7 +78,7 @@ def main() -> None:
         print('write')
         with open(main_file, 'w') as main2:
             dumped = j_dumps(final_list, indent=2)
-            main2.write(dumped)
+            main2.write(dumped+'\n')
 
     except Exception as exc:
         print(f'ERROR: {exc!r}')
