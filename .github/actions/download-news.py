@@ -2,6 +2,7 @@
 
 from getopt import getopt
 from json import load as j_load, dumps as j_dumps
+from os import path
 from re import match, sub
 from sys import argv
 from urllib.request import urlopen
@@ -43,42 +44,54 @@ def main() -> None:
     getopts()
 
     main_file = f'./news/api-news/{source}.json'
+    previous  = f'./news/api-news/{source}-2.json'
+    final_list = []
+
     try:
-        ## read current *.json file:
-        print('reading current news')
-        with open(main_file) as main:
-            orig_content = j_load(main)
+        if path.exists(main_file):
+            print('reading current news')
+            with open(main_file) as main:
+                current_news = j_load(main)
+        else:
+            current_news = []
+
+        if path.exists(previous):
+            print('reading previous news')
+            with open(previous) as previous_opened:
+                previous_news = j_load(previous_opened)
+        else:
+            previous_news = []
 
         print('downloading news with urlopen')
         resp = urlopen(url)
 
-        print('parsing news')
+        print('parsing the news')
         resp = j_load(resp)
 
         stts = resp.get('status', None)  ## None because gnews has no status
         if stts:
             if not match(success_regex, stts):
-                print(f'ERROR: Status = {stts}, meaning downloading wsa not successful')
+                print(f'ERROR: Status = {stts}, meaning downloading was not successful')
                 exit(1)
 
-        print('appending news')
-        news_list = resp[news_key]
-        for news in news_list:
-            orig_content.append(news)
+        print('appending current news')
+        for cn in current_news:
+            if cn not in previous_news and \
+               cn not in final_list:
+                final_list.append(cn)
 
-        print('removing duplicates')
-        print(f'count before removing: {len(orig_content)}')
-        final_list = []
-        for entry in orig_content:
-            if entry not in final_list:
-                final_list.append(entry)
-        print(f'count after removing: {len(final_list)}')
-        print()
+        print('appending new news')
+        new_news = resp[news_key]
+        for nn in new_news:
+            if nn not in current_news and \
+               nn not in previous_news and \
+               nn not in final_list:
+                final_list.append(nn)
 
-        print('write')
+        print(f'write to {main_file}')
         with open(main_file, 'w') as main2:
             dumped = j_dumps(final_list, indent=2)
-            main2.write(dumped+'\n')
+            main2.write(dumped + '\n')
 
     except Exception as exc:
         print(f'ERROR: {exc!r}')
