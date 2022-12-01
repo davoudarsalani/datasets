@@ -10992,5 +10992,242 @@
       "top"
     ],
     "language": "english"
+  },
+  {
+    "title": "Laura Davison on FTX (Audio)",
+    "link": "https://www.bloomberg.com/news/audio/2022-12-01/laura-davison-on-ftx-audio",
+    "keywords": null,
+    "creator": null,
+    "video_url": null,
+    "description": null,
+    "content": null,
+    "pubDate": "2022-12-01 01:53:53",
+    "image_url": null,
+    "source_id": "bloomberg",
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "top"
+    ],
+    "language": "english"
+  },
+  {
+    "title": "Brandon Staley explains how Chargers must not fumble against Raiders' pass rush",
+    "link": "https://www.latimes.com/sports/chargers/story/2022-11-30/brandon-staley-explains-how-chargers-must-not-fumble-against-raiders-pass-rush",
+    "keywords": null,
+    "creator": [
+      "Jeff Miller"
+    ],
+    "video_url": null,
+    "description": "Justin Herbert had been the NFL's least-sacked quarterback, but the Chargers allowed nine sacks the last two weeks and now face the Raiders' vaunted rush in key AFC West game.",
+    "content": "Justin Herbert had been the NFL's least-sacked quarterback, but the Chargers allowed nine sacks the last two weeks and now face the Raiders' vaunted rush in key AFC West game.",
+    "pubDate": "2022-12-01 01:44:49",
+    "image_url": "https://ca-times.brightspotcdn.com/dims4/default/e8d6727/2147483647/strip/true/crop/2879x1919+0+0/resize/1500x1000!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb7%2F60%2Ffe5bc39d4f519126c0154af05c9d%2Fchargers-cardinals-football-03292.jpg",
+    "source_id": "latimes",
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "sports"
+    ],
+    "language": "english"
+  },
+  {
+    "title": "Florida QB Kitna jailed on child porn counts",
+    "link": "https://www.espn.com/college-football/story/_/id/35149554/florida-qb-jalen-kitna-jailed-child-pornography-counts?device=featurephone",
+    "keywords": null,
+    "creator": null,
+    "video_url": null,
+    "description": "Florida's Jalen Kitna, the son of ex-NFL QB Jon Kitna, has been jailed on multiple counts involving child pornography. He has been suspended indefinitely.",
+    "content": null,
+    "pubDate": "2022-12-01 01:43:40",
+    "image_url": null,
+    "source_id": "espn",
+    "country": [
+      "united states of america",
+      "united kingdom",
+      "india",
+      "australia",
+      "singapore",
+      "canada"
+    ],
+    "category": [
+      "sports"
+    ],
+    "language": "english"
+  },
+  {
+    "title": "Wednesday\u2019s top tech news: it\u2019s-a-me, another Mario trailer",
+    "link": "https://www.theverge.com/2022/11/30/23485711/november-30-2022-tech-news-liveblog",
+    "keywords": null,
+    "creator": [
+      "Sean Hollister"
+    ],
+    "video_url": null,
+    "description": null,
+    "content": "Mario and Luigi in the new Mario movie trailer. | Screenshot: The Super Mario Bros. Movie Plus production troubles for Apple\u2019s flagship iPhones. Look, I know a lot of people aren\u2019t a fan of Chris Pratt and the Mario voice he\u2019s doing in the upcoming Super Mario Bros. Movie, but with each new trailer, I find myself getting more interested, if not downright hopeful, that this latest video game film adaptation might... actually be... good? The second trailer released last night, and you can check it out right here. Elsewhere, there\u2019s bad news if you were hoping to snag an iPhone 14 Pro or Pro Max before Christmas. After a combination of covid lockdowns and labor protests have impacted production at one of Foxconn\u2019s plants in China, one analyst predicts that Apple might ship 20 percent fewer devices this quarter compared to its original projections. Finally, here\u2019s a silly tweet: I've watched this on an endless loop for 15 minutes. pic.twitter.com/M9PXZayZXj\u2014 Alex M. Kintner (@AlexKintner3) November 28, 2022 Stay tuned as we continue to update this list with the most important news of today: Wednesday, November 30th, 2022",
+    "pubDate": "2022-12-01 01:32:31",
+    "image_url": null,
+    "source_id": "theverge",
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "technology"
+    ],
+    "language": "english"
+  },
+  {
+    "title": "Anker\u2019s Eufy lied to us about the security of its security cameras ",
+    "link": "https://www.theverge.com/2022/11/30/23486753/anker-eufy-security-camera-cloud-private-encryption-authentication-storage",
+    "keywords": null,
+    "creator": [
+      "Sean Hollister"
+    ],
+    "video_url": null,
+    "description": null,
+    "content": "A Eufy security camera, from Anker. | Image: Anker/Eufy Anker has built a remarkable reputation for quality over the past decade, building its phone charger business into an empire spanning all sorts of portable electronics \u2014 including the Eufy home security cameras we\u2019ve recommended over the years. Eufy\u2019s commitment to privacy is remarkable: it promises your data will be stored locally, that it \u201cnever leaves the safety of your home,\u201d that its footage only gets transmitted with \u201cend-to-end\u201d military-grade encryption, and that it will only send that footage \u201cstraight to your phone.\u201d So you can imagine our surprise to learn you can stream video from a Eufy camera, from the other side of the country, with no encryption at all. Screenshot by Sean Hollister / The Verge Part of Anker\u2019s Eufy \u201cprivacy commitment\u201d. Worse, it\u2019s not yet clear how widespread this might be \u2014 because instead of addressing it head-on, the company falsely claimed to The Verge that it wasn\u2019t even possible. On Thanksgiving Day, infosec consultant Paul Moore and a hacker who goes by Wasabi both alleged that Anker\u2019s Eufy cameras can stream encryption-free through the cloud \u2014 just by connecting to a unique address at Eufy\u2019s cloud servers with the free VLC Media Player. Ah well, the cats out the bag now... so may as well tell you.You can remotely start a stream and watch @EufyOfficial cameras live using VLC. No authentication, no encryption.Please don't ask for a PoC - I can't release this one.Heads up @TechLinkedYT @LinusTech https://t.co/sU3FyRaELX\u2014 Paul Moore (@Paul_Reviews) November 25, 2022 When we asked Anker point-blank to confirm or deny that, the company categorically denied it. \u201cI can confirm that it is not possible to start a stream and watch live footage using a third-party player such as VLC,\u201d Brett White, a senior PR manager at Anker, told me via email. But The Verge can now confirm that\u2019s not true. This week, we repeatedly watched live footage from two of our own Eufy cameras using that very same VLC media player, from across the United States \u2014 proving that Anker has a way to bypass encryption and access these supposedly secure cameras through the cloud. There is some good news: there\u2019s no proof yet that this has been exploited in the wild, and the way we initially obtained the address required logging in with a username and password before Eufy\u2019s website will cough up the encryption-free stream. (We\u2019re not sharing the exact technique here.) Also, it seems like it only works on cameras that are awake. We had to wait until our floodlight camera detected a passing car, or its owner pressed a button, before the VLC stream came to life. Your camera\u2019s 16-digit serial number \u2014 likely visible on the box \u2014 is the biggest part of the key But it also gets worse: Eufy\u2019s best practices appear to be so shoddy that bad actors might be able to figure out the address of a camera\u2019s feed \u2014 because that address largely consists of your camera\u2019s serial number encoded in Base64, something you can easily reverse with a simple online calculator. The address also includes a Unix timestamp you can easily create, a token that Eufy\u2019s servers don\u2019t actually seem to be validating (we changed our token to \u201carbitrarypotato\u201d and it still worked), and a four-digit random hex whose 65,536 combinations could easily be brute forced. \u201cThis is definitely not how it should be designed,\u201d Mandiant vulnerability engineer Jacob Thompson tells The Verge. For one thing, serial numbers don\u2019t change, so a bad actor could give or sell or donate a camera to Goodwill and quietly keep watching the feeds. But also, he points out that companies don\u2019t tend to keep their serial numbers secret. Some stick them right on the box they sell at Best Buy \u2014 yes, including Eufy. On the plus side, Eufy\u2019s serial numbers are long at 16 characters and aren\u2019t just an increasing number. \u201cYou\u2019re not going to be able to just guess at IDs and begin hitting them,\u201d says Mandiant Red Team consultant Dillon Franke, calling it a possible \u201csaving grace\u201d of this disclosure. \u201cIt doesn\u2019t sound quite as bad as if it\u2019s UserID 1000, then you try 1001, 1002, 1003.\u201d It could be worse. When Georgia Tech security researcher and Ph.D. candidate Omar Alrawi was studying poor, smart home practices in 2018, he saw some devices substituting their own MAC address for security \u2014 even though a MAC address is only twelve characters long, and you can generally figure out the first six characters just by knowing which company made a gadget, he explains. \u201cThe serial number now becomes critical to keep secret.\u201d But we also don\u2019t know how else these serial numbers might leak, or if Eufy might even unwittingly provide them to anyone who asks. \u201cSometimes there are APIs that will return some of that unique ID information,\u201d says Franke. \u201cThe serial number now becomes critical to keep secret, and I don\u2019t think they\u2019d treat it that way.\u201d Thompson also wonders whether there are other potential attack vectors now that we know Eufy\u2019s cameras aren\u2019t wholly encrypted: \u201cIf the architecture is such that they can order the camera to start streaming at any time, anyone with admin access has the ability to access the IT infrastructure and watch your camera,\u201d he warns. That\u2019s a far cry from Anker\u2019s claim that footage is \u201csent straight to your phone\u2014and only you have the key.\u201d By the way, there are other worrying signs that Anker\u2019s security practices may be much, much poorer than it has let on. This whole saga started when infosec consultant Moore started tweeting accusations that Eufy had violated other security promises, including uploading thumbnail images (including faces) to the cloud without permission and failing to delete stored private data. Anker reportedly admitted to the former, but called it a misunderstanding. You have some serious questions to answer @EufyOfficial Here is irrefutable proof that my supposedly \"private\", \"stored locally\", \"transmitted only to you\" doorbell is streaming to the cloud - without cloud storage enabled.#privacyhttps://t.co/u4iGgkWkJB\u2014 Paul Moore (@Paul_Reviews) November 23, 2022 Most worrying if true, he also claims that Eufy\u2019s encryption key for its video footage is literally just the plaintext string \u201cZXSecurity17Cam@\u201d. That phrase also appears in a GitHub repo from 2019, too. Anker didn\u2019t answer The Verge\u2019s straightforward yes-or-no question about whether \u201cZXSecurity17Cam@\u201d is the encryption key. We couldn\u2019t get more details from Moore, either; he told The Verge he can\u2019t comment further now that he\u2019s started legal proceedings against Anker. Now that Anker has been caught in some big lies, it\u2019s going to be hard to trust whatever the company says next \u2014 but for some, it may be important to know which cameras do and do not behave this way, whether anything will be changed, and when. When Wyze had a vaguely similar vulnerability, it swept it under the rug for three years; hopefully, Anker will do far, far better. Some may not be willing to wait or trust anymore. \u201cIf I came across this news and had this camera inside my home, I\u2019d immediately turn it off and not use it, because I don\u2019t know who can view it and who cannot,\u201d Alrawi tells me. Wasabi, the security engineer who showed us how to get a Eufy camera\u2019s network address, says he\u2019s ripping all of his out. \u201cI bought these because I was trying to be security conscious!\u201d he exclaims. With some specific Eufy cams, you could perhaps try switching them to use Apple\u2019s HomeKit Secure Video instead. With reporting and testing by Jen Tuohy and Nathan Edwards",
+    "pubDate": "2022-12-01 01:30:04",
+    "image_url": null,
+    "source_id": "theverge",
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "technology"
+    ],
+    "language": "english"
+  },
+  {
+    "title": "Does Avalanche (AVAX) Have Any Chance of Becoming Major Ethereum Killer?",
+    "link": "https://u.today/does-avalanche-avax-have-any-chance-of-becoming-major-ethereum-killer",
+    "keywords": null,
+    "creator": [
+      "Sabrina Martins Vieira"
+    ],
+    "video_url": null,
+    "description": "Despite positives, Avalanche may struggle to fit this list",
+    "content": "Contents Avalanche token also has many advantages Why hasn\u2019t cryptocurrency skyrocketed even though it has all those benefits? (adsbygoogle = window.adsbygoogle || []).push({}); (adsbygoogle = window.adsbygoogle || []).push({}); Does Avalanche (AVAX) have a chance to become the great \u201cEthereum Killer?\u201d The altcoin has the fundamentals to stand out on the market, but how far can this make Avalanche grow? Avalanche's main purpose is to be a peer competitor to Ethereum (ETH). Therefore, it already discards with its network the main problems that are found on the main altcoin on the market, such as high fees and a slow network. Avalanche promises to make 4,500 transactions per second, compared to ETH, which makes just 14 in the same period. But within the category of \u201cEthereum Killer,\u201d all Ethereum competitors have the aforementioned qualities. However, Avalanche has other important highlights that make it a serious contender. window.coinzilla_display = window.coinzilla_display || []; var c_display_preferences = {}; c_display_preferences.zone = \"5335d7792eb489ae565\"; c_display_preferences.width = \"300\"; c_display_preferences.height = \"250\"; coinzilla_display.push(c_display_preferences); Ads window.coinzilla_display = window.coinzilla_display || []; var c_display_preferences = {}; c_display_preferences.zone = \"5335d7792eb489ae565\"; c_display_preferences.width = \"300\"; c_display_preferences.height = \"250\"; coinzilla_display.push(c_display_preferences); Ads Its scalability, for example, is possible, as the altcoin has three individual blockchains with different purposes: X-Chain: Decentralized platform for creating and trading smart digital assets; C-Chain: Allows the creation of smart contracts; P-Chain: Coordinates validators, tracks active subnets and allows the creation of new subnets. It is worth mentioning that Avalanche's consensus mechanism is differentiated according to its use cases. Additionally, the altcoin has been working on interoperability between its blockchain and Ethereum. Avalanche token also has many advantages When a user transacts with AVAX, the transaction fee is burned, bringing scarcity to the altcoin. Furthermore, the token is used to secure the network through the staking process, pay fees and provide a basic unit of accounting between the various subnets created on the Avalanche platform. Another point is that AVAX has an impressive performance in platform economics. This is because Avalanche offers a variety of services, such as peer-to-peer lending, trading and creating subnets. All of these require the developer to have AVAX to enjoy them. Why hasn\u2019t cryptocurrency skyrocketed even though it has all those benefits? First, it is possible to mention that the hype of Ethereum competitors did not last long. The emergence of ETH 2.0 makes the existence of an \u201cEthereum Killer\u201d questionable. In addition, Avalanche has many rivals that also have positive highlights, such as Polkadot (DOT) and Cardano (ADA). The high amount invested to become a cryptocurrency validator is also a significant negative. With altcoins like ADA , for example, you do not have to be an investment whale to earn passive income from staking; AVAX requiring at least 2,000 tokens to be an Avalanche validator is self-defeating. The amount of tokens mentioned represents an investment of USD $24,000 at the time of writing. Even with the major market correction that Avalanche went through, without a doubt, it is not an investment that any investor can make. Scalability solutions and Ethereum finalizing its transition to version 2.0, where the altcoin, according to Vitalik Buterin, will make 100,000 transactions per second, may end Avalanche's promise of prominence on the market, even with its positive points.",
+    "pubDate": "2022-12-01 01:30:00",
+    "image_url": null,
+    "source_id": "utoday",
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "top"
+    ],
+    "language": "english"
+  },
+  {
+    "title": "SBF Roasted for Tone-Deaf NYT Interview",
+    "link": "https://decrypt.co/116114/sbf-interview-nyt-dealbook-twitter-response",
+    "keywords": [
+      "ftx-token",
+      "Business"
+    ],
+    "creator": [
+      "Jason Nelson"
+    ],
+    "video_url": null,
+    "description": "As the ex-CEO spoke with journalist Andrew Ross Sorkin about the fall of FTX, Crypto Twitter did not like what it was hearing.",
+    "content": "Crypto Twitter wasn't in the room where it happened, but the chattering class on the birdsite had plenty of thoughts about Sam Bankman-Fried's one-on-one interview with Andrew Ross Sorkin as part of a New York Times conference. The Dealbook Summit is an annual event hosted by the Times . and the session moderator Andrew Ross Sorkin is an award-winning journalist, CNBC anchor, and author of \"Too Big to Fail,\" the story of the collapse of Lehman Brothers and the 2008 financial crisis. Sorkin is also the co-creator of the Showtime series Billions and the founder of Dealbook. Sorkin asked Bankman-Fried if his lawyers suggested speaking at the conference was a good idea. \"No,\u201d Bankman-Fried replied. \u201cThey are very much not,\" adding that he felt he had a duty to speak. Ross Sorkin: \"What are your lawyers telling you right now? Are they suggesting this is a good idea for you to be speaking?\" SBF: \"No. They are very much not.\" pic.twitter.com/cl5KDTVRpf \u2014 Greg Price (@greg_price11) November 30, 2022 Even before the interview, the fact that Bankman-Fried was invited to speak at the conference sparked its own controversy. \u201cSBF should be sitting in a jail right now, but instead he is giving an interview on the New York Times Dealbook summit,\u201d tweeted Carl Menger. SBF should be sitting in a jail right now, but instead he is giving an interview on the New York Times Dealbook summit. WTF is happening? https://t.co/i3pQOVZy3b \u2014 Carl \u20bf MENGER \u26a1\ufe0f (@CarlBMenger) November 30, 2022 Others used SBF\u2019s participation as a hook to mock the overall conference lineup, suggesting it was a collection of unsavory characters\u2014including Jeffrey Epstein, Osama Bin Laden, and Voldemort. Heck of a line-up! Congrats on this @nytimes @dealbook , seriously. pic.twitter.com/3wkz1UOWQ4 \u2014 Cory at Swan Bitcoin (@coryklippsten) November 26, 2022 As the Wednesday interview got underway, with Bankman-Fried and Sorkin speaking over video link to an in-person and virtual audience numbering in the thousands, the responses began to flow on Twitter. During the interview, Bankman-Fried reiterated his claim that FTX US is fully funded and could begin withdrawals today. Some were understandably skeptical of the claim. \u201cIt is pin-drop silent and tense in the room but SBF clearly cannot perceive that across the Zoom link, so he's just sort of chatting with @andrewrsorkin like it's any other Zoom call,\u201d tweeted Nilay Patel, Editor-in-chief of The Verge . It is pin-drop silent and tense in the room but SBF clearly cannot perceive that across the Zoom link, so he's just sort of chatting with @andrewrsorkin like it's any other Zoom call \u2014 nilay patel (@reckless) November 30, 2022 \u201c#SBF Allegedly one of the brightest people in the world,\u201d wrote Tony Battista, host of the Options Trades Today podcast. \u201cHis defense? I didn\u2019t understand the risk.\u201d #SBF Allegedly one of the brightest people in the world. His defense? I didn\u2019t understand the risk. @tastytrade \u2014 Tony Battista (@Tony_BATtista) November 30, 2022 @andrewrsorkin : \"The New York Times reported that $515 million was suspiciously transferred from FTX wallets after the bankruptcy filing. There have been accusations of theft. Where did that money go? @SBF_FTX \"I will give you the answer to the extent that I know it.... \u2014 Edmund Lee (@edmundlee) November 30, 2022 \"I made a lot of mistakes, never tried to commit fraud,\u201d Bankman-Fried told the virtual audience. \"I was not really cautious enough from a downside perspective. I was looking at a 30% down move; then what happened was a 95% down move,\u201d he said. \u201cI remember when Bernie Madoff was caught and did that softball interview with the New York Times conference whilst chilling on the beach,\u201d tweeted HubSpot\u2019s Kieran Flanagan. \u201cOh wait, of course that didn't happen.\u201d I remember when Bernie Madoff was caught and did that softball interview with the New York Times conference whilst chilling on the beach ... ..... oh wait, of course that didn't happen Crazy people are finding this funny, including SBF pic.twitter.com/Dzp2xmFdHT \u2014 Kieran Flanagan \ud83e\udd18 (@searchbrat) November 30, 2022 Even those who attempted to defend Bankman-Fried received pushback. \u201cCall me crazy, but I think @sbf is telling the truth,\u201d tweeted Bill Ackman, hedge fund manager and CEO of Pershing Square. \u201cBill are you currently under duress?\u201d replied Adam Singer, VP of Marketing at AdQuick. Bill are you currently under duress? \u2014 Adam Singer (@AdamSinger) November 30, 2022 I didn\u2019t think this SBF situation could possibly look worse, but this interview is proving me wrong\u2026 #FTX #SBF #NewYorkTimes #Interview \u2014 CryptoTraveler \u2744\ufe0f (@CryptoTraveler_) November 30, 2022 The awkwardness of the interview setup was not missed by viewers, who decried the fact that the audience erupted in applause as the interview concluded. THE CROWD ERUPTED IN APPLAUSE AS INTERVIEWER THANKS SAM BANKMAN FRIED FOR COMING ON... uhhhhhhh wut. this man is a psychopath criminal who just lied for an hr straight. pic.twitter.com/Y8deKwbc9a \u2014 Coffeezilla (@coffeebreak_YT) November 30, 2022 Stay on top of crypto news, get daily updates in your inbox. Your Email Get it! Copy link",
+    "pubDate": "2022-12-01 01:27:30",
+    "image_url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/06/ftx-ceo-tsm-esports-gID_4.png@png",
+    "source_id": "decrypt",
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "top"
+    ],
+    "language": "english"
+  },
+  {
+    "title": "Cryptocurrencies \u2013 Is It Legal?",
+    "link": "https://insidebitcoins.com/news/cryptocurrencies-is-it-legal",
+    "keywords": [
+      "Uncategorized"
+    ],
+    "creator": [
+      "Eric Dunne"
+    ],
+    "video_url": null,
+    "description": "The world of cryptocurrency can be confusing and even a little scary. With so many new companies, technologies, and laws coming into play every day, [...]",
+    "content": "The world of can be confusing and even a little scary. With so many new companies, technologies, and laws coming into play every day, it\u2019s easy to get lost in the details. That\u2019s why we\u2019ve put together this list of countries where cryptocurrency is legal and illegal worldwide. By the end of this article, you\u2019ll have all the information you need about which nations are on board with crypto\u2014and which ones aren\u2019t! The laws and regulations surrounding cryptocurrency vary greatly from country to country. For example, some nations have taken an accommodating stance on digital currency transactions, while others have imposed strict regulations or even banned cryptocurrencies altogether. This means that whether something is legal or illegal depends largely on where you are located. In the United States, for example, cryptocurrency is legal as long as it\u2019s used for transaction purposes and not for investment speculation. The Internal Revenue Service (IRS) has issued guidance stating that \u201cvirtual currencies held by taxpayers as a capital asset may be taxed as property\u201d. Consequently, individuals must pay taxes on gains they make from trading digital currencies like . Other countries, such as China, have taken a more restrictive approach and prohibited banks from engaging in any crypto-related activities; while other nations such as Japan are still in the process of developing a legal framework to govern virtual currencies. When it comes to cryptocurrencies, there is one thing you can say with certainty: they are functional everywhere. Cryptocurrency is a virtual form of payment available in every country in the world. Bitcoin is the most popular cryptocurrency and has been used as a method of payment by many businesses since it was introduced in 2009. The key to understanding why this is true is understanding what cryptocurrencies really are and how they work. Cryptocurrencies are decentralized currencies that are not backed by any government or central bank (unlike traditional currencies). This means that even if your government bans cryptocurrency or makes its use illegal, you will still be able to trade them at other exchanges located outside your country\u2019s jurisdiction (and vice versa). Cryptocurrency is legal in some form or another in 123 countries. These include the United States, which has a clear stance on cryptocurrency. On the other side of things are countries like Venezuela, whose citizens have been arrested for mining cryptocurrencies and Ecuador, where mining is considered money laundering and can result in up to eight years in prison. Not only are certain countries banning cryptocurrency, but they are also making it a criminal activity. This means that if you are caught with crypto in one of these countries, you could be arrested and even jailed. The following list is a compilation of the 9 countries where cryptocurrency is illegal or criminal: There are currently a number of countries without a clear stance on cryptocurrency, or where regulations have not yet been put into place. This generally means that there is an implicit ban (financial institutions are not allowed to take on crypto clients) regarding cryptocurrencies in these places. These include: Tax regulations related to cryptocurrencies also vary depending on which jurisdiction you\u2019re in. In some countries, digital currencies are considered commodities for tax purposes and are thus subject to capital gains taxes; whereas in other places they may be treated differently depending on how they\u2019re used and whether or not they\u2019re classified as an investment instrument or a currency itself. Taxpayers must familiarize themselves with the applicable laws and regulations of their local jurisdiction to ensure compliance with taxation laws when trading digital currencies. Due to their decentralized nature and lack of regulation across international borders, government interventions have become both necessary and frequent within the crypto market. Some countries have imposed bans or restrictions on cryptocurrency usage within their borders; while others have implemented measures to protect investors against scams or fraudulent activities involving digital assets. This can range from requiring companies dealing with virtual currencies to register with the appropriate authorities, to setting up dedicated agencies that monitor crypto trading activity within certain jurisdictions. When it comes to enforcing laws surrounding cryptocurrencies due to their decentralized nature and lack of a central authority overseeing them across all jurisdictions internationally- there exist certain challenges which law enforcement agencies face when attempting to hold individuals accountable for illegal activities carried out using digital assets. This includes difficulties verifying ownership of virtual coins or , tracking suspicious transactions made through anonymous wallets, determining jurisdictional boundaries of applicable laws among different countries involved in a particular transaction etc. The legal status of cryptocurrency varies substantially from country to country and is still undefined or changing in many of them. While some countries have explicitly allowed their use and trade, others have banned or restricted it. Similarly, various government agencies, departments, and courts have classified Bitcoin differently. While this article provides the legal status of bitcoin worldwide, laws can always change. As such it is important to ask your local government regulators for up-to-date information on their position regarding bitcoin before starting a project that will use Bitcoin as a payment method. In conclusion, it is clear that cryptocurrency is legal in some form or another throughout most of the world. However, there are still some countries where it is not legal yet or there is no clear stance on how to regulate this new type of currency. The countries where cryptocurrency has been banned altogether include China while others like Venezuela are considering following suit.",
+    "pubDate": "2022-12-01 01:25:22",
+    "image_url": null,
+    "source_id": "insidebitcoins",
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "top"
+    ],
+    "language": "english"
+  },
+  {
+    "title": "Tesla, Amazon, Snowflake, Xpeng, Salesforce: Why These 5 Stocks Are Drawing Investors' Attention Today",
+    "link": "https://www.benzinga.com/news/22/11/29916677/tesla-amazon-snowflake-xpeng-salesforce-why-these-5-stocks-are-drawing-investors-attention-today",
+    "keywords": [
+      "AMZN",
+      "CRM",
+      "e-commerce",
+      "electric vehicles",
+      "EVs",
+      "News",
+      "SNOW",
+      "Software maker",
+      "TSLA",
+      "XPEV",
+      "Top Stories",
+      "Markets",
+      "AMZN",
+      "US0231351067",
+      "CRM",
+      "US79466L3024",
+      "TSLA",
+      "US88160R1014",
+      "SNOW",
+      "XPEV",
+      "News",
+      "Top Stories",
+      "Markets",
+      "Benzinga"
+    ],
+    "creator": null,
+    "video_url": null,
+    "description": "Major Wall Street indices soared on Wednesday after Federal Reserve Chair Jerome Powell said the central bank may slow the pace of rate hikes as soon as December while also observing there is a long way to go read more",
+    "content": null,
+    "pubDate": "2022-12-01 01:23:16",
+    "image_url": null,
+    "source_id": "benzinga",
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "top"
+    ],
+    "language": "english"
+  },
+  {
+    "title": "Amazon CEO says company won't take down antisemitic film",
+    "link": "https://news.yahoo.com/amazon-ceo-says-company-wont-011812425.html",
+    "keywords": null,
+    "creator": null,
+    "video_url": null,
+    "description": null,
+    "content": null,
+    "pubDate": "2022-12-01 01:18:12",
+    "image_url": null,
+    "source_id": "yahoo",
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "top"
+    ],
+    "language": "english"
   }
 ]
