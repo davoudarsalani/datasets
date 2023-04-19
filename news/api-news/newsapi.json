@@ -22774,5 +22774,408 @@
     "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230417110657-james-webb-space-telescope-galactic-merger-arp-220.jpg?c=16x9&q=w_800,c_fill",
     "publishedAt": "2023-04-17T17:19:00Z",
     "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nA brilliant starburst feature shines in the latest ima\u2026 [+2093 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Holly Ellyatt, Natasha Turak",
+    "title": "Ukraine war live updates: Putin makes rare visit to meet troops in Ukraine; Moscow court denies WSJ reporter's appeal - CNBC",
+    "description": "Russian President Vladimir Putin has made a rare trip to meet Russian military commanders and troops fighting in Ukraine.",
+    "url": "https://www.cnbc.com/2023/04/18/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107226886-16818191732023-04-18t070526z_180960544_rc2vg0aph3kv_rtrmadp_0_ukraine-crisis-putin-kherson.jpeg?v=1681821298&w=1920&h=1080",
+    "publishedAt": "2023-04-18T12:11:00Z",
+    "content": "Russian President Vladimir Putin met with China's Defense Minister Li Shangfu on Sunday, marking the latest high-profile meeting between Russian and Chinese officials in recent months.\r\nFootage of th\u2026 [+1420 chars]"
+  },
+  {
+    "source": {
+      "id": "associated-press",
+      "name": "Associated Press"
+    },
+    "author": "Jack Jeffery",
+    "title": "Sudanese army, rival forces agree to 24-hour cease-fire - The Associated Press",
+    "description": "KHARTOUM, Sudan (AP) \u2014 The Sudanese army and a rival paramilitary force that have been battling the past four days for control of the country agreed on Tuesday to a 24-hour cease-fire, Arab media reports said.",
+    "url": "https://apnews.com/article/sudan-fighting-military-us-convoy-attacked-60b1568b3bd05cdf6ad78c7f17cc8208",
+    "urlToImage": "https://storage.googleapis.com/afs-prod/media/980968ca210749b8985cc2b27d150282/3000.webp",
+    "publishedAt": "2023-04-18T12:08:00Z",
+    "content": "KHARTOUM, Sudan (AP) The Sudanese army and a rival paramilitary force that have been battling the past four days for control of the country agreed on Tuesday to a 24-hour cease-fire, Arab media repor\u2026 [+6676 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Pia Singh",
+    "title": "Stocks making the biggest moves premarket: Johnson & Johnson, Goldman Sachs, Sunrun and more - CNBC",
+    "description": "Shares of Goldman Sachs shed nearly 4% after missing revenue estimates in its first-quarter earnings released before Tuesday's opening bell.",
+    "url": "https://www.cnbc.com/2023/04/18/stocks-making-the-biggest-moves-premarket-jnj-gs-run.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107221192-1680718205717-gettyimages-1480096593-0j5a5779_phvhhgre.jpeg?v=1681819598&w=1920&h=1080",
+    "publishedAt": "2023-04-18T12:06:38Z",
+    "content": "Check out the companies making headlines before the bell on Tuesday.\r\nGoldman Sachs The investment bank said first quarter revenue totaled $12.22 billion, below the $12.79 billion consensus estimate \u2026 [+2789 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Athletic"
+    },
+    "author": "Marcus Thompson II, Anthony Slater, Sam Amick, Hunter Patterson",
+    "title": "Draymond Green ejected as Kings take 2-0 series lead over Warriors: Further discipline coming? - The Athletic",
+    "description": "Green had eight points on 3-of-6 shooting in 31 minutes before the ejection.",
+    "url": "https://theathletic.com/4423463/2023/04/18/warriors-kings-game-2-score-draymond-green/",
+    "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/04/18003053/USATSI_20475843-1024x683.jpg",
+    "publishedAt": "2023-04-18T11:18:01Z",
+    "content": "By Sam Amick, Marcus Thompson II and Hunter Patterson\r\nThe Warriors find themselves down 0-2 in a playoff series for the first time since 2007 after their 114-106 loss to the Kings in Sacramento on M\u2026 [+4079 chars]"
+  },
+  {
+    "source": {
+      "id": "cbs-news",
+      "name": "CBS News"
+    },
+    "author": null,
+    "title": "Renowned mountain climber Noel Hanna dies descending from peak of Nepal's treacherous Annapurna - CBS News",
+    "description": "Hanna had summited Everest 10 times and climbed the highest point on all seven continents.",
+    "url": "https://www.cbsnews.com/news/nepal-annapurna-noel-hanna-climber-dies-on-mountain/",
+    "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/04/18/e8cd2f02-d5a9-4d47-9818-4e8f0a9ed67d/thumbnail/1200x630/22d200b5faa1fd9fee5e78ab950e37a6/noel-hanna.jpg",
+    "publishedAt": "2023-04-18T11:12:08Z",
+    "content": "Kathmandu \u2014 Renowned Northern Irish climber Noel Hanna has died in Nepal while descending from the top of the treacherous Annapurna mountain range, officials said Tuesday. The 56-year-old adventurer \u2026 [+1893 chars]"
+  },
+  {
+    "source": {
+      "id": "nfl-news",
+      "name": "NFL News"
+    },
+    "author": "Peter Schrager",
+    "title": "Peter Schrager 2023 NFL mock draft 1.0: Texans trade out of No. 2; five QBs taken in first 12 picks - NFL.com",
+    "description": "In his first mock of the 2023 NFL Draft, Peter Schrager has C.J. Stroud going second overall -- but not to the Texans, who land another QB altogether later in Round 1. In fact, five quarterbacks come off the board in the first 12 picks.",
+    "url": "https://www.nfl.com/news/peter-schrager-2023-nfl-mock-draft-1-0-texans-trade-out-of-no-2-two-rbs-picked-i",
+    "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/bzth1aignpfcahmcugen",
+    "publishedAt": "2023-04-18T11:00:00Z",
+    "content": "We're officially single-digit days away from the 2023 NFL Draft (April 27-29 in Kansas City, Missouri). Time to take my first crack at mocking the first round.\r\nREMINDER: As always, this isn't what I\u2026 [+1367 chars]"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Wayne Sterling",
+    "title": "Double delight for Kenya as Evans Chebet and Hellen Obiri win men's and women's Boston Marathon races - CNN",
+    "description": "There was double delight for Kenya at the 2023 Boston Marathon as Evans Chebet and Hellen Obiri won the men's and women's races respectively.",
+    "url": "https://www.cnn.com/2023/04/17/sport/evans-chebet-wins-boston-marathon-spt-intl/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230417132901-boston-marathon-2023-chebet-obiri.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-04-18T10:37:00Z",
+    "content": "There was double delight for Kenya at the 2023 Boston Marathon as Evans Chebet and Hellen Obiri won the mens and womens races respectively.\r\nChebet claimed his second consecutive Boston Marathon the \u2026 [+1271 chars]"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": "Tracy Wright",
+    "title": "Kelly Ripa, Mark Consuelos criticized for 'painful' new show as viewers tune out post-Ryan Seacrest - Fox News",
+    "description": "Former soap stars and married couple Kelly Ripa and Mark Counselos were off to a rough start on the first day of co-hosting the long-running \"Live!\" ABC morning show.",
+    "url": "https://www.foxnews.com/media/kelly-ripa-mark-consuelos-criticized-painful-new-show-viewers-tune-out-post-ryan-seacrest",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/kelly-ripa.jpg",
+    "publishedAt": "2023-04-18T10:33:00Z",
+    "content": "\"Live with Kelly and Mark\" debuted Monday, and Ryan Seacrest was out of the co-hosting seat with Mark Consuelos officially beginning his first day on the job.\r\nWhile Kelly Ripa was completely comfort\u2026 [+3110 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Akron Beacon Journal"
+    },
+    "author": "Amanda Garrett, Doug Livingston",
+    "title": "What we're learning from BCI investigation into Akron police shooting of Jayland Walker - Akron Beacon Journal",
+    "description": "The Akron community, after months of grieving and protests, is learning new details about what happened the night Akron police killed Jayland Walker.",
+    "url": "https://www.beaconjournal.com/story/news/2023/04/18/what-did-bci-discover-in-akron-police-shooting-death-of-jayland-walker/70084389007/",
+    "urlToImage": "https://www.gannett-cdn.com/presto/2022/07/03/NABJ/1509ece7-f9d8-484e-8a64-6097cb5759b2-jaylandwalkerpresser05.jpg?crop=1799,1012,x0,y0&width=1799&height=1012&format=pjpg&auto=webp",
+    "publishedAt": "2023-04-18T10:03:41Z",
+    "content": "Did Jayland Walker intend to die the night police shot and killed him last year?\r\nIts one of the biggest questions the Ohio Bureau of Criminal Investigation (BCI) tried to answer during its 10-month \u2026 [+10606 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Kevin Breuninger, Lillian Rizzo",
+    "title": "Fox News and Dominion trial kicks off with opening statements in defamation suit - CNBC",
+    "description": "Dominion has accused Fox of \"intentionally and falsely\" blaming it for former President Donald Trump's loss to President Joe Biden.",
+    "url": "https://www.cnbc.com/2023/04/18/fox-dominion-trial-defamation-case-opening-statements.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107224308-16813328122023-04-12t204812z_922460316_rc28d0al6d65_rtrmadp_0_usa-fox-dominion-sanction.jpeg?v=1681812001&w=1920&h=1080",
+    "publishedAt": "2023-04-18T10:00:01Z",
+    "content": "WILMINGTON, Del. Opening arguments are set to begin Tuesday in the Dominion Voting Systems' defamation lawsuit accusing Fox News of spreading the damaging falsehood that the company rigged the 2020 e\u2026 [+4318 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "TrueAchievements"
+    },
+    "author": "Sean Carey",
+    "title": "Game Pass adds Minecraft Legends today - TrueAchievements",
+    "description": "The Xbox Game Pass and PC Game Pass libraries grow once more today with the addition of the blocky action-strategy title Minecraft Legends.",
+    "url": "https://www.trueachievements.com/n53520/minecraft-legends-release-time-game-pass",
+    "urlToImage": "https://www.trueachievements.com/imgs/138406/minecraft-legends-achievements.jpg",
+    "publishedAt": "2023-04-18T09:35:12Z",
+    "content": "Minecraft Legends\r\nThe piglins Nether corruption is spreading across the Overworld, scorching everything it touches. Are you the hero who will protect this gentle land? Plan your strategy and face th\u2026 [+900 chars]"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Michelle Toh",
+    "title": "Tim Cook opens first Apple store in India - CNN",
+    "description": "Apple's CEO Tim Cook is in India this week to open its first physical stores in the country, marking a milestone for the iPhone maker in the world's second largest smartphone market.",
+    "url": "https://www.cnn.com/2023/04/18/tech/tim-cook-apple-store-india-opening-intl-hnk/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230418141215-tim-cook-mumbai-0418.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-04-18T09:25:00Z",
+    "content": "Apples CEO Tim Cook is in India this week to open its first physical stores in the country, marking a milestone for the iPhone maker in the worlds second largest smartphone market.\r\nCook was seen per\u2026 [+5013 chars]"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Ariane de Vogue",
+    "title": "Supreme Court hears appeal of postal worker who didn't work Sundays in dispute over religious accommodations - CNN",
+    "description": "The Supreme Court on Tuesday will take on a major religious liberty dispute that could ultimately clarify how far employers must go to accommodate their employees' religious beliefs.",
+    "url": "https://www.cnn.com/2023/04/18/politics/groff-dejoy-supreme-court-religious-liberty/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230417113724-gerald-groff-230308.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-04-18T09:03:00Z",
+    "content": "The Supreme Court on Tuesday will take on a major religious liberty dispute that could ultimately clarify how far employers must go to accommodate their employees religious beliefs. \r\nGerald Groff, w\u2026 [+4238 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Page Six"
+    },
+    "author": "Nika Shakhnazarova",
+    "title": "'Mike & Molly' star Billy Gardell details 150-pound weight loss: My diabetes is 'gone' - Page Six",
+    "description": "The \u201cMike & Molly\u201d alum said he\u2019s \u201cwalking around pretty healthy these days\u201d after his 150-pound weight loss and revealed he no longer has diabetes.",
+    "url": "https://pagesix.com/2023/04/18/mike-molly-star-billy-gardell-details-150-pound-weight-loss/",
+    "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2023/04/newspress-collage-6825814-1681803449604.jpg?quality=75&strip=all&1681789141&w=1200",
+    "publishedAt": "2023-04-18T07:44:00Z",
+    "content": "Actor Billy Gardell has detailed his impressive 150-pound weight loss, revealing he\u2019s no longer diabetic.\r\nThe \u201cMike &amp; Molly\u201d alum told Entertainment Tonight that he\u2019s \u201cwalking around pretty heal\u2026 [+2799 chars]"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Elizabeth Wolfe,Kevin Conlon,Takashi Murakami",
+    "title": "'Don't give up on me': Teen recounts terror of Alabama mass shooting that killed her brother and 3 others at her Sweet 16 - CNN",
+    "description": "Before Alexis Dowdell headed to her Sweet 16 party, she sat on her big brother's bed to tell him she was nervous for the event she had been planning for months, only to have him make her laugh and reassure her that he would make sure she had fun.",
+    "url": "https://www.cnn.com/2023/04/18/us/dadeville-alabama-sweet-16-birthday-shooting-tuesday/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230416212422-14-dadeville-alabama-shooting-vigil.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-04-18T07:19:00Z",
+    "content": "Before Alexis Dowdell headed to her Sweet 16 party, she sat on her big brothers bed to tell him she was nervous for the event she had been planning for months only to have him make her laugh and assu\u2026 [+5710 chars]"
+  },
+  {
+    "source": {
+      "id": "independent",
+      "name": "Independent"
+    },
+    "author": "Namita Singh",
+    "title": "Ralph Yarl shooting \u2013 update: Mugshot of suspect Andrew Lester shared as police say 'racial component' to case - The Independent",
+    "description": "Viola Davis, Halle Berry and Chrissy Teigen have joined in the outrage over the shooting of Black 16-year-old Ralph Yarl",
+    "url": "https://www.independent.co.uk/news/world/americas/crime/ralph-yarl-released-andrew-lester-shooting-kansas-b2321559.html",
+    "urlToImage": "https://static.independent.co.uk/2023/04/17/17/Ralph%20Yarl%20insert%20viola%20davis%20halle%20berry.jpg?quality=75&width=1200&auto=webp",
+    "publishedAt": "2023-04-18T06:55:03Z",
+    "content": "Who is Ralph Yarl?\r\nRalph Yarl, a Black 16-year-old, is a high school scholar who has dreams of going to attend Texas A&amp;M to major in chemical Engineering.\r\nA GoFundMe launched by his family desc\u2026 [+1162 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "YouTube"
+    },
+    "author": null,
+    "title": "Sacramento Kings Playoff Game 2 Update: Kings take down Warriors, 2-0 in series - ABC10",
+    "description": "The Sacramento Kings and the fans are raucous outside of the Golden 1 Center after the Kings toppled the Warriors.#sacramentokings #kings #sacramento #warrio...",
+    "url": "https://www.youtube.com/watch?v=vBCs8E9YsWU",
+    "urlToImage": "https://i.ytimg.com/vi/vBCs8E9YsWU/hqdefault.jpg",
+    "publishedAt": "2023-04-18T06:33:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Rolling Stone"
+    },
+    "author": "Charisma Madarang",
+    "title": "Justin Bieber Shares Heartfelt Message to Frank Ocean After Coachella Set - Rolling Stone",
+    "description": "Bieber took to social media on Monday to share his thoughts on Ocean\u2019s performance last weekend",
+    "url": "https://www.rollingstone.com/music/music-news/justin-bieber-frank-ocean-coachella-1234716828/",
+    "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/04/Justin-Bieber-Frank-Ocean.jpg?w=1600&h=900&crop=1",
+    "publishedAt": "2023-04-18T06:17:39Z",
+    "content": "Justin Bieber shared his thoughts on Frank Ocean\u2019s controversial Coachella performance on Sunday, which left many fans bewildered and disappointed. The set was the musician\u2019s first live performance i\u2026 [+1244 chars]"
+  },
+  {
+    "source": {
+      "id": "abc-news",
+      "name": "ABC News"
+    },
+    "author": "ABC News",
+    "title": "Blinken confirms US diplomatic convoy was fired on in Sudan - ABC News",
+    "description": "",
+    "url": "https://abcnews.go.com/International/blinken-confirms-us-diplomatic-convoy-fired-on-sudan/story?id=98653881",
+    "urlToImage": "https://s.abcnews.com/images/General/Breaking-News-banner-abc-ps-181024_hpMain_16x9_992.jpg",
+    "publishedAt": "2023-04-18T04:52:30Z",
+    "content": "Secretary of State Antony Blinken has confirmed an attack on a U.S. diplomatic convoy in Sudan amid ongoing violence in the region.\r\n\"Yesterday, we had an American diplomatic convoy that was fired on\u2026 [+3159 chars]"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Clare Duffy",
+    "title": "YouTube rolls out new policies for eating disorder content - CNN",
+    "description": "YouTube on Tuesday announced a series of changes to how it deals with content related to eating disorders.",
+    "url": "https://www.cnn.com/2023/04/18/tech/youtube-eating-disorder-policies/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230221141930-youtube-website-stock.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-04-18T04:16:00Z",
+    "content": "YouTube on Tuesday announced a series of changes to how it deals with content related to eating disorders. \r\nThe platform has long removed content that glorifies or promotes eating disorders, and You\u2026 [+2768 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "WPVI-TV"
+    },
+    "author": null,
+    "title": "ACCT Philadelphia needs to find homes for about 70 dogs by next week due to canine flu - WPVI-TV",
+    "description": "Right now, ACCT is isolating the sick dogs from intakes, but they're running out of space. By Monday, April 24, the shelter has to place at least 70 dogs ideally in homes without other dogs due to the flu.",
+    "url": "https://6abc.com/acct-philly-dog-flu-hunting-park-shelter-how-to-help-dogs/13145620/",
+    "urlToImage": "https://cdn.abcotvs.com/dip/images/13146201_041723-WPVI-ACCT-PHILLY-DOG-FLU-HELP-11PM-CC-vid.jpg?w=1600",
+    "publishedAt": "2023-04-18T03:28:13Z",
+    "content": "PHILADELPHIA (WPVI) -- The Animal Care and Control Team is desperately trying to clear its shelter of at least 70 dogs after canine flu ripped through its Hunting Park location.\r\nThe nonprofit needs \u2026 [+2651 chars]"
+  },
+  {
+    "source": {
+      "id": "al-jazeera-english",
+      "name": "Al Jazeera English"
+    },
+    "author": "Al Jazeera",
+    "title": "Brazil\u2019s Lula meets Lavrov amid US barbs on Ukraine stance - Al Jazeera English",
+    "description": "Lula has condemned Western efforts to supply Ukraine with weapons, a position Russia has praised amid its invasion.",
+    "url": "https://www.aljazeera.com/news/2023/4/17/lavrov-to-meet-with-brazils-lula-as-us-fumes-over-ukraine-stance",
+    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/04/2023-04-17T182459Z_1305924310_RC2IG0ACAJNP_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-BRAZIL-1681787552.jpg?resize=1683%2C1080",
+    "publishedAt": "2023-04-18T03:11:15Z",
+    "content": "Brazilian President Luiz Inacio Lula da Silva, whose stance on Moscows invasion of Ukraine has fuelled consternation in the United States and elsewhere, has met visiting Russian Foreign Minister Serg\u2026 [+3277 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Daily Beast"
+    },
+    "author": "Michael Daly",
+    "title": "Inside Jim Jordan's 'Charade' of a Hearing on Violent Crime in NYC - The Daily Beast",
+    "description": "A Republican-led hearing on violent crime in New York City barely mentioned guns at all. What gives?",
+    "url": "https://www.thedailybeast.com/inside-jim-jordans-charade-of-a-hearing-on-violent-crime-in-nyc",
+    "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1716,w_3051,x_7,y_612/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1681786357/2023-04-17T142022Z_1347030771_RC2EG0ATW258_RTRMADP_3_USA-CONGRESS-NEW-YORK_hbvv9a",
+    "publishedAt": "2023-04-18T02:54:52Z",
+    "content": "Back when Jim Jordan was a collegiate wrestling champion, the strategy would have been called a double misdirection duck under.\r\nAs a Trump-adoring Republican congressman from Ohio and chairman of th\u2026 [+5047 chars]"
+  },
+  {
+    "source": {
+      "id": "the-hill",
+      "name": "The Hill"
+    },
+    "author": "Mychael Schnell",
+    "title": "Scalise says House GOP will roll out debt ceiling plan Tuesday - The Hill",
+    "description": "House Majority Leader Steve Scalise (R-La.) announced on Monday that House Republicans will introduce their plan to address the debt ceiling on Tuesday. The official introduction will come one day after Speaker Kevin McCarthy (R-Calif.) first announced the pl\u2026",
+    "url": "https://thehill.com/homenews/house/3955875-scalise-says-house-gop-will-roll-out-debt-ceiling-plan-tuesday/",
+    "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/04/scalisesteve_032823ag04_w.jpg?w=1280",
+    "publishedAt": "2023-04-18T01:03:00Z",
+    "content": "Skip to content\r\nHouse Majority Leader Steve Scalise (R-La.) announced on Monday that House Republicans will introduce their plan to address the debt ceiling on Tuesday.\r\nThe official introduction wi\u2026 [+2397 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "KSNT News"
+    },
+    "author": "Matthew Self",
+    "title": "\u2018Ring of Fire\u2019 eclipse to appear above Kansas, here\u2019s when - KSNT News",
+    "description": "TOPEKA (KSNT) \u2013 No, it doesn\u2019t have anything to do with love or Johnny Cash. But, if you crane your head back, you can catch a glimpse of this very real \u2018Ring of Fire\u2019 in the sky later this fall. Kansans are set to experience an annular solar eclipse later th\u2026",
+    "url": "https://www.ksnt.com/news/kansas/ring-of-fire-eclipse-to-appear-above-kansas-heres-when/",
+    "urlToImage": "https://www.ksnt.com/wp-content/uploads/sites/86/2023/04/Eclipse-Featured-Image.png?w=1280",
+    "publishedAt": "2023-04-17T21:43:54Z",
+    "content": "TOPEKA (KSNT) \u2013 No, it doesn\u2019t have anything to do with love or Johnny Cash. But, if you crane your head back, you can catch a glimpse of this very real \u2018Ring of Fire\u2019 in the sky later this fall.\r\nKa\u2026 [+2592 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "PhoneArena"
+    },
+    "author": null,
+    "title": "Pre-order dates, pricing, and availability leaks for Google Pixel 7a and Pixel Fold - PhoneArena",
+    "description": "PhoneArena is the premium website for new phone information such as full specifications, in-depth reviews, latest news, carrier available and upcoming phones. It features advanced phone filter, visual size comparison and 360 degree views of all hot phones.",
+    "url": "https://www.phonearena.com/",
+    "urlToImage": "https://s-cdn.phonearena.com/images/logo/phonearena-logo-light-blue-on-dark-blue.png",
+    "publishedAt": "2023-04-17T21:33:52Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "Adriana Diaz",
+    "title": "14 million cases of type 2 diabetes linked to these foods, study says - New York Post ",
+    "description": "The rise of type 2 diabetes cases represents \u201ca growing burden on individuals, families, and healthcare systems,\u201d according to the new study.",
+    "url": "https://nypost.com/2023/04/17/14-million-cases-of-type-2-diabetes-linked-to-these-foods-study-says/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/04/NYPICHPDPICT000009774901.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2023-04-17T21:24:00Z",
+    "content": "An estimated 14 million cases of type 2 diabetes were caused by a poor diet, a recent study published in Nature Medicine found.\r\nDiets that lacked whole grains or had too much refined rice, wheat or \u2026 [+3535 chars]"
+  },
+  {
+    "source": {
+      "id": "usa-today",
+      "name": "USA Today"
+    },
+    "author": "Jorge L. Ortiz, USA TODAY",
+    "title": "Ukraine updates: Putin critic Kara-Murza sentenced to 25 years - USA TODAY",
+    "description": "The Kremlin's crackdown on dissent against the war became even harsher when Putin critic Vladimir Kara-Murza was sentenced to 25 years in prison.",
+    "url": "https://www.usatoday.com/story/news/world/2023/04/17/ukraine-russia-war-live-updates/11682148002/",
+    "urlToImage": "https://www.gannett-cdn.com/presto/2023/04/17/USAT/6a36b240-3446-4b1e-a17b-413aaf5142aa-Kara-Murza.jpg?auto=webp&crop=3722,2094,x0,y0&format=pjpg&width=1200",
+    "publishedAt": "2023-04-17T20:28:31Z",
+    "content": "Russia's campaign of quashing dissent against the war in Ukraine took another harsh turn Monday when prominent opposition activist Vladimir Kara-Murza was convicted of treason and sentenced to 25 yea\u2026 [+4296 chars]"
+  },
+  {
+    "source": {
+      "id": "reuters",
+      "name": "Reuters"
+    },
+    "author": null,
+    "title": "Alphabet shares fall on report Samsung may dump Google Search for Bing - Reuters",
+    "description": "Alphabet Inc <a href=\"https://www.reuters.com/companies/GOOGL.O\" target=\"_blank\">(GOOGL.O)</a> shares fell as much as 4% on Monday following a report South Korea's Samsung Electronics <a href=\"https://www.reuters.com/companies/005930.KS\" target=\"_blank\">(0059\u2026",
+    "url": "https://www.reuters.com/technology/alphabet-falls-report-samsung-considering-bing-default-search-engine-2023-04-17/",
+    "urlToImage": "https://www.reuters.com/resizer/5riYAqsnq0Y0QOt1oFNgruDuspQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NRT56KQMI5LQNC5TAURXVHWKDA.jpg",
+    "publishedAt": "2023-04-17T20:08:00Z",
+    "content": "April 17 (Reuters) - Alphabet Inc (GOOGL.O) shares fell as much as 4% on Monday following a report South Korea's Samsung Electronics (005930.KS) was considering replacing Google with Microsoft-owned \u2026 [+2075 chars]"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Nathaniel Meyersohn",
+    "title": "One in four brides wear David's Bridal to their wedding. Now, it's filing for bankruptcy - CNN",
+    "description": "There has been a rebound in weddings the last two years after the worst of the Covid-19 pandemic. But it hasn't been enough for David's Bridal, the largest bridal retailer in the United States. The company said Monday it filed for Chapter 11 bankruptcy.",
+    "url": "https://www.cnn.com/2023/04/17/business/davids-bridal-bankruptcy-retail/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/200221121903-01-davids-bridal-file.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-04-17T17:13:00Z",
+    "content": "There has been a rebound in weddings the last two years after the worst of the Covid-19 pandemic. But it hasnt been enough for Davids Bridal, the largest bridal retailer in the United States. The com\u2026 [+2572 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Space.com"
+    },
+    "author": "Tariq Malik",
+    "title": "What time is SpaceX's 1st Starship and Super Heavy launch on April 20? - Yahoo News",
+    "description": "SpaceX has a 62-minute window to launch the Starship SN24 spacecraft and Super Heavy rocket on April 20, starting at 9:28 a.m. EDT (1328 GMT).",
+    "url": "https://www.space.com/spacex-starship-rocket-super-heavy-launch-what-time",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/gCHqeKKXV36xtURGmzNY4h-1200-80.jpg",
+    "publishedAt": "2023-04-16T13:30:36Z",
+    "content": "SpaceX is counting down to its first ever launch of the world's biggest rocket, its towering Starship vehicle, on April 20, but exactly when the rocket will fly depends on several factors.\u00a0\r\nThe firs\u2026 [+8879 chars]"
   }
 ]
