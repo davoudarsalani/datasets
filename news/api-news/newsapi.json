@@ -33356,5 +33356,382 @@
     "urlToImage": null,
     "publishedAt": "2023-04-24T06:22:30Z",
     "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "YouTube"
+    },
+    "author": null,
+    "title": "Watch: Donald Trump's viral speech ahead of his civil rape trial | Trump arraignment speech | WION - WION",
+    "description": "Former President Donald Trump is facing a civil trial over an allegation that he raped an advice columnist nearly three decades ago. Watch his viral speech a...",
+    "url": "https://www.youtube.com/watch?v=kWhOy-BY098",
+    "urlToImage": "https://i.ytimg.com/vi/kWhOy-BY098/maxresdefault_live.jpg",
+    "publishedAt": "2023-04-25T12:14:24Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "Prince William secretly settled phone-hacking claim, court told - BBC",
+    "description": "The Prince of Wales received a \"very large sum\" from News Group Newspapers, court papers say.",
+    "url": "https://www.bbc.com/news/uk-65387663",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/69BD/production/_129496072_8cd2972a5bd0feb7dd3cd888c5df8b1d4ef0265e.jpg",
+    "publishedAt": "2023-04-25T12:00:15Z",
+    "content": "Prince William was paid a \"very large sum\" by the owners of The Sun to settle historical phone-hacking claims, court documents say.\r\nThe papers were shown at a High Court hearing in which Prince Harr\u2026 [+665 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "YouTube"
+    },
+    "author": null,
+    "title": "Jimmy Butler had 'one of the ALL-TIME GREAT playoff performances' - Max Kellerman on Game 4 | KJM - ESPN",
+    "description": "Jimmy Butler had 'one of the ALL-TIME GREAT playoff performances' \ud83d\udc4f - Max Kellerman on Game 4 | KJMKeyshawn, JWill and Max react to Jimmy Butler and the Mia...",
+    "url": "https://www.youtube.com/watch?v=YtBbHwB85jQ",
+    "urlToImage": "https://i.ytimg.com/vi/YtBbHwB85jQ/maxresdefault.jpg",
+    "publishedAt": "2023-04-25T11:52:16Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Jackie Wattles",
+    "title": "Japan's ispace attempts world's first commercial moon landing - CNN",
+    "description": "A Japanese lunar lander, carrying a rover developed in the United Arab Emirates, will attempt to find its footing on the moon's surface Tuesday \u2014 potentially marking the world's first lunar landing for a commercially developed spacecraft.",
+    "url": "https://www.cnn.com/2023/04/25/world/lunar-lander-japan-uae-hakuto-r-scn/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230425103748-01-hakuto-r-file-2019.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-04-25T11:24:00Z",
+    "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nA Japanese lunar lander, carrying a rover developed in\u2026 [+3480 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Pras Subramanian",
+    "title": "GM earnings: Strong Q1 revenue and profit, full-year guidance lifted - Yahoo Finance",
+    "description": "General Motors reported strong first quarter earnings on Tuesday morning, continuing its strong run of quarterly reports as the largest automaker in the U.S....",
+    "url": "https://finance.yahoo.com/news/gm-earnings-strong-q1-revenue-and-profit-full-year-guidance-lifted-112052166.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/DPRFuCOAjMwrXnY9G9SlwQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-07/b48fea40-039e-11ed-bbd5-547d718f6fa5",
+    "publishedAt": "2023-04-25T11:20:52Z",
+    "content": "General Motors (GM) reported strong first quarter earnings on Tuesday morning, continuing its strong run of quarterly reports as the largest automaker in the U.S. gears up for a big year of electric \u2026 [+3365 chars]"
+  },
+  {
+    "source": {
+      "id": "reuters",
+      "name": "Reuters"
+    },
+    "author": null,
+    "title": "WHO warns of Sudan biohazard as lull in fighting allows more to flee - Reuters.com",
+    "description": "Fighting in Sudan eased overnight after the army and a rival paramilitary force agreed to a three-day truce, allowing more Sudanese to flee on Tuesday and foreign countries to <a href=\"/world/africa/foreign-states-evacuate-citizens-sudan-2023-04-23/\">extract<\u2026",
+    "url": "https://www.reuters.com/world/africa/sudan-fighting-abates-overnight-allowing-more-people-flee-2023-04-25/",
+    "urlToImage": "https://www.reuters.com/resizer/S6YHpjqXZvJ5lxVPomqZCCxxaf8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NLA6HB6RKVJVHPMZ6TR5FGCKWM.jpg",
+    "publishedAt": "2023-04-25T11:08:00Z",
+    "content": "KHARTOUM, April 25 (Reuters) - Fighting in Sudan eased overnight after the army and a rival paramilitary force agreed to a three-day truce, allowing more Sudanese to flee on Tuesday and foreign count\u2026 [+4750 chars]"
+  },
+  {
+    "source": {
+      "id": "associated-press",
+      "name": "Associated Press"
+    },
+    "author": "Samy Magdy",
+    "title": "Sudan's warring generals agree to new three-day truce - The Associated Press",
+    "description": "CAIRO (AP) \u2014 Sudanese and foreigners streamed out of the capital of Khartoum and other battle zones as fighting Tuesday shook a new three-day truce brokered by the United States and Saudi Arabia, the latest attempt to pull Africa's third-largest nation back f\u2026",
+    "url": "https://apnews.com/article/sudan-fighting-ceasefire-evacuations-blinken-ee77f12ba7bd18a0c1ed1b3bcf241a5b",
+    "urlToImage": "https://storage.googleapis.com/afs-prod/media/dbce0a42adc84a74a175060d33e32170/3000.webp",
+    "publishedAt": "2023-04-25T11:05:33Z",
+    "content": "CAIRO (AP) Sudanese and foreigners streamed out of the capital of Khartoum and other battle zones as fighting Tuesday shook a new three-day truce brokered by the United States and Saudi Arabia, the l\u2026 [+7025 chars]"
+  },
+  {
+    "source": {
+      "id": "nfl-news",
+      "name": "NFL News"
+    },
+    "author": "Tom Pelissero",
+    "title": "2023 NFL Draft: Six potential surprise first-rounders - NFL.com",
+    "description": "Tom Pelissero says most teams have fewer than 20 prospects with Round 1 grades in the 2023 NFL Draft class. So who'll fill out the back half of Thursday night's selections? Here are six potential surprise first-rounders.",
+    "url": "https://www.nfl.com/news/2023-nfl-draft-six-potential-surprise-first-rounders",
+    "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/plih5lc1gozskccmzzyu",
+    "publishedAt": "2023-04-25T10:47:00Z",
+    "content": "The 2023 NFL Draft is headlined by four quarterbacks who are all expected to come off the board in Round 1. The list of blue-chip prospects at some other positions isn't as long.\r\nMost teams have few\u2026 [+3971 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Digital Trends"
+    },
+    "author": "Giovanni Colantonio",
+    "title": "Square Enix\u2019s free AI game isn\u2019t selling me on the tech\u2019s power - Digital Trends",
+    "description": "Square Enix released a free tech demo of how AI can be used in games, but the showcase isn't inspiring confidence in players so far.",
+    "url": "https://www.digitaltrends.com/gaming/square-enix-ai-game-portopia-impressions/",
+    "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/04/portopia-serial-murder-case-outline.jpg?resize=1200%2C630&p=1",
+    "publishedAt": "2023-04-25T10:30:15Z",
+    "content": "Skip to main content\r\nAt this year\u2019s Game Developers Conference, AI made headlines. Several talks revolved around the evolving tech, with developers discussing how it could be integrated into games. \u2026 [+6671 chars]"
+  },
+  {
+    "source": {
+      "id": "independent",
+      "name": "Independent"
+    },
+    "author": "Tom Murray",
+    "title": "Don Lemon fired \u2013 live updates: CNN claims 'stunned' host's statement is 'inaccurate' - The Independent",
+    "description": "\u2018After 17 years at CNN I would have thought someone in management would have had the decency to tell me directly,\u2019 Lemon said",
+    "url": "https://www.independent.co.uk/arts-entertainment/tv/news/don-lemon-fired-from-cnn-comments-b2326166.html",
+    "urlToImage": "https://static.independent.co.uk/2023/02/20/07/newFile-1.jpg?quality=75&width=1200&auto=webp",
+    "publishedAt": "2023-04-25T10:29:49Z",
+    "content": "CNN hits back at Don Lemons version of events\r\nShortly after Don Lemon announced he was fired from CNN after 17 years at the network, CNN pushed back on the anchors claims about his termination.\r\nOn \u2026 [+1063 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "SciTechDaily"
+    },
+    "author": null,
+    "title": "Mars' Hidden Depths: NASA's InSight Lander Unmasks the Red Planet's Liquid Core - SciTechDaily",
+    "description": "New NASA InSight research reveals that Mars has a liquid core rich in sulfur and oxygen, leading to new clues about how terrestrial planets form, evolve and potentially sustain life. NASA's InSight lander has discovered that Mars has a completely liquid core,\u2026",
+    "url": "https://scitechdaily.com/?p=271290",
+    "urlToImage": "https://scitechdaily.com/images/Cutaway-of-Mars-Seismic-Waves.jpg",
+    "publishedAt": "2023-04-25T09:08:29Z",
+    "content": "ByUniversity of MarylandApril 25, 2023\r\nThis artists concept shows a cutaway of Mars, along with the paths of seismic waves from two separate quakes in 2021. Detected by NASAs InSight mission, these \u2026 [+9163 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Athletic"
+    },
+    "author": "Joe Vardon",
+    "title": "LeBron, Lakers hold off Grizzlies in OT to capture 3-1 series lead - The Athletic",
+    "description": "James and the Lakers can close out the series in Game 5 Wednesday in Memphis.",
+    "url": "https://theathletic.com/4448252/2023/04/25/lebron-lakers-grizzlies-game-4/",
+    "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/04/25010100/Lakers-1024x683.jpg",
+    "publishedAt": "2023-04-25T08:48:25Z",
+    "content": "LOS ANGELES Dillon Brooks learned the hard way not to tempt fate.\r\nThe player he called old, tired, and not as good as he used to be scored the two most important baskets Monday, and the Lakers are o\u2026 [+2195 chars]"
+  },
+  {
+    "source": {
+      "id": "al-jazeera-english",
+      "name": "Al Jazeera English"
+    },
+    "author": "Al Jazeera",
+    "title": "China breaks silence over status of Mars rover Zhurong - Al Jazeera English",
+    "description": "Zhurong should have woken from planned hibernation in December but a dust build-up has likely affected power generation.",
+    "url": "https://www.aljazeera.com/news/2023/4/25/china-breaks-silence-over-status-of-mars-rover-zhurong",
+    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/06/2021-06-11T000000Z_1779936213_RC25YN9RYSDA_RTRMADP_3_SPACE-EXPLORATION-CHINA-MARS-1.jpg?resize=1920%2C1080",
+    "publishedAt": "2023-04-25T08:37:03Z",
+    "content": "Chinas Mars rover, which has been in longer-than-expected hibernation on the red planet since May 2022, has likely suffered excessive accumulation of sand and dust, its mission designer has said, bre\u2026 [+2450 chars]"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Oliver Darcy",
+    "title": "Fox News' sudden firing of Tucker Carlson may have come down to one simple calculation - CNN",
+    "description": "Why? That is the question I have been asked \u2014 and expect to continue to be asked \u2014 more than any other after the seismic news that Fox News had fired its highest-rated host, Tucker Carlson. The news, which rocked both the media and political worlds, begs for \u2026",
+    "url": "https://www.cnn.com/2023/04/25/media/fox-news-tucker-carlson-reliable-sources/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230425013157-tucker-carlson-file-22.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-04-25T08:36:00Z",
+    "content": "Why? \r\nThat is the question I have been asked and expect to continue to be asked more than any other after the seismic news that Fox News had fired its highest-rated host, Tucker Carlson. The news, w\u2026 [+4570 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "Fox News",
+    "title": "Riot police descend on Montana capitol as left-wing protestors shut down proceedings: Reports - New York Post ",
+    "description": "\u201cI want to be clear: no amount of silencing tactics will deter me from standing up for the rights of the transgender community.\u201d",
+    "url": "https://nypost.com/2023/04/25/riot-police-descend-on-montana-capitol-after-left-wing-protestors-disrupted-proceedings/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/04/newspress-collage-26741874-1682407716842.jpg?quality=75&strip=all&1682393350&w=1024",
+    "publishedAt": "2023-04-25T07:36:00Z",
+    "content": "Riot police have descended on\u00a0Montana\u2019s capitol\u00a0after left-wing protestors disrupted proceedings in the state House of Representatives in support of transgender lawmaker Zooey Zephyr, a Democrat, who\u2026 [+2320 chars]"
+  },
+  {
+    "source": {
+      "id": "reuters",
+      "name": "Reuters"
+    },
+    "author": null,
+    "title": "Hyundai Motor bolsters US presence with $5 bln EV battery venture - Reuters.com",
+    "description": "South Korea's Hyundai Motor Co <a href=\"https://www.reuters.com/companies/005380.KS\" target=\"_blank\">(005380.KS)</a> said on Tuesday it had finalised a $5 billion electric vehicle (EV) battery joint venture in the U.S., boosting electrification efforts in its\u2026",
+    "url": "https://www.reuters.com/business/autos-transportation/hyundai-motors-q1-net-profit-jumps-109-beating-expectations-2023-04-25/",
+    "urlToImage": "https://www.reuters.com/resizer/zsfR_AMxQpbMJuI9uT1OD_yxNLc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6AASLF2KWJOQDGJAEYPUEVGDGE.jpg",
+    "publishedAt": "2023-04-25T07:22:00Z",
+    "content": "SEOUL, April 25 (Reuters) - South Korea's Hyundai Motor Co (005380.KS) said on Tuesday it had finalised a $5 billion electric vehicle (EV) battery joint venture in the U.S., boosting electrification \u2026 [+3267 chars]"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Kevin Dotson",
+    "title": "Four-time NFL MVP Aaron Rodgers headed from Green Bay Packers to New York Jets in trade for draft picks - CNN",
+    "description": "The Green Bay Packers and New York Jets have agreed to trade longtime Packers quarterback Aaron Rodgers to the Big Apple, Packers general manager Brian Gutekunst told reporters Monday.",
+    "url": "https://www.cnn.com/2023/04/24/sport/aaron-rodgers-packers-jets-nfl-spt-intl/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230424164126-aaron-rodgers-file-0208.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-04-25T06:54:00Z",
+    "content": "The Green Bay Packers and New York Jets have agreed to trade longtime Packers quarterback Aaron Rodgers to the Big Apple, Packers general manager Brian Gutekunst told reporters Monday. \r\nGutekunst sa\u2026 [+2797 chars]"
+  },
+  {
+    "source": {
+      "id": "the-washington-post",
+      "name": "The Washington Post"
+    },
+    "author": "Nick Anderson",
+    "title": "College Board to revise AP African American studies course again - The Washington Post",
+    "description": "The College Board announced Monday that it will again revise its much-criticized plan for a new Advanced Placement course in African American studies.",
+    "url": "https://www.washingtonpost.com/education/2023/04/24/ap-african-american-studies-course-changes/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7T53HCFCHEI63C2HTBR73KHESQ_size-normalized.jpg&w=1440",
+    "publishedAt": "2023-04-25T06:40:00Z",
+    "content": "Comment on this story\r\nComment\r\nConceding missteps, the College Board announced Monday that it will again revise its much-criticized plan for a new Advanced Placement course in African American studi\u2026 [+4827 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Silvia Amaro",
+    "title": "UBS profits hit by legacy legal costs as it nears Credit Suisse merger - CNBC",
+    "description": "UBS reported $1.03 billion in net profit for the first quarter, down 52% year-on-year amid a legacy litigation matter.",
+    "url": "https://www.cnbc.com/2023/04/25/ubs-q1-2023-results-post-deal-to-buy-credit-suisse.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107220838-1680696187601-gettyimages-1250787017-AFP_33CN8U7.jpeg?v=1682398734&w=1920&h=1080",
+    "publishedAt": "2023-04-25T04:58:54Z",
+    "content": "UBS reported a 52% annual drop in net profit on Tuesday amid a legacy litigation matter, but maintained it is a \"source of stability\" for its clients during periods of high uncertainty.\r\nThese are th\u2026 [+2276 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Internet"
+    },
+    "author": "https://www.facebook.com/thehackernews",
+    "title": "Google Authenticator App Gets Cloud Backup Feature for TOTP Codes - The Hacker News",
+    "description": "\ud83d\udd12 Google's Authenticator app just got a major upgrade! The new sync option lets users back up their time-based one-time passwords (TOTPs) to cloud",
+    "url": "https://thehackernews.com/2023/04/google-authenticator-app-gets-cloud.html",
+    "urlToImage": "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEiudYuIGt--wAyJzyKK48sZKfJ5tp-HRQ_Vw_ZpfZGo6jtsojlkq4VPHYJeR0SOU71ilcxdPd8MsuX-2s48G4EzeJcVPa-ajCMpP0HlAuh4ZgqSWYcuM_9poo21Tbk3mjWFUreKb5XCq4xIK7vF1Dq9rKqO7VHO-vP_2uOgSOe0Ik_ly3PlyTZdde-o/s728-e3650/google-auth.png",
+    "publishedAt": "2023-04-25T04:33:00Z",
+    "content": "Search giant Google on Monday unveiled a major update to its 12-year-old Authenticator app for Android and iOS with an account synchronization option that allows users to back up their time-based one\u2026 [+1555 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "NBC Chicago"
+    },
+    "author": "James Neveau",
+    "title": "There's a New Symptom the \u2018Arcturus' COVID Variant May be Causing - NBC Chicago",
+    "description": "A new variant of COVID-19 starting to spread around the United States could be responsible for a new symptom that is unlike any we\u2019ve seen with the virus so\u2026",
+    "url": "https://www.nbcchicago.com/news/coronavirus/theres-a-new-symptom-the-arcturus-covid-variant-may-be-causing/3126052/",
+    "urlToImage": "https://media.nbcchicago.com/2022/07/GettyImages-1237876382.jpg?quality=85&strip=all&resize=1200%2C675",
+    "publishedAt": "2023-04-25T03:44:43Z",
+    "content": "A new variant of COVID-19 starting to spread around the United States could be responsible for a new symptom that is unlike any weve seen with the virus so far.\r\nThat variant, classified as XBB.1.16 \u2026 [+2177 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Countrynow.com"
+    },
+    "author": "Country Now Staff",
+    "title": "BREAKING: Morgan Wallen Postpones Three Upcoming Tour Dates After Being Placed On Vocal Rest - Country Now",
+    "description": "\"I feel horrible about this news,\" the country star shared in a statement.",
+    "url": "https://countrynow.com/breaking-morgan-wallen-postpones-three-upcoming-tour-dates-after-being-placed-on-vocal-rest/",
+    "urlToImage": "https://countrynow.com/wp-content/uploads/2023/04/Morgan-Wallen-Photo-Courtesy-of-David-Lehr-10.jpg",
+    "publishedAt": "2023-04-25T00:19:29Z",
+    "content": "\u201cI feel horrible about this news,\u201d the country star shared in a statement. Morgan Wallen has been forced to postpone three of his One Night At A Time World Tour dates as he has been placed on doctor-\u2026 [+6893 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "YouTube"
+    },
+    "author": null,
+    "title": "Trump charging decisions coming this summer, says Fulton County D.A. - NBC News",
+    "description": "The District Attorney from Fulton County, Georgia, says she will announce whether or not she plans to charge former President Trump as a part of her investig...",
+    "url": "https://www.youtube.com/watch?v=xtvbs642Gx0",
+    "urlToImage": "https://i.ytimg.com/vi/xtvbs642Gx0/maxresdefault.jpg",
+    "publishedAt": "2023-04-25T00:15:02Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "OregonLive"
+    },
+    "author": "The Associated Press",
+    "title": "Northern lights come south for unusual viewing of aurora borealis - OregonLive",
+    "description": "Although conditions have eased, auroras might still be visible as far south as South Dakota and Iowa late Monday and early Tuesday if skies are dark.",
+    "url": "https://www.oregonlive.com/environment/2023/04/northern-lights-come-south-for-unusual-viewing-of-aurora-borealis.html",
+    "urlToImage": "https://www.oregonlive.com/resizer/5TVI00PXEjWu-rEq8wWIA_7WmcI=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VE6M2VLYKJDWDDTKFZOHSQIFEM.jpg",
+    "publishedAt": "2023-04-24T22:31:00Z",
+    "content": "An intense solar storm has the northern lights gracing the skies farther south than usual.\r\nFrom Washington state to Wisconsin, auroras were reported as mostly a reddish glow instead of the typical g\u2026 [+2152 chars]"
+  },
+  {
+    "source": {
+      "id": "abc-news",
+      "name": "ABC News"
+    },
+    "author": "Morgan Winsor",
+    "title": "Sudan conflict sparks mass exodus of foreigners as locals remain trapped in crossfire - ABC News",
+    "description": "Countries including the U.S. have evacuated diplomats, staff and others.",
+    "url": "https://abcnews.go.com/International/sudan-conflict-sparks-mass-exodus-foreigners/story?id=98794155",
+    "urlToImage": "https://s.abcnews.com/images/International/sudan-evacuations-jordan-gty-230_hpMain_20230424-060728_16x9_992.jpg",
+    "publishedAt": "2023-04-24T21:46:38Z",
+    "content": "LONDON -- Fighting in Sudan between forces loyal to two rival generals has triggered a mass exodus of foreigners, while locals struggle to escape.\r\nA number of countries -- including the United State\u2026 [+6374 chars]"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Jon Passantino",
+    "title": "Disney begins largest wave of layoffs, targeting thousands at ESPN, Parks, and other divisions - CNN",
+    "description": "Disney is laying off several thousand workers across the company this week in the second and largest wave of cuts as part of the media giant's previously announced plan to slash its workforce by 7,000 employees.",
+    "url": "https://www.cnn.com/2023/04/24/media/disney-begin-layoffs/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230424093619-disney-world-park-florida-00601-file-restricted.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-04-24T18:53:00Z",
+    "content": "Disney is laying off several thousand workers across the company this week in the second and largest wave of cuts as part of the media giants previously announced plan to slash its workforce by 7,000\u2026 [+1606 chars]"
+  },
+  {
+    "source": {
+      "id": "axios",
+      "name": "Axios"
+    },
+    "author": "Axios",
+    "title": "Susan Rice to leave White House domestic policy post - Axios",
+    "description": null,
+    "url": "https://www.axios.com/2023/04/24/susan-rice-biden-administration-white-house",
+    "urlToImage": null,
+    "publishedAt": "2023-04-24T16:46:23Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "World Health Organization"
+    },
+    "author": "World Health Organization: WHO",
+    "title": "Global partners announce a new effort \u2013 \u201cThe Big Catch-up\u201d \u2013 to vaccinate millions of children and restore immunization progress lost during the pandemic - World Health Organization",
+    "description": "<ul><li><strong>The pandemic saw essential immunization levels decrease in over 100 countries</strong><w:sdt sdttag=\"goog_rdk_9\" id=\"-713344084\"><strong>, leading</strong></w:sdt> <strong>to rising outbreaks of measles, diphtheria, polio and yellow fever. </s\u2026",
+    "url": "https://www.who.int/news/item/24-04-2023-global-partners-announce-a-new-effort-the-big-catch-up-to-vaccinate-millions-of-children-and-restore-immunization-progress-lost-during-the-pandemic",
+    "urlToImage": "https://cdn.who.int/media/images/default-source/health-topics/vaccines-and-immunization/immunization-vaccine-child-kenya.tmb-1200v.jpg?sfvrsn=110c0816_1",
+    "publishedAt": "2023-04-24T15:31:12Z",
+    "content": "<ul><li>The pandemic saw essential immunization levels decrease in over 100 countries, leading\r\nto rising outbreaks of measles, diphtheria, polio and yellow fever. </li><li>\u2018The Big Catch-up\u2019 is an e\u2026 [+7889 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "MacRumors"
+    },
+    "author": "Tim Hardwick",
+    "title": "iPadOS 17 Again Rumored to Drop Support for These iPads - MacRumors",
+    "description": "Apple in iPadOS 17 will drop support for the first-generation 9.7-inch and 12.9-inch iPad Pro as well as the fifth-generation iPad, according to...",
+    "url": "https://www.macrumors.com/2023/04/24/ipados-17-rumored-drop-support-ipads/",
+    "urlToImage": "https://images.macrumors.com/t/1Cc_6-HuM2hg4Hv1uAHdxCnrywY=/2500x/article-new/2023/01/iOS-17-Icon-Mock-Feature-Feature.jpg",
+    "publishedAt": "2023-04-24T11:05:43Z",
+    "content": "Apple in iPadOS 17 will drop support for the first-generation 9.7-inch and 12.9-inch iPad Pro as well as the fifth-generation iPad, according to French tech website iPhoneSoft.\r\nThis is the second ti\u2026 [+1772 chars]"
   }
 ]
