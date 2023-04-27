@@ -34903,5 +34903,382 @@
     "urlToImage": null,
     "publishedAt": "2023-04-25T11:34:12Z",
     "content": null
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Stephen Collinson",
+    "title": "McCarthy struggles to get House GOP in line as debt default looms closer - CNN",
+    "description": "Alarm bells ought to be ringing on Wall Street and across the country.",
+    "url": "https://www.cnn.com/2023/04/26/politics/kevin-mccarthy-debt-ceiling/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230329122955-kevin-mccarthy-230310-file.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-04-26T09:37:00Z",
+    "content": "Alarm bells ought to be ringing on Wall Street and across the country.\r\nHouse Speaker Kevin McCarthys struggle to get his tiny House majority to pass a $4 trillion spending cuts bill designed to forc\u2026 [+9058 chars]"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Heather Chen",
+    "title": "Singapore executes man for trafficking two pounds of cannabis - CNN",
+    "description": "A Singaporean man convicted of trying to traffic around 2.2 pounds of cannabis was executed on Wednesday, a sentence lambasted by rights groups and campaigners for its severity at a time when many other nations, including neighboring countries, have adopted a\u2026",
+    "url": "https://www.cnn.com/2023/04/25/asia/singapore-cannabis-execution-tangaraju-suppiah-intl-hnk/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230425003415-02-singapore-cannabis-execution.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-04-26T08:03:00Z",
+    "content": "A Singaporean man convicted of trying to traffic around 2.2 pounds of cannabis was executed on Wednesday, a sentence lambasted by rights groups and campaigners for its severity at a time when many ot\u2026 [+7444 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "Fox News",
+    "title": "Mexico: Authorities find 8 bodies in Cancun resort as drug cartel violence rages - New York Post ",
+    "description": "The bodies were discovered over the weekend about 10 miles from Cancun\u2019s beach and hotel zone after police launched a coordinated effort to search for missing people in wooded lots and even s\u2026",
+    "url": "https://nypost.com/2023/04/26/mexico-authorities-find-8-bodies-in-cancun-resort-as-drug-cartel-violence-rages/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/04/newspress-collage-26759928-1682491348484.jpg?quality=75&strip=all&1682476989&w=1024",
+    "publishedAt": "2023-04-26T06:57:00Z",
+    "content": "The bodies of eight people were found dumped in the\u00a0Mexican resort\u00a0of Cancun, one of the countrys most popular tourism destinations, authorities said Tuesday.\r\nThe bodies were discovered over the wee\u2026 [+2679 chars]"
+  },
+  {
+    "source": {
+      "id": "the-washington-post",
+      "name": "The Washington Post"
+    },
+    "author": "Kelsey Ables",
+    "title": "Washington state bans sale of assault weapons including AR-15s - The Washington Post",
+    "description": "Gov. Jay Inslee signed the bill into law, making Washington the 10th state with restrictions on such firearms.",
+    "url": "https://www.washingtonpost.com/nation/2023/04/25/washington-state-assault-weapons-ban-guns/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VLZBSWCROOQDBC54F6MLRSRB64_size-normalized.jpg&w=1440",
+    "publishedAt": "2023-04-26T06:32:00Z",
+    "content": "Comment on this story\r\nComment\r\nWashington state on Tuesday banned sales of assault weapons, including the AR-15, which has been used in some of the deadliest mass shootings in the United States.\r\nGo\u2026 [+3917 chars]"
+  },
+  {
+    "source": {
+      "id": "associated-press",
+      "name": "Associated Press"
+    },
+    "author": "Dee-ann Durbin",
+    "title": "Bud Light fumbles, but experts say inclusive ads will stay - The Associated Press",
+    "description": "Bud Light may have fumbled its attempt to broaden its customer base by partnering with a transgender influencer. But experts say inclusive marketing is simply good business \u2014 and it\u2019s here to stay.",
+    "url": "https://apnews.com/article/bud-light-transgender-dylan-mulvaney-nike-2fe1425ba09a3f0e271fda0ae4b67434",
+    "urlToImage": "https://storage.googleapis.com/afs-prod/media/bdb96dc00e9e4b2e8630cf290ef20754/3000.webp",
+    "publishedAt": "2023-04-26T05:34:51Z",
+    "content": "Bud Light may have fumbled its attempt to broaden its customer base by partnering with a transgender influencer. But experts say inclusive marketing is simply good business and its here to stay.\r\nA f\u2026 [+5893 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "David Propper",
+    "title": "At least 89 shots fired at deadly Sweet 16 birthday bash in Alabama - New York Post ",
+    "description": "Thornton testified 89 bullet casings were found at the birthday party \u2013 crammed with 50 to 60 people \u2013 that took place at a dance studio just off the town square in Dadeville earlier this month.\u2026",
+    "url": "https://nypost.com/2023/04/26/at-least-89-shots-fired-at-deadly-sweet-16-birthday-bash-in-alabama/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/04/newspress-collage-26758992-1682482625059.jpg?quality=75&strip=all&1682468383&w=1024",
+    "publishedAt": "2023-04-26T04:26:00Z",
+    "content": "At least 89 shots were fired during the shooting at an Alabama Sweet Sixteen party that left four people dead and dozens more wounded, an investigator revealed Tuesday. \r\nSpecial agent Jess Thornton \u2026 [+2862 chars]"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": "Scott Thompson",
+    "title": "Nuggets win series over Timberwolves as Nikola Jokic's triple-double leads way in Game 5 - Fox News",
+    "description": "The top-seeded Denver Nuggets are moving on in the Western Conference, as they won a hard-fought battle with the Minnesota Timberwolves in Game 5.",
+    "url": "https://www.foxnews.com/sports/nuggets-win-series-timberwolves-nikola-jokics-triple-double-leads-way-game-5",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/Nikola-Jokic-Aaron-Gordon-Jamal-Murray.jpg",
+    "publishedAt": "2023-04-26T03:54:00Z",
+    "content": "The Denver Nuggets had to throw the kitchen sink at the Minnesota Timberwolves in Game 5, but it was worth it as they won, 112-109, to win the series and move on to the next round.\u00a0\r\nThe Nuggets will\u2026 [+2492 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "13WHAM-TV"
+    },
+    "author": "Carla Rogner",
+    "title": "'I felt excruciating pain': Victims recall rabid fox attack in Brighton - 13WHAM-TV",
+    "description": "The Monroe County Health Department confirmed the fox had tested postive for rabies on Tuesday.JACOBSON/ FOX ATTACK VICTIM32.28 this is as far as I have gone s",
+    "url": "https://13wham.com/news/local/i-felt-excruciating-pain-victims-recall-rabid-fox-attack-in-brighton",
+    "urlToImage": "https://13wham.com/resources/media/e505fb3e-e001-4490-abbc-dff79f867142-large16x9_RABIDFOX2.jpeg?1682473798576",
+    "publishedAt": "2023-04-26T03:52:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "cbs-news",
+      "name": "CBS News"
+    },
+    "author": "Faris Tanyos",
+    "title": "Zooey Zephyr: Montana transgender state House member says GOP members seeking \"disciplinary consequences\" - CBS News",
+    "description": "The Democrat has not been allowed to speak on the state House floor since she declared that legislators who voted in favor of a ban on gender-affirming care would have \"blood on your hands.\"",
+    "url": "https://www.cbsnews.com/news/montana-transgender-lawmaker-zooey-zephyr-silenced-motion-disciplinary-consequences/",
+    "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/04/26/4e13523c-443c-4a81-8c9a-93883c9fc50c/thumbnail/1200x630/f4606cdb3733a47be555747670b6d1f8/ap23114815166475.jpg",
+    "publishedAt": "2023-04-26T03:49:00Z",
+    "content": "A Montana transgender state House member who has been prevented by her Republican colleagues from debating a bill on the House floor that would ban gender-affirming care for minors announced late Tue\u2026 [+4392 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "YouTube"
+    },
+    "author": null,
+    "title": "Man spends millions to attempt to reverse aging - NBC News",
+    "description": "Bryan Johnson, 45, is using his life as a science experiment to see how long he can live and to reverse signs of aging as he goes. NBC News' Gadi Schwartz re...",
+    "url": "https://www.youtube.com/watch?v=r1hM_WG8slQ",
+    "urlToImage": "https://i.ytimg.com/vi/r1hM_WG8slQ/maxresdefault.jpg",
+    "publishedAt": "2023-04-26T03:30:31Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Cointelegraph"
+    },
+    "author": "Tom Mitchelhill",
+    "title": "Bitcoin price jumps in the wake of First Republic Bank price crash - Cointelegraph",
+    "description": "The price of Bitcoin has jumped a little over 3% immediately following the share price of First Republic Bank plunging more than 50% as the embattled firm stares down a massive fall in deposits.",
+    "url": "https://cointelegraph.com/news/bitcoin-price-jumps-in-the-wake-of-first-republic-bank-crash",
+    "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-04/687a8de3-a394-4af8-a339-6a2e472bb904.jpg",
+    "publishedAt": "2023-04-26T03:20:53Z",
+    "content": "The price of Bitcoin (BTC) spiked more than 3% in the last 24 hours as fears were sparked of another possible imminent bank failure as First Republic Bank (FRC) shares closed down more than 50% on Ap\u2026 [+3538 chars]"
+  },
+  {
+    "source": {
+      "id": "usa-today",
+      "name": "USA Today"
+    },
+    "author": "Jeanine Santucci, Tom Vanden Brook",
+    "title": "Taliban kill mastermind of Kabul airport suicide bombing that took the lives of 13 US service members - USA TODAY",
+    "description": "The Taliban have killed the senior Islamic State group leader behind the August 2021 suicide bombing outside the Kabul airport.",
+    "url": "https://www.usatoday.com/story/news/world/2023/04/25/taliban-kill-mastermind-suicide-bombing-kabul-airport/11737476002/",
+    "urlToImage": "https://www.gannett-cdn.com/presto/2021/08/26/USAT/712f3c6c-1314-446d-a031-36f236a1300c-VPC_EXPLOSION_AT_KABUL_AIRPORT_DESK_THUMB.jpg?crop=1911,1075,x0,y0&width=1911&height=1075&format=pjpg&auto=webp",
+    "publishedAt": "2023-04-26T02:37:30Z",
+    "content": "The Taliban has killed the Islamic State terrorist who plotted the deadly attack at Kabul's airport during the chaotic evacuation of Afghanistan in 2021, an assault that fatally wounded more than 170\u2026 [+5540 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Variety"
+    },
+    "author": "Rebecca Rubin",
+    "title": "\u2018The Flash\u2019 Debuts at CinemaCon With Plenty of Easter Eggs and Cheers for Michael Keaton\u2019s Batman - Variety",
+    "description": "The Scarlet Speedster has crashed CinemaCon. \u201cThe Flash,\u201d the DC Comics superhero adventure starring Ezra Miller, played to a mostly enthusiastic audience at the annual convention of mo\u2026",
+    "url": "https://variety.com/2023/film/news/the-flash-first-reactions-ezra-miller-critics-cinemacon-1235587001/",
+    "urlToImage": "https://variety.com/wp-content/uploads/2022/06/Ezra-Miller-The-Flash-Suicide-Squad.jpg?w=1000&h=541&crop=1",
+    "publishedAt": "2023-04-26T02:27:00Z",
+    "content": "The Scarlet Speedster has crashed CinemaCon. \u201cThe Flash,\u201d the DC Comics superhero adventure starring Ezra Miller, played to a mostly enthusiastic audience at the annual convention of movie theater ow\u2026 [+3450 chars]"
+  },
+  {
+    "source": {
+      "id": "usa-today",
+      "name": "USA Today"
+    },
+    "author": "Cydney Henderson, USA TODAY",
+    "title": "Aaron Rodgers pens farewell to Packers fans after Jets trade: 'I will see you again Green Bay' - USA TODAY",
+    "description": "Aaron Rodgers is saying goodbye to the Green Bay Packers after he was traded to the New York Jets, writing, \"this is not the end for us.\"",
+    "url": "https://www.usatoday.com/story/sports/nfl/2023/04/25/aaron-rodgers-pens-farewell-letter-packers-fans-after-jets-trade/11738880002/",
+    "urlToImage": "https://www.gannett-cdn.com/presto/2023/03/15/USAT/4d541e68-f1be-4e7f-86a0-c4b19b00cdc1-USP_NFL__Los_Angeles_Rams_at_Green_Bay_Packers.jpg?auto=webp&crop=2336,1314,x125,y176&format=pjpg&width=1200",
+    "publishedAt": "2023-04-26T01:39:13Z",
+    "content": "Aaron Rodgers is saying goodbye to Green Bay.\r\nThe four-time NFL MVP and Super Bowl\u00a0XLV champion was traded to the New York Jets on Monday, officially ending Rodgers' storied career in Green Bay. Alt\u2026 [+3309 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Eonline.com"
+    },
+    "author": "Angie Orellana Hernandez",
+    "title": "Meghan Trainor Has a NSFW Confession About \u201cNightmare\u201d Sex With \u201cBig Boy\u201d Daryl Sabara - E! NEWS",
+    "description": "Meghan Trainor got candid about the pain she experiences during sex, adding that she wishes her husband Daryl Sabara was \"smaller.\"",
+    "url": "https://www.eonline.com/news/1372469/meghan-trainor-has-a-nsfw-confession-about-nightmare-sex-with-big-boy-daryl-sabara",
+    "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/202097/rs_1200x1200-201007075951-1200-Meghan-Trainor-Daryl-Sabara-Lion-King-Premiere-Baby-Expecting-Pregnant-Cheetah-Print-Dress-ch-100720.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+    "publishedAt": "2023-04-26T01:09:00Z",
+    "content": "\"As he would penetrate, I would be like, 'Ow, ow, ow,\" like to the point when I was making this baby, I had to ice myself after,\" she said. \"And we're not crazy, I'm a starfish, I go, 'Get it done.' \u2026 [+881 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "MacRumors"
+    },
+    "author": "Joe Rossignol",
+    "title": "Beats Studio Buds+ Launching in May With New Transparent Design Option, Improved Noise Cancellation, and More - MacRumors",
+    "description": "Apple's rumored Beats Studio Buds+ appear to have been listed on Amazon today, providing a closer look at new features and changes before they...",
+    "url": "https://www.macrumors.com/2023/04/25/beats-studio-buds-plus-amazon-listing/",
+    "urlToImage": "https://images.macrumors.com/t/uGHu-K3gkLNSGDn7Cm9r9GcB6UA=/1600x/article-new/2023/04/Beats-Studio-Buds-Plus-Transparent.jpeg",
+    "publishedAt": "2023-04-26T00:46:13Z",
+    "content": "Apple's rumored Beats Studio Buds+ appear to have been listed on Amazon today, providing a closer look at new features and changes before they are officially announced. The earbuds are listed with a \u2026 [+1592 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Entertainment Tonight"
+    },
+    "author": "Paige Gawley",
+    "title": "Why Sofia Richie's Brother Miles Did Not Attend Her Wedding - Entertainment Tonight",
+    "description": "The model tied the knot with Elliot Grainge over the weekend.",
+    "url": "https://www.etonline.com/why-sofia-richies-brother-miles-did-not-attend-her-wedding-203348",
+    "urlToImage": "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2023-04/richie.jpg?h=c673cd1c&itok=aUFs_3lX",
+    "publishedAt": "2023-04-26T00:32:28Z",
+    "content": "Sofia Richie's brother wasn't there on her wedding day. Miles Richie missed out on his younger sister's nuptials to Elliot Grainge after testing positive for COVID-19, the siblings' rep told\u00a0TMZ. ET \u2026 [+1745 chars]"
+  },
+  {
+    "source": {
+      "id": "the-verge",
+      "name": "The Verge"
+    },
+    "author": "Jay Peters",
+    "title": "Leak: TikTok is launching generative AI avatars and here's what they look like - The Verge",
+    "description": "TikTok is working on a feature that will create AI-generated profile pictures, as found by social media consultant Matt Navarra. Think avatars you\u2019ve seen made by Lensa, but from TikTok.",
+    "url": "https://www.theverge.com/2023/4/25/23698394/tiktok-ai-profile-picture-avatar-lensa",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/cOjgJjQBJzdqQLWnMiExfbIk6PE=/0x0:1768x1186/1200x628/filters:focal(1221x628:1222x629)/cdn.vox-cdn.com/uploads/chorus_asset/file/24611115/tiktok_ai_avatars_matt_navarra.jpg",
+    "publishedAt": "2023-04-26T00:02:00Z",
+    "content": "Leak: TikTok is launching generative AI avatars and heres what they look like\r\nLeak: TikTok is launching generative AI avatars and heres what they look like\r\n / Think Lensa-made avatars, but made usi\u2026 [+1133 chars]"
+  },
+  {
+    "source": {
+      "id": "axios",
+      "name": "Axios"
+    },
+    "author": "Axios",
+    "title": "What young Democrats want from a 2nd Biden campaign - Axios",
+    "description": null,
+    "url": "https://www.axios.com/2023/04/25/young-democrats-biden-2024-election",
+    "urlToImage": null,
+    "publishedAt": "2023-04-25T23:40:30Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Cheri Mossburg",
+    "title": "Most of Yosemite National Park to close Friday over flooding concerns - CNN",
+    "description": "Most of Yosemite National Park will be closed to the public starting Friday night as flood concerns awash the region. Yosemite is expected to remain closed until Wednesday, May 3, but the closure could last longer.",
+    "url": "https://www.cnn.com/travel/article/yosemite-to-close-flooding-concerns-california/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230425175513-yosemite-snowpack-2023.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-04-25T23:26:00Z",
+    "content": "The ramifications of Californias extreme winter and early spring weather continue.\r\nMost of Yosemite National Park will be closed to the public starting Friday night as flood concerns awash the regio\u2026 [+1080 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CBS Sports"
+    },
+    "author": "Bryant McFadden",
+    "title": "2023 NFL Mock Draft: Ravens trade Lamar Jackson to 49ers for Trey Lance; Will Anderson Jr. falls out of top 5 - CBS Sports",
+    "description": "Former NFL cornerback Bryant McFadden's mock has a blockbuster trade headlining draft weekend",
+    "url": "https://www.cbssports.com/nfl/news/2023-nfl-mock-draft-ravens-trade-lamar-jackson-to-49ers-for-trey-lance-will-anderson-jr-falls-out-of-top-5/",
+    "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/04/24/3a8d226c-1dc7-4b39-b0c2-6f2608f5807f/thumbnail/1200x675/68e4f8cf3ac33ddd91b1fd5b1eceb85a/lamarjackson2.jpg",
+    "publishedAt": "2023-04-25T21:20:00Z",
+    "content": "The top four QB prospects have headlined the 2023 NFL Draft cycle -- and deservingly so --\u00a0 but in this mock draft, a current top NFL QB is involved in a trade. What if I told you that the San Franci\u2026 [+1044 chars]"
+  },
+  {
+    "source": {
+      "id": "cbs-news",
+      "name": "CBS News"
+    },
+    "author": "Khristopher J. Brooks",
+    "title": "General Motors will stop producing its Chevy Bolt models - CBS News",
+    "description": "Debuted in 1996 as the \"EV1, the Chevy Bolt was the Michigan automaker's first electric car.",
+    "url": "https://www.cbsnews.com/news/chevy-bolt-end-production-gm-vehicle/",
+    "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/12/20/6ea59f6c-6367-4153-88bc-300fa2b1817d/thumbnail/1200x630/f1f9eb9341ab6ee953dcaf3cc53799b3/gettyimages-1234992341.jpg",
+    "publishedAt": "2023-04-25T20:43:00Z",
+    "content": "General Motors is ending production of its Chevrolet Bolt models by the end of this year, the Michigan automaker said Tuesday, adding that the local plant currently tasked with making the Bolt will b\u2026 [+4283 chars]"
+  },
+  {
+    "source": {
+      "id": "usa-today",
+      "name": "USA Today"
+    },
+    "author": "John Bacon and Jorge L. Ortiz, USA TODAY",
+    "title": "WHO warns of 'biological risk' at seized Sudanese lab; thousands desperately flee: Live updates - USA TODAY",
+    "description": "The chaos engulfing the Sudanese capital became even more threatening when one of the warring factions\u00a0seized control of a national health lab.",
+    "url": "https://www.usatoday.com/story/news/world/2023/04/25/sudan-conflict-live-updates/11733326002/",
+    "urlToImage": "https://www.gannett-cdn.com/presto/2023/04/25/USAT/0cba6cf4-ed20-44d6-9e63-4f54d27c6c9e-AP_Spain_Sudan.jpg?auto=webp&crop=1747,983,x0,y700&format=pjpg&width=1200",
+    "publishedAt": "2023-04-25T20:26:15Z",
+    "content": "The chaos engulfing the Sudanese capital of Khartoum became significantly more threatening Tuesday when one of the warring factions\u00a0seized control of a national health lab that contains biological ma\u2026 [+8739 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "YouTube"
+    },
+    "author": null,
+    "title": "Mississippi River record flooding - WISN 12 News",
+    "description": "Multiple highways closed in northwest, southwest Wisconsin due to flooding.Subscribe to WISN on YouTube now for more: http://bit.ly/1emE5YXGet more Milwaukee...",
+    "url": "https://www.youtube.com/watch?v=gi3u2-CvtIU",
+    "urlToImage": "https://i.ytimg.com/vi/gi3u2-CvtIU/maxresdefault.jpg",
+    "publishedAt": "2023-04-25T19:51:49Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Theregister.com"
+    },
+    "author": "Brandon Vigliarolo",
+    "title": "NASA InSight lander spills the beans on Mars' core - The Register",
+    "description": "The lander might be dead, but its scientific legacy lives on",
+    "url": "https://www.theregister.com/2023/04/25/nasa_insight_lander_mars_paper/",
+    "urlToImage": "https://regmedia.co.uk/2018/05/04/nasa_mars_insight.jpg",
+    "publishedAt": "2023-04-25T18:44:00Z",
+    "content": "NASA's Mars InSight lander may be dead, but the data it gathered is still filled with surprises like the first direct observations of another planet's core, which scientists now believe is smaller an\u2026 [+4053 chars]"
+  },
+  {
+    "source": {
+      "id": "the-washington-post",
+      "name": "The Washington Post"
+    },
+    "author": "Timothy Bella",
+    "title": "Before Tucker Carlson's Fox rise, Jon Stewart ripped him live on CNN - The Washington Post",
+    "description": "The 2004 exchange with Jon Stewart followed Carlson as he went from a struggling conservative talking head on CNN to the face of Fox News during the Trump years.",
+    "url": "https://www.washingtonpost.com/history/2023/04/25/tucker-carlson-fox-cnn-jon-stewart/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3YLEUKHDE4I6XNZCRHVA3XTXOE.jpg&w=1440",
+    "publishedAt": "2023-04-25T18:42:00Z",
+    "content": "Comment on this story\r\nComment\r\nNearly two decades before he became host of the top-rated show on cable news and one of the most influential voices in conservative media, Tucker Carlson could only gi\u2026 [+7514 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "9to5google.com"
+    },
+    "author": "Andrew Romero",
+    "title": "WhatsApp officially launches user accounts across multiple phones - 9to5Google",
+    "description": "Something that has long since to have held back WhatsApp is the lack of cross-device messaging. Now, the messaging app...",
+    "url": "https://9to5google.com/2023/04/25/whatsapp-multiple-phones/",
+    "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2020/04/whatsapp_android_1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-04-25T18:21:00Z",
+    "content": "Something that has long since to have held back WhatsApp is the lack of cross-device messaging. Now, the messaging app is rolling out the ability to send and receive synced messages across multiple d\u2026 [+2044 chars]"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": "Associated Press",
+    "title": "WHO, Gates Foundation seek to reverse decline in routine childhood vaccinations - Fox News",
+    "description": "UNICEF, WHO, and the Bill & Melinda Gates Foundation are planning to reverse a pandemic-driven decline in routine childhood vaccinations by launching a new initiative.",
+    "url": "https://www.foxnews.com/health/who-gates-foundation-seek-reverse-decline-routine-childhood-vaccinations",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/shot.jpg",
+    "publishedAt": "2023-04-25T17:58:00Z",
+    "content": "The World Health Organization is working with the Bill &amp; Melinda Gates Foundation and other not-for profit organizations and agencies to reverse a pandemic-driven decline in routine childhood vac\u2026 [+1364 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Hindustan Times"
+    },
+    "author": "HT Tech",
+    "title": "NASA issues alert as Asteroid 2023 HH3 rushes towards Earth at blistering pace - HT Tech",
+    "description": "A menacing asteroid is hurtling towards Earth right now and it will pass the planet today, April 25. Here\u2019s what NASA has revealed about this space rock.",
+    "url": "https://tech.hindustantimes.com/tech/news/nasa-issues-alert-as-asteroid-2023-hh3-rushes-towards-earth-at-blistering-pace-71682397581019.html",
+    "urlToImage": "https://images.hindustantimes.com/tech/img/2023/04/25/1600x900/imagesspitzerspitzer-042005-640_1659699188452_1682397666695.jpg",
+    "publishedAt": "2023-04-25T04:41:38Z",
+    "content": "There are several asteroids that make their close approach towards Earth every week but not all of them can be considered dangerous. NASA classifies asteroids as Potentially Hazardous if they come wi\u2026 [+1825 chars]"
   }
 ]
