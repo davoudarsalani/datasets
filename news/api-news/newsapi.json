@@ -44185,5 +44185,434 @@
     "urlToImage": "https://koreatimes-bucket.s3.ap-northeast-2.amazonaws.com/IMAGE/upload/newsV2/images/202305/411502e29e5e40b998978fba7558eb76.jpg",
     "publishedAt": "2023-05-01T07:16:00Z",
     "content": "Samsung, SK chiefs continue overseas trips after Yoon's return"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "By <a href=\"/profiles/tara-subramaniam\">Tara Subramaniam</a>, Sana Noor Haq, <a href=\"/profiles/aditi-sandal\">Aditi Sangal</a> and <a href=\"/profiles/adrienne-vogt\">Adrienne Vogt</a>, CNN",
+    "title": "Russia's war in Ukraine: Live updates - CNN",
+    "description": "Russia has suffered more than 100,000 casualties since December in a key signal that Moscow's winter offensive has \"backfired,\" according to new estimated figures from the White House. Follow live updates here.",
+    "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-05-02-23/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/230501113942-bakhmut-230422-super-tease.jpg",
+    "publishedAt": "2023-05-02T18:35:00Z",
+    "content": "The latest intelligence update from Britains defense intelligence agency said Moscow has constructed some of the most sprawling and complex defensive trenches \"seen anywhere in the world for many dec\u2026 [+2431 chars]"
+  },
+  {
+    "source": {
+      "id": "associated-press",
+      "name": "Associated Press"
+    },
+    "author": "Jocelyn Noveck",
+    "title": "Inside the Met Gala: A furry feline star, a tardy Cinderella - The Associated Press",
+    "description": "Jared Leto was looking for a place to hang his hat. Er, actually his head. Leto was walking around the cocktail reception at the Met Gala , not long after his big entrance on the carpet  as Choupette, designer Karl Lagerfeld\u2019s famous cat, in a full-on white f\u2026",
+    "url": "https://apnews.com/article/met-gala-inside-2023-leto-rihanna-7e803b3912ca3859d96c68454057d588",
+    "urlToImage": "https://storage.googleapis.com/afs-prod/media/b4dee3a4260d4824841d1cdf85f014a2/3000.jpeg",
+    "publishedAt": "2023-05-02T18:02:26Z",
+    "content": "Jared Leto was looking for a place to hang his hat. Er, actually his head.\r\nLeto was walking around the cocktail reception at the Met Gala, not long after his big entrance on the carpet as Choupette,\u2026 [+6866 chars]"
+  },
+  {
+    "source": {
+      "id": "the-washington-post",
+      "name": "The Washington Post"
+    },
+    "author": "John Wagner",
+    "title": "House Democrats maneuver to force a debt-ceiling vote as default looms - The Washington Post",
+    "description": "The use of a so-called \u00ab discharge petition \u00bb is cumbersome, time-consuming and rarely successful. But Democrats are getting the ball rolling.",
+    "url": "https://www.washingtonpost.com/politics/2023/05/02/house-democrats-discharge-petition-debt-ceiling/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XKGNPQQTIRPQLKDJI7XS5MN4B4_size-normalized.JPG&w=1440",
+    "publishedAt": "2023-05-02T17:37:40Z",
+    "content": "Comment on this story\r\nComment\r\nHouse Democrats on Tuesday began a process that could allow them to bypass the chambers Republican leaders in passing legislation to raise the nations debt ceiling if \u2026 [+3739 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Athletic"
+    },
+    "author": "The Athletic Staff, Matt Schneidman",
+    "title": "Packers, QB Jordan Love agree to one-year extension through 2024, source says: What this means for Green Bay - The Athletic",
+    "description": "Quarterback Jordan Love has thrown for 606 yards, three touchdowns and three interceptions in 10 games.",
+    "url": "https://theathletic.com/4477976/2023/05/02/jordan-love-contract-packers/",
+    "urlToImage": "https://cdn.theathletic.com/app/uploads/2021/11/03115753/GettyImages-1235683810-1024x683.jpg",
+    "publishedAt": "2023-05-02T17:30:40Z",
+    "content": "The Packers and quarterback Jordan Love have agreed on a one-year contract extension that will keep him in Green Bay through the 2024 season, a league source confirmed to The Athletic. NFL Network fi\u2026 [+2349 chars]"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Chris Isidore,Juliana Liu",
+    "title": "Film and TV writers go on strike, bringing production on many shows to a halt - CNN",
+    "description": "More than 11,000 members of the Writers Guild of America (WGA) are set to go on strike Tuesday morning for the first time since 2007, a move that could bring an immediate halt to the production of many television shows and possibly delay the start of new seas\u2026",
+    "url": "https://www.cnn.com/2023/05/02/business/writers-guild-strike-hollywood-hnk-intl/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230501125100-03-writers-guild-of-america-east-strike.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-05-02T17:05:00Z",
+    "content": "More than 11,000 members of the Writers Guild of America (WGA) are set to go on strike Tuesday morning for the first time since 2007, a move that could bring an immediate halt to the production of ma\u2026 [+6296 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Yahoo Sports Fantasy Staff",
+    "title": "2023 Fantasy Football Draft Rankings - Yahoo Sports",
+    "description": "The dust from the 2023 NFL Draft has settled. It's time to look toward the future, with our first batch of fantasy football draft rankings!",
+    "url": "https://sports.yahoo.com/2023-fantasy-football-draft-rankings-165957885.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/fbw2aMqnSZTSEsWDH1kezg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-05/ba838680-e90a-11ed-bfff-3c2c6f9b9a9a",
+    "publishedAt": "2023-05-02T16:59:57Z",
+    "content": "The 2023 NFL Draft is officially in the books. Even now, with May just kicking off, fantasy football managers around the world over are starting to think about where those quarterback, running back, \u2026 [+1308 chars]"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Ashley Strickland",
+    "title": "Webb telescope detects mysterious water vapor in a nearby star system - CNN",
+    "description": "The James Webb Space Telescope has detected water vapor around a rocky exoplanet located 26 light-years away from Earth. Astronomers are trying to determine whether that water vapor indicates an atmosphere.",
+    "url": "https://www.cnn.com/2023/05/02/world/webb-telescope-planet-star-atmosphere-scn/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230501135336-01-exoplanet-gj-486-b.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-05-02T16:53:00Z",
+    "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nThe James Webb Space Telescope has detected water vapo\u2026 [+4837 chars]"
+  },
+  {
+    "source": {
+      "id": "the-washington-post",
+      "name": "The Washington Post"
+    },
+    "author": "Peter Marks",
+    "title": "'Some Like It Hot' leads the 2023 Tony nominations, with 13 nods - The Washington Post",
+    "description": "\u201cSome Like it Hot\u201c garners the most nods, 13, for the 2023 Tony Awards, including best musical; \u201cLeopoldstadt,\u201c \u201cAin't No Mo\u2019\u201c lead for best play.",
+    "url": "https://www.washingtonpost.com/theater-dance/2023/05/02/tony-nominations-show-some-like-it-hot/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NFNJBO4EN5GHBGVHSI3W2E6CAU_size-normalized.jpg&w=1440",
+    "publishedAt": "2023-05-02T16:23:11Z",
+    "content": "Comment on this story\r\nComment\r\nNEW YORK Some Like It Hot, a splashy musical farce based on the 1959 Billy Wilder film of the same title, led all productions with 13 nods in the Tony Award nomination\u2026 [+5110 chars]"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Amy Cassidy,Ingrid Formanek,David McKenzie",
+    "title": "Leaders of Sudan's warring factions agree to seven-day ceasefire, South Sudan says - CNN",
+    "description": "The Sudanese Armed Forces (SAF) and the paramilitary Rapid Support Forces (RSF) -- the two warring factions in Sudan -- have agreed to a seven-day ceasefire, the foreign ministry of South Sudan said in a statement Tuesday.",
+    "url": "https://www.cnn.com/2023/05/02/africa/sudan-ceasefire-intl/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230502151426-sudan-tank.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-05-02T16:16:00Z",
+    "content": "The Sudanese Armed Forces (SAF) and the paramilitary Rapid Support Forces (RSF) the two warring factions in Sudan have agreed to a seven-day ceasefire, the foreign ministry of South Sudan said in a s\u2026 [+3285 chars]"
+  },
+  {
+    "source": {
+      "id": "financial-times",
+      "name": "Financial Times"
+    },
+    "author": "Nicholas Megaw, Brooke Masters, Harriet Clarfelt, Stephen Gandel",
+    "title": "First Republic rescue fails to arrest slide in US regional bank shares - Financial Times",
+    "description": "News, analysis and comment from the Financial Times, the world\u02bcs leading global business publication",
+    "url": "https://www.ft.com/content/32342f88-2d24-4198-90f1-89eb23bd1def",
+    "urlToImage": null,
+    "publishedAt": "2023-05-02T16:02:05Z",
+    "content": "What is included in my trial?\r\nDuring your trial you will have complete digital access to FT.com with everything in both of our Standard Digital and Premium Digital packages.\r\nStandard Digital includ\u2026 [+1494 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Annie Nova",
+    "title": "Credit card interest rates keep climbing. Here's what consumers need to know and what they can do about it - CNBC",
+    "description": "Credit card interest rates are already at record highs and are expected to increase even more if the Fed raises the benchmark rate this week.",
+    "url": "https://www.cnbc.com/2023/05/02/as-credit-card-interest-rates-keep-climbing-heres-what-to-know.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107233960-1683033819064-gettyimages-1483113755-20230418-dsc00269.jpeg?v=1683043306&w=1920&h=1080",
+    "publishedAt": "2023-05-02T16:01:46Z",
+    "content": "It's an especially expensive time for people with credit card debt, and the pain will likely only worsen with another expected interest rate hike coming from the Federal Reserve this week.\r\nInterest \u2026 [+3450 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CBS Sports"
+    },
+    "author": "",
+    "title": "Prisco's NFL Draft 2023 grades for all 32 teams: Cowboys, Eagles among A's; Chiefs, 49ers receive poor marks - CBS Sports",
+    "description": "Pete Prisco hands out grades to every team for their 2023 NFL Draft haul",
+    "url": "https://www.cbssports.com/nfl/news/priscos-nfl-draft-2023-grades-for-all-32-teams-cowboys-eagles-among-as-chiefs-49ers-receive-poor-marks/",
+    "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/05/02/a737fc5f-6138-48cb-a2e6-b65021ab3378/thumbnail/1200x675/8d51cf336bfc1c79476c7e5c7cbbc4b4/mazi-smith.jpg",
+    "publishedAt": "2023-05-02T15:48:00Z",
+    "content": "There is nothing that infuriates teams, general managers and personnel guys las much as draft grades immediately after the NFL Draft.\r\nSo here goes.\r\nYeah, I know we can't really grade a draft until \u2026 [+28103 chars]"
+  },
+  {
+    "source": {
+      "id": "the-hill",
+      "name": "The Hill"
+    },
+    "author": "Lauren Sforza",
+    "title": "Abbott retracts claim that Texas shooting victims were all illegal immigrants - The Hill",
+    "description": "Texas Gov. Greg Abbott\u2019s (R) office issued a statement retracting his previous statement that claimed all five victims of the Cleveland, Texas, mass shooting were \u201cillegal immigrants.\u201d Spokesperson Renae Eze said in a statement to The Hill that \u201cfederal offic\u2026",
+    "url": "https://thehill.com/homenews/state-watch/3983329-abbott-retracts-claim-that-texas-shooting-victims-were-all-illegal-immigrants/",
+    "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2022/07/1f8ab5809d4a4a5ea4f25aa416d98e9d-1-e1681003110509.jpg?w=1280",
+    "publishedAt": "2023-05-02T15:33:00Z",
+    "content": "Skip to content\r\nTexas Gov. Greg Abbott\u2019s (R) office issued a statement retracting his previous statement that claimed all five victims of the Cleveland, Texas, mass shooting were \u201cillegal immigrants\u2026 [+2323 chars]"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Eric Levenson,Brad Parks",
+    "title": "Officer who held back crowd during George Floyd's murder convicted of aiding and abetting manslaughter - CNN",
+    "description": "A Minnesota judge found former Minneapolis police officer Tou Thao guilty of aiding and abetting second-degree manslaughter for his role keeping bystanders back in the May 2020 killing of George Floyd, according to court documents filed Monday.",
+    "url": "https://www.cnn.com/2023/05/02/us/tou-thao-george-floyd-trial/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/200603215911-tou-thao-mugshot.jpg?q=x_2,y_0,h_898,w_1596,c_crop/w_800",
+    "publishedAt": "2023-05-02T15:26:00Z",
+    "content": "A Minnesota judge found former Minneapolis police officer Tou Thao guilty of aiding and abetting second-degree manslaughter for his role keeping bystanders back in the May 2020 killing of George Floy\u2026 [+4255 chars]"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": "Jennifer Griffin, Liz Friden, Chris Pandolfo",
+    "title": "Biden administration approves sending 1,500 US troops to border as Title 42 deadline looms: sources - Fox News",
+    "description": "President Biden's administration has approved sending U.S. troops to the southern border to stem an expected surge in illegal immigration once Title 42 ends, sources say.",
+    "url": "https://www.foxnews.com/politics/biden-administration-considers-sending-1500-us-troops-border-ahead-lifting-title-42-sources",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/02/Border.jpg",
+    "publishedAt": "2023-05-02T15:21:00Z",
+    "content": "The Biden administration has approved sending 1,500 active duty U.S. troops to the southern border in the coming days amid concerns that tens of thousands of migrants will surge into the country once\u2026 [+3844 chars]"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": "Paulina Dedaj",
+    "title": "Florida girl, 15, dead after horse falls on rider during equestrian competition - Fox News",
+    "description": "A 15-year-old equestrian died over the weekend during a competition at the Fox Lea Farm Spring Concours on Sunday after her horse fell on top of her, officials say.",
+    "url": "https://www.foxnews.com/sports/florida-girl-dead-horse-falls-rider-during-equestrian-competition",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/05/Hannah-Serfass-competing3.jpg",
+    "publishedAt": "2023-05-02T15:13:00Z",
+    "content": "A Florida teen\r\n died over the weekend during an equestrian competition when the horse she was riding fell on top of her, officials said. She was 15.\u00a0\r\nThe U.S. Equestrian Federation (USEF) released \u2026 [+1705 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Fox Business"
+    },
+    "author": "Daniella Genovese",
+    "title": "Morgan Stanley plans to cut 3K jobs: Reuters - Fox Business",
+    "description": "Morgan Stanley is looking to trim its workforce by 3,000 workers amid an uncertain economic environment that's caused a slowdown in deal making across Wall Street.",
+    "url": "https://www.foxbusiness.com/lifestyle/morgan-stanley-plans-cut-3k-jobs-reuters",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/01/0/0/MORGAN-STANLEY-RESULTS-e1673972340644.jpg?ve=1&tl=1",
+    "publishedAt": "2023-05-02T14:59:47Z",
+    "content": "Morgan Stanley is reportedly planning to cut 3,000 jobs during the second quarter, marking its second round of layoffs in the past six months.\r\nThe bank cited slow deal making amid the tough economic\u2026 [+2061 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "YouTube"
+    },
+    "author": null,
+    "title": "'The Godfather of AI' quits Google and warns of its dangers. Why Apple co-founder isn't concerned - CNN",
+    "description": "Apple co-founder Steve Wozniak joins \"CNN This Morning\" to discuss the impacts of artificial intelligence. #CNN #News",
+    "url": "https://www.youtube.com/watch?v=OU9cKjWsvH0",
+    "urlToImage": "https://i.ytimg.com/vi/OU9cKjWsvH0/maxresdefault.jpg",
+    "publishedAt": "2023-05-02T14:45:24Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "YouTube"
+    },
+    "author": null,
+    "title": "Russia's most lethal weapons in Ukraine: Hypersonic missiles to tanks | Russia-Ukraine war | WION - WION",
+    "description": "Have a look at the new generations of weapons in which Russia says it is investing heavily, including images of hypersonic missiles that Moscow claims to hav...",
+    "url": "https://www.youtube.com/watch?v=pzzh4I_MkQY",
+    "urlToImage": "https://i.ytimg.com/vi/pzzh4I_MkQY/maxresdefault_live.jpg",
+    "publishedAt": "2023-05-02T14:23:58Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": "Joe Morgan",
+    "title": "Steve Kerr wouldn\u2019t let Draymond Green leave Warriors to witness LeBron James break scoring record - Fox News",
+    "description": "Golden State Warriors forward Draymond Green was not allowed to leave the team in order to witness LeBron James break the NBA's all-time scoring record.",
+    "url": "https://www.foxnews.com/sports/steve-kerr-wouldnt-let-draymond-green-leave-warriors-to-witness-lebron-james-break-scoring-record",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/05/GettyImages-1237389726-copy.jpg",
+    "publishedAt": "2023-05-02T14:03:00Z",
+    "content": "Golden State Warriors forward Draymond Green\r\n wanted to attend the game where LeBron James broke the NBAs all-time scoring record, but head coach Steve Kerr did not think it was a good idea.\u00a0\r\nJames\u2026 [+2122 chars]"
+  },
+  {
+    "source": {
+      "id": "usa-today",
+      "name": "USA Today"
+    },
+    "author": ", USA TODAY",
+    "title": "Dust storm accident on I-55 in Illinois: Road reopens after 6 killed - USA TODAY",
+    "description": "The windstorm in Montgomery County blew blinding dust off farm fields Monday, causing a pileup involving at least 72 vehicles.",
+    "url": "https://www.usatoday.com/story/news/nation/2023/05/02/dust-storm-accident-interstate-55-illinois-6-killed/70173770007/",
+    "urlToImage": "https://www.gannett-cdn.com/presto/2023/05/01/NSJR/81f9e148-6b48-40d4-954b-10bb095dab34-I55_Crash.jpg?auto=webp&crop=1927,1084,x28,y0&format=pjpg&width=1200",
+    "publishedAt": "2023-05-02T13:54:41Z",
+    "content": "Interstate 55 in central Illinois reopened in both directions Tuesday morning after a deadly dust storm caused a chain reaction of crashes that killed at least six people and injured more than 30 mor\u2026 [+3114 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "Jane Herz",
+    "title": "Your brain actually works harder as it dies: scientific discovery - New York Post ",
+    "description": "Scientists offer new insight into \u201clight at the end of the tunnel\u201d and other \u201cout of body experiences\u201d when we are dying.",
+    "url": "https://nypost.com/2023/05/02/scientists-may-understand-how-your-brain-dies-study/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/05/newspress-collage-26847595-1682982155839.jpg?quality=75&strip=all&1682967806&w=1024",
+    "publishedAt": "2023-05-02T13:47:00Z",
+    "content": "Scientists are one step closer to learning more about the experiences that people have reported having just before they die including the light at the end of the tunnel.\r\nA surge of activity happens \u2026 [+3905 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "MacRumors"
+    },
+    "author": "Joe Rossignol",
+    "title": "Apple to Expand AirTag-Like Unwanted Tracking Alerts to Other Item Trackers in Future iOS Version - MacRumors",
+    "description": "Apple and Google today jointly submitted a proposed industry specification to help combat the misuse of Bluetooth item trackers for unwanted tracking...",
+    "url": "https://www.macrumors.com/2023/05/02/apple-to-expand-unwanted-tracking-alerts/",
+    "urlToImage": "https://images.macrumors.com/t/FdQ4dKUnd4T_GzyKRMLQb52dGkY=/1920x/article-new/2023/05/AirTag-and-iPhone-Notification-Feature.jpg",
+    "publishedAt": "2023-05-02T13:32:36Z",
+    "content": "Apple and Google today jointly submitted a proposed industry specification to help combat the misuse of Bluetooth item trackers for unwanted tracking of individuals. As part of this initiative, the c\u2026 [+1024 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Phys.Org"
+    },
+    "author": "Francis Reddy",
+    "title": "NASA animation sizes up the universe's biggest black holes - Phys.org",
+    "description": "A new NASA animation highlights the \"super\" in supermassive black holes. These monsters lurk in the centers of most big galaxies, including our own Milky Way, and contain between 100,000 and tens of billions of times more mass than our sun.",
+    "url": "https://phys.org/news/2023-05-nasa-animation-sizes-universe-biggest.html",
+    "urlToImage": "https://scx2.b-cdn.net/gfx/news/2023/nasa-animation-sizes-u-3.jpg",
+    "publishedAt": "2023-05-02T13:20:27Z",
+    "content": "A new NASA animation highlights the \"super\" in supermassive black holes. These monsters lurk in the centers of most big galaxies, including our own Milky Way, and contain between 100,000 and tens of \u2026 [+4659 chars]"
+  },
+  {
+    "source": {
+      "id": "the-verge",
+      "name": "The Verge"
+    },
+    "author": "Allison Johnson",
+    "title": "The Motorola Edge Plus (2023) looks like a real flagship contender - The Verge",
+    "description": "Motorola\u2019s 2023 Edge Plus has a big 6.7-inch screen with a fast 165Hz refresh rate, a healthy 5,100mAh battery, and a robust IP68 rating. At $799, it could give Samsung a run for its money.",
+    "url": "https://www.theverge.com/2023/5/2/23707140/motorola-edge-plus-2023-specs-price-features",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/pFK5gUjtHa7s57-LCRteM5dYoNQ=/0x0:2000x1500/1200x628/filters:focal(1000x750:1001x751)/cdn.vox-cdn.com/uploads/chorus_asset/file/24626082/motorola_edge__2023_Interstellar_Black.jpg",
+    "publishedAt": "2023-05-02T13:00:00Z",
+    "content": "Motorola is finally bringing a real flagship contender to the US\r\nMotorola is finally bringing a real flagship contender to the US\r\n / The 2023 Edge Plus checks all the right boxes to go toe-to-toe w\u2026 [+3304 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Entertainment Tonight"
+    },
+    "author": null,
+    "title": "Kim Kardashian's Pearl-Covered Met Gala Dress Breaks Apart and North West Saves the Day - Entertainment Tonight",
+    "description": null,
+    "url": "https://www.etonline.com/kim-kardashians-pearl-covered-met-gala-dress-breaks-apart-and-north-west-saves-the-day-203804",
+    "urlToImage": null,
+    "publishedAt": "2023-05-02T12:57:56Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "YouTube"
+    },
+    "author": null,
+    "title": "Australia bans recreational vaping to prevent young generation from becoming nicotine addicts - South China Morning Post",
+    "description": "Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtubeFor the latest coverage: https://sc.mp/mmyl Khader Adnan, who was a leader of ...",
+    "url": "https://www.youtube.com/watch?v=QUI8Cef6YE8",
+    "urlToImage": "https://i.ytimg.com/vi/QUI8Cef6YE8/maxresdefault.jpg",
+    "publishedAt": "2023-05-02T12:00:20Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Florida Today"
+    },
+    "author": "Emre Kelly",
+    "title": "SpaceX launches triple-core Falcon Heavy from Kennedy Space Center in Florida - Florida Today",
+    "description": "SpaceX's triple-core Falcon Heavy rocket soared from Florida on Sunday, kicking off a complicated mission with a powerful communications satellite.",
+    "url": "https://www.floridatoday.com/story/tech/science/space/2023/04/30/spacex-launches-triple-core-falcon-heavy-rocket-from-florida/70148327007/",
+    "urlToImage": "https://www.gannett-cdn.com/presto/2023/05/01/PBRE/c0462dba-ed42-444a-9549-0beb27d7abcb-1EK08252.jpg?crop=2749,1546,x1,y71&width=2749&height=1546&format=pjpg&auto=webp",
+    "publishedAt": "2023-05-02T11:14:06Z",
+    "content": "Space is important to us\u00a0and thats why we're\u00a0working to bring you top coverage of the\u00a0industry and Florida launches. Journalism like this takes time and resources.\u00a0Please support it with a subscripti\u2026 [+2531 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "YouTube"
+    },
+    "author": null,
+    "title": "Why this person could be a key witness in Trump rape allegation civil trial - CNN",
+    "description": "Jessica Roth, a former federal prosecutor, speaks with CNN's John Berman about the latest developments in E. Jean Carroll's civil case against former Preside...",
+    "url": "https://www.youtube.com/watch?v=c2uHyXQkSoU",
+    "urlToImage": "https://i.ytimg.com/vi/c2uHyXQkSoU/maxresdefault.jpg",
+    "publishedAt": "2023-05-02T01:19:13Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "al-jazeera-english",
+      "name": "Al Jazeera English"
+    },
+    "author": "Al Jazeera",
+    "title": "\u2018Ironclad\u2019: Biden, Marcos Jr affirm US-Philippines security ties - Al Jazeera English",
+    "description": "Two leaders agree to deepen military relationship amid heightened tensions in Asia Pacific, China pressure.",
+    "url": "https://www.aljazeera.com/news/2023/5/1/military-ties-top-agenda-as-biden-meets-philippines-marcos-jr",
+    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/05/AP23121692250662-1682968736.jpg?resize=1920%2C1440",
+    "publishedAt": "2023-05-01T22:07:30Z",
+    "content": "United States President Joe Biden has assured his Philippines counterpart Ferdinand Marcos Jr that the US commitment to the defence of its Southeast Asian ally remains ironclad, including in the disp\u2026 [+5431 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Macworld"
+    },
+    "author": "Jason Cross",
+    "title": "Your iPhone, iPad, and Mac just got a first-of-its-kind security update - Macworld",
+    "description": "The new Rapid Security Response update system is being used for the first time on a public release.",
+    "url": "https://www.macworld.com/article/1804313/ios-16-4-1-macos-13-3-1-rapid-security-response.html",
+    "urlToImage": "https://www.macworld.com/wp-content/uploads/2023/05/ios-16-rapid-security-response-7.jpg?quality=50&strip=all&w=1024",
+    "publishedAt": "2023-05-01T19:32:00Z",
+    "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nApple has just used \u2026 [+2595 chars]"
+  },
+  {
+    "source": {
+      "id": "cbs-news",
+      "name": "CBS News"
+    },
+    "author": "Tony Dokoupil, Sara Moniuszko",
+    "title": "Melanoma Monday: Tips to prevent the deadliest form of skin cancer - CBS News",
+    "description": "Skin cancer is the most common type of cancer in the U.S. - and it's on the rise. On Melanoma Monday, experts share tips on how to protect yourself.",
+    "url": "https://www.cbsnews.com/news/melanoma-monday-tips-to-prevent-skin-cancer/",
+    "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/05/01/915c04f3-09f1-4e6b-830d-3064b133c293/thumbnail/1200x630/22d31dc9213c7edb416969d8684677b9/gettyimages-1437090427.jpg",
+    "publishedAt": "2023-05-01T14:49:02Z",
+    "content": "As the summer approaches and we spend more time in the sun, skin cancer is also on the rise, making it more important than ever to protect yourself.\u00a0\r\nAs part of skin cancer awareness month, Melanoma\u2026 [+2369 chars]"
+  },
+  {
+    "source": {
+      "id": "usa-today",
+      "name": "USA Today"
+    },
+    "author": "Karen Weintraub",
+    "title": "Duchenne muscular dystrophy treatments, gene therapy spark hope - USA TODAY",
+    "description": "The treatment of Duchenne's is in the midst of a revolution, bringing hope to a disease that inevitably left boys in a wheelchair in their teens.",
+    "url": "https://www.usatoday.com/story/news/health/2023/04/30/gene-therapy-duchenne-muscular-dystrophy/11477220002/",
+    "urlToImage": "https://www.gannett-cdn.com/presto/2023/04/28/USAT/11aa2774-d1e2-4afb-8bdd-3be785bf9aaa-Conner_Curran.jpeg?crop=3023,1701,x0,y604&width=3023&height=1701&format=pjpg&auto=webp",
+    "publishedAt": "2023-04-30T09:01:01Z",
+    "content": "When Conner Curran\u00a0was first diagnosed with Duchenne muscular dystrophy at age 4, his parents were told there was nothing they could do to change his life's course.\r\nJessica and Chris\u00a0should enjoy th\u2026 [+12138 chars]"
   }
 ]
