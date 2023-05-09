@@ -51621,5 +51621,408 @@
     "urlToImage": "https://www.trueachievements.com/imgs/138840/poll-xbox-games-showcase.jpg",
     "publishedAt": "2023-05-06T08:02:14Z",
     "content": null
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Alli Rosenbloom",
+    "title": "MTV Movie & TV Awards 2023: See who won - CNN",
+    "description": "After a wild week full of production changes for the MTV Movie & TV Awards amid the writers' strike, a motley crew of stars received golden popcorn statuettes on Sunday.",
+    "url": "https://www.cnn.com/2023/05/07/entertainment/mtv-movie-tv-awards-2023-winners/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230507173132-mtv-movie-tv-awards-golden-popcorn.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-05-08T02:10:00Z",
+    "content": "After a wild week full of production changes for the MTV Movie &amp; TV Awards amid the writers strike, a motley crew of stars received golden popcorn statuettes on Sunday. \r\nBlockbuster film Top Gun\u2026 [+5345 chars]"
+  },
+  {
+    "source": {
+      "id": "usa-today",
+      "name": "USA Today"
+    },
+    "author": "Tyler Dragon",
+    "title": "Nikola Jokic, Mat Ishbia get into courtside tussle during Game 4 - USA TODAY",
+    "description": "Denver Nuggets All-Star Nikola Jokic received a technical foul after a courtside tussle with Phoenix Suns owner Mat Ishbia.",
+    "url": "https://www.usatoday.com/story/sports/nba/2023/05/07/nikola-jokic-mat-ishbia-get-into-courtside-tussle-during-game-4/70193377007/",
+    "urlToImage": "https://www.gannett-cdn.com/presto/2023/05/08/USAT/5f3836b4-8473-4d2b-b200-cb15ad167cf3-AP_Nuggets_Suns_Basketball_1.jpg?crop=3194,1797,x1,y98&width=3194&height=1797&format=pjpg&auto=webp",
+    "publishedAt": "2023-05-08T01:30:08Z",
+    "content": "PHOENIX Denver Nuggets All-Star Nikola Jokic got into a little tussle with Phoenix Suns owner Mat Ishbia.\r\nWith more than two minutes remaining in the second quarter of Game 4 at the Footprint Center\u2026 [+996 chars]"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Josh Campbell,Ed Lavandera,Holly Yan,Christina Maxouris,Sharif Paget,Elizabeth Wolfe",
+    "title": "Texas mall massacre gunman identified as witnesses describe horror of the shooting spree that killed 8 people - CNN",
+    "description": "The man who opened fire Saturday at an outlet mall in Allen, Texas, killing eight people and wounding at least seven others was identified as 33-year-old Mauricio Garcia, the Texas Department of Public Safety said Sunday.",
+    "url": "https://www.cnn.com/2023/05/07/us/allen-texas-mall-shooting-sunday/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230507140730-13-allen-texas-outlet-mall-active-shooter-050723.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-05-08T01:29:00Z",
+    "content": "Editors Note: This story contains graphic descriptions of the shootings aftermath.\r\nThe man who opened fire Saturday at an outlet mall in Allen, Texas, killing eight people and wounding at least seve\u2026 [+8370 chars]"
+  },
+  {
+    "source": {
+      "id": "associated-press",
+      "name": "Associated Press"
+    },
+    "author": "Larry Neumeister",
+    "title": "Trump rejects last chance to testify at New York civil trial - The Associated Press",
+    "description": "NEW YORK (AP) \u2014 Former President Donald Trump rejected his last chance Sunday to testify at a civil trial where a longtime advice columnist has accused him of raping her in a luxury department store dressing room in 1996.",
+    "url": "https://apnews.com/article/trump-rape-carroll-trial-40f9bf3da2474c28dc2bc869d68fdb82",
+    "urlToImage": "https://storage.googleapis.com/afs-prod/media/7c774e4dbf2e457e9a36f7b4f35098ae/2000.webp",
+    "publishedAt": "2023-05-08T01:20:38Z",
+    "content": "NEW YORK (AP) Former President Donald Trump rejected his last chance Sunday to testify at a civil trial where a longtime advice columnist has accused him of raping her in a luxury department store dr\u2026 [+3622 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Kstp.com"
+    },
+    "author": "Kilat Fitzgerald",
+    "title": "St. Croix County deputy shot and killed identified - KSTP",
+    "description": "A St. Croix County deputy is dead after being shot near Glenwood City Saturday night, according to a news release from the St. Croix County Sheriff's Office. Authorities say the suspect was later found dead in a wooded area with a gunshot wound.",
+    "url": "https://kstp.com/kstp-news/top-news/st-croix-county-deputy-shot-and-killed-identified/",
+    "urlToImage": "https://kstp.com/wp-content/uploads/2023/05/Deputy-Kaitie-Leising.jpg",
+    "publishedAt": "2023-05-08T00:45:00Z",
+    "content": "Authorities say a western Wisconsin deputy was shot and killed while responding to a report of a drunk driver in a ditch Saturday night near Glenwood, Wisconsin.\r\nAround 6:15 p.m., Deputy Kaitie Leis\u2026 [+3155 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Ganesh Rao",
+    "title": "Here are 10 global stocks analyst love coming out of the earnings week, Bank of America says - CNBC",
+    "description": "The investment bank screened for European large-cap stocks that had an increase in net earnings per share revisions.",
+    "url": "https://www.cnbc.com/2023/05/08/here-are-10-global-stocks-analyst-love-coming-out-of-the-earnings-week-bank-of-america-says.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/103182864-GettyImages-481534278.jpg?v=1683505898&w=1920&h=1080",
+    "publishedAt": "2023-05-08T00:31:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Deadline"
+    },
+    "author": "Armando Tinoco",
+    "title": "\u2018American Idol\u2019 Gets Royal Surprise From King Charles III & Queen Camilla As Katy Perry & Lionel Richie Check-In From The U.K. - Deadline",
+    "description": "Katy Perry and Lionel Richie were absent from American Idol this week as they traveled to the U.K. to perform at the historic coronation of King Charles III. \u201cWhat a party, what a party, it w\u2026",
+    "url": "https://deadline.com/2023/05/american-idol-royal-surprise-king-charles-iii-queen-camilla-katy-perry-lionel-richie-1235358859/",
+    "urlToImage": "https://deadline.com/wp-content/uploads/2023/05/katy-perry-king-charles-queen-camilla-lionel-richie-american-idol.jpg?w=1024",
+    "publishedAt": "2023-05-08T00:18:00Z",
+    "content": "Katy Perry and Lionel Richie were absent from American Idol this week as they traveled to the U.K. to perform at the historic coronation of King Charles III.\r\n\u201cWhat a party, what a party, it was unbe\u2026 [+949 chars]"
+  },
+  {
+    "source": {
+      "id": "espn",
+      "name": "ESPN"
+    },
+    "author": "Laurence Edmondson",
+    "title": "Max Verstappen on being booed by Miami F1 fans -- 'They don't like who is winning' - ESPN - ESPN",
+    "description": "Max Verstappen shrugged off the boos he received before and after winning the Miami Grand Prix, saying he only cares about going home from a race weekend with the winner's trophy.",
+    "url": "https://www.espn.com/f1/story/_/id/37554546/max-verstappen-being-booed-miami-f1-fans-is-winning",
+    "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0507%2Fr1169971_1296x729_16%2D9.jpg",
+    "publishedAt": "2023-05-08T00:05:00Z",
+    "content": "MIAMI -- Max Verstappen shrugged off the boos he received before and after winning the Miami Grand Prix, saying he only cares about going home from a race weekend with the winner's trophy.\r\nEditor's \u2026 [+2534 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Loree Seitz",
+    "title": "Glowing Elizabeth Holmes Profile in New York Times Draws Fury: They \u2018Got Conned Just Like Her Board\u2019 - Yahoo Entertainment",
+    "description": "\"Nice to be a pretty white lady working your charm on a NYT reporter,\" wrote former CNN host Soledad O'Brien",
+    "url": "https://www.yahoo.com/entertainment/glowing-elizabeth-holmes-profile-york-232909671.html",
+    "urlToImage": "https://media.zenfs.com/en/thewrap.com/1ce45fd2257dc6e68c574c19a854ba9a",
+    "publishedAt": "2023-05-07T23:29:09Z",
+    "content": "People are criticizing the New York Times after it published a glowing profile of Elizabeth Holmes, which painted the Theranos founder, who was found guilty of defrauding investors out of more than $\u2026 [+3496 chars]"
+  },
+  {
+    "source": {
+      "id": "cbs-news",
+      "name": "CBS News"
+    },
+    "author": null,
+    "title": "King Charles' coronation celebration continues with concert and \"big lunch\" - CBS News",
+    "description": "Charles and Queen Camilla\u200b said Sunday in a statement that they were \"deeply touched\" by the celebration.",
+    "url": "https://www.cbsnews.com/news/king-charles-coronation-celebration-concert-big-lunch/",
+    "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/05/07/17029305-309a-48c8-9102-40d8c233f9a0/thumbnail/1200x630/304b4217eea649335980d4ddb6cc8142/gettyimages-1488222817.jpg",
+    "publishedAt": "2023-05-07T23:22:00Z",
+    "content": "At coronation celebrations held Sunday, anyone could wear a crown \u2014 even a dog.\r\nA day after the gilded spectacle of King Charles III's crowning in an ancient religious ceremony, festivities took a m\u2026 [+7392 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Philadelphia Inquirer"
+    },
+    "author": "Gina Mizell",
+    "title": "James Harden\u2019s game-winner lifts Sixers to wild 116-115 overtime win to even series with Boston Celtics - The Philadelphia Inquirer",
+    "description": "After struggling through much of Games 2 and 3, Harden bounced back to scorch the Celtics at the Wells Fargo Center. His 42 points and decisive three-pointer secured Game 4.",
+    "url": "https://www.inquirer.com/sixers/sixers-james-harden-joel-embiid-boston-celtics-overtime-nba-playoffs-20230507.html",
+    "urlToImage": "https://www.inquirer.com/resizer/87bzaaF8ZGO_elHvPRlXlVhIr_g=/760x507/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/KJED4ABW6JBPLGWWWIZ56JBYVI.jpg",
+    "publishedAt": "2023-05-07T23:02:50Z",
+    "content": "A Wells Fargo Center crowd that spent more than two hours waving rally towels throughout Sunday afternoons Game 4 spontaneously burst into another move in unison motioning their arms to signal no goo\u2026 [+4917 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Rottentomatoes.com"
+    },
+    "author": "Erik Childress",
+    "title": "Weekend Box Office Results: Guardians of the Galaxy Vol. 3 Kicks Off Summer Movie Season with a Bang - Rotten Tomatoes",
+    "description": "James Gunn's trilogy-capper brought in a strong $114 million domestic and $282 million at the worldwide box office, but will it be enough to top another Chris Pratt global hit?",
+    "url": "https://editorial.rottentomatoes.com/article/weekend-box-office-results-guardians-of-the-galaxy-vol-3-kicks-off-summer-movie-season-with-a-bang/",
+    "urlToImage": "https://prd-rteditorial.s3.us-west-2.amazonaws.com/wp-content/uploads/2023/05/07154241/Guardians_Vol_3_BO1-Rep.jpg",
+    "publishedAt": "2023-05-07T22:42:57Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "business-insider",
+      "name": "Business Insider"
+    },
+    "author": "Theron Mohamed",
+    "title": "Buffett, Munger on banks, real estate, Musk, Apple, AI, dollar dangers - Markets Insider",
+    "description": "Buffett and Munger flagged threats to banks and real estate, discussed the risk of de-dollarization, and praised Elon Musk for doing the impossible.",
+    "url": "https://markets.businessinsider.com/news/stocks/buffett-munger-berkshire-meeting-banks-real-estate-musk-ai-dollar-2023-5",
+    "urlToImage": "https://i.insider.com/64580844c726bc00196a658f?width=1200&format=jpeg",
+    "publishedAt": "2023-05-07T22:36:00Z",
+    "content": "Warren Buffett and Charlie Munger sounded off on the current banking turmoil, the bleak outlook for commercial real estate, and the possibility of de-dollarization during Berkshire Hathaway's annual \u2026 [+4248 chars]"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "",
+    "title": "Wagner chief backtracks on threat to Putin's military leaders. Hear why - CNN",
+    "description": "Yevgeny Prigozhin, head of Russian mercenary group Wagner, says he will reverse course on a previous promise to pull his troops out of the battle for Bakhmut, Ukraine. CNN's Sam Kiley reports.",
+    "url": "https://www.cnn.com/videos/world/2023/05/07/prigozhin-wagner-reverses-course-bakhmut-pullout-kiley-acostanr-vpx.cnn",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230204073944-putin-yevgeny-prigozhin-split.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-05-07T22:17:12Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": "Yael Halon",
+    "title": "George Stephanopoulos admits new 2024 poll 'just brutal for President Biden' - Fox News",
+    "description": "ABC host George Stephanopoulos responds to a 'brutal' poll showing a majority of Americans don't believe President Biden has the 'mental sharpness' to serve another term.",
+    "url": "https://www.foxnews.com/media/george-stephanopoulos-2024-poll-brutal-president-biden",
+    "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a47eeafb-3a3d-4c1a-af7e-f97cff67fd4e/906b495b-2a6a-499c-855a-ef39f1339e71/1280x720/match/image.jpg",
+    "publishedAt": "2023-05-07T21:44:59Z",
+    "content": "ABC News anchor George Stephanopoulos pulled no punches reacting to a new poll on air Sunday that showed the vast majority of Americans don't believe President Biden has the physical or mental capaci\u2026 [+2990 chars]"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": "Tracy Wright",
+    "title": "Royal family celebrates King Charles' coronation; Prince George, Princess Charlotte steal show - Fox News",
+    "description": "Prince William and Princess Kate enjoyed a few laughs at King Charles' coronation concert thanks to their two eldest kids, Princess Charlotte and Prince George.",
+    "url": "https://www.foxnews.com/entertainment/royal-family-celebrates-king-charles-coronation-prince-george-princess-charlotte-steal-show",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/05/king-charles-coronation-concert-princess-prince-2.jpg",
+    "publishedAt": "2023-05-07T21:37:00Z",
+    "content": "Princess Kate and Prince William were in great company Sunday for King Charles III coronation concert at Windsor Castle.\r\nTheir two eldest children, Prince George and Princess Charlotte, appeared to \u2026 [+2127 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "YouTube"
+    },
+    "author": null,
+    "title": "First Alert Weather: More storms possible this evening. - CBS TEXAS",
+    "description": "Then once again storms will develop out west along the dry line during peak heating, and work their way eastward in the evening hours. We have not issued a w...",
+    "url": "https://www.youtube.com/watch?v=oOW6mZGnIog",
+    "urlToImage": "https://i.ytimg.com/vi/oOW6mZGnIog/maxresdefault.jpg",
+    "publishedAt": "2023-05-07T20:26:19Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Celina Tebor,Zoe Sottile",
+    "title": "Child in Maine tests positive for measles, first case in state since 2019 - CNN",
+    "description": "A child in Maine has tested positive for measles, officials said, marking the first case in the state since 2019.",
+    "url": "https://www.cnn.com/2023/05/07/us/maine-measles-child-tests-positive/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230507160052-02-measles-vaccine-2019-file.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-05-07T20:26:00Z",
+    "content": "A child in Maine has tested positive for measles, officials said, marking the first case in the state since 2019. \r\nThe child who tested positive had received a dose of the measles vaccine, but the M\u2026 [+1844 chars]"
+  },
+  {
+    "source": {
+      "id": "abc-news",
+      "name": "ABC News"
+    },
+    "author": "Mireya Villarreal",
+    "title": "7 dead after car runs into pedestrians in Brownsville, Texas, alleged driver arrested - ABC News",
+    "description": "A male suspect is in custody.",
+    "url": "https://abcnews.go.com/US/7-dead-after-car-runs-pedestrians-brownsville-texas/story?id=99152817",
+    "urlToImage": "https://s.abcnews.com/images/US/texas-car-crash-abc-moe-024-230507_1683487179246_hpMain_16x9_992.jpg",
+    "publishedAt": "2023-05-07T20:04:38Z",
+    "content": "Seven people are dead in Brownsville, Texas, after a car ran into pedestrians Sunday morning while they were waiting at a bus stop.\r\nThe crash occurred at 8:30 a.m. near the Ozanam Center in Brownsvi\u2026 [+1727 chars]"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": "Kurt Knutsson, CyberGuy Report",
+    "title": "Say goodbye to Google passwords and hello to Google Passkeys - Fox News",
+    "description": "Google is rolling out with a new security feature called a passkey, which is said to keep your data safer than passwords, Kurt \"CyberGuy\" Knutsson explains.",
+    "url": "https://www.foxnews.com/tech/say-goodbye-google-passwords-hello-google-passkeys",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/05/1-GOOGLE-PASSKEY.jpg",
+    "publishedAt": "2023-05-07T18:47:00Z",
+    "content": "The tech giant Google is incorporating a new security feature called passkeys into its devices and platforms. Using a passkey means that anytime you'd traditionally be prompted to put in your Google \u2026 [+5507 chars]"
+  },
+  {
+    "source": {
+      "id": "fortune",
+      "name": "Fortune"
+    },
+    "author": "Lance Lambert",
+    "title": "\u2018Quiet quitting\u2019 the U.S. housing market: One group of sellers has disappeared - Fortune",
+    "description": "Move-up buying has ground to a near halt.",
+    "url": "https://fortune.com/2023/05/07/housing-market-sees-quiet-quitting-as-move-up-buyers-and-sellers-pullback/",
+    "urlToImage": "https://content.fortune.com/wp-content/uploads/2023/05/GettyImages-1417702724-e1683481390299.jpg?resize=1200,600",
+    "publishedAt": "2023-05-07T18:12:00Z",
+    "content": "The housing markets all-important spring season has arrived, but there arent many homes going up for sale.According to Realtor.com (see chart below), only 392,016 U.S. homes were listed for sale in A\u2026 [+2966 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "YouTube"
+    },
+    "author": null,
+    "title": "North Carolina governor says 12-week abortion ban effectively bans \u201cmany abortions altogether\u201d - Face the Nation",
+    "description": "North Carolina Gov. Roy Cooper tells \"Face the Nation\" the 12-week abortion ban passed by his state's legislature will effectively ban \"many abortions altoge...",
+    "url": "https://www.youtube.com/watch?v=VTmXX4reHkw",
+    "urlToImage": "https://i.ytimg.com/vi/VTmXX4reHkw/maxresdefault.jpg",
+    "publishedAt": "2023-05-07T16:10:02Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "SciTechDaily"
+    },
+    "author": null,
+    "title": "Ancient Woman's DNA Recovered From 20,000-Year-Old Deer Tooth Pendant - SciTechDaily",
+    "description": "Researchers from the Max Planck Institute have successfully isolated ancient human DNA from a Paleolithic deer tooth pendant, paving the way for directly identifying the users of artifacts from the deep past and gaining deeper insights into Paleolithic societ\u2026",
+    "url": "https://scitechdaily.com/ancient-womans-dna-recovered-from-20000-year-old-deer-tooth-pendant/",
+    "urlToImage": "https://scitechdaily.com/images/Pierced-Deer-Tooth-After-DNA-Extraction-scaled.jpg",
+    "publishedAt": "2023-05-07T15:38:55Z",
+    "content": "ByMax Planck Institute for Evolutionary AnthropologyMay 7, 2023\r\nPierced deer tooth discovered from Denisova Cave in southern Siberia that yielded ancient human DNA. Credit: \u00a9 Max Planck Institute fo\u2026 [+8048 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "YouTube"
+    },
+    "author": null,
+    "title": "See astronauts relocate SpaceX Dragon capsule in time-lapsed highlights - VideoFromSpace",
+    "description": "SpaceX Crew-6 astronauts NASA's Stephen Bowen and Woody Hoburg, the United Arab Emirates' Sultan Al Neyadi and Russian cosmonaut Andrey Fedyaev moved Crew Dr...",
+    "url": "https://www.youtube.com/watch?v=UCl3QzBLLwQ",
+    "urlToImage": "https://i.ytimg.com/vi/UCl3QzBLLwQ/maxresdefault.jpg",
+    "publishedAt": "2023-05-07T14:01:01Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "the-hill",
+      "name": "The Hill"
+    },
+    "author": "Julia Mueller",
+    "title": "Durbin: \u2018Tangled web\u2019 around Clarence Thomas \u2018just gets worse\u2019 - The Hill",
+    "description": "Sen. Dick Durbin (D-Ill.) on Sunday said the \u201ctangled web\u201d around Supreme Court Justice Clarence Thomas, who is facing criticism over his financial disclosures, \u201cjust gets worse.\u201d\u00a0 \u201cThis tangled web around Justice Clarence Thomas just gets worse and worse by \u2026",
+    "url": "https://thehill.com/homenews/senate/3992479-durbin-tangled-web-around-clarence-thomas-just-gets-worse/",
+    "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/05/AP23122597893929-e1683226821615.jpg?w=1280",
+    "publishedAt": "2023-05-07T13:55:00Z",
+    "content": "Skip to content\r\nSen. Dick Durbin (D-Ill.) on Sunday said the \u201ctangled web\u201d around Supreme Court Justice Clarence Thomas, who is facing criticism over his financial disclosures, \u201cjust gets worse.\u201d\u00a0\r\n\u2026 [+1644 chars]"
+  },
+  {
+    "source": {
+      "id": "politico",
+      "name": "Politico"
+    },
+    "author": "Kelly Garrity",
+    "title": "Sen. Kyrsten Sinema says she has no interest in becoming a Republican - Yahoo News",
+    "description": "The Arizona senator is \u201cabsolutely\u201d done with parties.",
+    "url": "https://www.politico.com/news/2023/05/07/kyrsten-sinema-republican-party-00095683",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ZAklhXT6d6lC..4Vsx9CJw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/politico_453/0f11122365f1678275ff7269224bbc20",
+    "publishedAt": "2023-05-07T13:29:45Z",
+    "content": "Sen. Kyrsten Sinema is facing challenges from the right and from the left, should she run for reelection in 2024. But the threat has not yet pushed the Democrat-turned-independent into the arms of th\u2026 [+1069 chars]"
+  },
+  {
+    "source": {
+      "id": "reuters",
+      "name": "Reuters"
+    },
+    "author": null,
+    "title": "Arab League readmits Syria as relations with Assad normalise - Reuters",
+    "description": "The Arab League readmitted Syria after more than a decade of suspension on Sunday, consolidating a regional push to normalise ties with President Bashar al-Assad.",
+    "url": "https://www.reuters.com/world/middle-east/arab-league-set-readmit-syria-relations-with-assad-normalise-2023-05-07/",
+    "urlToImage": "https://www.reuters.com/resizer/GKD3GIg5BdW74Pyz-B8KzmG6s_c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JKBYYQZMP5LZXKTH3ZIIDCHWFA.jpg",
+    "publishedAt": "2023-05-07T12:42:00Z",
+    "content": "CAIRO, May 7 (Reuters) - The Arab League readmitted Syria after more than a decade of suspension on Sunday, consolidating a regional push to normalise ties with President Bashar al-Assad.\r\nThe decisi\u2026 [+3413 chars]"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Ashley Strickland",
+    "title": "Loaf-size mission to improve hurricane forecasting is ready to launch - CNN",
+    "description": "A new NASA mission called TROPICS, designed to improve hurricane forecasting, is ready to launch ahead of the June 1 arrival of the 2023 Atlantic hurricane season.",
+    "url": "https://www.cnn.com/2023/05/07/world/nasa-tropics-mission-launch-scn/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230428155358-01-nasa-tropics-mission-042023.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-05-07T10:53:00Z",
+    "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nA new mission designed to improve hurricane forecastin\u2026 [+3425 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Chron.com"
+    },
+    "author": "Ariana Garcia",
+    "title": "Why astronomers spotting a star eat planet is bad news for Earth - Chron",
+    "description": "For the first time ever, astronomers have discovered a star devouring its own planet. Earth may befall the same fate in the future.",
+    "url": "https://www.chron.com/news/space/article/astronomers-planet-eating-star-18081886.php",
+    "urlToImage": "https://s.hdnux.com/photos/01/32/60/46/23792046/3/rawImage.jpg",
+    "publishedAt": "2023-05-07T10:04:12Z",
+    "content": "For the first time ever, a group of scientists caught a sun-like star devouring a planet. Unfortunately, the discovery may also foreshadow Earth's fate in about five billion years. In a study publish\u2026 [+3590 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "WJXT News4JAX"
+    },
+    "author": "Brianna Andrews",
+    "title": "Doctor explains how to 'Be Fast,' recognize critical stroke signs - WJXT News4JAX ",
+    "description": "There are critical signs that often can go ignored by stroke victims.",
+    "url": "https://www.news4jax.com/health/2023/05/06/doctor-explains-how-to-be-fast-recognize-critical-stroke-signs/",
+    "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/YNUENXLUJRCYTNZC3PAM5FJCZU.jpg?_a=ATCqVhC0",
+    "publishedAt": "2023-05-06T19:02:15Z",
+    "content": "JACKSONVILLE, Fla. There are critical signs that often can go ignored by stroke victims.\r\nOne in three stroke victims never calls 911, according to the Centers of Disease Control and Prevention.\r\nDr.\u2026 [+1651 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "SciTechDaily"
+    },
+    "author": null,
+    "title": "New Study: 70% of Type 2 Diabetes Cases Linked to Food Choices - SciTechDaily",
+    "description": "A study has established a correlation between a poor diet and 14 million cases of type 2 diabetes worldwide. According to a research model developed by the Friedman School of Nutrition Science and Policy at Tufts University, poor diet was a significant factor\u2026",
+    "url": "https://scitechdaily.com/new-study-70-of-type-2-diabetes-cases-linked-to-food-choices/",
+    "urlToImage": "https://scitechdaily.com/images/Healthy-Food-Choices-Diabetes-scaled.jpg",
+    "publishedAt": "2023-05-06T14:25:17Z",
+    "content": "ByTufts UniversityMay 6, 2023\r\nResearchers estimate 7 out of 10 cases of type 2 diabetes worldwide in 2018 linked to food choices. Credit: Alonso Nichols/Tufts University\r\nA study has established a c\u2026 [+5564 chars]"
   }
 ]
