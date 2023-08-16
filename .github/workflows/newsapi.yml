@@ -3,7 +3,7 @@ name: NewsAPI
 on:
   workflow_dispatch:
   schedule:
-    - cron: '10 */6 * * *'  ## at minute 10 past every 6th hour
+    - cron: '10 */3 * * *'  ## at minute 10 past every 6th hour
 
 jobs:
   newsapi:

@@ -3,7 +3,7 @@ name: CurrentsAPI
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */6 * * *'  ## at minute 0 past every 6th hour
+    - cron: '0 */3 * * *'  ## at minute 0 past every 6th hour
 
 jobs:
   currentsapi:

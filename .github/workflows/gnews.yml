@@ -3,7 +3,7 @@ name: GNews
 on:
   workflow_dispatch:
   schedule:
-    - cron: '30 */6 * * *'  ## at minute 30 past every 6th hour
+    - cron: '30 */3 * * *'  ## at minute 30 past every 6th hour
 
 jobs:
   gnews:
