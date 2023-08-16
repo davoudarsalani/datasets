@@ -3858,5 +3858,18 @@
       "auto"
     ],
     "published": "2023-08-16 12:00:02 +0000"
+  },
+  {
+    "id": "41dcf005-6b6e-4dc8-b345-0f3d84e16834",
+    "title": "The latest news on Russia's war in Ukraine",
+    "description": "Belarusian border force on Wednesday slammed Lithuania\u2019s decision to temporarily suspend operations at two border checkpoints between the countries due to concerns about Wagner forces, describing it a...",
+    "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-08-16-23/index.html",
+    "author": "Chris Lau",
+    "image": "https://cdn.cnn.com/cnnnext/dam/assets/230815144207-07-ukraine-sbu-bridge-drone-strike-super-tease.jpeg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-16 12:57:56 +0000"
   }
 ]
