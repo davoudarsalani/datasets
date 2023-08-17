@@ -4669,5 +4669,398 @@
       "sports"
     ],
     "published": "2023-08-17 01:01:00 +0000"
+  },
+  {
+    "id": "7ba4c679-3522-4c60-97a4-b8fff438213d",
+    "title": "Storm Chaser works to build a house that can withstand category-five hurricane winds",
+    "description": "Storm chaser Josh Morgerman, also known as iCyclone, says he has been in over 60 tropical cyclones in his lifetime. Now he is on a mission to build a house that can withstand category-five hurricane winds in Bay St. Louis, Mississippi. The Gulf Coast knows all too well about the devastation a hurric...",
+    "url": "https://www.foxnews.com/weather/storm-chaser-works-to-build-a-house-that-can-withstand-category-five-hurricane-winds",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/c09fb098-Hurricane-House.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-17 07:01:48 +0000"
+  },
+  {
+    "id": "2e15c8b7-7018-426a-bf45-fa95c0b656a0",
+    "title": "GOP voters say Trump retains support but believe controversies distract from issues",
+    "description": "Republican voters who spoke with Fox News on Wednesday agreed former President Donald Trump did an excellent job in the White House, but some hope for a different candidate with fewer distractions becomes the nominee. While Trump has yet to announce whether he will attend the first GOP primary debat...",
+    "url": "https://www.foxnews.com/media/gop-voters-trump-retains-support-believe-controversies-distract-issues",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/03/d38adb7e-Trump.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-17 07:00:42 +0000"
+  },
+  {
+    "id": "81fd95c2-c5c4-4913-98b2-8566f87dc4f4",
+    "title": "Eight churches set ablaze in Pakistan's Punjab province after accusations of blasphemy | CNN",
+    "description": "CNN \u2014\n\nA crowd vandalized eight churches and several homes following accusations of blasphemy against Islam in Pakistan\u2019s most populated province of Punjab on Wednesday, according to government author...",
+    "url": "https://www.cnn.com/2023/08/16/asia/pakistan-punjab-churches-vandalized-blasphemy-intl/index.html",
+    "author": "Sophia Saifi Azaz Syed",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230816162408-01-punjab-church-fires-081623.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-17 06:49:33 +0000"
+  },
+  {
+    "id": "3a48312f-e7d2-4e0c-bcce-46266992d0dc",
+    "title": "Texas woman charged with threatening to kill judge overseeing Trump's federal election interference case | CNN Politics",
+    "description": "CNN \u2014\n\nA Texas woman has been charged with threatening in a voicemail to kill the federal judge overseeing former President Donald Trump\u2019s criminal case in Washington, DC, over his attempts to overtur...",
+    "url": "https://www.cnn.com/2023/08/16/politics/texas-woman-charged-threat-judge-chutkan/index.html",
+    "author": "Rashard Rose",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230801182932-judge-tanya-s-chutkan.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-17 06:47:11 +0000"
+  },
+  {
+    "id": "b158af81-1df9-493d-971c-a89c4d673bd1",
+    "title": "Conservative ex-federal judge: Trump's 'unprecedented' attacks on federal judiciary are 'grave disservice' to nation | CNN Politics",
+    "description": "CNN \u2014\n\nA conservative retired federal judge on Wednesday condemned former President Donald Trump\u2019s criticisms of judges hearing criminal cases brought against him, calling the recent attacks \u201cunpreced...",
+    "url": "https://www.cnn.com/2023/08/16/politics/michael-luttig-trump-judge-attacks/index.html",
+    "author": "Piper Hudspeth Blackburn",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230816220255-02-j-michael-luttig-061622.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-17 06:47:11 +0000"
+  },
+  {
+    "id": "1f3e5a93-b7b4-404b-b354-ea7b0373ed9b",
+    "title": "Looming Trump trials are throwing judges into an election maelstrom | CNN Politics",
+    "description": "CNN \u2014\n\nJudges are being forced into an unprecedented and perilous spot in the middle of an already tempestuous presidential campaign because of rising acrimony over the criminal trials of Donald Trump...",
+    "url": "https://www.cnn.com/2023/08/17/politics/trump-trials-judges-2024-politics/index.html",
+    "author": "Stephen Collinson",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230816125620-donald-trump-surrender-negotiations.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-17 06:47:11 +0000"
+  },
+  {
+    "id": "e2a27f05-6436-4254-aab3-37ac6966adb2",
+    "title": "A quarter of humanity faces extreme water stress -- and it's poised to get worse, new report finds | CNN",
+    "description": "CNN \u2014\n\nThe world is facing an \u201cunprecedented water crisis\u201d driven by soaring demand and the accelerating climate crisis, according to a new report.\n\nA quarter of the world\u2019s population currently faces...",
+    "url": "https://www.cnn.com/2023/08/16/world/water-stress-scarcity-climate-crisis-scn-intl/index.html",
+    "author": "Hafsa Khalil",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230816034550-02-water-stress-wri-scn-climate-intl.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2023-08-17 06:46:03 +0000"
+  },
+  {
+    "id": "cb343485-7045-4d79-8e45-de945e6c0eb5",
+    "title": "Civil war is worsening Sudan's already dire humanitarian crisis. How you can help | CNN",
+    "description": "CNN \u2014\n\nA civil war in Sudan that broke out earlier this year is raging on, worsening an already dire humanitarian crisis in northeastern Africa.\n\nAccording to the UN\u2019s International Organization for M...",
+    "url": "https://www.cnn.com/2023/08/16/world/how-to-help-sudan-refugees-iyw/index.html",
+    "author": "Cnn Impact Your World",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230814130849-sudan-refugees-file.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2023-08-17 06:46:03 +0000"
+  },
+  {
+    "id": "5c1faa77-0d83-4c6f-addd-74a7ef6377ea",
+    "title": "North Korea May Test ICBM as US, Japan, South Korea Leaders Meet",
+    "description": "Why did this happen?\n\nPlease make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie...",
+    "url": "https://www.bloomberg.com/news/articles/2023-08-17/north-korea-may-test-icbm-as-us-japan-south-korea-leaders-meet",
+    "author": "Bloomberg",
+    "image": "",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-17 06:31:54 +0000"
+  },
+  {
+    "id": "0229a9c3-7ee0-4cfb-ae06-a35dd6271c2c",
+    "title": "AI could dwarf Industrial Revolution's impact on 'all elements of life,' senior UK official says",
+    "description": "The deputy prime minister of the United Kingdom is speculating that the proliferation of artificial intelligence will have a bigger impact on the nation than the Industrial Revolution.\u00a0 \"This is a total revolution that is coming,\" deputy PM Oliver Dowden told The Times. \"It's going to totally transf...",
+    "url": "https://www.foxnews.com/world/ai-could-dwarf-industrial-revolutions-impact-all-elements-life-senior-uk-official-says",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/industrialrevoai.png",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-17 06:05:28 +0000"
+  },
+  {
+    "id": "2ab4fc7b-19d3-4b43-9f4e-580a7048fbe4",
+    "title": "House, Senate Republicans team up to crack down on FTC for destroying documents related to congressional probe",
+    "description": "FIRST ON FOX\u00a0\u2014 Top Republicans on Capitol Hill are vowing a crackdown on the Federal Trade Commission (FTC) for allegedly destroying documents related to a congressional probe. \"By deleting documents, the FTC likely violated federal law. It also impeded Congressional oversight of the FTC's recent, u...",
+    "url": "https://www.foxnews.com/politics/house-senate-republicans-team-up-crack-down-ftc-destroying-documents-related-congressional-probe",
+    "author": "foxnews",
+    "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c220e420-0345-4892-bff0-5de78bdcbc78/86ed4b04-0107-4d36-b9b0-99d16fb557ff/1280x720/match/image.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-17 06:00:37 +0000"
+  },
+  {
+    "id": "2caca9b2-e1f1-45f6-93dc-4ee33f4d0e97",
+    "title": "House Democrats launch 'working group' on artificial intelligence",
+    "description": "House Democrats are launching a working group aimed at crafting artificial intelligence policy, the latest attempt by federal lawmakers to wrap their heads around legislating the rapidly-advancing sector.\u00a0 The New Democrat Coalition, a group of nearly 100 House Democrats that touts itself as \"pragma...",
+    "url": "https://www.foxnews.com/politics/house-democrats-launch-working-group-artificial-intelligence",
+    "author": "foxnews",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-17 06:00:36 +0000"
+  },
+  {
+    "id": "0ff61b98-23b8-4d40-b706-362ca326d522",
+    "title": "Biden's Department of Justice risks the greatest threat of all",
+    "description": "NEW You can now listen to Fox News articles!\n\nAmericans are losing faith in the credibility of the Department of Justice, and it is dangerous. The drip feed of stories coming out of Washington, D.C. i...",
+    "url": "https://www.foxnews.com/opinion/biden-department-justice-risks-greatest-threat-all",
+    "author": "Mike Rogers",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/11/justicedeptlogo.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-17 06:00:16 +0000"
+  },
+  {
+    "id": "af789d62-b750-4549-a364-abb81fc6fe19",
+    "title": "US and Iran Rely on Shadow Diplomacy Where Open Deals Would Fail",
+    "description": "Why did this happen?\n\nPlease make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie...",
+    "url": "https://www.bloomberg.com/news/articles/2023-08-17/us-and-iran-relying-on-shadow-diplomacy-where-open-deals-would-fail",
+    "author": "Bloomberg",
+    "image": "",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-17 05:48:04 +0000"
+  },
+  {
+    "id": "c5130e7f-a5b7-4f41-88b8-ff3f147cfa43",
+    "title": "Germany to Buy Israel\u2019s Air-Defense System in $3.5 Billion Deal",
+    "description": "Breaking Bread\n\nBreaking Bread is a series aimed at finding common ground across a deeply divided America. Alexander Heffner, journalist and long-time host of PBS's The Open Mind, journeys from Maine ...",
+    "url": "https://www.bloomberg.com/news/articles/2023-08-17/germany-to-buy-israel-s-air-defense-system-in-3-5-billion-deal",
+    "author": "Ethan Bronner",
+    "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/il1Qy6QMlZo0/v1/1200x620.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-17 05:44:17 +0000"
+  },
+  {
+    "id": "344ba302-ee4f-4123-a21e-d07a79369a14",
+    "title": "Starmer\u2019s UK Labour is \u2018Too Timid,\u2019 Predecessor Corbyn Says",
+    "description": "Why did this happen?\n\nPlease make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie...",
+    "url": "https://www.bloomberg.com/news/articles/2023-08-17/starmer-s-uk-labour-is-too-timid-predecessor-corbyn-says",
+    "author": "Bloomberg",
+    "image": "",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-17 04:20:55 +0000"
+  },
+  {
+    "id": "aeec2ef2-b554-4a55-bbf8-c40a90d688b1",
+    "title": "US, Brazil Discuss Possible Biden-Lula Meeting at UN Forum",
+    "description": "Why did this happen?\n\nPlease make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie...",
+    "url": "https://www.bloomberg.com/news/articles/2023-08-16/us-brazil-discuss-possible-biden-lula-meeting-at-un-forum",
+    "author": "Bloomberg Green",
+    "image": "",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-17 04:16:04 +0000"
+  },
+  {
+    "id": "2a66b1d6-578f-4d9b-a9d4-bf62b37135aa",
+    "title": "On this day in history, August 17, 1945, George Orwell's 'Animal Farm' is published",
+    "description": "The political fable, \"Animal Farm,\" written by visionary George Orwell, was published on this day in history, Aug. 17, 1945.\u00a0 The plot of \"Animal Farm\" is based on the story of the Russian Revolution and its betrayal by Joseph Stalin and is deemed an allegory, according to Britannica.com The novella...",
+    "url": "https://www.foxnews.com/lifestyle/this-day-history-august-17-1945-george-orwells-animal-farm-published",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/03/GeorgeOrwell.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-17 04:02:59 +0000"
+  },
+  {
+    "id": "8f1bc8ee-39cf-42f8-aa9a-6486f52b0f8d",
+    "title": "Texas woman charged with threatening federal judge overseeing Trump Jan. 6 case",
+    "description": "A Texas woman was arrested last week on allegations that she sent a threatening and racist voicemail to the federal judge in Washington, D.C., who was randomly assigned to oversee the Justice Departme...",
+    "url": "https://www.cbsnews.com/news/texas-woman-charged-racist-threats-federal-judge-trump-jan-6-case-tanya-chutkan-sheila-jackson-lee/",
+    "author": "Faris Tanyos",
+    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/02/d6ae7f6c-f409-4f5b-b788-d47b6efcf42f/thumbnail/1200x630/30e9d44dc191cf5aab7451a2a7023070/ap23213838712214.png?v=46e0dad4db516ed39a3a8f6257e75e73",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-17 04:01:35 +0000"
+  },
+  {
+    "id": "8baf5359-8e92-4891-b129-14be89801ccb",
+    "title": "Wanted Georgia man arrested after applying for job at Arkansas police department",
+    "description": "Police in Arkansas say a man applying to be a police officer had warrants out for his arrest in Georgia. According to a press release from the Monticello Police Department, 24-year-old Justin C. Carter applied for the police officer position through an online application while hiding in South Caroli...",
+    "url": "https://www.foxnews.com/us/wanted-georgia-man-arrested-after-applying-for-job-arkansas-police-department",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/2d816516-1.jpg",
+    "language": "en",
+    "category": [
+      "regional"
+    ],
+    "published": "2023-08-17 03:48:23 +0000"
+  },
+  {
+    "id": "d04ecda2-68ff-4e94-8078-653730b0e022",
+    "title": "GREG GUTFELD: We're seeing more examples of people using the banner of trans to do insane things",
+    "description": "NEW You can now listen to Fox News articles!\n\nEveryone you know what that means!\n\nANNOUNCER: Assembled together in one place. The greatest segment in cable television Trans-Tuesday, but it identifies ...",
+    "url": "https://www.foxnews.com/opinion/greg-gutfeld-examples-banner-trans-insane-things",
+    "author": "Greg Gutfeld",
+    "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8423dc47-6fcb-4a99-b992-9ad4fcdd85d6/78b70ec8-e954-4ec9-a3b8-d806f04748d4/1280x720/match/image.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-17 03:40:06 +0000"
+  },
+  {
+    "id": "71f4d393-0af5-4c0b-9011-af1433028ae4",
+    "title": "Colts star running back Jonathan Taylor 'not currently with the team' amid ankle rehab and contract dispute",
+    "description": "All-Pro running back Jonathan Taylor has recently expressed displeasure about the current state of his contract with the Indianapolis Colts. In late July, team owner Jim Irsay met with Taylor on a team bus parked near the practice field. Following the meeting, the star running back formally requeste...",
+    "url": "https://www.foxnews.com/sports/colts-star-running-back-jonathan-taylor-not-currently-team-amid-ankle-rehab-contract-dispute",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/Jonathan-Taylor.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-17 03:32:14 +0000"
+  },
+  {
+    "id": "58b00104-f7b5-4f71-b400-d774de4e77af",
+    "title": "Anheuser-Busch Heir Offers to Buy Company Back After Mulvaney Fallout",
+    "description": "Billy Busch, heir to the Anheuser-Busch company, has offered to buy the company back from its parent company, InBev, if it wants to sell.",
+    "url": "https://www.breitbart.com/politics/2023/08/16/anheuser-busch-heir-offers-buy-company-back-dylan-mulvaney-fallout/",
+    "author": "Paul Bois",
+    "image": "https://media.breitbart.com/media/2023/08/anheuser-busch-inbev-dylan-mulvaney-bud-light-instagram-getty-640x335.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-17 03:25:42 +0000"
+  },
+  {
+    "id": "6f99ffbb-aba5-483c-a952-769cbb24b4b9",
+    "title": "With new head coach and new quarterback, Dimond flag football is still poised to dominate",
+    "description": "Kristen Melican-Nevala, new head coach of the Dimond Lynx flag football team, talks to players during their last day of practice on Wednesday, before their season opener at Bettye Davis East High on the first day of school on Thursday. Melican-Nevala helped start the program in 2006. (Bill Roth / AD...",
+    "url": "https://www.adn.com/sports/high-school-sports/2023/08/16/with-new-head-coach-and-new-quarterback-dimond-flag-football-is-still-poised-to-dominate/",
+    "author": "Josh Reed",
+    "image": "https://www.adn.com/resizer//0f4dBhWWDGvCLn_EOHdCs5LxTnQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/adn/NGSVIPWDORDLFCFRRJIZ6OLG7E.JPG",
+    "language": "en",
+    "category": [
+      "regional",
+      "politics"
+    ],
+    "published": "2023-08-17 03:12:31 +0000"
+  },
+  {
+    "id": "2e5e227f-f48e-4810-8df0-8d25fec85000",
+    "title": "SEAN HANNITY: Biden's re-election strategy is now in full gear",
+    "description": "Fox News host Sean Hannity laid out President Biden's re-election strategy following the fourth Trump indictment as the 2024 election season gets underway.\u00a0 SEAN HANNITY: Tonight, Joe Biden's re-election strategy that is in full gear. He doesn't need to lift a finger. Why? Because this election seas...",
+    "url": "https://www.foxnews.com/media/sean-hannity-biden-doesnt-need-to-lift-a-finger-with-his-re-election-strategy-now-in-full-gear",
+    "author": "foxnews",
+    "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/669a73b8-5dbd-492b-9223-2af84321f609/6636b54c-faa5-4db9-942b-992b46aeb2bf/1280x720/match/image.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-17 02:57:04 +0000"
+  },
+  {
+    "id": "34dc8f13-e061-4e77-a12d-ba57856b5276",
+    "title": "China Snubs Canada Over Travel, Citing \u2018Discriminatory\u2019 Acts",
+    "description": "Why did this happen?\n\nPlease make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie...",
+    "url": "https://www.bloomberg.com/news/articles/2023-08-17/china-snubs-canada-over-travel-citing-discriminatory-acts",
+    "author": "Bloomberg",
+    "image": "",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-17 02:48:39 +0000"
+  },
+  {
+    "id": "91530bd3-d322-4b36-a38f-cc5ddc24fdae",
+    "title": "WSJ: Hawaiian Electric Focused on Climate Change, Neglected Wildfire Risk",
+    "description": "The Wall Street Journal says Hawaiian Electric focused on climate change and renewables, rather than spending money to address wildfire risk.",
+    "url": "https://www.breitbart.com/politics/2023/08/16/wsj-hawaiian-electric-focused-on-climate-change-neglected-wildfire-risk/",
+    "author": "Joel B. Pollak",
+    "image": "https://media.breitbart.com/media/2023/08/Hawaii-Maui-power-lines-Associated-Press-1-640x335.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-17 02:44:11 +0000"
+  },
+  {
+    "id": "6a9ad56c-f15d-4749-bf62-3addf7f4188f",
+    "title": "Anchorage city officials suggest hotel rooms, small warming areas and volunteer efforts for winter homeless sheltering",
+    "description": "Buildings of Midtown Anchorage and E Street are seen from downtown on Jan. 5, 2023. (Marc Lester / ADN) (Marc Lester/)For the first time in several years, Anchorage isn't planning to shelter its hundreds of homeless residents in a singular mass facility over the winter. City officials on Wednesday r...",
+    "url": "https://www.adn.com/alaska-news/anchorage/2023/08/16/anchorage-city-officials-suggest-hotel-rooms-small-warming-areas-and-volunteer-efforts-for-winter-homeless-sheltering/",
+    "author": "Emily Goodykoontz",
+    "image": "https://www.adn.com/resizer//gWogQ-JLzXwIJBdcU4aRkRe1i0w=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/adn/4IVJP3726VHSPCYYDYBDJP3RLY.JPG",
+    "language": "en",
+    "category": [
+      "regional",
+      "politics"
+    ],
+    "published": "2023-08-17 02:41:21 +0000"
+  },
+  {
+    "id": "339d89da-e553-48d0-97d5-2eda980e03f2",
+    "title": "Red Sox legend Pedro Martinez compares slumping Yankees to 'Chihuahuas' after shutout loss to Braves",
+    "description": "The New York Yankees have fallen to the basement of the AL East and have gone 3-7 over their past 10 games.\u00a0 The Yankees and Boston Red Sox are long time rivals. Former Red Sox star pitcher and World Series champion Pedro Martinez did miss an opportunity to add to the Yankees misery following a shut...",
+    "url": "https://www.foxnews.com/sports/red-sox-legend-pedro-martinez-compares-slumping-yankees-chihuahuas-after-shutout-loss-braves",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/Pedro-Boston-Red-Sox.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-17 02:31:09 +0000"
+  },
+  {
+    "id": "0dd1771c-6aa0-4abc-9dd1-6747ed9fddca",
+    "title": "New research shows tsunami poses \u2018rare but real\u2019 threat to Anchorage",
+    "description": "Downtown Anchorage, photographed in May 2020. (Loren Holmes / ADN) (Loren Holmes/)Upending previous understanding of Anchorage's tsunami vulnerability, researchers said Wednesday that a \"rare but real risk\" exists that a confluence of conditions could lead an earthquake-produced tsunami to inundate ...",
+    "url": "https://www.adn.com/alaska-news/anchorage/2023/08/16/new-research-shows-tsunami-poses-rare-but-real-threat-to-anchorage/",
+    "author": "Michelle Theriault Boots",
+    "image": "https://www.adn.com/resizer//ivshpaV9QDB7bMta7YdaNmMEje8=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/adn/OOTPCVKYEVBQ7EGJP5XZEVT5II.jpg",
+    "language": "en",
+    "category": [
+      "regional",
+      "politics"
+    ],
+    "published": "2023-08-17 02:29:41 +0000"
   }
 ]
