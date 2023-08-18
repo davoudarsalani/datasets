@@ -7627,5 +7627,19 @@
     ],
     "published": "2023-08-18 12:08:15 +0000",
     "short_uuid": "48e67ecd"
+  },
+  {
+    "id": "4e17f324-2ef4-459e-9768-9735bbcfdb13",
+    "title": "Latest news on Russia's war in Ukraine, drone shot down over Mosow",
+    "description": "The US has approved the transfer of F-16 instructional materials to Ukraine, according to a Biden administration official and a US official, as the program to train Ukrainian pilots on the American je...",
+    "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-08-18-23/index.html",
+    "author": "Tara Subramaniam",
+    "image": "https://cdn.cnn.com/cnnnext/dam/assets/230816192346-05-ukraine-crimea-attacks-bakhmut-080223-restricted-super-tease.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-18 12:54:34 +0000",
+    "short_uuid": "5b7e8bbb"
   }
 ]
