@@ -1,11 +1,13 @@
 #!/usr/bin/env python
 
+from copy import deepcopy
 from getopt import getopt
 from json import load as load, dumps as dumps
 from os import path
 from re import match, sub
 from sys import argv
 from urllib.request import urlopen
+from uuid import uuid4
 
 
 def normalize(text) -> str:
@@ -43,27 +45,48 @@ def getopts() -> None:
 def main() -> None:
     getopts()
 
-    main_file = f'./news/api-news/{source}.json'
-    previous  = f'./news/api-news/{source}-2.json'
-    final_list = []
-
+    main_file     = f'./news/api-news/{source}.json'
+    main_file_2   = f'./news/api-news/{source}-2.json'
     dl_successful = False
-    dl_try = 1
+    dl_try        = 1
+
     while not dl_successful and dl_try <= 5:
         try:
+
             if path.exists(main_file):
                 print('reading current news')
-                with open(main_file) as main:
-                    current_news = load(main)
-            else:
-                current_news = []
+                with open(main_file) as opened:
+                    already_1 = load(opened)
+                    already_1_uuids = [_.get('short_uuid', '') for _ in already_1]
 
-            if path.exists(previous):
-                print('reading previous news')
-                with open(previous) as previous_opened:
-                    previous_news = load(previous_opened)
+                already_1__trimmed = deepcopy(already_1)
+                for dict_ in already_1__trimmed:
+                    if dict_.get('short_uuid'):
+                        del dict_['short_uuid']
             else:
-                previous_news = []
+                already_1          = []
+                already_1_uuids    = []
+                already_1__trimmed = []
+
+
+
+
+            if path.exists(main_file_2):
+                print('reading previous news')
+                with open(main_file_2) as opened:
+                    already_2 = load(opened)
+                    already_2_uuids = [_.get('short_uuid', '') for _ in already_2]
+
+                already_2__trimmed = deepcopy(already_2)
+                for dict_ in already_2__trimmed:
+                    if dict_.get('short_uuid'):
+                        del dict_['short_uuid']
+            else:
+                already_2          = []
+                already_2_uuids    = []
+                already_2__trimmed = []
+
+            ######################################
 
             print('downloading news with urlopen')
             resp = urlopen(url)
@@ -71,29 +94,44 @@ def main() -> None:
             print('parsing the news')
             resp = load(resp)
 
+            print('getting status')
             stts = resp.get('status', '')  ## NOTE do NOT replace '' with None
             if not match(success_regex, stts):
                 print(f'ERROR: Status = {stts}, meaning downloading was not successful')
                 exit(1)
 
-            print('appending current news')
-            for cn in current_news:
-                if cn not in previous_news and \
-                   cn not in final_list:
-                    final_list.append(cn)
+            ######################################
 
             print('appending new news')
+            new_uuids = []
             new_news = resp[news_key]
             for nn in new_news:
-                if nn not in current_news and \
-                   nn not in previous_news and \
-                   nn not in final_list:
-                    final_list.append(nn)
+                if nn not in already_1__trimmed and \
+                   nn not in already_2__trimmed:
+
+                    ## add short_uuid
+                    new_uuid_is_dupl = True
+                    while new_uuid_is_dupl:
+                        new_uuid = hex(int(uuid4().time_low))[2:10]
+                        if  new_uuid not in already_1_uuids and \
+                            new_uuid not in already_2_uuids and \
+                            new_uuid not in new_uuids:
+                            new_uuid_is_dupl = False
+
+                    ## add nn to already_1__trimmed before adding short_uuid to it
+                    ## (keep above JUMP_1)
+                    already_1__trimmed.append(nn)
+
+                    nn['short_uuid'] = new_uuid  ## JUMP_1
+                    already_1.append(nn)
+                    new_uuids.append(new_uuid)
+
+            ######################################
 
             print(f'write to {main_file}')
-            with open(main_file, 'w') as main2:
-                dumped = dumps(final_list, indent=2)
-                main2.write(dumped + '\n')
+            with open(main_file, 'w') as opened:
+                dumped = dumps(already_1, indent=2)
+                opened.write(dumped + '\n')
 
             dl_successful = True
 

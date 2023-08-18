@@ -3,7 +3,7 @@ name: NewsData
 on:
   workflow_dispatch:
   schedule:
-    - cron: '20 */3 * * *'  ## at minute 20 past every 6th hour
+    - cron: '20 */2 * * *'  ## at minute 20 past every 2nd hour
 
 jobs:
   newsdata:
