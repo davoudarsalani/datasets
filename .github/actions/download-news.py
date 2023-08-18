@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 from getopt import getopt
-from json import load as j_load, dumps as j_dumps
+from json import load as load, dumps as dumps
 from os import path
 from re import match, sub
 from sys import argv
@@ -47,55 +47,60 @@ def main() -> None:
     previous  = f'./news/api-news/{source}-2.json'
     final_list = []
 
-    try:
-        if path.exists(main_file):
-            print('reading current news')
-            with open(main_file) as main:
-                current_news = j_load(main)
-        else:
-            current_news = []
+    dl_successful = False
+    dl_try = 1
+    while not dl_successful and dl_try <= 5:
+        try:
+            if path.exists(main_file):
+                print('reading current news')
+                with open(main_file) as main:
+                    current_news = load(main)
+            else:
+                current_news = []
 
-        if path.exists(previous):
-            print('reading previous news')
-            with open(previous) as previous_opened:
-                previous_news = j_load(previous_opened)
-        else:
-            previous_news = []
+            if path.exists(previous):
+                print('reading previous news')
+                with open(previous) as previous_opened:
+                    previous_news = load(previous_opened)
+            else:
+                previous_news = []
 
-        print('downloading news with urlopen')
-        resp = urlopen(url)
+            print('downloading news with urlopen')
+            resp = urlopen(url)
 
-        print('parsing the news')
-        resp = j_load(resp)
+            print('parsing the news')
+            resp = load(resp)
 
-        stts = resp.get('status', None)  ## None because gnews has no status
-        if stts:
+            stts = resp.get('status', '')  ## NOTE do NOT replace '' with None
             if not match(success_regex, stts):
                 print(f'ERROR: Status = {stts}, meaning downloading was not successful')
                 exit(1)
 
-        print('appending current news')
-        for cn in current_news:
-            if cn not in previous_news and \
-               cn not in final_list:
-                final_list.append(cn)
+            print('appending current news')
+            for cn in current_news:
+                if cn not in previous_news and \
+                   cn not in final_list:
+                    final_list.append(cn)
 
-        print('appending new news')
-        new_news = resp[news_key]
-        for nn in new_news:
-            if nn not in current_news and \
-               nn not in previous_news and \
-               nn not in final_list:
-                final_list.append(nn)
+            print('appending new news')
+            new_news = resp[news_key]
+            for nn in new_news:
+                if nn not in current_news and \
+                   nn not in previous_news and \
+                   nn not in final_list:
+                    final_list.append(nn)
 
-        print(f'write to {main_file}')
-        with open(main_file, 'w') as main2:
-            dumped = j_dumps(final_list, indent=2)
-            main2.write(dumped + '\n')
+            print(f'write to {main_file}')
+            with open(main_file, 'w') as main2:
+                dumped = dumps(final_list, indent=2)
+                main2.write(dumped + '\n')
 
-    except Exception as exc:
-        print(f'ERROR: {exc!r}')
+            dl_successful = True
 
+        except Exception as exc:
+            print(f'ERROR in try {dl_try}: {exc!r}')
+
+        dl_try += 1
 
 if __name__ == '__main__':
     script_args = argv[1:]
