@@ -7599,5 +7599,33 @@
     ],
     "published": "2023-08-18 12:00:04 +0000",
     "short_uuid": "f1ec078c"
+  },
+  {
+    "id": "4e17f324-2ef4-459e-9768-9735bbcfdb13",
+    "title": "Latest news on Russia's war in Ukraine, drone shot down over Mosow",
+    "description": "Ukrainian pilots will begin training on F-16 fighter jets in Denmark later in August, the Danish defense ministry said Friday.\n\nA coalition of 11 countries will be involved in the training, it added.\n...",
+    "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-08-18-23/index.html",
+    "author": "Tara Subramaniam",
+    "image": "https://cdn.cnn.com/cnnnext/dam/assets/230816192346-05-ukraine-crimea-attacks-bakhmut-080223-restricted-super-tease.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-18 12:54:34 +0000",
+    "short_uuid": "ed8c55f5"
+  },
+  {
+    "id": "0ee30c38-39b2-43e5-8967-3b787cd2e483",
+    "title": "\"Leave Neutrality Behind\": University of Texas at Austin Initiative Embraces Advocacy Journalism",
+    "description": "In 2021, Varma wrote an article titled, \u201cSolidarity Eclipses Objectivity as Journalism\u2019s Dominant Ideal\u201d in which she explained:\n\n\u201cobjectivity as an aspirational ideal ends up encouraging journalists ...",
+    "url": "https://jonathanturley.org/2023/08/18/leave-neutrality-behind-university-of-texas-at-austin-initiative-embraces-advocacy-journalism/",
+    "author": "jonathanturley",
+    "image": "https://i0.wp.com/jonathanturley.org/wp-content/uploads/2020/06/cropped-court.png?fit=512%2C512&ssl=1",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-18 12:08:15 +0000",
+    "short_uuid": "48e67ecd"
   }
 ]
