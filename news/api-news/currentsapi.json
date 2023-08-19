@@ -9303,5 +9303,434 @@
     ],
     "published": "2023-08-19 02:09:03 +0000",
     "short_uuid": "5040312"
+  },
+  {
+    "id": "227da15a-c60e-4c10-94a1-05136afaf736",
+    "title": "Is the AI boom already over?",
+    "description": "When generative AI products started rolling out to the general public last year, it kicked off a frenzy of excitement and fear.\n\nPeople were amazed at the images and words these tools could create fro...",
+    "url": "https://www.vox.com/technology/2023/8/19/23837705/openai-chatgpt-microsoft-bing-google-generating-less-interest",
+    "author": "Sara Morrison",
+    "image": "https://cdn.vox-cdn.com/thumbor/dcLUH7dKpOor8vmgni1DHsCIrok=/0x246:2800x1712/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24859578/GettyImages_1209218350.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-19 13:00:00 +0000",
+    "short_uuid": "89c459ca"
+  },
+  {
+    "id": "0de0de03-5c2d-447c-ae48-37747aee0d6c",
+    "title": "FBI joins investigation of threats to grand jurors in Trump Georgia case",
+    "description": "National News FBI joins investigation of threats to grand jurors in Trump Georgia case The names, home addresses, photos, and social media profiles of some jurors were circulated online along with thr...",
+    "url": "https://www.boston.com/news/national-news/2023/08/19/fbi-joins-investigation-of-threats-to-grand-jurors-in-trump-georgia-case/",
+    "author": "Washington Post",
+    "image": "https://www.boston.com/wp-content/uploads/2023/08/georgia-threats-f3828d9a-3e10-11ee-a7f4-72c10218d9e0-64dfeaa6dc9b6-scaled.jpg",
+    "language": "en",
+    "category": [
+      "politics",
+      "world"
+    ],
+    "published": "2023-08-19 12:37:41 +0000",
+    "short_uuid": "31a04d26"
+  },
+  {
+    "id": "7391b45f-de1e-4b18-9c48-858af6d84e1a",
+    "title": "Officials in Lahaina are trying to get mental health support to displaced residents",
+    "description": "Officials in Lahaina are trying to get mental health support to displaced residents Besides the challenges of displacement and recovery, officials are scrambling to support the enormous mental health ...",
+    "url": "https://www.npr.org/2023/08/19/1194851665/officials-in-lahaina-are-trying-to-get-mental-health-support-to-displaced-reside",
+    "author": "Eric Westervelt",
+    "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+    "language": "en",
+    "category": [
+      "health",
+      "lifestyle"
+    ],
+    "published": "2023-08-19 12:32:37 +0000",
+    "short_uuid": "c8890bfc"
+  },
+  {
+    "id": "34c198a5-c2c6-4260-9bc8-4df0473d483b",
+    "title": "Look who's experimenting with marijuana today more than any other age group",
+    "description": "The fastest growing population to try marijuana these days is not rebellious teenagers. Guess again.\u00a0 New research from the\u00a0National Survey on Drug Use and Health, an annual federal report that began over 50 years ago to provide up-to-date data on the use of\u00a0tobacco, alcohol and illicit drugs as wel...",
+    "url": "https://www.foxnews.com/health/look-whos-experimenting-marijuana-today-more-age-group",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/AP23211730997290.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-19 12:32:04 +0000",
+    "short_uuid": "afff7f64"
+  },
+  {
+    "id": "4ae0c8df-0aae-4e63-8900-69712a8f7866",
+    "title": "Georgia murder-for-hire suspect called 911 on her husband after fight over private plane: bodycam",
+    "description": "Georgia housewife Lindsay Shiver called 911 on her estranged husband, Robert Shiver, after he barred her from using their private jet to meet her boyfriend in the Bahamas, according to police bodycam video obtained by Fox News Digital. Five days later, the mother of three was charged alongside her B...",
+    "url": "https://www.foxnews.com/us/georgia-murder-for-hire-suspect-called-911-husband-after-fight-over-private-plane-bodycam",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/Shiver-Bahamas-house.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-19 12:30:38 +0000",
+    "short_uuid": "ba2a06d8"
+  },
+  {
+    "id": "040cdce1-370e-4657-a53e-957085ebb67c",
+    "title": "Former Attorney General Alberto Gonzales says Trump 'should serve time' if found guilty in Jan. 6 case",
+    "description": "Former U.S. Attorney General Alberto Gonzales said Friday that former President Donald Trump \"should serve time\" if he is convicted on federal charges brought by special counsel Jack Smith's Jan. 6 probe.\u00a0 Gonzales, who served under former President George W. Bush, made that comment during an interv...",
+    "url": "https://www.foxnews.com/politics/former-attorney-general-alberto-gonzales-trump-serve-time-found-guilty-jan-6-case",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/former-us-attorney-general-alberto-gonzales.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-19 12:17:53 +0000",
+    "short_uuid": "161499b3"
+  },
+  {
+    "id": "6e644b48-f163-407f-bdd2-2562800bfb64",
+    "title": "Shiny and new, it\u2019s England and Spain for a World Cup final that fits",
+    "description": "Listen 6 min Share Comment on this story Comment\n\nSYDNEY \u2014 Thirty-two World Cup teams have gone whittled to two finalists, but somehow the neighborhood scrap between England and Spain so far away from...",
+    "url": "https://www.washingtonpost.com/sports/2023/08/19/england-spain-womens-world-cup-final-preview/",
+    "author": "Chuck Culpepper",
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BAF6DRUJV4SEEFLUGINLUSTX7Q_size-normalized.jpg&w=1440",
+    "language": "en",
+    "category": [
+      "sports"
+    ],
+    "published": "2023-08-19 12:11:00 +0000",
+    "short_uuid": "1d222d10"
+  },
+  {
+    "id": "e627c744-979b-4574-aa03-1c88d50abe37",
+    "title": "Mortgage rates are at a record high. Here's what that means for home buying",
+    "description": "Mortgage rates are at a record high. Here's what that means for home buying Rates for a fixed, 30-year mortgage jumped to the highest rate seen in over 20 years - over seven percent. We'll look at wha...",
+    "url": "https://www.npr.org/2023/08/19/1194846063/mortgage-rates-are-at-a-record-high-heres-what-that-means-for-home-buying",
+    "author": "Scott Simon Scott Horsley",
+    "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+    "language": "en",
+    "category": [
+      "personalfinance",
+      "business"
+    ],
+    "published": "2023-08-19 12:01:29 +0000",
+    "short_uuid": "4f25c8b0"
+  },
+  {
+    "id": "57b1a0fd-d3a6-4cd8-b984-52dcd11e0ada",
+    "title": "China's leaders are under pressure as its economic growth falters",
+    "description": "China's leaders are under pressure as its economic growth falters NPR's Scott Simon speaks to Robert Daly from the Wilson Center about the challenges facing China's leaders as the country's economic g...",
+    "url": "https://www.npr.org/2023/08/19/1194846056/chinas-leaders-are-under-pressure-as-its-economic-growth-falters",
+    "author": "Scott Simon",
+    "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2023-08-19 12:01:29 +0000",
+    "short_uuid": "be7b043e"
+  },
+  {
+    "id": "2466783f-a79f-4739-a491-af501d12b13c",
+    "title": "The Camp David summit signals a new chapter for U.S. alliances in Asia",
+    "description": "The Camp David summit signals a new chapter for U.S. alliances in Asia Leaders in South Korea, Japan and the United States are celebrating new security agreements announced Friday. The plans, which ar...",
+    "url": "https://www.npr.org/2023/08/19/1194846014/the-camp-david-summit-signals-a-new-chapter-for-u-s-alliances-in-asia",
+    "author": "Scott Simon Anthony Kuhn",
+    "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2023-08-19 12:01:29 +0000",
+    "short_uuid": "13cf5334"
+  },
+  {
+    "id": "774d7861-16d9-4d8f-8238-3ef8a457e995",
+    "title": "Week in politics: New indictments for Trump; Biden hosts Japan and South Korea",
+    "description": "Week in politics: New indictments for Trump; Biden hosts Japan and South Korea We look at the indictments handed down this week for former president Donald Trump and 18 of his associates, and what Pre...",
+    "url": "https://www.npr.org/2023/08/19/1194846007/week-in-politics-new-indictments-for-trump-biden-hosts-japan-and-south-korea",
+    "author": "Scott Simon Ron Elving",
+    "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+    "language": "en",
+    "category": [
+      "politics",
+      "world"
+    ],
+    "published": "2023-08-19 12:01:29 +0000",
+    "short_uuid": "aadd1f64"
+  },
+  {
+    "id": "1c41ddef-2a27-4de5-9afe-5390cf03c446",
+    "title": "North Dakota man fatally beat wife while kids were home, left her in bathtub to die: police",
+    "description": "A North Dakota man was charged Monday with murder in the death of his wife after initially telling police she \"face planted\" while drunk, then never woke up after deciding to sleep in the bathtub. Spencer Moen, 31, is being held on murder charges and contributing to the deprivation or delinquency of...",
+    "url": "https://www.foxnews.com/us/north-dakota-man-fatally-beat-wife-while-kids-were-home-left-her-in-bathtub-die-police",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/Spencer-Moen.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-19 12:00:32 +0000",
+    "short_uuid": "9eb36730"
+  },
+  {
+    "id": "e03f1c79-4ad1-42ec-b13a-8ece84b25db9",
+    "title": "Follow these 3 simple rules and live past 100",
+    "description": "NEW You can now listen to Fox News articles!\n\nI just turned 45... for the 20th straight year. That means I\u2019m old enough for Medicare, but quite frankly, I don\u2019t need it and I don\u2019t intend ever to use ...",
+    "url": "https://www.foxnews.com/opinion/follow-3-simple-rules-live-past-100",
+    "author": "Michael Levin",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/levin-brain.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-19 12:00:31 +0000",
+    "short_uuid": "e1dfa71a"
+  },
+  {
+    "id": "c4bae5d7-bffd-4c9a-ad97-c0830b57c673",
+    "title": "Texas tattoo shop boss fires employee, then kills him in argument over final paycheck, police say",
+    "description": "The owner of a Texas tattoo shop on Tuesday fired an employee, who refused to leave the parlor, according to the Arlington Police Department, then shot him to death in an argument over his final paycheck. Javier \"Big Dawg\" Arredondo, a 42-year-old artist and entrepreneur, fired the unidentified 46-y...",
+    "url": "https://www.foxnews.com/us/texas-tattoo-shop-boss-fires-employee-kills-him-argument-final-paycheck-police-say",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/Javier-Arredondo.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-19 12:00:14 +0000",
+    "short_uuid": "781c8ac0"
+  },
+  {
+    "id": "322db62a-b82c-46e8-bbb0-3b3ae5586698",
+    "title": "What\u2019s next for the one-time red state turned southwestern battleground?",
+    "description": "President Biden not only made history in 2020 for being the oldest person ever elected to the White House. He also became just the second Democrat in the past seven decades \u2014 following President Bill Clinton in 1996 \u2014 to carry Arizona in a presidential election. After nearly three-quarters of a cent...",
+    "url": "https://www.foxnews.com/politics/whats-next-one-time-red-state-turned-southwestern-battleground",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/kyrsten_sinema_arizona2.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-19 12:00:09 +0000",
+    "short_uuid": "c6a3f773"
+  },
+  {
+    "id": "831f49e7-ae1e-4484-9a1e-7bf882be2126",
+    "title": "San Francisco's robotaxi experiment is getting out of hand",
+    "description": "Self-driving taxis are ferrying passengers across San Francisco and Phoenix, and they could be coming to a street near you very soon.\n\nThe two leading robotaxi companies, GM\u2019s Cruise and Alphabet\u2019s Wa...",
+    "url": "https://www.vox.com/technology/2023/8/19/23837648/self-driving-taxis-gm-cruise-alphabet-waymo",
+    "author": "Avishay Artsy",
+    "image": "https://cdn.vox-cdn.com/thumbor/0C9wgEPGijQTUq97h8TjrVW_7sA=/0x402:3413x2189/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24859515/GettyImages_1497019989.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-19 12:00:00 +0000",
+    "short_uuid": "af1d6364"
+  },
+  {
+    "id": "5e00b7db-c7d0-4dad-a809-ceebec869382",
+    "title": "Sweden beats Australia 2-0 in Women's World Cup bronze medal match",
+    "description": "Nobody beats Sweden on the rebound from a Women\u2019s World Cup semifinal loss. Not even the tournament hosts.\n\nThe Swedish women extended their perfect record in World Cup third-place matches to four, wi...",
+    "url": "https://www.nbcnews.com/news/world/sweden-australia-womens-world-cup-bronze-medal-match-rcna100762",
+    "author": "The Associated Press",
+    "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-08/230819-sweden-celebrates-ha-69c869.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-19 11:58:38 +0000",
+    "short_uuid": "56a3220a"
+  },
+  {
+    "id": "ddfefab1-67f6-4cfc-ad64-43372e74e117",
+    "title": "New Jersey man beat stepmom to death with baseball bat inside her suburban home, prosecutors say",
+    "description": "A New Jersey man allegedly beat his stepmother to death with a baseball bat Wednesday night and ran off into the darkness, according to prosecutors.\u00a0 John Daniels Jr. was arrested the next day. Creskill Police responded to the family's home in an upscale gated community around 6:45 p.m. Wednesday an...",
+    "url": "https://www.foxnews.com/us/new-jersey-man-beats-stepmom-to-death-with-baseball-bat-inside-her-suburban-home-prosecutors-say",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/Irma-Daniels-John-Daniels-split.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-19 11:00:42 +0000",
+    "short_uuid": "b9240cc0"
+  },
+  {
+    "id": "a6ecaf4e-70be-418c-8589-d7d2418c7987",
+    "title": "CRISIS IN KENSINGTON: This Philadelphia area went from a safe haven to 'hell on earth'",
+    "description": "WARNING: This story contains graphic images. PHILADELPHIA \u2014 Kensington has for years been a haven where addicts could freely shoot heroin. But as stronger substances like fentanyl and tranq, the flesh-easting drug, took hold, the neighborhood devolved further into a full-on deathbed and a hotspot fo...",
+    "url": "https://www.foxnews.com/us/crisis-kensington-philadelphia-area-safe-haven-hell-earth",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/190e77d1-KENSINGTON-333.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-19 11:00:37 +0000",
+    "short_uuid": "917be056"
+  },
+  {
+    "id": "696c490e-fd16-4949-9bd1-c44480a7ac9a",
+    "title": "Utah kittens Romulus and Remus seek a loving new home together",
+    "description": "Brothers and best friends Romulus and Remus are hoping to stay together in a new forever home in the Salt Lake City area \u2014 and the kittens' adoption fees will be waived until the end of the month. While the two young cats are just under four months old, they look quite different.\u00a0 Romulus is mostly ...",
+    "url": "https://www.foxnews.com/lifestyle/utah-kittens-romulus-remus-seek-home-together",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/romulus-and-remus-split.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-19 11:00:15 +0000",
+    "short_uuid": "7a2a33ec"
+  },
+  {
+    "id": "7aec1be7-3506-48a4-ba2f-34f3fcb6fe27",
+    "title": "'Rich Men North of Richmond' hits #1 on Apple charts: 'He has struck a chord' with America",
+    "description": "Many liberal media outlets appear to be \"out of touch\" with Americans after labeling viral country song \"Rich Men North of Richmond\" a \"right-wing,\" \"conservative anthem.\"\u00a0 Despite the labels, the viral song has topped the Apple Music charts, even surpassing country singer Jason Aldean's hit \"Try Th...",
+    "url": "https://www.foxnews.com/media/rich-men-north-richmond-hits-1-apple-charts-struck-chord-america",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/1ac9aa2d-Video-4.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-19 11:00:03 +0000",
+    "short_uuid": "5088dccd"
+  },
+  {
+    "id": "c1ef02cc-2fc8-40ac-87f7-466048fd02dc",
+    "title": "House Republicans are standing between Biden and his war to save Ukraine",
+    "description": "West Wing aides have noted that public support goes up for Ukraine funding any time there is a major moment in the conflict. They plan to take advantage of a pair of upcoming international appearances...",
+    "url": "https://www.politico.com/news/2023/08/19/house-republicans-biden-ukraine-00111949",
+    "author": "Jonathan Lemire, Jennifer Haberkorn,Alexander Ward",
+    "image": "https://static.politico.com/31/21/6a98edc64c7f9a8dde957165cc18/https-delivery-gettyimages.com/downloads/1570171879",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-19 11:00:00 +0000",
+    "short_uuid": "cb9bb8b3"
+  },
+  {
+    "id": "4907936a-9627-4c33-bae5-5ae11490f940",
+    "title": "Biden campaign expects GOP candidates to 'out-MAGA each other' at debate",
+    "description": "The Biden campaign plans to highlight what it's calling an \"extreme MAGA blueprint\" by GOP candidates during the first Republican presidential debate, according to a memo first shared with NBC News.\n\n...",
+    "url": "https://www.nbcnews.com/politics/2024-election/biden-campaign-expects-candidates-maga-debate-rcna100712",
+    "author": "Megan Lebowitz",
+    "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-04/230424-maga-hat-jm-1521-647380.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-19 11:00:00 +0000",
+    "short_uuid": "87e5bdad"
+  },
+  {
+    "id": "f142f79d-013c-45ba-b6b2-0babb2e43090",
+    "title": "Florida's restrictive sex ed rules are causing back-to-school mayhem",
+    "description": "Amid the usual back-to-school preparations this month, yet another College Board AP course was caught in the crossfire of Florida\u2019s ongoing culture war.\n\nThis time, it\u2019s AP Psychology that\u2019s pitting s...",
+    "url": "https://www.vox.com/23835634/florida-ap-psychology-education-dont-say-gay",
+    "author": "Fabiola Cineas",
+    "image": "https://cdn.vox-cdn.com/thumbor/4fmfCtWOV5y_KxlYh1KdKVhnMNQ=/820x33:7573x3569/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24859026/GettyImages_1255657321.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-19 11:00:00 +0000",
+    "short_uuid": "df7d81db"
+  },
+  {
+    "id": "64ce2f20-c63f-45f9-9a4b-19688c4905dc",
+    "title": "Iran\u2013Russia Collaboration Makes a Mess of Biden\u2019s Foreign Policy | National Review",
+    "description": "",
+    "url": "https://www.nationalreview.com/2023/08/iran-russia-collaboration-makes-a-mess-of-bidens-foreign-policy/",
+    "author": "Zach Kessel",
+    "image": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/08/drones-iran.jpg?fit=1200%2C700&ssl=1",
+    "language": "en",
+    "category": [
+      "opinion",
+      "politics"
+    ],
+    "published": "2023-08-19 10:30:45 +0000",
+    "short_uuid": "3bf9b52"
+  },
+  {
+    "id": "e28a86a4-b756-47a1-92e7-9dfd46f70a05",
+    "title": "The Chicanery of the Hunter Biden Plea Bargain | National Review",
+    "description": "",
+    "url": "https://www.nationalreview.com/2023/08/the-chicanery-of-the-hunter-biden-plea-bargain/",
+    "author": "Andrew C. Mccarthy",
+    "image": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/08/hunter-biden-court-delaware.jpg?fit=1200%2C700&ssl=1",
+    "language": "en",
+    "category": [
+      "opinion",
+      "politics"
+    ],
+    "published": "2023-08-19 10:30:37 +0000",
+    "short_uuid": "e7d3307d"
+  },
+  {
+    "id": "1da41775-1e4f-41fc-ad4d-ea45e5aa77dd",
+    "title": "Waiting for Barack | National Review",
+    "description": "",
+    "url": "https://www.nationalreview.com/2023/08/waiting-for-barack/",
+    "author": "William Voegeli",
+    "image": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/08/barack-obama-oval-office-desk.jpg?fit=1200%2C700&ssl=1",
+    "language": "en",
+    "category": [
+      "opinion",
+      "politics"
+    ],
+    "published": "2023-08-19 10:30:15 +0000",
+    "short_uuid": "849d0ac4"
+  },
+  {
+    "id": "72ba35ea-bc31-4e40-aca3-20f43ba2a43c",
+    "title": "Regal and Resplendent Udaipur Comes to Cleveland | National Review",
+    "description": "",
+    "url": "https://www.nationalreview.com/2023/08/regal-and-resplendent-udaipur-comes-to-cleveland/",
+    "author": "Brian T. Allen",
+    "image": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/08/1-1.jpg?fit=1200%2C700&ssl=1",
+    "language": "en",
+    "category": [
+      "opinion",
+      "politics"
+    ],
+    "published": "2023-08-19 10:30:09 +0000",
+    "short_uuid": "5df2ec4b"
+  },
+  {
+    "id": "ae423dba-e651-472d-8bb4-85dcb077940e",
+    "title": "The End of Democracy or Its Restoration? Among the Israelis Taking to the Streets over Judicial Reform | National Review",
+    "description": "",
+    "url": "https://www.nationalreview.com/news/the-end-of-democracy-or-its-restoration-among-the-israelis-taking-to-the-streets-over-judicial-reform/",
+    "author": "Ari Blaff",
+    "image": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/08/israel-judicial-reform-protests-1.jpg?fit=1200%2C700&ssl=1",
+    "language": "en",
+    "category": [
+      "opinion",
+      "politics"
+    ],
+    "published": "2023-08-19 10:30:04 +0000",
+    "short_uuid": "db3492fb"
+  },
+  {
+    "id": "db21bde8-064d-4088-be6c-b5adffa58e39",
+    "title": "ABC/IPSOS Poll: Roughly Half of Americans Have No Confidence in the Hunter Biden Investigation",
+    "description": "According to an new ABC News/Ipsos poll, almost half of Americans lack trust that the Justice Department will conduct the Hunter Biden investigation in a \"fair and nonpartisan manner.\" It is the latest indication of the failure of Attorney General Merrick Garland to restore faith in his department. ...",
+    "url": "https://jonathanturley.org/2023/08/19/abc-ipsos-poll-roughly-half-of-americans-have-no-confidence-in-hunter-biden-investigation/",
+    "author": "jonathanturley",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-19 10:26:09 +0000",
+    "short_uuid": "5fc2d21a"
   }
 ]
