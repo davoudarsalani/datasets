@@ -95,10 +95,11 @@ def main() -> None:
             resp = load(resp)
 
             print('getting status')
-            stts = resp.get('status', '')  ## NOTE do NOT replace '' with None
-            if not match(success_regex, stts):
-                print(f'ERROR: Status = {stts}, meaning downloading was not successful')
-                exit(1)
+            stts = resp.get('status')
+            if stts:  ## if statement because gnews has no 'status' key
+                if not match(success_regex, stts):
+                    print(f'ERROR: Status = {stts}, meaning downloading was not successful')
+                    exit(1)
 
             ######################################
 
