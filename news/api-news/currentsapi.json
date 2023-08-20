@@ -11438,5 +11438,449 @@
     ],
     "published": "2023-08-20 11:00:21 +0000",
     "short_uuid": "7a5948cd"
+  },
+  {
+    "id": "16d8bfe7-7481-443c-863d-4ab8cb72b18b",
+    "title": "Nervous-System-Wise Functional Estimation of Directed Brain\u2013Heart Interplay Through Microstate Occurrences",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/10032106",
+    "author": "Vincenzo Catrambone Gaetano Valenza",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "BIO"
+    ],
+    "published": "2023-08-20 16:00:00 +0000",
+    "short_uuid": "54a12088"
+  },
+  {
+    "id": "f3dc058d-019a-4471-93ba-02d03dabc1c8",
+    "title": "Patient Clustering for Vital Organ Failure Using ICD Code With Graph Attention",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/10040738",
+    "author": "Zhangdaihong Liu Ying Hu Xuan Wu Gert Mertes Yang Yang David A. Clifton",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "BIO"
+    ],
+    "published": "2023-08-20 16:00:00 +0000",
+    "short_uuid": "5b6c89fa"
+  },
+  {
+    "id": "e95bd06c-6da6-45a1-8fa9-a4355843612c",
+    "title": "Deep-Learning-Enabled Microwave-Induced Thermoacoustic Tomography Based on ResAttU-Net for Transcranial Brain Hemorrhage Detection",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/10042074",
+    "author": "Chenzhe Li Zijun Xi Gaofei Jin Weichao Jiang Baosheng Wang Xiran Cai Xiong Wang",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "BIO"
+    ],
+    "published": "2023-08-20 16:00:00 +0000",
+    "short_uuid": "4aeea6dd"
+  },
+  {
+    "id": "70b83f7a-3201-4119-884c-21db66006900",
+    "title": "Effects of Stature and Load Carriage on the Running Biomechanics of Healthy Men",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/10050735",
+    "author": "Junfei Tong Adhitya V. Subramani Vivek Kote Michael Baggaley W. Brent Edwards Jaques Reifman",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "BIO"
+    ],
+    "published": "2023-08-20 16:00:00 +0000",
+    "short_uuid": "e117bc97"
+  },
+  {
+    "id": "44a53734-fae4-4151-9385-9d999a1e33fa",
+    "title": "Outlier-Robust Gaze Signal Filtering Framework Based on Eye-Movement Modality Recognition and Set-Membership Approach",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/10054140",
+    "author": "Bo Yang Jian Huang",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "BIO"
+    ],
+    "published": "2023-08-20 16:00:00 +0000",
+    "short_uuid": "a47b801f"
+  },
+  {
+    "id": "2e1047ee-ae72-434c-b686-e1bfdd12499e",
+    "title": "Effective Brain Connectivity Extraction by Frequency-Domain Convergent Cross-Mapping (FDCCM) and Its Application in Parkinson's Disease Classification",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/10056286",
+    "author": "Sandeep Avvaru Keshab K. Parhi",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "BIO"
+    ],
+    "published": "2023-08-20 16:00:00 +0000",
+    "short_uuid": "72b9fd18"
+  },
+  {
+    "id": "fe1b380a-c50d-43e5-baa3-9d36390cc169",
+    "title": "Explainable Multimodal Deep Dictionary Learning to Capture Developmental Differences From Three fMRI Paradigms",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/10044156",
+    "author": "Lan Yang Chen Qiao Huiyu Zhou Vince D. Calhoun Julia M. Stephen Tony W. Wilson Yuping Wang",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "BIO"
+    ],
+    "published": "2023-08-20 16:00:00 +0000",
+    "short_uuid": "79f9d661"
+  },
+  {
+    "id": "146901b9-24d3-43cb-ad56-775ba132fade",
+    "title": "A Unified User-Generic Framework for Myoelectric Pattern Recognition: Mix-Up and Adversarial Training for Domain Generalization and Adaptation",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/10025816",
+    "author": "Xinhui Li Xu Zhang Xiang Chen Xun Chen Liwei Zhang",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "BIO"
+    ],
+    "published": "2023-08-20 16:00:00 +0000",
+    "short_uuid": "980fc3b3"
+  },
+  {
+    "id": "b48205a6-43b5-48d6-a792-6d9b4baf0171",
+    "title": "NIR-IIb Fluorescence Molecular Tomography of Glioblastomas Based on Heterogeneous Mouse Models and Adaptive Projection Match Pursuit Method",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/10107430",
+    "author": "Xiaojing Shi Lishuang Guo Jiangang Liu Jie Tian Zhenhua Hu",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "BIO"
+    ],
+    "published": "2023-08-20 16:00:00 +0000",
+    "short_uuid": "a7dc8f10"
+  },
+  {
+    "id": "d19a5b43-7977-42b7-ad1e-d2f4a03918a6",
+    "title": "Miniaturized Stacked Transducer for Intravascular Sonothrombolysis With Internal-Illumination Photoacoustic Imaging Guidance and Clot Characterization",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/10032731",
+    "author": "Huaiyu Wu Yuqi Tang Bohua Zhang Paul Klippel Yun Jing Junjie Yao Xiaoning Jiang",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "BIO"
+    ],
+    "published": "2023-08-20 16:00:00 +0000",
+    "short_uuid": "78ccbe80"
+  },
+  {
+    "id": "d228d907-c6d1-42a8-808e-1af7d4139ab6",
+    "title": "Accelerometry-Based Classification of Circulatory States During Out-of-Hospital Cardiac Arrest",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/10038473",
+    "author": "Wolfgang J. Kern Simon Orlob Andreas Bohn Wolfgang Toller Jan Wnent Jan-Thorsten Gr\u00e4sner Martin Holler",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "BIO"
+    ],
+    "published": "2023-08-20 16:00:00 +0000",
+    "short_uuid": "1f734953"
+  },
+  {
+    "id": "cde5c01a-6157-4702-b8de-e92c89131e40",
+    "title": "CMOS Spectrophotometric Microsystem for Malaria Detection",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/10038491",
+    "author": "Gabriel M. Ferreira Vit\u00f3ria Baptista V\u00edtor Silva Maria I. Veiga Gra\u00e7a Minas Susana O. Catarino",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "BIO"
+    ],
+    "published": "2023-08-20 16:00:00 +0000",
+    "short_uuid": "6103f291"
+  },
+  {
+    "id": "5fa1584d-44b3-4762-a5c2-4b0ee53cc0ac",
+    "title": "2D/3D Deep Registration Along Trajectories With Spatiotemporal Context: Application to Prostate Biopsy Navigation",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/10040745",
+    "author": "Tamara Dupuy Cl\u00e9ment Beitone Jocelyne Troccaz Sandrine Voros",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "BIO"
+    ],
+    "published": "2023-08-20 16:00:00 +0000",
+    "short_uuid": "48df48d"
+  },
+  {
+    "id": "61b4490b-e03e-481d-8dcb-fa2c45856806",
+    "title": "Dual-Modal Image Reconstruction for Electrical Impedance Tomography With Overlapping Group Lasso and Laplacian Regularization",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/10041439",
+    "author": "Zhe Liu Hengjia Gu Zhou Chen Pierre Bagnaninchi Yunjie Yang",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "BIO"
+    ],
+    "published": "2023-08-20 16:00:00 +0000",
+    "short_uuid": "acaa37b4"
+  },
+  {
+    "id": "9478ea9f-1f84-496b-a111-e6f633eb8b0f",
+    "title": "Model Analysis of Post-Stimulation Block of a Myelinated Axon by Direct Current",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/10043719",
+    "author": "Jianan Jian Jonathan M. Beckel William C. De Groat Changfeng Tai",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "BIO"
+    ],
+    "published": "2023-08-20 16:00:00 +0000",
+    "short_uuid": "9d3701e4"
+  },
+  {
+    "id": "ed773337-3ce8-4070-aad4-71ae1e7c386b",
+    "title": "Video-Based Elevated Skin Temperature Detection",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/10050004",
+    "author": "Ananyananda Dasari Ambareesh Revanur Laszlo A. Jeni Conrad S. Tucker",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "BIO"
+    ],
+    "published": "2023-08-20 16:00:00 +0000",
+    "short_uuid": "9d8712bb"
+  },
+  {
+    "id": "e897de85-12f4-492a-87e2-0634f71eda4a",
+    "title": "A Population-Informed Particle Filter for Robust Physiological Monitoring Using Low-Information Time-Series Measurements",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/10036085",
+    "author": "Ali Tivay Jin-Oh Hahn",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "BIO"
+    ],
+    "published": "2023-08-20 16:00:00 +0000",
+    "short_uuid": "e775f5cf"
+  },
+  {
+    "id": "c793ce62-abb9-48f3-b91f-9fa5ee6f0e44",
+    "title": "A Stretchable, Conductive Thread-Based Sensor Towards Wearable Monitoring of Muscle Atrophy",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/10052693",
+    "author": "Allyanna Rice Asimina Kiourti",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "BIO"
+    ],
+    "published": "2023-08-20 16:00:00 +0000",
+    "short_uuid": "f8b078fb"
+  },
+  {
+    "id": "1ad6e422-79df-44f0-8f44-b17760cfbe87",
+    "title": "Improving Fast Ripples Recording With Model-Guided Design of Microelectrodes",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/10057014",
+    "author": "M. Al Harrach G. Dauly H. Seyedeh-Mousavi G. Dieuset P. Benquet E. Ismailova F. Wendling",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "BIO"
+    ],
+    "published": "2023-08-20 16:00:00 +0000",
+    "short_uuid": "ee4ee41a"
+  },
+  {
+    "id": "ceef8cc4-d207-4d05-bd0e-30d9daf4028e",
+    "title": "Simultaneous Spectral Temporal Modelling for a Time-Resolved Fluorescence Emission Spectrum",
+    "description": "",
+    "url": "https://ieeexplore.ieee.org/document/10068267",
+    "author": "Alexandra C. Adams Andr\u00e1s Kufcs\u00e1k Katjana Ehrlich Kevin Dhaliwal Sohan Seth",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "BIO"
+    ],
+    "published": "2023-08-20 16:00:00 +0000",
+    "short_uuid": "640f5d99"
+  },
+  {
+    "id": "d4211a13-fbd8-4442-94c8-52b457192092",
+    "title": "Correntropy-Based Logistic Regression With Automatic Relevance Determination for Robust Sparse Brain Activity Decoding",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/10107426",
+    "author": "Yuanhao Li Badong Chen Yuxi Shi Natsue Yoshimura Yasuharu Koike",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "BIO"
+    ],
+    "published": "2023-08-20 16:00:00 +0000",
+    "short_uuid": "aed529cc"
+  },
+  {
+    "id": "4c753912-032d-4b38-a482-1d544fbdf1ad",
+    "title": "Accurate Real-Time Joint Torque Estimation for Dynamic Prediction of Human Locomotion",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/10032277",
+    "author": "Hannah Dinovitzer Mohammad Shushtari Arash Arami",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "BIO"
+    ],
+    "published": "2023-08-20 16:00:00 +0000",
+    "short_uuid": "2ad99445"
+  },
+  {
+    "id": "e4fc971e-3fa0-44d2-b9bd-452934b26e87",
+    "title": "Improved Electrical Impedance Tomography Reconstruction via a Bayesian Approach With an Anatomical Statistical Shape Model",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/10061382",
+    "author": "Mitchell I. Page Ruanui Nicholson Merryn H. Tawhai Alys R. Clark Haribalan Kumar",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "BIO"
+    ],
+    "published": "2023-08-20 16:00:00 +0000",
+    "short_uuid": "94c71b1"
+  },
+  {
+    "id": "a121c28a-5e84-497f-8b86-8b4d69f06a88",
+    "title": "Computational Fluorescence Suppression in Shifted Excitation Raman Spectroscopy",
+    "description": "",
+    "url": "https://ieeexplore.ieee.org/document/10042015",
+    "author": "Nia C. Jenkins Katjana Ehrlich Andr\u00e1s Kufcs\u00e1k Stephanos Yerolatsitis Susan Fernandes Irene Young Katie Hamilton Harry A. C. Wood Tom Quinn Vikki Young Ahsan R. Akram James M. Stone Robert R. Thomson Keith Finlayson Kevin Dhaliwal Sohan Seth",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "BIO"
+    ],
+    "published": "2023-08-20 16:00:00 +0000",
+    "short_uuid": "cae76c4b"
+  },
+  {
+    "id": "7db35b56-c0c5-4492-9c40-ed5ee1a646d1",
+    "title": "General in charge of Paris's Notre Dame cathedral reconstruction dies | CNN",
+    "description": "Paris CNN \u2014\n\nThe French army general appointed to oversee the reconstruction of Paris\u2019s Notre Dame cathedral has died during a mountain walk.\n\n\u201cThe nation has lost one of its great soldiers,\u201d Presiden...",
+    "url": "https://www.cnn.com/2023/08/19/europe/notre-dame-cathedral-reconstruction-charge-dies-intl/index.html",
+    "author": "Dalal Mawad",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230819111351-01-jean-louis-georgelin-notre-dame-file.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-20 14:26:16 +0000",
+    "short_uuid": "43f14846"
+  },
+  {
+    "id": "bcead970-4361-4c2e-8655-8b4fea56bde2",
+    "title": "Seven dead including six-year-old girl as Russian missile hits center of Ukraine's Chernihiv city | CNN",
+    "description": "CNN \u2014\n\nAt least seven people died including a six-year-old girl and nearly 130 others injured after a Russian missile strike hit a central square in the northern Ukrainian city of Chernihiv, Ukrainian...",
+    "url": "https://www.cnn.com/2023/08/19/europe/russian-missile-strike-chernihiv-intl/index.html",
+    "author": "Maria Kostenko Sarah Dean Sophie Tanno",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230819064336-01-chernihiv-missile-attack-0819.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-20 14:26:16 +0000",
+    "short_uuid": "6933d1d9"
+  },
+  {
+    "id": "7de5e526-76ba-4f13-946f-3f73b0cae6d6",
+    "title": "August 19, 2023 - Russia-Ukraine news",
+    "description": "Seven people died, including a 6-year-old girl, and 129 were wounded after a Russian missile hit the center of the northern city of Chernihiv, Ukrainian officials say.",
+    "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-08-19-23/index.html",
+    "author": "Hafsa Khalil and <a href=\"/profiles/adrienne-vogt\">Adrienne Vogt</a>, CNN",
+    "image": "https://cdn.cnn.com/cnnnext/dam/assets/230816103402-donetsk-tank-061723-super-tease.jpeg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-20 14:26:16 +0000",
+    "short_uuid": "e52e3bdc"
+  },
+  {
+    "id": "101e5ba7-99ca-40d4-a333-77f9d0820441",
+    "title": "Drone crashes into Russian railway station, leaving 5 injured | CNN",
+    "description": "CNN \u2014\n\nA Ukrainian drone crashed into the roof of a railway station in the western Russian city of Kursk early Sunday morning, injuring five people and causing damage to the building, according to the...",
+    "url": "https://www.cnn.com/2023/08/20/europe/kursk-railway-station-drone-attack-intl/index.html",
+    "author": "Yulia Kesaieva Josh Pennington Sophie Tanno",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230820022702-01-kursk-railway-station-strike-intl-082023.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-20 14:26:16 +0000",
+    "short_uuid": "60e624f5"
+  },
+  {
+    "id": "91f4ece5-6066-4eb7-a1a2-93071c2999fd",
+    "title": "Analysis: A BRICS no-show speaks volumes about Putin's shrinking horizons | CNN",
+    "description": "CNN \u2014\n\nOnce upon a time, Russian President Vladimir Putin was the man to see: In the weeks preceding Russia\u2019s full-scale invasion of Ukraine, world leaders took turns shuttling to Moscow to urge the K...",
+    "url": "https://www.cnn.com/2023/08/20/europe/putin-brics-no-show-analysis-hnk-intl/index.html",
+    "author": "Nathan Hodge",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230819220142-vladimir-putin-file-081923.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-20 14:26:16 +0000",
+    "short_uuid": "d9011237"
+  },
+  {
+    "id": "9bc09638-dd03-47c4-9920-33a0216b1377",
+    "title": "Ex-software engineer brings in $129,000 a year making pasta in her kitchen\u2014and selling it for up to $240 a box",
+    "description": "Fiona Afshar started posting cooking videos on Instagram in 2018. Now, she runs a lucrative pasta business from her home in Malibu, California.",
+    "url": "https://www.cnbc.com/2023/08/20/ex-software-engineer-brings-in-six-figures-making-pasta-in-her-kitchen.html",
+    "author": "cnbc",
+    "image": "https://image.cnbcfm.com/api/v1/image/107289008-1692393700211-Article_Stils00_00_14_21Still004.jpg?v=1692540301&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-20 14:05:01 +0000",
+    "short_uuid": "b9005793"
   }
 ]
