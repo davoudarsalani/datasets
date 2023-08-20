@@ -10186,5 +10186,75 @@
     ],
     "published": "2023-08-19 18:07:34 +0000",
     "short_uuid": "e7fefdb1"
+  },
+  {
+    "id": "525f6773-9d23-4f67-9bd2-36245ad14bc5",
+    "title": "Canada's British Columbia declares state of emergency as thousands are forced to evacuate Kelowna",
+    "description": "British Columbia has declared a state of emergency as massive wildfires tore through the western Canadian province, forcing residents to flee their homes and seek shelter. The province was declared to be under a state of emergency due to hundreds of wildfires Saturday, with the emergency management ...",
+    "url": "https://www.foxnews.com/world/canadas-british-columbia-declares-state-emergency-thousands-forced-evacuate-kelowna",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/c665471b-2-1.jpg",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2023-08-20 00:26:35 +0000",
+    "short_uuid": "1601db19"
+  },
+  {
+    "id": "d3581275-1090-4db7-9c53-ffca618bc6f5",
+    "title": "Nats\u2019 overtaxed bullpen falls apart during a 12-3 loss to the Phillies",
+    "description": "Jake Irvin turned in six solid innings as the Nationals grabbed a three-run lead. It was all downhill from there.",
+    "url": "https://www.washingtonpost.com/sports/2023/08/19/nationals-phillies-cory-abbott-jake-irvin/",
+    "author": "Jesse Dougherty",
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PS4TAYONAVDU3OG7VDC37P2MAU.jpg&w=1440",
+    "language": "en",
+    "category": [
+      "sports"
+    ],
+    "published": "2023-08-20 00:26:00 +0000",
+    "short_uuid": "5fa4db10"
+  },
+  {
+    "id": "b372dcff-b375-4500-abfe-7c1f7210ce5f",
+    "title": "Taiwan's defense ministry detects 42 Chinese military aircraft amid 'warning' after top official's US trip",
+    "description": "Taiwan's defense ministry says it detected 42 Chinese military aircraft on Saturday amid Chinese drills, which Beijing says is a \"stern warning\" over so-called collusion with \"separatists and foreign forces,\" which comes just days after the island's vice president made a short visit to the United St...",
+    "url": "https://www.foxnews.com/world/taiwans-defense-ministry-detects-chinese-military-aircraft-warning-top-officials-us-trip",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/China-military-drills.png",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2023-08-19 21:54:59 +0000",
+    "short_uuid": "8900943d"
+  },
+  {
+    "id": "9f050a52-a8ca-4ff9-8783-5dc03e22bd05",
+    "title": "Top FEMA official touts progress in Hawaii recovery efforts, previews Biden\u2019s trip to Maui",
+    "description": "Federal Emergency Management Agency Administrator Deanne Criswell lauded progress in the recovery efforts in Hawaii ahead of President Biden and First Lady Jill Biden\u2019s trip to Maui.",
+    "url": "https://www.washingtontimes.com/news/2023/aug/19/top-fema-official-touts-progress-hawaii-recovery-e/",
+    "author": "Alex Miller",
+    "image": "https://twt-thumbs.washtimes.com/media/image/2023/08/19/Hawaii_Fires_32210--d9e15_c0-0-3992-2328_s1200x700.jpg?066eeb7b1babe3d1e3a0448808764953e0224497",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-19 21:30:37 +0000",
+    "short_uuid": "bdaa0b28"
+  },
+  {
+    "id": "10fdd07e-c26c-4cd5-886a-a61fd801b242",
+    "title": "DeSantis offers California aid ahead of Hurricane Hilary landfall",
+    "description": "Florida Gov. Ron DeSantis took to social media to offer California support as Hurricane Hilary pushes closer to the state\u2019s southwestern coast.",
+    "url": "https://www.washingtontimes.com/news/2023/aug/19/ron-desantis-offers-california-aid-ahead-hurricane/",
+    "author": "Alex Miller",
+    "image": "https://twt-thumbs.washtimes.com/media/image/2023/08/18/Election_2024_Republicans_Georgia_30555--7c792_c0-125-3000-1875_s1200x700.jpg?5df86175492ddcdc04d9d2b6261257b2d49617ee",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-19 19:10:44 +0000",
+    "short_uuid": "dbc08ef9"
   }
 ]
