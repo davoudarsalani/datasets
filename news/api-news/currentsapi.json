@@ -12419,5 +12419,174 @@
     ],
     "published": "2023-08-20 17:17:04 +0000",
     "short_uuid": "58bec4c5"
+  },
+  {
+    "id": "d61f2ebc-fd28-4080-a901-1e48f077c8f5",
+    "title": "Iowa governor says voters won't give Trump a pass for skipping state fair events | CNN Politics",
+    "description": "Iowa Gov. Kim Reynolds said Sunday that she does not believe voters will give GOP front-runner and former President Donald Trump a pass for skipping the Iowa State Fair events  that candidates usually entertain.",
+    "url": "https://www.cnn.com/2023/08/20/politics/kim-reynolds-donald-trump-iowa/index.html",
+    "author": "cnn",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230820112641-kim-reynolds-donald-trump-split.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-21 00:36:00 +0000",
+    "short_uuid": "f3220318"
+  },
+  {
+    "id": "d659858a-eeed-445c-a577-b4b45b8c25bc",
+    "title": "GOP senator says Trump should drop out and calls classified documents case 'almost a slam dunk' | CNN Politics",
+    "description": "Republican Sen. Bill Cassidy described the case against former President Donald Trump for allegedly mishandling classified documents as \u201calmost a slam dunk\u201d and said he thinks Trump should drop out of the 2024 presidential race.",
+    "url": "https://www.cnn.com/2023/08/20/politics/bill-cassidy-trump-should-drop-out-cnntv/index.html",
+    "author": "cnn",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230820104022-bill-cassidy-0614.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-21 00:36:00 +0000",
+    "short_uuid": "f4951a4d"
+  },
+  {
+    "id": "e906c0dc-c2c2-44be-8999-a902ecb97719",
+    "title": "Mark Meadows asks federal court for Georgia charges to be dismissed | CNN Politics",
+    "description": "Former Trump Chief of Staff Mark Meadows has asked a federal court to order all charges against him brought by Fulton County, Georgia, prosecutors to be dismissed.",
+    "url": "https://www.cnn.com/2023/08/20/politics/meadows-court-georgia-dismissed/index.html",
+    "author": "cnn",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230820135035-mark-meadows-file-102620.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-21 00:36:00 +0000",
+    "short_uuid": "5cd77fb0"
+  },
+  {
+    "id": "0b4f6431-024e-4503-a966-faea9be7d84b",
+    "title": "Asa Hutchinson says he has qualified for the Republican debate | CNN Politics",
+    "description": "Republican presidential candidate and former Arkansas Gov. Asa Hutchinson said Sunday he has qualified for the first GOP primary debate, which will take place Wednesday in Milwaukee. Hutchinson joins a crowd of White House hopefuls looking for a breakout moment onstage.",
+    "url": "https://www.cnn.com/2023/08/20/politics/asa-hutchinson-republican-debate-cnntv/index.html",
+    "author": "cnn",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230820081546-asa-hutchinson-0728.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-21 00:36:00 +0000",
+    "short_uuid": "67d9c30"
+  },
+  {
+    "id": "70ce3664-5f0d-482b-af67-efe7acd9d7f1",
+    "title": "Zelenskyy hails F-16 commitment on visit to Netherlands",
+    "description": "The Netherlands, Denmark confirm plans to transfer fighter jets, but numbers and timing are to be determined.",
+    "url": "https://www.politico.eu/article/volodymyr-zelenskyy-mark-rutte-netherlands-ukraine-hails-f-16-commitment-on-visit-to-netherlands/",
+    "author": "Antoaneta Roussi",
+    "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/08/20/GettyImages-1610722352-scaled.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-21 00:33:43 +0000",
+    "short_uuid": "e8ad2c2e"
+  },
+  {
+    "id": "8d5a8981-6b7b-44ce-9faf-d48c8b6f95d7",
+    "title": "Springtime for Europe\u2019s fascists",
+    "description": "Matthew Karnitschnig is POLITICO's chief Europe correspondent, based in Berlin. He began reporting on Germany in 1997....",
+    "url": "https://www.politico.eu/article/germany-fascism-populism-europe-bjorn-hocke-immigration-elections-eu/",
+    "author": "Matthew Karnitschnig",
+    "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/08/20/GettyImages-1578418923-scaled.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-21 00:33:43 +0000",
+    "short_uuid": "c9b99c31"
+  },
+  {
+    "id": "a4674da0-d4d4-4bd4-9b21-ef64f8e09e81",
+    "title": "NASA spacecraft reunites with Earth after 17-year trip around the sun",
+    "description": "NASA\u2019s STEREO-A spacecraft, which launched in 2006 to study the sun, is finally passing by Earth again after a 17-year orbit around the star.",
+    "url": "https://www.washingtonpost.com/nation/2023/08/20/nasa-stereo-a-earth-flyby/",
+    "author": "Daniel Wu",
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QM46PWLB4REVNEZQ3Y6RZNHJ3Q.jpeg&w=1440",
+    "language": "en",
+    "category": [
+      "technology"
+    ],
+    "published": "2023-08-20 23:55:52 +0000",
+    "short_uuid": "7cab8548"
+  },
+  {
+    "id": "09a7f6b2-c730-4a53-916b-ba0f49cf7310",
+    "title": "Sorry, Fox News. Trump says he's not going to the debate.",
+    "description": "Former President Donald Trump said he will not attend the first Republican primary debate scheduled for Aug. 23 in Milwaukee, first reported by The New York Times and confirmed by a Truth Social post Sunday. Trump's decision to skip the first debate on Wednesday will leave the first showdown of Repu...",
+    "url": "https://www.politico.com/news/2023/08/20/trump-fox-news-debates-00112017",
+    "author": "Zach Montellaro,Steven Shepard",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-20 22:51:24 +0000",
+    "short_uuid": "a1b99783"
+  },
+  {
+    "id": "bb8c23ef-08b6-4a49-af94-69ce863b1901",
+    "title": "Deluge from Hilary hits California after making landfall along Mexico's Baja coast",
+    "description": "SAN DIEGO \u2014 Deadly floodwaters inundated streets across Mexico's arid Baja California on Sunday as Tropical Storm Hilary moved ashore carrying torrential rain into Southern California, and concerns mounted that flash floods could strike in places as far north as Idaho that rarely get such heavy rain...",
+    "url": "https://www.politico.com/news/2023/08/20/hilary-southern-california-rainfall-00112015",
+    "author": "Associated Press",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-20 22:34:59 +0000",
+    "short_uuid": "8dfc0929"
+  },
+  {
+    "id": "a3cc5fa0-41ef-4213-9fa5-dcbb411a4499",
+    "title": "A California store owner was shot and killed over a Pride flag displayed at her shop",
+    "description": "Sheriff's deputies said the suspect was later killed in \"a lethal force encounter\" with authorities. Tributes continue to pour in honoring the victim, Lauri Carleton.(Image credit: Allison Dinner/AFP via Getty Images)...",
+    "url": "https://www.npr.org/2023/08/20/1194932544/lauri-carleton-california-store-owner-killed-pride-flag-lgbtq",
+    "author": "Jonathan Franklin",
+    "image": "https://media.npr.org/assets/img/2023/08/20/gettyimages-1251252036_wide-dfb54048fd1e7de5bdbf35f6d8e28de118ec9273-s1400-c100.jpg",
+    "language": "en",
+    "category": [
+      "legal"
+    ],
+    "published": "2023-08-20 22:24:31 +0000",
+    "short_uuid": "3bc960dd"
+  },
+  {
+    "id": "f89ae936-90a2-472c-824f-41640a0d5ec0",
+    "title": "GOP state legislatures target progressive prosecutors",
+    "description": "A wave of progressive prosecutors have won office across the country. Now, Republican-controlled state legislatures and governors are trying to curtail their power, or strip them of it altogether....",
+    "url": "https://www.npr.org/2023/08/20/1194935831/gop-state-legislatures-target-progressive-prosecutors",
+    "author": "Pien Huang",
+    "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+    "language": "en",
+    "category": [
+      "legal"
+    ],
+    "published": "2023-08-20 20:56:21 +0000",
+    "short_uuid": "6b9d20ed"
+  },
+  {
+    "id": "c5fdf7da-81f2-4d9e-9c52-a9b353a531a1",
+    "title": "Critics rip DeSantis for Trump comment they say makes him sound like 'Crooked Hillary'",
+    "description": "Republican presidential candidate Gov. Ron DeSantis sparked backlash Saturday for a comment about Trump's loyal base that critics say makes him sound like \"Crooked Hillary\" Clinton. DeSantis sat down for a recent interview, making the case that the movement behind former President Donald Trump is ro...",
+    "url": "https://www.foxnews.com/politics/critics-rip-desantis-trump-comment-say-makes-him-sound-crooked-hillary",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/05/trump-desantis-side-by-side.jpg",
+    "language": "en",
+    "category": [
+      "politics",
+      "world"
+    ],
+    "published": "2023-08-20 20:21:17 +0000",
+    "short_uuid": "1ff057cd"
   }
 ]
