@@ -13403,5 +13403,76 @@
     ],
     "published": "2023-08-21 00:37:01 +0000",
     "short_uuid": "26ff0efc"
+  },
+  {
+    "id": "ff3054e1-f2c9-4179-96a3-75a1f1b354e1",
+    "title": "Novak Djokovic edges past Carlos Alcaraz to capture first tournament title in return to US soil | CNN",
+    "description": "CNN \u2014\n\nNovak Djokovic defeated Carlos Alcaraz, 5-7, 7-6(7), 7-6(4) on Sunday to avenge his Wimbledon final loss and capture the Western & Southern Open title in Cincinnati, Ohio.\n\nPlaying in his first...",
+    "url": "https://www.cnn.com/2023/08/20/tennis/djokovic-alcaraz-cincinnati-tennis-spt-intl/index.html",
+    "author": "Homero De La Fuente",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230821105225-novak-djokovic-rookwood-cup.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "sports",
+      "tennis"
+    ],
+    "published": "2023-08-21 08:15:07 +0000",
+    "short_uuid": "1d117d38"
+  },
+  {
+    "id": "6d8d3410-0aaf-4edf-99a8-648fd0effcf0",
+    "title": "Visit of King's estranged US-based sons comes at a delicate time for Thailand's monarchy | CNN",
+    "description": "CNN \u2014\n\nWhen an estranged son of Thailand\u2019s King Maha Vajiralongkorn turned up in the capital Bangkok earlier this month after a three decade-long absence, it caught many in the kingdom by surprise.\n\nV...",
+    "url": "https://www.cnn.com/2023/08/20/asia/thailand-monarchy-kings-sons-return-analysis-intl-hnk/index.html",
+    "author": "Helen Regan",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230818035757-03-thailand-king-sons-visit.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-21 08:00:29 +0000",
+    "short_uuid": "d387c9a8"
+  },
+  {
+    "id": "8ebd5d3c-8e6b-4bb3-93d5-a0b67e5db0a4",
+    "title": "Jakarta orders civil servants to work from home to fight soaring pollution | CNN",
+    "description": "CNN \u2014\n\nSome civil servants in Indonesia\u2019s capital began working from home Monday under measures aimed at reducing traffic congestion to alleviate horrendous air pollution that has gripped the city and...",
+    "url": "https://www.cnn.com/2023/08/21/asia/indonesia-civil-servants-wfh-jakarta-air-pollution-intl-hnk/index.html",
+    "author": "Heather Chen",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230816094112-02-air-pollution-indonesia-0811.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-21 08:00:29 +0000",
+    "short_uuid": "96449a49"
+  },
+  {
+    "id": "81548ca0-f176-4b08-8e1f-5a0569ed4b61",
+    "title": "Kim Jong Un inspects missile test as regional rivals meet and kick off joint military drills | CNN",
+    "description": "CNN \u2014\n\nNorth Korean state media released images of leader Kim Jong Un inspecting a missile test on Monday, days after its regional rivals held a historic summit, and as US-South Korea joint military e...",
+    "url": "https://www.cnn.com/2023/08/20/asia/north-korea-kim-jong-un-missile-test-trilateral-intl-hnk/index.html",
+    "author": "Yoonjung Seo Jessie Yeung",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230821084947-02-north-korea-kim-jong-un-missile-test-trilateral.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-21 08:00:29 +0000",
+    "short_uuid": "ae9ea761"
+  },
+  {
+    "id": "adb30230-4760-43cf-a241-b39a8aa8fa44",
+    "title": "Saudi Arabia Border Guards Killed Hundreds of Ethiopian Migrants, Report Says",
+    "description": "Why did this happen?\n\nPlease make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie...",
+    "url": "https://www.bloomberg.com/en/news/thp/2023-08-21/rights-group-says-saudi-arabia-border-guards-fired-on-and-killed-hundreds-of-ethiopian-migrants",
+    "author": "Bloomberg",
+    "image": "",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-21 04:25:14 +0000",
+    "short_uuid": "782aebcc"
   }
 ]
