@@ -15947,5 +15947,19 @@
     ],
     "published": "2023-08-22 02:11:20 +0000",
     "short_uuid": "6cb13985"
+  },
+  {
+    "id": "b7515605-8cbe-4ecf-bf79-6e4ce45d74ef",
+    "title": "August 21, 2023 - Russia-Ukraine news | CNN",
+    "description": "Ukraine on Monday confirmed it carried out a drone attack on a Russian military air base located just more than 200 kilometers (130 miles) northeast of Ukraine.\n\nThe Ukrainian drone attack on Shaykovk...",
+    "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-08-21-23/index.html",
+    "author": "Tara Subramaniam",
+    "image": "https://cdn.cnn.com/cnnnext/dam/assets/230819142631-07-chernihiv-missile-attack-0819-super-tease.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-22 07:31:19 +0000",
+    "short_uuid": "7a3ea566"
   }
 ]
