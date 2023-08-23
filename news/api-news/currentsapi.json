@@ -18495,5 +18495,91 @@
     ],
     "published": "2023-08-23 12:59:41 +0000",
     "short_uuid": "55d233fc"
+  },
+  {
+    "id": "dfe54e19-0b03-40e6-aea2-fed8bb9af907",
+    "title": "Japan's military plagued by culture of harassment and fear, report finds | CNN",
+    "description": "Tokyo CNN \u2014\n\nA new report into Japan\u2019s military has found what it says is an entrenched culture of harassment and fear, with authorities promising reform and \u201cdrastic measures.\u201d\n\nThe report was commis...",
+    "url": "https://www.cnn.com/2023/08/23/asia/japan-sdf-sexual-harassment-report-intl-hnk/index.html",
+    "author": "Jessie Yeung Francesca Annio",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230823133525-japan-self-defense-forces-file.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-23 14:09:06 +0000",
+    "short_uuid": "22f204c8"
+  },
+  {
+    "id": "d603791d-6d4f-4838-82b1-987a087bf2c7",
+    "title": "Suspected Chinese dissident rides jet ski hundreds of miles to South Korea | CNN",
+    "description": "Seoul, South Korea CNN \u2014\n\nA jet ski rider detained by South Korea for allegedly entering the country illegally is a prominent Chinese dissident who rode hundreds of miles across the sea to escape from...",
+    "url": "https://www.cnn.com/2023/08/23/asia/china-south-korea-dissident-jet-ski-detained-intl-hnk/index.html",
+    "author": "Yoonjung Seo Jessie Yeung",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230823122015-china-south-korea-dissident-jet-ski-detained.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-23 14:09:06 +0000",
+    "short_uuid": "b23e99e7"
+  },
+  {
+    "id": "4627b822-3204-42dc-bf19-fad129b366c0",
+    "title": "Thailand has a new leader but it's not the one most people voted for. Here's why | CNN",
+    "description": "CNN \u2014\n\nTuesday was a dramatic day in Thailand as parliament staved off a potential political crisis by finally voting for a new prime minister as one of the country\u2019s most polarizing figures returned ...",
+    "url": "https://www.cnn.com/2023/08/23/asia/thailand-explainer-election-prime-minister-intl-hnk/index.html",
+    "author": "Helen Regan",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230823144337-srettha-thavisin-new-pm-0822.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-23 14:09:06 +0000",
+    "short_uuid": "a0c7a1f4"
+  },
+  {
+    "id": "bddef3b9-af6d-4961-9200-08c95da1c9d6",
+    "title": "IT director 'implicated' Trump 'in efforts to delete' Mar-a-Lago footage: Special counsel",
+    "description": "In perhaps the most significant development since former President Donald Trump was indicted in the Florida federal classified documents case, the IT director at Mar-a-Lago has reversed course and \u201cim...",
+    "url": "https://lawandcrime.com/high-profile/mar-a-lago-it-director-implicated-trump-in-efforts-to-delete-security-camera-footage-after-ditching-lawyer-and-flipping-in-face-of-perjury-threat-special-counsel/",
+    "author": "Matt Naham Is The Senior A.M. Editor Of Law Crime.",
+    "image": "https://lawandcrime.com/wp-content/uploads/2023/08/smith-v-trump-1.jpg",
+    "language": "en",
+    "category": [
+      "legal",
+      "crime",
+      "politics"
+    ],
+    "published": "2023-08-23 13:46:31 +0000",
+    "short_uuid": "32636c9b"
+  },
+  {
+    "id": "d8ac7626-9a46-4466-bddf-6e57444f3d48",
+    "title": "Giuliani to negotiate bond and surrender in Fulton County Wednesday | CNN Politics",
+    "description": "CNN \u2014\n\nAdditional figures in the alleged scheme to overturn the 2020 election results in Georgia were in the process of turning themselves in on Wednesday morning, and Rudy Giuliani is on his way to s...",
+    "url": "https://www.cnn.com/2023/08/23/politics/giuliani-fulton-county/index.html",
+    "author": "Zachary Cohen Paula Reid Marshall Cohen",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230820182222-rudy-giuliani-051923-restricted.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-23 13:35:03 +0000",
+    "short_uuid": "3a7ae615"
+  },
+  {
+    "id": "7e47f926-5e68-4f8a-beab-8ff7821c7194",
+    "title": "India becomes fourth country to land on the moon, first on the south pole, with Chandrayaan-3 spacecraft",
+    "description": "India staked new claim as a national superpower in space on Wednesday, landing its Chandrayaan-3 mission safely on the moon's unexplored south pole.\n\nThe Chandrayaan-3 spacecraft launched last month a...",
+    "url": "https://www.cnbc.com/2023/08/23/india-chandrayaan-3-moon-mission.html",
+    "author": "Michael Sheetz Charmaine Jacob",
+    "image": "https://image.cnbcfm.com/api/v1/image/107290634-1692795447895-chandrayaan-3_pre_landing.png?v=1692795625&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "business"
+    ],
+    "published": "2023-08-23 13:26:01 +0000",
+    "short_uuid": "e674d6fd"
   }
 ]
