@@ -17638,5 +17638,435 @@
     ],
     "published": "2023-08-22 23:56:31 +0000",
     "short_uuid": "a2a8f3ce"
+  },
+  {
+    "id": "18ca1d9a-50f3-4fa3-8bde-cdca70643ee7",
+    "title": "White House tells GOP congressman certain Jan. 6 committee transcripts are still being redacted for security purposes | CNN Politics",
+    "description": "CNN \u2014\n\nThe White House told Rep. Barry Loudermilk it is still reviewing the transcripts of four individuals who testified to the House select committee that investigated January 6, 2021, for security ...",
+    "url": "https://www.cnn.com/2023/08/22/politics/january-6-transcripts-security-white-house-loudermilk/index.html",
+    "author": "Annie Grayer Jamie Gangel",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230822201759-january-6-transcripts-security-white-house-loudermilk.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-23 07:23:08 +0000",
+    "short_uuid": "5285e60d"
+  },
+  {
+    "id": "763dfebe-5738-4564-b77e-6e9b20ba767c",
+    "title": "August 22, 2023 Trump indictment news in Georgia election interference case",
+    "description": "The Fulton County District Attorney\u2019s Office issued subpoenas Tuesday to two people who were listening in on former President Donald Trump\u2019s January 2021 call with Georgia Secretary of State Brad Raff...",
+    "url": "https://www.cnn.com/politics/live-news/trump-indictment-georgia-election-08-22-23/index.html",
+    "author": "Aditi Sangal",
+    "image": "https://cdn.cnn.com/cnnnext/dam/assets/230821120812-03-donald-trump-082123-super-tease.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-23 07:23:08 +0000",
+    "short_uuid": "cf9c4d8b"
+  },
+  {
+    "id": "78d5436a-b0ff-44df-bdb8-da563c8f0ec8",
+    "title": "Special counsel investigating false statements made by Trump employees in classified documents case | CNN Politics",
+    "description": "CNN \u2014\n\nSpecial counsel Jack Smith\u2019s office is continuing to investigate whether two employees of Donald Trump gave false testimony to a grand jury as part of the criminal probe into the former preside...",
+    "url": "https://www.cnn.com/2023/08/22/politics/special-counsel-trump-documents-investigation/index.html",
+    "author": "Hannah Rabinowitz",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230822185016-special-counsel-trump-documents-investigation.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-23 07:23:08 +0000",
+    "short_uuid": "f668e4fb"
+  },
+  {
+    "id": "be4189c3-7660-4bd8-a579-794250802782",
+    "title": "A remarkable day at Fulton County jail as Trump's surrender looms | CNN Politics",
+    "description": "CNN \u2014\n\nA parade of Donald Trump\u2019s co-defendants setting bond and surrendering at an Atlanta jail is beating a path of accountability that the ex-president and kingpin of the alleged election-meddling ...",
+    "url": "https://www.cnn.com/2023/08/23/politics/fulton-county-trump-republicans-2024/index.html",
+    "author": "Stephen Collinson",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230822114733-03-donald-trump-082223.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-23 07:23:08 +0000",
+    "short_uuid": "843c21bc"
+  },
+  {
+    "id": "c0febe69-4002-4edb-b4a7-54fa0a6da6bb",
+    "title": "Beyond the Debate, Republicans Are Deep in the 2024 Ad Wars",
+    "description": "Americans who don\u2019t live in early presidential nominating states \u2014 that is to say, most Americans \u2014 might not be aware of the advertising wars already underway in the 2024 campaign. For months, Republ...",
+    "url": "https://www.nytimes.com/2023/08/23/us/politics/advertising-republican-candidates-2024.html",
+    "author": "Rebecca Davis O Brien",
+    "image": "https://static01.nyt.com/images/2023/08/22/multimedia/22pol-ads-pwjv/22pol-ads-pwjv-facebookJumbo.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-23 07:00:21 +0000",
+    "short_uuid": "946899ab"
+  },
+  {
+    "id": "0f69be88-4dbe-4bc1-b972-33d02e3188fb",
+    "title": "In a Hot Job Market, the Minimum Wage Becomes an Afterthought",
+    "description": "The unemployment rate in New Hampshire was low before the pandemic; at 1.7 percent in July, it is now among the lowest rates ever recorded anywhere in the country. Competition for workers is fierce: T...",
+    "url": "https://www.nytimes.com/2023/08/23/business/economy/minimum-wage.html",
+    "author": "Ben Casselman",
+    "image": "https://static01.nyt.com/images/2023/08/18/multimedia/00minimum-wage-lqtg/00minimum-wage-lqtg-facebookJumbo.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-23 07:00:18 +0000",
+    "short_uuid": "dd4d2d28"
+  },
+  {
+    "id": "2577f763-b371-4282-b417-e7202249b6d8",
+    "title": "Philippines says South China Sea outpost resupplied despite Chinese harassment | CNN",
+    "description": "CNN \u2014\n\nThe Philippines on Tuesday said it had successfully delivered supplies to marines aboard the BRP Sierra Madre, a dilapidated military outpost in the contested South China Sea, despite attempts ...",
+    "url": "https://www.cnn.com/2023/08/22/asia/philippines-brp-sierra-madre-south-china-sea-intl-hnk/index.html",
+    "author": "Kathleen Magramo",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230822211049-philippines-resupply-082223.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-23 06:48:47 +0000",
+    "short_uuid": "6ed3697b"
+  },
+  {
+    "id": "c302be41-7ade-4ee8-8294-d81c785b51dd",
+    "title": "How Pakistan rescued cable car school children stranded hundreds of feet above ground | CNN",
+    "description": "Islamabad, Pakistan CNN \u2014\n\nBattling anxiety and nausea, they huddled together in the ruptured cable car, gripped by fear as they dangled precariously hundreds of feet in the air.\n\nWith little to drink...",
+    "url": "https://www.cnn.com/2023/08/23/asia/pakistan-cable-car-rescue-children-wednesday-intl-hnk/index.html",
+    "author": "Sophia Saifi Rhea Mogul",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230822115340-pakistan-chairlift-rescue-082223.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-23 06:48:47 +0000",
+    "short_uuid": "107af93d"
+  },
+  {
+    "id": "fd020a39-b599-4d3d-b30b-55803acdfc60",
+    "title": "Prince Harry, King Charles need 'nothing short of a miracle' for peace talks, expert claims: ' A long way off'",
+    "description": "Prince Harry is heading to Europe in September, but \"peace talks\" with King Charles III aren't happening, royal experts tell Fox News Digital. OK! Magazine originally reported that father and son would privately meet Sept. 17. The date is significant because it coincides with the end of the Duke of ...",
+    "url": "https://www.foxnews.com/entertainment/prince-harry-king-charles-need-nothing-short-miracle-peace-talks-expert-claims",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/7cfadb0e-Getty_PrinceHarry_KingCharles.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-23 06:00:54 +0000",
+    "short_uuid": "d1d5bc0f"
+  },
+  {
+    "id": "65f77de4-4016-4031-af0d-84cbd25b9fc8",
+    "title": "Educators have said using ChatGPT is cheating, but now they are using AI to write syllabi and exams: Professor",
+    "description": "As educators debate whether students should be allowed to use artificial intelligence for assignments, one professor told Fox News that teachers themselves are using the tech to help with their lessons. \"I know faculty who are using ChatGPT to help write syllabi and to write exams,\" a University of ...",
+    "url": "https://www.foxnews.com/tech/educators-said-using-chatgpt-cheating-now-using-ai-write-syllabi-exams-professor",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/HANY-FARID-TEACHERS-CHATGPT-AI.png",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-23 06:00:41 +0000",
+    "short_uuid": "de7aa172"
+  },
+  {
+    "id": "1b8d0de0-88c8-4b21-9af4-fbc707ef1597",
+    "title": "At first Republican debate, watch for these 6 key things. They could make Biden a one-term president",
+    "description": "NEW You can now listen to Fox News articles!\n\nThe presidency is a job. It bears a job description, constitutionally and functionally. Voters in effect conduct the job interviews, winnow the field of a...",
+    "url": "https://www.foxnews.com/opinion/first-republican-debate-watch-6-key-things-make-biden-one-term-president",
+    "author": "Kellyanne Conway",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/Republican-debate-lineup.png",
+    "language": "en",
+    "category": [
+      "opinion"
+    ],
+    "published": "2023-08-23 06:00:13 +0000",
+    "short_uuid": "85cf86f4"
+  },
+  {
+    "id": "57dbdc00-096d-42fc-90eb-0996890122d7",
+    "title": "Back to school with AI: How parents and educators can ensure its ethical use in the classroom",
+    "description": "The presence of advanced technology in the classroom may require conversations with students during this new school year. As artificial intelligence finds its way into more families' day-to-day routines, parents and teachers alike should be wary of how their kids are interacting with generative AI. ...",
+    "url": "https://www.foxnews.com/lifestyle/back-school-ai-how-parents-educators-ensure-ethical-use-classroom",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/iStock-992339632-copy.jpg",
+    "language": "en",
+    "category": [
+      "lifestyle"
+    ],
+    "published": "2023-08-23 06:00:10 +0000",
+    "short_uuid": "f3caf44c"
+  },
+  {
+    "id": "1b528aeb-7ad3-4777-8bc4-eb9f7959d551",
+    "title": "New York boy, 7, attacked by bear in Westchester County: officials",
+    "description": "A bear attacked a seven-year-old boy outside his home in Westchester County, New York, on Tuesday according to police. The incident happened shortly after 11 a.m. Tuesday morning, when the boy went to play in his backyard on Hickory Kingdom Road in the town of Bedford, the North Castle Police Depart...",
+    "url": "https://www.foxnews.com/us/new-york-boy-7-attacked-bear-westchester-county-officials",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/10/iStock-868922834.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-23 05:48:51 +0000",
+    "short_uuid": "53910e15"
+  },
+  {
+    "id": "0111294a-e27c-450b-bc2d-c222bc54d82b",
+    "title": "Democrat lawmakers defend character of Republican official facing investigation related to Trump-Georgia case",
+    "description": "EXCLUSIVE: Democratic lawmakers in Georgia are coming to the defense of Republican Lt. Gov. Burt Jones, who is facing an investigation into his role in the alleged attempt to overturn the results of the 2020 presidential election in the state by former President Donald Trump and his allies. Speaking...",
+    "url": "https://www.foxnews.com/politics/democrat-lawmakers-defend-character-republican-official-investigation-trump-georgia-case",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/GettyImages-1244581906.jpg",
+    "language": "en",
+    "category": [
+      "politics",
+      "world"
+    ],
+    "published": "2023-08-23 05:38:59 +0000",
+    "short_uuid": "b999e84e"
+  },
+  {
+    "id": "494bdb52-5d72-44bd-964d-5e04edcbcd6a",
+    "title": "9 Things That Will Shape Wednesday\u2019s G.O.P. Debate",
+    "description": "Yet even the most viral moment could quickly be swept away in a wave of Trump-driven news. \u201cIn 99 out of 100 futures,\u201d said Newt Gingrich, the former Republican presidential candidate and House speake...",
+    "url": "https://www.nytimes.com/2023/08/23/us/politics/republican-debate-desantis-trump-watch.html",
+    "author": "Lisa Lerer",
+    "image": "https://static01.nyt.com/images/2023/08/17/multimedia/00pol-debate-dynamics1-jqhk/00pol-debate-dynamics1-jqhk-facebookJumbo.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-23 05:28:19 +0000",
+    "short_uuid": "32f4c5d1"
+  },
+  {
+    "id": "f8e46593-8ee8-4a5c-8439-3ffdb2a804de",
+    "title": "Why the BRICS Aren\u2019t Crumbling in Africa",
+    "description": "Welcome to Foreign Policy\u2019s Africa Brief.\n\nThe highlights this week: BRICS leaders meet in South Africa, Nigeria\u2019s government freezes fuel price hikes, and Zimbabwe holds another questionable election...",
+    "url": "https://foreignpolicy.com/2023/08/23/brics-ukraine-russia-africa-summit-ramaphosa/",
+    "author": "Nosmot Gbadamosi",
+    "image": "https://foreignpolicy.com/wp-content/uploads/2023/08/BRICS-putin-south-africa-GettyImages-1616635438.jpg?w=1000",
+    "language": "en",
+    "category": [
+      "politics",
+      "world"
+    ],
+    "published": "2023-08-23 05:00:45 +0000",
+    "short_uuid": "95cd7fa5"
+  },
+  {
+    "id": "865070df-2c8c-4fee-a1f8-da6775d8a4f1",
+    "title": "Babies, young child exposed to more screen time linked with developmental delays: Study",
+    "description": "\"iPad kids,\" or babies and young children who have access to more screen time have a higher likelihood of developmental delays, according to a new study published in The Journal of the American Medical Association of Pediatrics (JAMA). The cohort study, conducted by Taku Obara, PhD, from the Tohoku ...",
+    "url": "https://www.foxnews.com/health/babies-young-child-exposed-more-screen-time-linked-developmental-delays-study",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/5a318581-2.jpg",
+    "language": "en",
+    "category": [
+      "health",
+      "lifestyle"
+    ],
+    "published": "2023-08-23 04:28:25 +0000",
+    "short_uuid": "3ded09d9"
+  },
+  {
+    "id": "25737952-8837-43f9-b055-9052e0204aeb",
+    "title": "Biden family huddles in secrecy in exclusive Lake Tahoe home amid special counsel investigation into Hunter",
+    "description": "President Biden and his family are huddling in secrecy this week at an exclusive home on the shores of Lake Tahoe in Nevada amid the special counsel investigation into his son Hunter. According to the White House, the Bidens are renting the $18 million home of environmental activist, businessman and...",
+    "url": "https://www.foxnews.com/politics/biden-family-huddles-in-secrecy-exclusive-lake-tahoe-home-special-counsel-investigation-hunter",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/GettyImages-1616169357.jpg",
+    "language": "en",
+    "category": [
+      "politics",
+      "world"
+    ],
+    "published": "2023-08-23 04:16:26 +0000",
+    "short_uuid": "8a563057"
+  },
+  {
+    "id": "34193a02-d5b6-4af5-bc1a-fa1da0e03b6f",
+    "title": "Vivek Ramaswamy to supporters: 'I stand with you on the side of revolution'",
+    "description": "Vivek Ramaswamy fired up supporters at a pre-debate party outside the site of the Republican presidential primary debate in Milwaukee....",
+    "url": "http://rssfeeds.jsonline.com/~/788071943/0/milwaukee/politics~Vivek-Ramaswamy-to-supporters-I-stand-with-you-on-the-side-of-revolution/",
+    "author": "Lawrence Andrea, Milwaukee Journal Sentinel",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "regional",
+      "milwaukee",
+      "politics"
+    ],
+    "published": "2023-08-23 04:15:22 +0000",
+    "short_uuid": "3c5c06ea"
+  },
+  {
+    "id": "11e0eac3-51bd-4fb4-b1cc-1c8a852bdfa7",
+    "title": "On this day in history, August 23, 1973, a bank robbery in Sweden leads to 'Stockholm syndrome'",
+    "description": "The bank robbery and hostage situation that led to the coining of the term \"Stockholm syndrome\" began on this day in history, Aug. 23, 1973.\u00a0 On that date, Jan-Erik Olsson, an escaped prisoner who was sentenced to three years in prison for grand larceny, burst into Sveriges Kreditbanken, located in ...",
+    "url": "https://www.foxnews.com/lifestyle/this-day-history-august-23-1973-bank-robbery-sweden-leads-stockholm-syndrome",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/GettyImages-1556154216.jpg",
+    "language": "en",
+    "category": [
+      "lifestyle"
+    ],
+    "published": "2023-08-23 04:02:54 +0000",
+    "short_uuid": "fc58387c"
+  },
+  {
+    "id": "71d2f874-a902-43ab-b919-67abb0910876",
+    "title": "GOP Alaska Gov. Mike Dunleavy Endorses Trump for President",
+    "description": "Republican Alaska Gov. Mike Dunleavy has endorsed former President Donald Trump for the 2024 nomination, becoming the third GOP governor to back him.\n\nNews of Dunleavy\u2019s endorsement came from Politico...",
+    "url": "https://www.breitbart.com/2024-election/2023/08/22/gop-alaska-gov-mike-dunleavy-endorses-trump-president/",
+    "author": "Paul Bois",
+    "image": "https://media.breitbart.com/media/2023/08/Alaska-Gov-Mike-Dunleavy-Nov6-22-Getty-640x335.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-23 03:37:49 +0000",
+    "short_uuid": "44f688c9"
+  },
+  {
+    "id": "3d11cf9b-8f8c-4902-977a-0367b012741a",
+    "title": "GREG GUTFELD: Competence is redefined as mean by the most incompetent people alive",
+    "description": "NEW You can now listen to Fox News articles!\n\nHappy Tuesday, everybody. Thank you. Thank you so much for that warm embrace. Because according to the media, I am now the meanest man on Earth. I finally...",
+    "url": "https://www.foxnews.com/opinion/greg-gutfeld-competence-redefined-mean-by-most-incompetent-people-alive",
+    "author": "Greg Gutfeld",
+    "image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/efc256a3-e354-44cf-bcdc-bef0e7917607/a49a2086-2ac0-4162-a08a-6b24f0191490/1280x720/match/image.jpg",
+    "language": "en",
+    "category": [
+      "opinion"
+    ],
+    "published": "2023-08-23 03:36:13 +0000",
+    "short_uuid": "e5d426c9"
+  },
+  {
+    "id": "79ed5c49-3022-44fa-9712-20a99a0ed31a",
+    "title": "Second trial underway in Anchorage gold shop triple-murder case",
+    "description": "Anthony Pisano listens to arguments during his murder trial on Tuesday, Aug. 22, 2023 at the Nesbett Courthouse in Anchorage. (Loren Holmes / ADN) (Loren Holmes/)The trial of an Anchorage man accused of a 2017 triple murder at a Spenard gold shop got underway this week, more than three years after t...",
+    "url": "https://www.adn.com/alaska-news/crime-courts/2023/08/22/second-trial-underway-in-anchorage-gold-shop-triple-murder-case/",
+    "author": "Tess Williams",
+    "image": "https://www.adn.com/resizer//ojb2aAP8mJsAf516AOxlxkhZbKY=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/adn/3I2VFQTMNNDNZMROHTOGPDUZYI.jpg",
+    "language": "en",
+    "category": [
+      "regional",
+      "politics"
+    ],
+    "published": "2023-08-23 03:34:24 +0000",
+    "short_uuid": "3a935036"
+  },
+  {
+    "id": "cdbb7b59-5a6f-43ae-acac-37937edf5d70",
+    "title": "Former environmental commissioner appointed to board of Alaska Permanent Fund Corp.",
+    "description": "Trustee Jason Brune signals before speaking. The Alaska Permanent Fund Corporation board of trustees met in Anchorage on April 12, 2023. (Marc Lester / ADN) (Marc Lester/)Former commissioner of the Alaska Department of Environmental Conservation Jason Brune was appointed Tuesday to serve on the Alas...",
+    "url": "https://www.adn.com/politics/2023/08/22/former-environmental-commissioner-appointed-to-board-of-alaska-permanent-fund-corp/",
+    "author": "Iris Samuels",
+    "image": "https://www.adn.com/resizer//bZYXzLXWiZKSCYt2Nzm0e-eSAgI=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/adn/UMZWVKVV5VHZ5EBLJDKDZ7ZR4M.JPG",
+    "language": "en",
+    "category": [
+      "regional",
+      "politics"
+    ],
+    "published": "2023-08-23 03:32:09 +0000",
+    "short_uuid": "556b44f6"
+  },
+  {
+    "id": "f40cf463-2855-46cc-8f0b-42293c851a78",
+    "title": "List of possible unaccounted for after Maui fire now 1,000 to 1,100",
+    "description": "WAILUKU, Hawaii \u2014 The list of people who may be unaccounted for in the wake of the Maui wildfires is now 1,000 to 1,100, officials said Tuesday.\n\nThe numbers are expected to change, and \u201cthat doesn\u2019t ...",
+    "url": "https://www.nbcnews.com/news/us-news/list-possible-unaccounted-maui-fire-now-1000-1100-rcna101332",
+    "author": "Sam Brock",
+    "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-08/230822-maui-police-chief-john-pelletier-snip-ac-1120p-8a645b.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-23 03:32:02 +0000",
+    "short_uuid": "66f1b749"
+  },
+  {
+    "id": "031ae8a6-be2d-4d90-9110-443412ad6e8d",
+    "title": "Which politicians and celebrities will be in Milwaukee for the first GOP presidential debate?",
+    "description": "Although former President Donald Trump stated publicly on his social media platform Truth Social that he won't be attending the debates, some of his loyal Republican allies will be in attendance at th...",
+    "url": "http://rssfeeds.jsonline.com/~/787882523/0/milwaukee/politics~Which-politicians-and-celebrities-will-be-in-Milwaukee-for-the-first-GOP-presidential-debate/",
+    "author": "Claire Reid, Milwaukee Journal Sentinel",
+    "image": "https://www.jsonline.com/gcdn/presto/2023/08/22/PMJS/485765dd-5d9b-48bf-8fb0-f20533ffbb4f-Collage_Maker-22-Aug-2023-12-33-PM-5216.jpg?crop=2159,1215,x0,y109&width=2159&height=1215&format=pjpg&auto=webp",
+    "language": "en",
+    "category": [
+      "regional",
+      "milwaukee",
+      "politics"
+    ],
+    "published": "2023-08-23 03:24:59 +0000",
+    "short_uuid": "979ab13c"
+  },
+  {
+    "id": "2606d61e-ed69-4d02-84ed-d440d2c9a5cb",
+    "title": "PGA Tour Golfer Erik Compton Arrested on Domestic Abuse and Robbery Charges",
+    "description": "PGA Tour Golfer Erik Compton was arrested on Sunday on domestic abuse charges according to reports.",
+    "url": "https://www.breitbart.com/sports/2023/08/22/pga-tour-golfer-erik-compton-arrested-on-domestic-abuse-and-robbery-charges/",
+    "author": "Warner Todd Huston",
+    "image": "https://media.breitbart.com/media/2023/08/AP-Photo_Lynne-Sladky-1-640x335.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-23 03:23:24 +0000",
+    "short_uuid": "8315e8f1"
+  },
+  {
+    "id": "4f1a35f0-7970-4ea2-a0f4-3ea1c6d13ba7",
+    "title": "'Blade Runners' take action after London installs cameras to track, fine drivers in the name of climate",
+    "description": "A secretive group of activists, called the Blade Runners, is not staying silent after London's mayor expanded a controversial program that tracks and fines drivers who do not drive electric vehicles due to progressive climate policy. London's Ultra-Low Emission Zone (ULEZ)\u00a0program takes aim at older...",
+    "url": "https://www.foxnews.com/world/blade-runners-take-action-after-london-installs-cameras-track-fine-drivers-name-climate",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/45c5bc97-4.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-23 03:19:35 +0000",
+    "short_uuid": "48a3201f"
+  },
+  {
+    "id": "b5d99778-a65a-46dc-8fd1-5be1dbde2222",
+    "title": "Joe Biden appeared 'totally responsive' to Hunter's Burisma concerns amid new report, Sen. Johnson says",
+    "description": "Senate Homeland Security Committee member Ron Johnson, R-Wis., claimed new reporting about then-Vice President Joe Biden's role in the ouster of a Ukrainian prosecutor investigating an energy company on which his son sat on the board showed the current president to be \"totally responsive\" to his son...",
+    "url": "https://www.foxnews.com/media/joe-biden-appeared-totally-responsive-hunters-burisma-concerns-amid-new-report-ron-johnson",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/ap21035470994578.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-23 03:18:52 +0000",
+    "short_uuid": "baaae092"
+  },
+  {
+    "id": "de6a7ac5-89a9-4c53-99e8-ac0d46b44965",
+    "title": "Baltimore man who \"pushed police line\" at Jan. 6 riot sentenced",
+    "description": "A Baltimore man who \"pushed a police line\" and grabbed a law enforcement officer's shield during the Jan. 6 U.S. Capitol riot was sentenced Tuesday \u2026",
+    "url": "https://www.axios.com/2023/08/23/baltimore-man-capitol-riot-police-sentence",
+    "author": "Rebecca Falconer",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-23 03:00:47 +0000",
+    "short_uuid": "9a3750b8"
   }
 ]
