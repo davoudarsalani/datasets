@@ -20944,5 +20944,509 @@
     ],
     "published": "2023-08-24 11:25:05 +0000",
     "short_uuid": "30184a5f"
+  },
+  {
+    "id": "affd329c-700c-44ae-b9ec-bb4098b846a1",
+    "title": "Influence Maximization in Complex Networks by Using Evolutionary Deep Reinforcement Learning",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/9679820",
+    "author": "Lijia Ma Zengyang Shao Xiaocong Li Qiuzhen Lin Jianqiang Li Victor C. M. Leung Asoke K. Nandi",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "ET",
+      "AI",
+      "EE"
+    ],
+    "published": "2023-08-24 16:00:00 +0000",
+    "short_uuid": "838427d5"
+  },
+  {
+    "id": "dcfcdb4a-f488-43f7-a72e-927c1b0eec9e",
+    "title": "Low-Rank Matrix Completion Theory via Pl\u00fccker Coordinates",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/10056236",
+    "author": "Manolis C. Tsakiris",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "EE",
+      "AI",
+      "IEEE"
+    ],
+    "published": "2023-08-24 16:00:00 +0000",
+    "short_uuid": "ebcd7583"
+  },
+  {
+    "id": "6963808c-8a55-4b0f-92b0-e80e7f6a289f",
+    "title": "A Survey on Data-Driven Runoff Forecasting Models Based on Neural Networks",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/10090411",
+    "author": "Ziyu Sheng Shiping Wen Zhong-Kai Feng Jiaqi Gong Kaibo Shi Zhenyuan Guo Yin Yang Tingwen Huang",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "ET",
+      "AI",
+      "EE"
+    ],
+    "published": "2023-08-24 16:00:00 +0000",
+    "short_uuid": "fdd3c00f"
+  },
+  {
+    "id": "0c53476d-8785-463e-8c9f-c76ce710f92f",
+    "title": "An Evolutionary Framework for Modelling Unknown Behaviours of Other Agents",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/9999131",
+    "author": "Yinghui Pan Biyang Ma Yifeng Zeng Jing Tang Buxin Zeng Zhong Ming",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "ET",
+      "AI",
+      "EE"
+    ],
+    "published": "2023-08-24 16:00:00 +0000",
+    "short_uuid": "fc991eea"
+  },
+  {
+    "id": "e777d2a6-f809-44e0-a60f-ad9487330b3f",
+    "title": "A Community-Aware Framework for Social Influence Maximization",
+    "description": "",
+    "url": "https://ieeexplore.ieee.org/document/10087045",
+    "author": "Abhishek K. Umrawal Christopher J. Quinn Vaneet Aggarwal",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "ET",
+      "AI",
+      "EE"
+    ],
+    "published": "2023-08-24 16:00:00 +0000",
+    "short_uuid": "c445a944"
+  },
+  {
+    "id": "43d64c37-a1b1-4379-95fd-c1a03e0129c7",
+    "title": "Two-Dimensional Embedded Fuzzy Data Clustering",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/9956777",
+    "author": "Yong Peng Keding Chen Feiping Nie Bao-Liang Lu Wanzeng Kong",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "ET",
+      "AI",
+      "EE"
+    ],
+    "published": "2023-08-24 16:00:00 +0000",
+    "short_uuid": "c73ad6ad"
+  },
+  {
+    "id": "4603f458-f7b9-4741-b472-850635c25b5a",
+    "title": "Deep Reinforcement Learning Based Adaptive Operator Selection for Evolutionary Multi-Objective Optimization",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/9712324",
+    "author": "Ye Tian Xiaopeng Li Haiping Ma Xingyi Zhang Kay Chen Tan Yaochu Jin",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "ET",
+      "AI",
+      "EE"
+    ],
+    "published": "2023-08-24 16:00:00 +0000",
+    "short_uuid": "944543b4"
+  },
+  {
+    "id": "9e5ac9ce-d1cc-42ca-8ad4-2b9608755975",
+    "title": "Memristive Circuit Design of Quantized Convolutional Auto-Encoder",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/9967793",
+    "author": "Yaozhong Zhang Xiaoping Wang Chao Yang Zhigang Zeng",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "ET",
+      "AI",
+      "EE"
+    ],
+    "published": "2023-08-24 16:00:00 +0000",
+    "short_uuid": "9770712c"
+  },
+  {
+    "id": "6a364b21-30d2-4f2d-a246-b7dd1ede5c0d",
+    "title": "Graph-Based Feature Selection in Classification: Structure and Node Dynamic Mechanisms",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/9983973",
+    "author": "Fan Cheng Changjun Zhou Xudong Liu Qijun Wang Jianfeng Qiu Lei Zhang",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "ET",
+      "AI",
+      "EE"
+    ],
+    "published": "2023-08-24 16:00:00 +0000",
+    "short_uuid": "7492cb11"
+  },
+  {
+    "id": "93bb2c5e-f508-4932-92a6-63de03794739",
+    "title": "Structural Parameter Space Exploration for Reinforcement Learning via a Matrix Variate Distribution",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/9679819",
+    "author": "Shaochen Wang Rui Yang Bin Li Zhen Kan",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "ET",
+      "AI",
+      "EE"
+    ],
+    "published": "2023-08-24 16:00:00 +0000",
+    "short_uuid": "816efd40"
+  },
+  {
+    "id": "750eb0cf-3d34-4f74-b9c4-dc7a4be923f6",
+    "title": "Dynamic Multi-Objective Optimization Framework With Interactive Evolution for Sequential Recommendation",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/10070104",
+    "author": "Wei Zhou Yong Liu Min Li Yu Wang Zhiqi Shen Liang Feng Zexuan Zhu",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "ET",
+      "AI",
+      "EE"
+    ],
+    "published": "2023-08-24 16:00:00 +0000",
+    "short_uuid": "f1e609"
+  },
+  {
+    "id": "4cd5bf30-2a67-43c6-a02d-4b95b369856b",
+    "title": "DLB: A Dynamic Load Balance Strategy for Distributed Training of Deep Neural Networks",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/9960865",
+    "author": "Qing Ye Yuhao Zhou Mingjia Shi Yanan Sun Jiancheng Lv",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "ET",
+      "AI",
+      "EE"
+    ],
+    "published": "2023-08-24 16:00:00 +0000",
+    "short_uuid": "7af4b24a"
+  },
+  {
+    "id": "d112aa6d-19f0-4a6e-a00d-3a685def7317",
+    "title": "Deep Reinforcement Learning Based Optimization Algorithm for Permutation Flow-Shop Scheduling",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/9594768",
+    "author": "Zixiao Pan Ling Wang Jingjing Wang Jiawen Lu",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "ET",
+      "AI",
+      "EE"
+    ],
+    "published": "2023-08-24 16:00:00 +0000",
+    "short_uuid": "c4f2263e"
+  },
+  {
+    "id": "ddde7a66-13e8-4a5c-b23f-4270f73a5970",
+    "title": "Reinforcement Learning on Graphs: A Survey",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/10121200",
+    "author": "Mingshuo Nie Dongming Chen Dongqi Wang",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "ET",
+      "AI",
+      "EE"
+    ],
+    "published": "2023-08-24 16:00:00 +0000",
+    "short_uuid": "a5ec1258"
+  },
+  {
+    "id": "3e4df5a1-e5a5-4468-9806-d8fee7d9dbf9",
+    "title": "$L$-Fuzzy Multiset Recognizer: Determinization and Minimization",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/9998315",
+    "author": "Mallika Dhingra Mahesh Kumar Dubey Jacob Kavikumar",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "ET",
+      "AI",
+      "EE"
+    ],
+    "published": "2023-08-24 16:00:00 +0000",
+    "short_uuid": "719adce4"
+  },
+  {
+    "id": "274a9721-6d6a-468d-a22d-ef864fe377ba",
+    "title": "Foreground Fusion-Based Liquefied Natural Gas Leak Detection Framework From Surveillance Thermal Imaging",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/9928408",
+    "author": "Junchi Bin Zhila Bahrami Choudhury A. Rahman Shan Du Shane Rogers Zheng Liu",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "ET",
+      "AI",
+      "EE"
+    ],
+    "published": "2023-08-24 16:00:00 +0000",
+    "short_uuid": "7d770aee"
+  },
+  {
+    "id": "c4070d98-6ba9-429c-8a10-e87d065986cc",
+    "title": "Physical Fitness Assessment for Cancer Patients Using Multi-Model Decision Fusion Based on Multi-Source Data",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/9964178",
+    "author": "Jiaxi Li Zhelong Wang Hongyu Zhao Sen Qiu Ke Zhang Xin Shi Huan Qu Guichun Jiang",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "ET",
+      "AI",
+      "EE"
+    ],
+    "published": "2023-08-24 16:00:00 +0000",
+    "short_uuid": "55aebd2"
+  },
+  {
+    "id": "167b5d64-7c0a-4c5a-976a-e97ecbf2b35d",
+    "title": "Knowledge-Based Reinforcement Learning and Estimation of Distribution Algorithm for Flexible Job Shop Scheduling Problem",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/9707606",
+    "author": "Yu Du Jun-Qing Li Xiao-Long Chen Pei-Yong Duan Quan-Ke Pan",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "ET",
+      "AI",
+      "EE"
+    ],
+    "published": "2023-08-24 16:00:00 +0000",
+    "short_uuid": "382f4afa"
+  },
+  {
+    "id": "c8473682-4418-4806-80a3-95a2c4330c20",
+    "title": "A Self-Adaptive Evolutionary Multi-Task Based Constrained Multi-Objective Evolutionary Algorithm",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/10032050",
+    "author": "Kangjia Qiao Jing Liang Kunjie Yu Minghui Wang Boyang Qu Caitong Yue Yinan Guo",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "ET",
+      "AI",
+      "EE"
+    ],
+    "published": "2023-08-24 16:00:00 +0000",
+    "short_uuid": "53b4b7db"
+  },
+  {
+    "id": "542bab96-ffc5-42dc-8136-577cdca553ca",
+    "title": "Multi-Scale Attention Generative Adversarial Network for Medical Image Enhancement",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/10058820",
+    "author": "Guojin Zhong Weiping Ding Long Chen Yingxu Wang Yu-Feng Yu",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "ET",
+      "AI",
+      "EE"
+    ],
+    "published": "2023-08-24 16:00:00 +0000",
+    "short_uuid": "ea95866b"
+  },
+  {
+    "id": "cbe2c725-d861-49bd-bc7b-f32a4513d4da",
+    "title": "Multi-View Adjacency-Constrained Hierarchical Clustering",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/9964104",
+    "author": "Jie Yang Chin-Teng Lin",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "ET",
+      "AI",
+      "EE"
+    ],
+    "published": "2023-08-24 16:00:00 +0000",
+    "short_uuid": "62308050"
+  },
+  {
+    "id": "5f0f83e7-368a-4560-a330-ccbca02d3ca4",
+    "title": "Sparse Adversarial Unsupervised Domain Adaptation With Deep Dictionary Learning for Traffic Scene Classification",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/10025588",
+    "author": "Mohsen Saffari Mahdi Khodayar Seyed Mohammad Jafar Jalali",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "ET",
+      "AI",
+      "EE"
+    ],
+    "published": "2023-08-24 16:00:00 +0000",
+    "short_uuid": "3d1a8717"
+  },
+  {
+    "id": "5c9d6fe6-44b7-4214-bd1e-db9ae4cf189b",
+    "title": "Online Label Distribution Learning Using Random Vector Functional-Link Network",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/9999539",
+    "author": "Jintao Huang Chi-Man Vong Wenbin Qian Qin Huang Yimin Zhou",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "ET",
+      "AI",
+      "EE"
+    ],
+    "published": "2023-08-24 16:00:00 +0000",
+    "short_uuid": "b32aaeec"
+  },
+  {
+    "id": "60a4ecb0-2621-46c9-ac2d-6f440c1183b1",
+    "title": "Tagging Multi-Label Categories to Points of Interest From Check-In Data",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/10044383",
+    "author": "Rimjhim Sourav Kumar Dandapat",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "it",
+    "category": [
+      "academia",
+      "ET",
+      "AI",
+      "EE"
+    ],
+    "published": "2023-08-24 16:00:00 +0000",
+    "short_uuid": "6f61c26e"
+  },
+  {
+    "id": "3ac5ec60-fea1-492c-8ae8-a7d17764cc3f",
+    "title": "A Facile Approach To Represent Neural Network With Less Storage Space",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/9928411",
+    "author": "Sheng-An Huang Jenq-Shiou Leu",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "ET",
+      "AI",
+      "EE"
+    ],
+    "published": "2023-08-24 16:00:00 +0000",
+    "short_uuid": "8253c863"
+  },
+  {
+    "id": "4edb86e6-887d-4ef1-bb48-e4777c2e25d6",
+    "title": "3D Object Detection and Tracking Based on Lidar-Camera Fusion and IMM-UKF Algorithm Towards Highway Driving",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/10092267",
+    "author": "Chang Nie Zhiyang Ju Zhifeng Sun Hui Zhang",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "ET",
+      "AI",
+      "EE"
+    ],
+    "published": "2023-08-24 16:00:00 +0000",
+    "short_uuid": "3b04b6ab"
+  },
+  {
+    "id": "5c837b38-20a9-43ba-9127-9a9d62bf2d26",
+    "title": "Guest Editorial Special Issue on Deep Reinforcement Learning for Optimization: Methods and Application",
+    "description": "",
+    "url": "https://ieeexplore.ieee.org/document/10190193",
+    "author": "Rui Wang Lining Xing Maoguo Gong Ponnuthurai Nagaratnam Suganthan Hisao Ishibuchi",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "ET",
+      "AI",
+      "EE"
+    ],
+    "published": "2023-08-24 16:00:00 +0000",
+    "short_uuid": "461a8554"
+  },
+  {
+    "id": "b304dfa5-330a-4d74-b434-568dc48e9c9a",
+    "title": "RL-CSL: A Combinatorial Optimization Method Using Reinforcement Learning and Contrastive Self-Supervised Learning",
+    "description": "",
+    "url": "https://ieeexplore.ieee.org/document/9690950",
+    "author": "Zhongju Yuan Genghui Li Zhenkun Wang Jianyong Sun Ran Cheng",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "ET",
+      "AI",
+      "EE"
+    ],
+    "published": "2023-08-24 16:00:00 +0000",
+    "short_uuid": "dc5fccbf"
+  },
+  {
+    "id": "b35a6a3e-6ace-47ed-b26a-33b639e1adde",
+    "title": "Largest US railroad union wants regulators to ensure conductors are properly trained following 2 recent deaths",
+    "description": "The nation's largest railroad union wants federal regulators to do more to ensure conductors are properly trained in the wake of two recent trainee deaths. The Transportation Division of the International Association of Sheet Metal, Air, Rail and Transportation Workers union that represents conducto...",
+    "url": "https://www.foxnews.com/us/largest-us-railroad-union-wants-regulators-ensure-conductors-properly-trained-following-2-recent-deaths",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/AP23235804505255.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-24 14:23:10 +0000",
+    "short_uuid": "80499a34"
+  },
+  {
+    "id": "3e246e00-529c-44aa-9db6-f5a59493f429",
+    "title": "Fox News Politics: Top takeaways from the first GOP debate",
+    "description": "Welcome to a special edition Fox News\u2019 Politics newsletter with a wrap-up of the first Republican presidential debate. Subscribe now to get Fox News Politics newsletter in your inbox.\n\nWHO WON? Florid...",
+    "url": "https://www.foxnews.com/politics/fox-news-politics-top-takeaways-first-gop-debate",
+    "author": "Fox News Staff",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/GettyImages-1634928033-e1692845947685.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-24 14:21:54 +0000",
+    "short_uuid": "4cd64f08"
   }
 ]
