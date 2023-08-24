@@ -21448,5 +21448,427 @@
     ],
     "published": "2023-08-24 14:21:54 +0000",
     "short_uuid": "4cd64f08"
+  },
+  {
+    "id": "83640a34-bba5-459c-aace-77389c5dc78d",
+    "title": "Dollar Tree's shares sink 13%, as CEO says 'challenging' economy is pressuring discounter",
+    "description": "Dollar Tree raised its sales outlook for the year but narrowed its earnings guidance.",
+    "url": "https://www.cnbc.com/2023/08/24/dollar-tree-dltr-earnings-q2-2023.html",
+    "author": "cnbc",
+    "image": "https://image.cnbcfm.com/api/v1/image/107249411-1685634723714-gettyimages-1257399012-PWeaver-Dollar-01.jpeg?v=1692890934&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-24 20:05:08 +0000",
+    "short_uuid": "14636104"
+  },
+  {
+    "id": "dd065ad9-3c5b-4cf3-a046-1e3c4c7969f5",
+    "title": "Putin says Prigozhin 'made serious mistakes' in first remarks since plane crash that likely killed the Wagner boss",
+    "description": "Before running Wagner, Prigozhin was once Putin's personal chef and confidant.",
+    "url": "https://www.cnbc.com/2023/08/24/putin-says-prigozhin-made-serious-mistakes-in-first-remarks-since-crash.html",
+    "author": "cnbc",
+    "image": "https://image.cnbcfm.com/api/v1/image/107257448-1686836151710-AP23125346218802.jpg?v=1692907433&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-24 20:05:04 +0000",
+    "short_uuid": "72843b22"
+  },
+  {
+    "id": "77a0eaa8-6eee-4bbc-903d-1e1a4ae68e46",
+    "title": "Trump chief of staff Mark Meadows booked at Georgia jail, released on $100,000 bond in election case",
+    "description": "Meadows, Trump's former chief of staff, was charged in the Georgia case with racketeering and soliciting a violation of an oath by a public officer.",
+    "url": "https://www.cnbc.com/2023/08/24/trump-chief-of-staff-mark-meadows-gets-100000-bond-in-georgia-election-case.html",
+    "author": "cnbc",
+    "image": "https://image.cnbcfm.com/api/v1/image/107291714-16929050272023-08-24t191601z_1319468265_rc2du2at9j9r_rtrmadp_0_usa-trump-georgia.jpeg?v=1692907085&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-24 19:54:47 +0000",
+    "short_uuid": "e86ecfee"
+  },
+  {
+    "id": "b0f1e0ed-1b5a-45c4-9f5b-8543e9f971b6",
+    "title": "Republican debate by the numbers: Ramaswamy seizes spotlight, Trump looms large",
+    "description": "Ramaswamy defended Trump and stole much of the spotlight from higher-profile contenders, including Florida Gov. Ron DeSantis and South Carolina Sen. Tim Scott.",
+    "url": "https://www.cnbc.com/2023/08/24/republican-debate-by-the-numbers-ramaswamy-trump-looms-large.html",
+    "author": "cnbc",
+    "image": "https://image.cnbcfm.com/api/v1/image/107291196-1692891660345-vive.jpg?v=1692906656&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-24 19:52:20 +0000",
+    "short_uuid": "d16ae434"
+  },
+  {
+    "id": "b8509eb7-3c79-4215-955a-9ecd0eff6b0a",
+    "title": "Trump opposes October trial start in Georgia election case",
+    "description": "The request by DA Fani Willis came after Kenneth Chesebro demanded a speedy trial in the Georgia case against him, Donald Trump and 17 others.",
+    "url": "https://www.cnbc.com/2023/08/24/trump-georgia-election-prosecutor-seeks-oct-23-trial-start.html",
+    "author": "cnbc",
+    "image": "https://image.cnbcfm.com/api/v1/image/107286611-16921001022023-08-15t050645z_1035705980_rc23o2aumfmp_rtrmadp_0_usa-trump-georgia.jpeg?v=1692898292&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-24 19:48:02 +0000",
+    "short_uuid": "e33e5b94"
+  },
+  {
+    "id": "1a0af4c5-4596-4bd2-9290-d7d93ebcd9f3",
+    "title": "Vivek Ramaswamy\u2019s policy proposals and how they would transform the U.S.",
+    "description": "The emerging GOP presidential candidate Vivek Ramaswamy is running on an aggressive series of 25 key campaign proposals.",
+    "url": "https://www.washingtonpost.com/business/2023/08/24/vivek-ramaswamy-policy-gop-candidate/",
+    "author": "Jeff Stein",
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XVJ3CZWZL25CRLTDCUSTZSJ4EA.JPG&w=1440",
+    "language": "en",
+    "category": [
+      "business"
+    ],
+    "published": "2023-08-24 19:47:29 +0000",
+    "short_uuid": "de6a459d"
+  },
+  {
+    "id": "4051e000-4fb4-420a-a134-00a2979e1b61",
+    "title": "GOP-led House committee launches probe into Trump Georgia election case",
+    "description": "Donald Trump will be booked at an Atlanta jail on charges related to his trying to overturn his loss in the 2020 election in Georgia to President Joe Biden.",
+    "url": "https://www.cnbc.com/2023/08/24/trump-georgia-election-case-is-target-of-new-house-gop-led-committee-probe.html",
+    "author": "cnbc",
+    "image": "https://image.cnbcfm.com/api/v1/image/107286804-16921123002023-08-15t064202z_1093284158_rc23o2ajlbvt_rtrmadp_0_usa-trump-georgia.jpeg?v=1692892415&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-24 19:44:41 +0000",
+    "short_uuid": "3bc61bb6"
+  },
+  {
+    "id": "0df98f98-828a-41c5-beec-73a74eafa13f",
+    "title": "There's no 'free lunch' with high-interest cash options, advisor says. How to plan for taxes",
+    "description": "Savers are now getting higher cash yields after interest rate hikes. But taxes on those earnings could be a surprise, experts say. Here's how to prepare.",
+    "url": "https://www.cnbc.com/2023/08/24/heres-how-higher-interest-options-for-cash-may-affect-your-taxes.html",
+    "author": "cnbc",
+    "image": "https://image.cnbcfm.com/api/v1/image/107267636-1688662254712-gettyimages-1438254859-dsc_9474.jpeg?v=1692902875&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-24 19:39:26 +0000",
+    "short_uuid": "76a69828"
+  },
+  {
+    "id": "838989dc-3788-4bf0-866a-449cf8456500",
+    "title": "Putin Probably Approved Prigozhin Killing, US, UK Say",
+    "description": "Early assessments by the US indicate that the death in a plane crash of Wagner founder Yevgeny Prigozhin was an assassination that probably was approved by Russian President Vladimir Putin, according to American officials.",
+    "url": "https://www.bloomberg.com/news/articles/2023-08-24/putin-probably-approved-prigozhin-killing-western-officials-say",
+    "author": "Bloomberg",
+    "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8Gmhy_Ks1s8/v1/1200x770.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-24 19:34:22 +0000",
+    "short_uuid": "ab25edc"
+  },
+  {
+    "id": "5d5d69d1-52f2-48f8-9cb1-9adfede8237e",
+    "title": "75% of people age 50 and up worry Social Security will run out of money in their lifetimes, survey finds",
+    "description": "Negative headlines about Social Security's future may influence the retirement benefit decisions people make. Here's what experts say to focus on instead.",
+    "url": "https://www.cnbc.com/2023/08/24/75percent-of-people-50-and-up-worry-social-security-will-run-out-of-money.html",
+    "author": "cnbc",
+    "image": "https://image.cnbcfm.com/api/v1/image/105958222-1560177089395gettyimages-599882010.jpeg?v=1692901479&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-24 19:30:45 +0000",
+    "short_uuid": "896ae308"
+  },
+  {
+    "id": "8660bc6d-2cf1-4e9c-994a-b30477cfd310",
+    "title": "US intelligence shows planned explosion caused crash of Wagner chief\u2019s plane",
+    "description": "Russian servicemen inspect a part of a crashed private jet near the village of Kuzhenkino, Tver region, Russia, Thursday, Aug. 24, 2023. Russian mercenary leader Yevgeny Prigozhin, the founder of the Wagner Group, reportedly died when a private jet he was said to be on crashed on Aug. 23, 2023, kill...",
+    "url": "https://www.adn.com/nation-world/2023/08/24/putin-offers-condolences-to-plane-crash-victims-says-prigozhin-was-a-talented-person-who-made-serious-mistakes/",
+    "author": "Emma Burrows, Aamer Madhani",
+    "image": "https://www.adn.com/resizer//aFJkhc4ky-wLn2cxZF75A6NvbFo=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/adn/HYMMZQDBQL6UEJ5QJTPNZQXIM4.jpg",
+    "language": "en",
+    "category": [
+      "regional",
+      "politics"
+    ],
+    "published": "2023-08-24 19:17:38 +0000",
+    "short_uuid": "78ed5a3"
+  },
+  {
+    "id": "910ab9d4-d4fc-441e-ad48-bc215a63ed32",
+    "title": "31% of investors are OK with using artificial intelligence as their advisor",
+    "description": "Nearly 1 in 3 investors are comfortable implementing financial advice from a generative AI program without verifying it first, a CFP Board poll found.",
+    "url": "https://www.cnbc.com/2023/08/24/31percent-of-investors-are-ok-with-using-ai-as-their-financial-advisor.html",
+    "author": "cnbc",
+    "image": "https://image.cnbcfm.com/api/v1/image/107291671-1692901147722-gettyimages-1572426493-porzycki-inflecti230802_npjWt.jpeg?v=1692904141&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-24 19:16:10 +0000",
+    "short_uuid": "369c0c11"
+  },
+  {
+    "id": "f8f4c1fb-6e01-42e4-b547-ad26cc969da2",
+    "title": "Prince Harry will return to U.K. without Meghan Markle ahead of anniversary of Queen Elizabeth's death",
+    "description": "Prince Harry is heading back to the U.K. once again, solo. He is expected to return next month to attend a charity awards ceremony the day before the first anniversary of Queen Elizabeth II's death, the charity WellChild said Thursday. Harry, who is a longtime patron of the U.K. charity, will attend...",
+    "url": "https://www.foxnews.com/entertainment/prince-harry-return-u-k-without-meghan-markle-ahead-anniversary-queen-elizabeths-death",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/Queen-Elizabeth_Prince-Harry_Meghan-Markle.jpg",
+    "language": "en",
+    "category": [
+      "entertainment"
+    ],
+    "published": "2023-08-24 19:11:20 +0000",
+    "short_uuid": "2dc24d2f"
+  },
+  {
+    "id": "f1bf2969-5e83-4cd2-88aa-51cd11129654",
+    "title": "Florida Poll Shows Massive Shift Away from Ron DeSantis to Donald Trump",
+    "description": "There has been a massive shift in support away from Gov. Ron DeSantis to former President Donald Trump in Florida.",
+    "url": "https://www.breitbart.com/politics/2023/08/24/florida-poll-shows-massive-shift-ron-desantis-donald-trump/",
+    "author": "Hannah Bleau",
+    "image": "https://media.breitbart.com/media/2023/07/Trump-Leading-DeSantis-640x335.jpeg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-24 19:00:39 +0000",
+    "short_uuid": "77589e8e"
+  },
+  {
+    "id": "53ec0b5a-f582-4b66-ad18-01370ea01754",
+    "title": "Nvidia earnings scare away AMD, Intel investors as legacy chipmakers lose ground in AI",
+    "description": "In its earnings report on Wednesday, Nvidia said sales this quarter will likely rise 170%, showing the company's dominance in artificial intelligence chips",
+    "url": "https://www.cnbc.com/2023/08/24/nvidia-earnings-scare-away-amd-intel-investors-as-ai-battle-shapes-up.html",
+    "author": "cnbc",
+    "image": "https://image.cnbcfm.com/api/v1/image/107249321-1685630435513-gettyimages-1494623399-0j5a0211_n4plkmvu.jpeg?v=1692903588&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-24 18:59:48 +0000",
+    "short_uuid": "2c761aff"
+  },
+  {
+    "id": "e4ad245e-4a80-4808-9144-a7cafa1ca6fd",
+    "title": "How 5 companies are using pricing power to protect profits during high inflation",
+    "description": "Pricing power is a company's ability to raise prices on products and services without impacting demand. That's not an easy task.",
+    "url": "https://www.cnbc.com/2023/08/24/how-5-companies-are-using-pricing-power-to-protect-profits-during-high-inflation.html",
+    "author": "cnbc",
+    "image": "https://image.cnbcfm.com/api/v1/image/107278785-1690576876600-gettyimages-1576841436-img_2636_thnbkg1w.jpeg?v=1692903491&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-24 18:58:11 +0000",
+    "short_uuid": "ad936f53"
+  },
+  {
+    "id": "38e22760-5047-432d-b2da-1c9b6710518c",
+    "title": "Vladimir Putin Offers 'Condolences' for Wagner Warlord Yevgeny Prigozhin",
+    "description": "Russian President Vladimir Putin on Thursday made his first comments on the death of mercenary leader Yevgeny Priogzhin.",
+    "url": "https://www.breitbart.com/europe/2023/08/24/a-man-of-complicated-destiny-vladimir-putin-offers-condolences-for-wagner-warlord-yevgeny-prigozhin/",
+    "author": "John Hayward",
+    "image": "https://media.breitbart.com/media/2023/08/Prigozhin-and-Putin-640x335.jpeg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-24 18:55:50 +0000",
+    "short_uuid": "b435784e"
+  },
+  {
+    "id": "890d32c2-2853-43f2-acf4-1383e9f8862a",
+    "title": "Researchers: AI-Generated Spam Bots Are Flooding Social Media, Scamming Humans",
+    "description": "A recent study by Indiana University researchers reveals a surge in AI-generated spam bots on social media platforms, particularly exploiting OpenAI's ChatGPT to promote scams and degrade online information quality.",
+    "url": "https://www.breitbart.com/tech/2023/08/24/researchers-ai-generated-spam-bots-are-flooding-social-media-scamming-humans/",
+    "author": "Lucas Nolan",
+    "image": "https://media.breitbart.com/media/2023/08/Robots-dancing-640x335.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-24 18:55:28 +0000",
+    "short_uuid": "a148b49d"
+  },
+  {
+    "id": "e509332b-9f04-40d7-8949-2da07304f0e8",
+    "title": "Report: Marketing Firm Behind Bud Light Trans Disaster Fires 13 Workers",
+    "description": "The marketing company behind Bud Light's partnership with transgender Dylan Mulvaney has reportedly terminated 13 workers.",
+    "url": "https://www.breitbart.com/economy/2023/08/24/report-marketing-firm-behind-bud-light-transgender-disaster-fires-13-workers/",
+    "author": "Amy Furr",
+    "image": "https://media.breitbart.com/media/2023/08/AP19010818229399-640x335.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-24 18:54:38 +0000",
+    "short_uuid": "21329cb6"
+  },
+  {
+    "id": "6122831d-dea3-4c89-a6f3-f5f5d63d7d31",
+    "title": "August once again lives up to its dismal reputation for stocks",
+    "description": "The S&P 500 is down more than 3% this month, on pace to snap a five-month winning streak.",
+    "url": "https://www.cnbc.com/2023/08/24/august-again-lives-up-to-its-reputation-as-a-downbeat-month-for-stocks.html",
+    "author": "cnbc",
+    "image": "https://image.cnbcfm.com/api/v1/image/107286858-1692902250681-mouth.jpg?v=1692907357&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-24 18:54:38 +0000",
+    "short_uuid": "4d6f6c90"
+  },
+  {
+    "id": "e6ada901-f846-450a-88f8-af2ec8faa09c",
+    "title": "Why Are Trump\u2019s Accused Co-Conspirators Smiling for Their Mug Shots?",
+    "description": "The traditional mug shot is usually a grim affair: poorly lit and sullen. It is a permanent portrait of shame \u2014 the legal system\u2019s scarlet letter.\n\nIt is, almost by definition, unsmiling.\n\nBut the boo...",
+    "url": "https://www.nytimes.com/2023/08/24/us/politics/trump-politicians-mug-shots.html",
+    "author": "Glenn Thrush",
+    "image": "https://static01.nyt.com/images/2023/08/24/us/politics/24dc-mugshots20/24dc-mugshots20-facebookJumbo-v3.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-24 18:41:00 +0000",
+    "short_uuid": "69e4f13e"
+  },
+  {
+    "id": "8f93ec1c-70a2-4fff-90ca-c136e2b89eaa",
+    "title": "Trump replaces top Georgia lawyer ahead of surrender | CNN Politics",
+    "description": "CNN \u2014\n\nFormer President Donald Trump has replaced his top Georgia lawyer ahead of his surrender Thursday evening, sources tell CNN.\n\nIn replacing Drew Findling with Steven Sadow, an Atlanta-based atto...",
+    "url": "https://www.cnn.com/2023/08/24/politics/trump-georgia-lawyer/index.html",
+    "author": "Kristen Holmes Sara Murray",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230824074623-01-drew-findling-file.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-24 18:34:50 +0000",
+    "short_uuid": "3dd9a500"
+  },
+  {
+    "id": "073c7fdf-52c7-4a01-9d84-adf804687531",
+    "title": "Sally Yates: Voters 'have a right' to hear evidence against Trump before election | CNN Politics",
+    "description": "CNN \u2014\n\nSally Yates, a former acting attorney general early in Donald Trump\u2019s administration, said voters \u201chave a right\u201d to hear the special counsel\u2019s evidence against the former president before they ...",
+    "url": "https://www.cnn.com/2023/08/24/politics/sally-yates-trump-investigations-axe-files/index.html",
+    "author": "Jack Forrest",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230824102334-sally-yates-file.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-24 18:34:50 +0000",
+    "short_uuid": "22242ed"
+  },
+  {
+    "id": "2cb5cbd9-8bbb-4934-bd41-ca3d6a8ef8d5",
+    "title": "House Judiciary Committee launches inquiry into Fulton County District Attorney Fani Willis | CNN Politics",
+    "description": "CNN \u2014\n\nThe Republican-led House Judiciary Committee has opened a congressional investigation into Fulton County District Attorney Fani Willis, a development that was first reported by CNN and comes th...",
+    "url": "https://www.cnn.com/2023/08/24/politics/house-republican-conference-trump-defense/index.html",
+    "author": "Annie Grayer Melanie Zanona",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230823140427-jordan-willis-split.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-24 18:34:50 +0000",
+    "short_uuid": "2dba5a88"
+  },
+  {
+    "id": "0588bdff-926e-4039-938d-59710d0a0223",
+    "title": "US expected to announce that it will host Ukrainian F-16 pilot training, officials say | CNN Politics",
+    "description": "CNN \u2014\n\nThe US is expected to announce that it will host training for Ukrainian F-16 pilots, according to two US officials.\n\nIt is unclear exactly when the training program will begin and it is not exp...",
+    "url": "https://www.cnn.com/2023/08/24/politics/us-ukraine-f-16-training/index.html",
+    "author": "Oren Liebermann",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230817191931-02-us-f-16-fighter-file.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-24 18:34:50 +0000",
+    "short_uuid": "6c43261a"
+  },
+  {
+    "id": "5b8c3ad0-a658-43ad-84a5-7a3a015f53ee",
+    "title": "Donald Trump to surrender in Atlanta in fourth criminal case brought against ex-president this year | CNN Politics",
+    "description": "CNN \u2014\n\nDonald Trump will surrender Thursday evening to be booked on more than a dozen charges stemming from his efforts to reverse Georgia\u2019s 2020 election results, the fourth time this year the former...",
+    "url": "https://www.cnn.com/2023/08/24/politics/donald-trump-surrender-fulton-county-jail-criminal-case/index.html",
+    "author": "Jeremy Herb Devan Cole Tierney Sneed",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230823172508-01-donald-trump-georgia-file-082223.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-24 18:34:50 +0000",
+    "short_uuid": "23294f27"
+  },
+  {
+    "id": "95040f96-56f7-47e8-81de-e1813d331914",
+    "title": "Live updates: Trump to surrender to Fulton County authorities in Georgia 2020 election case",
+    "description": "Former President Donald Trump has departed his Bedminster, New Jersey, golf club for Atlanta to surrender and be booked on more than a dozen charges stemming from his efforts to reverse Georgia\u2019s 2020...",
+    "url": "https://www.cnn.com/politics/live-news/trump-georgia-surrender-indictment-08-24-23/index.html",
+    "author": "Leinz Vales",
+    "image": "https://cdn.cnn.com/cnnnext/dam/assets/230820180146-donald-trump-campaign-rally-nh-080823-super-tease.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-24 18:34:50 +0000",
+    "short_uuid": "5ac4ba19"
+  },
+  {
+    "id": "775ff6c1-639b-43b0-909e-f781e07e0981",
+    "title": "US has not seen indications a missile downed Prigozhin's plane, officials say | CNN Politics",
+    "description": "CNN \u2014\n\nThe US has not seen indications that a missile downed the airplane Russian authorities say was carrying Wagner founder Yevgheny Prigozhin, according to four US officials.\n\nThe US intelligence c...",
+    "url": "https://www.cnn.com/2023/08/24/politics/us-priogzhin-crash-assessment/index.html",
+    "author": "Oren Liebermann Jim Sciutto Katie Bo Lillis Alex Marquardt",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230823161419-04-prigozhin-plane-crash-0823.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-24 18:34:50 +0000",
+    "short_uuid": "8efdc830"
+  },
+  {
+    "id": "12a9099b-a9e3-4afd-8097-46a95e90b3a6",
+    "title": "Putin breaks silence over Wagner chief Prigozhin\u2019s death in jet crash",
+    "description": "Russian President Vladimir Putin on Thursday made his first public remarks since the death of Russian warlord-turned-mutineer Yevgeny Prigozhin in a fiery plane crash on Wednesday.\n\nSpeculation is rif...",
+    "url": "https://www.politico.eu/article/putin-breaks-silence-over-wagner-chief-prigozhins-death-in-jet-crash/",
+    "author": "More ...",
+    "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/07/06/GettyImages-1230134715-BW.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-24 18:34:27 +0000",
+    "short_uuid": "32af24ad"
+  },
+  {
+    "id": "4e4cde45-bd39-42c5-9b5a-89a67c85bee6",
+    "title": "Iowa man drowns in Lake Clark National Park while trying to rescue son",
+    "description": "The view from the southern end of Lake Clark. Tanalian Falls is along the eastern side of the lake. (Dev Charm Khalsa / National Park Service) (Dev Dharm Khalsa / NPS/)An Iowa man drowned Saturday when he tried to rescue his son, who was caught in the current in the Tanalian River in Lake Clark Nati...",
+    "url": "https://www.adn.com/alaska-news/2023/08/24/iowa-man-drowns-in-lake-clark-national-park-while-trying-to-rescue-son/",
+    "author": "Anchorage Daily News",
+    "image": "https://www.adn.com/resizer//95VZ5JMRe8lapJhzf1v5QaHmuoI=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/adn/S3ZCZMYOPBEXRF7IXLNZA4DRDA.jpg",
+    "language": "en",
+    "category": [
+      "regional",
+      "politics"
+    ],
+    "published": "2023-08-24 18:34:00 +0000",
+    "short_uuid": "af1afe31"
   }
 ]
