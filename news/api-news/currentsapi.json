@@ -22290,5 +22290,433 @@
     ],
     "published": "2023-08-24 19:48:02 +0000",
     "short_uuid": "3f0d5c8c"
+  },
+  {
+    "id": "788ac0ba-c938-49c7-b539-bb4463396898",
+    "title": "GM's Ultium agrees to increase EV battery worker pay by 25% on average",
+    "description": "Ultium, a joint venture with LG Energy Solution, is key for the automaker to increase its supply of batteries for its growing fleet of electric vehicles.",
+    "url": "https://www.cnbc.com/2023/08/24/gms-ultium-agrees-to-increase-ev-battery-worker-pay-by-25percent-on-average.html",
+    "author": "cnbc",
+    "image": "https://image.cnbcfm.com/api/v1/image/106852719-1615480626390GMEVDay04-JPG?v=1692919816&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "auto"
+    ],
+    "published": "2023-08-25 00:27:18 +0000",
+    "short_uuid": "3d043318"
+  },
+  {
+    "id": "cd688d07-d77f-44d1-8ebf-a9be5cd93756",
+    "title": "Bride asks friend to make wedding cake, is then 'offended' when questioned if she's paying for ingredients",
+    "description": "A social media debate is underway about whether brides should be asking their wedding guests to fulfill costly favors \u2014 such as baking a cake for the big day \u2014 in place of gifts after a bride's specific inquiry was shared online for discussion. A Reddit user uploaded a Facebook post screenshot \u2014 whi...",
+    "url": "https://www.foxnews.com/lifestyle/bride-asks-friend-make-wedding-cake-offended-questioned-paying-ingredients",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/curve-half-half-with-inset-bride-mad-at-friend-for-wanting-money-for-cake-ingredients.jpg",
+    "language": "en",
+    "category": [
+      "lifestyle"
+    ],
+    "published": "2023-08-25 00:25:06 +0000",
+    "short_uuid": "7f825d94"
+  },
+  {
+    "id": "5b929ba2-0c9e-4832-8d26-a5f3a8269154",
+    "title": "Sheriff investigating bomb threat at Fulton County courthouse",
+    "description": "The Fulton County Sheriff's Office is investigating a bomb threat at the courthouse. This was not the location former President Trump appeared at to surrender to authorities.",
+    "url": "https://www.nbcnews.com/now/video/sheriff-investigating-bomb-threat-at-fulton-county-courthouse-191552069805",
+    "author": "NBCNews.com",
+    "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2023_08/1692922740880_now_topstory_gutierrez_bombthreat_230824_1920x1080-jm16uc.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-25 00:19:15 +0000",
+    "short_uuid": "c0e08e2a"
+  },
+  {
+    "id": "9cacbba8-ee86-43bf-b8d5-975ae264bcb7",
+    "title": "Motive remains unclear in Dillingham double homicide",
+    "description": "Alaska State Troopers say a Dillingham man arrested in the shooting deaths of two residents Saturday left a distinctive weapon at the scene, though charges filed this week provided little additional information about the circumstances leading up to the killings.Jennifer Gardiner, 32, and Timothy Eva...",
+    "url": "https://www.adn.com/alaska-news/crime-courts/2023/08/24/motive-remains-unclear-in-dillingham-double-homicide/",
+    "author": "Tess Williams",
+    "image": "https://www.adn.com/resizer//PeGnnXV9uEVabjNeYPpjN7YTuhM=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/adn/EEZ5N55CABH25GKZBLQKK5ITAU.JPG",
+    "language": "en",
+    "category": [
+      "regional",
+      "politics"
+    ],
+    "published": "2023-08-25 00:09:11 +0000",
+    "short_uuid": "8077cd2b"
+  },
+  {
+    "id": "7f277a55-0f35-4ebe-b647-a1eda257ef35",
+    "title": "Trump released from Georgia jail on $200,000 bond",
+    "description": "Former President Trump has been released from a Georgia jail after surrendering to authorities in Fulton County. A mugshot of Trump was taken, according to an aide to the former president.Aug. 25, 2023",
+    "url": "https://www.nbcnews.com/video/trump-released-from-georgia-jail-on-200-000-bond-191552069604",
+    "author": "NBCNews.com",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-25 00:04:28 +0000",
+    "short_uuid": "c48ad898"
+  },
+  {
+    "id": "0b4b3979-8cb3-425e-830c-ee7362014a65",
+    "title": "Viral video shows Valdosta State baseball coach banning player due to hair length",
+    "description": "A video of an apparent conversation between a Valdosta State University baseball player and his head coach is making its rounds across social media. In the leaked video, the unidentified player alleged the coach banned him from being a member of the university's baseball team solely due to the lengt...",
+    "url": "https://www.foxnews.com/sports/viral-video-shows-valdosta-state-baseball-coach-banning-player-due-hair-length",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/Valdosta-State.jpg",
+    "language": "en",
+    "category": [
+      "sports"
+    ],
+    "published": "2023-08-24 23:58:13 +0000",
+    "short_uuid": "a77d4609"
+  },
+  {
+    "id": "a0f0eebb-4260-416c-86b1-54939d7c45ca",
+    "title": "Column: Donald Trump just saw the inside of a jailhouse \u2014 and possibly his own miserable future",
+    "description": "The former president reported to the Fulton County Jail in Atlanta for booking on charges related to his attempt to overturn the 2020 election result in Georgia.",
+    "url": "https://www.latimes.com/opinion/story/2023-08-24/donald-trump-arrest-booking-fulton-county-jail-atlanta-georgia-harry-litman",
+    "author": "Harry Litman",
+    "image": "https://ca-times.brightspotcdn.com/dims4/default/b82c1cd/2147483647/strip/true/crop/3000x1575+0+213/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F43%2F63%2Fa6a000dc493695e7c6bc3dbddca8%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1602693700",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-24 23:57:42 +0000",
+    "short_uuid": "f9ca14e0"
+  },
+  {
+    "id": "02ed1c4d-39b9-44a9-92a3-eea34ff9e0df",
+    "title": "Trump arrives at Georgia jail to surrender to authorities",
+    "description": "Former President Donald Trump arrived at the Fulton County Jail in Georgia to surrender to authorities. Trump faces 13 charges including conspiracy to commit false statements, forgery and violation of racketeering laws. Aug. 24, 2023",
+    "url": "https://www.nbcnews.com/video/trump-arrives-at-georgia-jail-to-surrender-to-authorities-191550533982",
+    "author": "NBCNews.com",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-24 23:48:43 +0000",
+    "short_uuid": "c9bb8598"
+  },
+  {
+    "id": "d1725fd5-20e1-4e38-a987-df5501b39a48",
+    "title": "Alakanuk man charged with murder in shooting of friend",
+    "description": "A 20-year-old Alakanuk man was fatally shot this week and Alaska State Troopers say they have arrested a friend of his on charges of second-degree murder.Kobe Cook died of numerous gunshot wounds at the clinic in the Southwest Alaska village, according to a sworn affidavit filed with charges by Troo...",
+    "url": "https://www.adn.com/alaska-news/crime-courts/2023/08/24/alakanuk-man-charged-with-murder-in-shooting-of-friend/",
+    "author": "Tess Williams",
+    "image": "https://www.adn.com/resizer//9y_J7E_ffm_onEb5kLjGE4yCD98=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/adn/XSGCOA2GXBD3FANRRVIR3UXQQI.JPG",
+    "language": "en",
+    "category": [
+      "regional",
+      "politics"
+    ],
+    "published": "2023-08-24 23:32:04 +0000",
+    "short_uuid": "5f138257"
+  },
+  {
+    "id": "2b10a86c-64d1-44f3-8cf0-e4c0227ffa62",
+    "title": "Trump arrives in Georgia to surrender to authorities",
+    "description": "Former President Trump has arrived in Georgia and will surrender to authorities in Fulton County as he faces charges over alleged attempts to overturn the state election in 2020.Aug. 24, 2023",
+    "url": "https://www.nbcnews.com/now/video/trump-arrives-in-georgia-to-surrender-to-authorities-191548485861",
+    "author": "NBCNews.com",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-24 23:24:49 +0000",
+    "short_uuid": "559022a2"
+  },
+  {
+    "id": "8f9d275c-a155-4947-9bec-a3a3bdebf2ae",
+    "title": "Top Oklahoma school official warns 'do not test me' after forcing out Tulsa superintendent",
+    "description": "Citing lagging academic achievement, Oklahoma Superintendent Ryan Walters threatened a state takeover of Tulsa Public Schools. He's keeping that option on the table. Deborah Gist's surprise announcement this week that she was resigning as superintendent of Tulsa Public Schools appeared to ward off a...",
+    "url": "https://www.nbcnews.com/news/us-news/ryan-walters-oklahoma-tulsa-schools-superintendent-rcna101448",
+    "author": "Tyler Kingkade",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-24 23:15:57 +0000",
+    "short_uuid": "8af9ee7f"
+  },
+  {
+    "id": "eb26797b-8328-4c39-bd21-aae98b1d9424",
+    "title": "Maui County sues electric utility, alleging negligence over fires that ravaged Lahaina",
+    "description": "Hawaii Electric workers repair a downed power line destroyed by the West Maui Fire in Lahaina on the island of Maui, Hawaii Thursday, Aug. 17, 2023. (Stephen Lam/San Francisco Chronicle via AP) (Stephen Lam/)HONOLULU \u2014 Maui County sued Hawaiian Electric Company on Thursday\u00a0over the fires that devast...",
+    "url": "https://www.adn.com/nation-world/2023/08/24/maui-county-sues-electric-utility-alleging-negligence-over-fires-that-ravaged-lahaina/",
+    "author": "Jennifer Sinco Kelleher,Gene Johnson",
+    "image": "https://www.adn.com/resizer//OSt_yPiO4cOxp56o0eJrG_cqw-Q=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/adn/IEYMT57HJC6R2EL6UFSRT4ADIM.jpg",
+    "language": "en",
+    "category": [
+      "regional",
+      "politics"
+    ],
+    "published": "2023-08-24 23:13:15 +0000",
+    "short_uuid": "20d4baf9"
+  },
+  {
+    "id": "3790ff77-e5d2-4f9c-95ce-0242a9676a69",
+    "title": "2024 hopefuls vie for the spotlight at first GOP debate",
+    "description": "NBC News' Garrett Haake recaps a fiery first Republican presidential primary debate. Candidates faced off without the frontrunner, former President Trump, who instead took part in a pre-recorded interview.Aug. 24, 2023",
+    "url": "https://www.nbcnews.com/nightly-news/video/2024-hopefuls-vie-for-the-spotlight-at-first-gop-debate-191545925955",
+    "author": "NBCNews.com",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-24 23:11:42 +0000",
+    "short_uuid": "b1451965"
+  },
+  {
+    "id": "401d0521-56ab-4353-b344-09d99f7ef948",
+    "title": "Trump set to surrender in Fulton County in Georgia election interference case",
+    "description": "Former President Trump is on his way to Fulton County, Georgia, where he will surrender to authorities as part of the district attorney's investigation into alleged efforts to overturn the 2020 election results. We have reporting from NBC News' Blayne Alexander in Atlanta, and Kristen Welker and \u2026",
+    "url": "https://www.nbcnews.com/nightly-news/video/trump-set-to-surrender-in-fulton-county-in-georgia-election-interference-case-191547973513",
+    "author": "NBCNews.com",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-24 23:11:41 +0000",
+    "short_uuid": "7389fd38"
+  },
+  {
+    "id": "5c68298c-4ae3-4e71-a056-c91daae78ce2",
+    "title": "Anthony Edwards says he did not make comments to coach Steve Kerr about coming off Team USA's bench",
+    "description": "Anthony Edwards is 22 years old, but he is already an NBA All-Star. As his stardom continues to rise in the NBA, Edwards is also on a mission to become one of the best basketball players on the international stage. Edwards is playing for the U.S. men's national basketball team in the FIBA World Cup....",
+    "url": "https://www.foxnews.com/sports/anthony-edwards-says-he-did-not-make-comments-about-coming-off-team-usas-bench-to-coach-steve-kerr",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/Anthony-Edwards-USA.jpg",
+    "language": "en",
+    "category": [
+      "sports"
+    ],
+    "published": "2023-08-24 23:05:46 +0000",
+    "short_uuid": "c1d339a"
+  },
+  {
+    "id": "fdb0ec3f-57ca-4b7d-87d0-fa7529050b18",
+    "title": "House Judiciary Committee Launches Probe of Georgia DA Fani Willis Shortly Before Trump Arrest",
+    "description": "Expressing concerns about the motivation of Fulton County District Attorney Fani Willis' investigation into former President Donald Trump, the House Judiciary Committee announced Thursday that it is looking into her conduct.\nTrump was to be arraigned Thursday evening in Atlanta after being indicted ...",
+    "url": "https://www.westernjournal.com/house-judiciary-committee-launches-probe-georgia-da-fani-willis-shortly-trump-arrest/",
+    "author": "Jack Davis",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-24 23:04:56 +0000",
+    "short_uuid": "ae6c038a"
+  },
+  {
+    "id": "01773fa6-5b50-4f42-be96-20b8e83710c7",
+    "title": "'Eco-friendly' paper and bamboo straws contain PFAS chemicals, study finds",
+    "description": "Researchers found low concentrations of so-called \"forever chemicals\" in various \"eco-friendly\" straws, raising doubts about whether they're an appropriate alternative. Some paper and bamboo straws contain so-called \"forever chemicals\" that could make them a less-than-ideal alternative to plastic, \u2026",
+    "url": "https://www.nbcnews.com/health/health-news/paper-bamboo-straws-contain-pfas-forever-chemicals-rcna101614",
+    "author": "Aria Bendix",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-24 23:01:00 +0000",
+    "short_uuid": "2cb26eef"
+  },
+  {
+    "id": "212e44c7-e7aa-4f82-98ef-0f861b65f16c",
+    "title": "BRICS Invites Six New Countries to Join the Bloc",
+    "description": "Expansion of the economic alliance furthers its efforts to counter Western dominance....",
+    "url": "https://foreignpolicy.com/2023/08/24/brics-summit-expansion-new-members-china-russia-saudi-arabia-iran-uae-us/",
+    "author": "Alexandra Sharp",
+    "image": "https://foreignpolicy.com/wp-content/uploads/2023/08/BRICSLeaders-GettyImages-1618750786.jpg?w=1000",
+    "language": "en",
+    "category": [
+      "politics",
+      "world"
+    ],
+    "published": "2023-08-24 23:00:49 +0000",
+    "short_uuid": "c4db9404"
+  },
+  {
+    "id": "d53e6f89-fa1f-41a8-bb1d-92acc494269a",
+    "title": "The GOP\u2019s Debate on Ukraine Takes Center Stage",
+    "description": "Even without Trump in the room, the Republican Party's biggest foreign-policy fight is over Ukraine....",
+    "url": "https://foreignpolicy.com/2023/08/24/republicans-united-states-gop-debate-foreign-policy-ukraine/",
+    "author": "Jack Detsch",
+    "image": "https://foreignpolicy.com/wp-content/uploads/2023/08/GettyImages-1635107592.jpg?w=1000",
+    "language": "en",
+    "category": [
+      "politics",
+      "world"
+    ],
+    "published": "2023-08-24 22:47:26 +0000",
+    "short_uuid": "d7bad55"
+  },
+  {
+    "id": "8c39f269-bde8-4cec-9d50-df909328d449",
+    "title": "WWE star known as Bray Wyatt dead at 36",
+    "description": "WWE superstar Bray Wyatt, whose real name is Windham Rotunda, has died, WWE Chief Content Officer Paul \"Triple H\" Levesque announced Thursday on social media. Wyatt was 36. \"Just received a call from WWE Hall of Famer Mike Rotunda who informed us of the tragic news that our WWE family member for lif...",
+    "url": "https://www.foxnews.com/sports/wwe-star-known-as-bray-wyatt-dead",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2022/10/Bray-Wyatt4.jpg",
+    "language": "en",
+    "category": [
+      "sports"
+    ],
+    "published": "2023-08-24 22:43:34 +0000",
+    "short_uuid": "e4a3974c"
+  },
+  {
+    "id": "7777f927-5826-4840-b8cb-3d4ff9ba4d04",
+    "title": "Vivek Ramaswamy celebrates his immigrant family while pushing far-right border policies",
+    "description": "\"It is deeply distressing to see that a child of immigrants, himself a person of color, would be lifting talking points from neo-Nazis,\" one expert said. After Vivek Ramaswamy's explosive performance during Wednesday night's Republican presidential debate in Milwaukee, experts say it's clear that \u2026",
+    "url": "https://www.nbcnews.com/news/asian-america/vivek-ramaswamy-celebrates-immigrant-family-pushing-far-right-border-p-rcna101592",
+    "author": "Sakshi Venkatraman",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-24 22:40:09 +0000",
+    "short_uuid": "f2ef102e"
+  },
+  {
+    "id": "a8b49d87-657d-4711-8bdf-5fc6803a01e6",
+    "title": "Starbucks\u2019 Pumpkin Spice Latte turns 20, whether you like it or not",
+    "description": "A Pumpkin Spice Latte drink rests on a table at a Starbucks in New York, Thursday, Aug. 24, 2023. The seasonal drink that made pumpkin spice a star is marking two decades in the world. (AP Photo/Richard Drew) (Richard Drew/)The seasonal drink that made pumpkin spice a star is turning 20. And unlike ...",
+    "url": "https://www.adn.com/alaska-life/food-drink/2023/08/24/starbucks-pumpkin-spice-latte-turns-20-whether-you-like-it-or-not/",
+    "author": "Dee-Ann Durbin",
+    "image": "https://www.adn.com/resizer//_iFTnK-t5UYAC1II6TERfS0Feko=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/adn/KUECCJ66XFZ36T2Z7WGXQQ5YLU.jpg",
+    "language": "en",
+    "category": [
+      "regional",
+      "politics"
+    ],
+    "published": "2023-08-24 22:32:57 +0000",
+    "short_uuid": "a9880457"
+  },
+  {
+    "id": "6b148de1-27dd-427a-9767-d832a8bb52b0",
+    "title": "Security Flyer Exposes Fox News' High-Profile Banned List For GOP Debate",
+    "description": "Fox News was on the lookout for political operatives it had banned from exclusive events during the channel's Republican primary debate in Milwaukee on Wednesday.\nNBC News' Dasha Burns shared a photo on social media of a flyer circulated by network staff \u2014 highlighting who was not to be admitted to ...",
+    "url": "https://www.westernjournal.com/security-flyer-exposes-fox-news-high-profile-banned-list-gop-debate/",
+    "author": "Richard Moorhead",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-24 22:32:18 +0000",
+    "short_uuid": "9b1e697e"
+  },
+  {
+    "id": "88dc397b-5109-4bb1-b4ef-ee4abcc01d17",
+    "title": "OPINION: Reclaiming Women\u2019s Equality Day",
+    "description": "(Getty / iStock) (Monkey Business Images/)In recent years, my social media feed fills with images of dogs on Aug. 26, in honor of what a popular website has proclaimed National Dog Day. I love dogs and recognize the warmth and companionship they bring to our lives. Our golden retriever Chester Brown...",
+    "url": "https://www.adn.com/opinions/2023/08/24/opinion-reclaiming-womens-equality-day/",
+    "author": "Barbara Hood",
+    "image": "https://www.adn.com/resizer//e2WbOHsckHk6Sm4_2hRLIt8XyZ8=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/adn/XURERDEPRRBYPLYLZQW6Y4LLZ4.jpg",
+    "language": "en",
+    "category": [
+      "regional",
+      "politics"
+    ],
+    "published": "2023-08-24 22:31:45 +0000",
+    "short_uuid": "ddac8c03"
+  },
+  {
+    "id": "73cc0760-f88f-4710-97e0-a8824b9e5654",
+    "title": "Florida school district apologizes for assembly singling out Black students over low test scores",
+    "description": "Teachers told a group of Black elementary schoolers that having lower grades gave them a higher chance of going to jail, getting shot or getting killed, parents said. BUNNELL, Fla. \u2014Florida school district officials apologized Thursday for an elementary school assembly in which Black students were \u2026",
+    "url": "https://www.nbcnews.com/news/nbcblk/florida-school-district-apologizes-assembly-singling-black-students-lo-rcna101706",
+    "author": "The Associated Press",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-24 22:11:42 +0000",
+    "short_uuid": "e1a5b335"
+  },
+  {
+    "id": "b22b900a-13a6-4635-9b2b-47bbf896f923",
+    "title": "CIA stairwell attack among flood of sexual misconduct complaints at spy agency",
+    "description": "FILE - This April 13, 2016 file photo shows the seal of the Central Intelligence Agency at CIA headquarters in Langley, Va. (AP Photo/Carolyn Kaster, File) (Carolyn Kaster/)FAIRFAX, Va. \u2014 In a secluded stairwell at CIA headquarters last year, officer trainee Ashkan Bayatpour came up behind a colleag...",
+    "url": "https://www.adn.com/nation-world/2023/08/24/cia-stairwell-attack-among-flood-of-sexual-misconduct-complaints-at-spy-agency/",
+    "author": "Jim Mustian,Joshua Goodman",
+    "image": "https://www.adn.com/resizer//dCRb6Luv7gbRNg3pqv8wug2IQ-k=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/adn/J3YWWQ7HSF46ETLOS3AGFWEOQM.jpg",
+    "language": "en",
+    "category": [
+      "regional",
+      "politics"
+    ],
+    "published": "2023-08-24 21:48:51 +0000",
+    "short_uuid": "ef82c135"
+  },
+  {
+    "id": "c584a641-dfd6-4060-9526-b07e90e1ac34",
+    "title": "Why Hawaiian sovereignty has undeniable context to the Maui fires",
+    "description": "Scholars and activists say that Native Hawaiians have ultimately been seeking their right to self-determination \u2014 an issue that they say touches the cause of the fires and impact Hawaii's healing. As those in Maui attempt to make sense of the wildfires that left behind a trail of loss, experts and \u2026",
+    "url": "https://www.nbcnews.com/news/asian-america/hawaiian-sovereignty-undeniable-context-maui-fires-rcna100972",
+    "author": "Kimmy Yam",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-24 21:39:44 +0000",
+    "short_uuid": "86936ffb"
+  },
+  {
+    "id": "ca82123e-3819-4613-b439-63b3e863498d",
+    "title": "Judge tosses RNC lawsuit accusing Google\u2019s spam filters of bias",
+    "description": "A federal judge tossed a Republican National Committee lawsuit accusing Google of illegally suppressing its campaign emails.",
+    "url": "https://www.washingtonpost.com/technology/2023/08/24/rnc-google-lawsuit-dismissed-spam-filter/",
+    "author": "Cristiano Lima",
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/43ZYDHPZN6O5KV2VFMPDE2GIIM_size-normalized.jpg&w=1440",
+    "language": "en",
+    "category": [
+      "technology"
+    ],
+    "published": "2023-08-24 21:38:44 +0000",
+    "short_uuid": "597dfa1"
+  },
+  {
+    "id": "c6a97725-c394-4104-a98c-6ab709a48c29",
+    "title": "Trans college staff in Florida could be fired for using the restroom under new rule",
+    "description": "The Florida Board of Education approved disciplinary procedures for school staff who violate a law that restricts bathroom use to sex assigned at birth. The Florida Board of Education approved a rule Wednesday mandating tough disciplinary procedures for college staff who violate a new state law \u2026",
+    "url": "https://www.nbcnews.com/nbc-out/out-news/florida-board-education-approves-rules-expanding-bathroom-law-rcna101685",
+    "author": "Jo Yurcaba",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-24 21:37:45 +0000",
+    "short_uuid": "f7eb041c"
+  },
+  {
+    "id": "ff16aa8c-77a4-4327-92a2-731c1a2cc59f",
+    "title": "Trial is underway for three men accused in a plot to kidnap Michigan governor",
+    "description": "Prosecutors and defense attorneys finish their opening statements in the final trial related to the 2020 failed plot to kidnap Michigan Gov. Gretchen Whitmer....",
+    "url": "https://www.npr.org/2023/08/24/1195706838/trial-is-underway-for-three-men-accused-in-a-plot-to-kidnap-michigan-governor",
+    "author": "Michael Livingston",
+    "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+    "language": "en",
+    "category": [
+      "legal"
+    ],
+    "published": "2023-08-24 21:37:38 +0000",
+    "short_uuid": "64dfc32c"
   }
 ]
