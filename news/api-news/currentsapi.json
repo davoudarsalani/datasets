@@ -24392,5 +24392,33 @@
     ],
     "published": "2023-08-25 12:11:19 +0000",
     "short_uuid": "e8a7ea2a"
+  },
+  {
+    "id": "16b5f43b-f06a-4b57-ba1c-d28e598025d8",
+    "title": "Fed Chair\u2019s Message Is Clear: The Fight Against Inflation Isn\u2019t Over",
+    "description": "Central bankers have lifted interest rates to a range of 5.25 to 5.5 percent, up from near-zero as recently as March 2022, in a bid to cool the economy and wrestle inflation lower. They have been keep...",
+    "url": "https://www.nytimes.com/2023/08/25/business/economy/fed-powell-inflation-jackson-hole.html",
+    "author": "Jeanna Smialek",
+    "image": "https://static01.nyt.com/images/2023/08/25/multimedia/25dc-powell-hcmg/25dc-powell-hcmg-facebookJumbo.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-25 14:10:52 +0000",
+    "short_uuid": "53fba3be"
+  },
+  {
+    "id": "ae2bd6ef-e7e5-49e9-a927-77159a6669b9",
+    "title": "Live updates: More Trump co-defendants to surrender to Fulton County authorities in Georgia election case",
+    "description": "Coffee County Republican Party Chair Cathy Latham shakes hands with Georgia businessman Scott Hall on January 7, 2021 at the county election office. Obtained by CNN\n\nCathy Latham, who served as an ill...",
+    "url": "https://www.cnn.com/politics/live-news/georgia-trump-indictment-surrender-08-25-23/index.html",
+    "author": "Aditi Sangal",
+    "image": "https://cdn.cnn.com/cnnnext/dam/assets/230825080812-01-donald-trump-atlanta-airport-0824-super-tease.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-25 14:03:11 +0000",
+    "short_uuid": "413db4d2"
   }
 ]
