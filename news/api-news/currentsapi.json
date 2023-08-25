@@ -23713,5 +23713,430 @@
     ],
     "published": "2023-08-25 02:43:16 +0000",
     "short_uuid": "9f074160"
+  },
+  {
+    "id": "ae2bd6ef-e7e5-49e9-a927-77159a6669b9",
+    "title": "Live updates: More Trump co-defendants to surrender to Fulton County authorities in Georgia election case",
+    "description": "Former President Donald Trump's co-defendants face a noon ET Friday deadline to voluntarily surrender to Georgia authorities after being criminally charged in the state's 2020 election subversion case. Follow here for live updates.",
+    "url": "https://www.cnn.com/politics/live-news/georgia-trump-indictment-surrender-08-25-23/index.html",
+    "author": "<a href=\"/profiles/aditi-sandal\">Aditi Sangal</a>",
+    "image": "https://cdn.cnn.com/cnnnext/dam/assets/230825080812-01-donald-trump-atlanta-airport-0824-super-tease.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-25 14:03:11 +0000",
+    "short_uuid": "ad0150bf"
+  },
+  {
+    "id": "11717547-6666-418a-b699-34a74a1fa132",
+    "title": "Ukrainian forces appear to widen breach of Russian defenses on southern front lines | CNN",
+    "description": "CNN \u2014\n\nSigns are growing that Ukrainian forces have penetrated the first line of Russian defenses along part of the southern front lines in Zaporizhzhia region, and are expanding a wedge in the direct...",
+    "url": "https://www.cnn.com/2023/08/25/europe/ukraine-offensive-robotyne-intl/index.html",
+    "author": "Tim Lister Josh Pennington Olga Voitovych",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230825051758-01-zaporizhzhia-081923.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-25 13:55:49 +0000",
+    "short_uuid": "e1df20be"
+  },
+  {
+    "id": "008b14d1-cd2a-45de-83c8-fb7e408e09b5",
+    "title": "Polish authorities probe whether deadly Legionnaires' outbreak was result of water tampering | CNN",
+    "description": "CNN \u2014\n\nPoland\u2019s domestic security agency is investigating whether an outbreak of Legionnaires\u2019 disease that killed seven people in the south of the country might be the result of intentional tampering...",
+    "url": "https://www.cnn.com/2023/08/25/europe/poland-legionnaires-disease-intl/index.html",
+    "author": "cnn",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230825080619-legionnaires-disease-file-restricted.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-25 13:55:49 +0000",
+    "short_uuid": "ff32042e"
+  },
+  {
+    "id": "18eb7ff6-e5bf-49f8-8552-dcaeee38ea32",
+    "title": "Dog quiz! How well do you know the facts about our furry canine friends?",
+    "description": "National Dog Day (or International Dog Day) is celebrated on Saturday, August 26 \u2014 and millions of dog owners will appreciate the nod to their furry companions. In a fun lifestyle quiz geared to this day \u2014 and whether you own a tiny Chihuahua or a very large Great Dane \u2014 test your knowledge of all t...",
+    "url": "https://www.foxnews.com/lifestyle/dog-quiz-how-well-know-facts-furry-canine-friends",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/dog-split3.png",
+    "language": "en",
+    "category": [
+      "lifestyle"
+    ],
+    "published": "2023-08-25 13:51:32 +0000",
+    "short_uuid": "735991bd"
+  },
+  {
+    "id": "d1298f08-8a11-41c5-a85d-3658c7d86647",
+    "title": "What Is a University Without Liberal Arts?",
+    "description": "West Virginia University's Jonah Katz is in his tenth year teaching linguistics, which he calls \"an important bridge between traditional humanities fields and scientific methodology and ways of thinking\" for students who might have otherwise remained siloed in the humanities or STEM. That work is...",
+    "url": "http://nymag.com/intelligencer/2023/08/what-is-a-university-without-liberal-arts.html",
+    "author": "Sarah Jones",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-25 13:00:15 +0000",
+    "short_uuid": "eb1e5b6f"
+  },
+  {
+    "id": "39a73748-7b79-46a8-9fb7-f0dd005879b0",
+    "title": "Suspect allegedly blamed two Black men as key evidence led to arrest in murder of 11-year-old girl",
+    "description": "A Guatemalan migrant who entered the U.S. illegally as a minor in January and found refuge in a Pasadena, Texas, apartment complex months later could face capital punishment in the death of an 11-year...",
+    "url": "https://lawandcrime.com/crime/juan-carlos-garcia-rodriguez-arrested-in-murder-of-maria-gonzalez/",
+    "author": "Matt Naham Is The Senior A.M. Editor Of Law Crime.",
+    "image": "https://lawandcrime.com/wp-content/uploads/2023/08/Maria-Gonzalez-Juan-Carlos-Garcia-Rodriguez.jpg",
+    "language": "en",
+    "category": [
+      "legal",
+      "crime",
+      "politics"
+    ],
+    "published": "2023-08-25 12:59:11 +0000",
+    "short_uuid": "ed84951a"
+  },
+  {
+    "id": "86bd117c-29b4-4507-ab5b-a3a58769a35e",
+    "title": "UK investigates 88 deaths linked to Canadian site that allegedly offered lethal products to suicidal people",
+    "description": "British police said Friday they are investigating the deaths of 88 people in the U.K. who bought products from Canada-based websites allegedly offering lethal substances to people at risk of self harm. The probe is part of international inquiries sparked by the arrest in Canada earlier this year of ...",
+    "url": "https://www.foxnews.com/world/uk-investigates-88-deaths-linked-canadian-site-allegedly-offered-lethal-products-suicidal-people",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/533e90d0-DOTCOM_STATE_COUNTRY_NEWS_EUROPE.png",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2023-08-25 12:56:33 +0000",
+    "short_uuid": "420bd52c"
+  },
+  {
+    "id": "40804fa0-b211-4136-ac2c-910c4745d75f",
+    "title": "Former Trump DOJ official Jeffrey Clark surrenders to authorities in Georgia election probe",
+    "description": "Former Justice Department official Jeffrey Clark has surrendered to Georgia authorities after being charged in the racketeering case along with former President Donald Trump and 17 others last week in...",
+    "url": "https://www.nbcnews.com/politics/donald-trump/jeffrey-clark-arrested-rcna101781",
+    "author": "Lindsey Pipia",
+    "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-08/230825-jeffrey-clark-al-0527-e674c7.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-25 12:53:13 +0000",
+    "short_uuid": "52736014"
+  },
+  {
+    "id": "bd449406-9053-4b5e-a4af-2bbc008f0937",
+    "title": "Maui County Sues Hawaiian Electric for Causing Wildfire Through Negligence",
+    "description": "Maui County sued the Hawaiian Electric Company (HECO) on Thursday, alleging it caused the wildfire though negligence.",
+    "url": "https://www.breitbart.com/environment/2023/08/25/maui-county-sues-hawaiian-electric-for-causing-wildfire-through-negligence/",
+    "author": "Joel B. Pollak",
+    "image": "https://media.breitbart.com/media/2023/08/Hawaiian-Electric-Getty-640x335.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-25 12:51:44 +0000",
+    "short_uuid": "cb33c855"
+  },
+  {
+    "id": "18a27b48-cc07-4130-bace-17e9b17a1586",
+    "title": "Kremlin denies taking down plane allegedly carrying Wagner warlord who crossed Putin: 'Absolute lie'",
+    "description": "The Russian government is denying any involvement in the air disaster that allegedly killed Wagner mercenary leader Yevgeny Prigozhin this week. The Kremlin pushed back against speculation that Russian President Vladimir Putin\u00a0was behind the disaster, calling such accusations \"a complete lie.\" \"Righ...",
+    "url": "https://www.foxnews.com/world/kremlin-denies-taking-down-plane-allegedly-carrying-wagner-warlord-crossed-putin-absolute-lie",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/wagner-military-leader-crash.jpg",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2023-08-25 12:51:08 +0000",
+    "short_uuid": "5606bd3f"
+  },
+  {
+    "id": "78c0d534-5bfd-4b2a-a142-620446e172c0",
+    "title": "\u2018Blind Side\u2019 producers detail what they paid the Tuohys and Michael Oher",
+    "description": "The producers are speaking out for the first time since the former NFL player accused the Tuohys of withholding profits from the film.",
+    "url": "https://www.nbcnews.com/news/us-news/blind-side-producers-detail-paid-tuohys-michael-oher-rcna101775",
+    "author": "Liz Calvario, TODAY",
+    "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-08/quinton-aaron-sandra-bullock-blindside-jp-230824-a9975e.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-25 12:44:53 +0000",
+    "short_uuid": "f64f9724"
+  },
+  {
+    "id": "e0dec560-477e-432e-8e60-661b0d6fd5a0",
+    "title": "Blasphemy Laws Are Back: Denmark to Ban Qur'an Burnings",
+    "description": "\"The unfree, medieval forces of the Middle East have won a victory today\", says Denmark's former immigration minister.",
+    "url": "https://www.breitbart.com/europe/2023/08/25/blasphemy-laws-are-back-denmark-prepares-to-ban-quran-burnings/",
+    "author": "Oliver JJ Lane",
+    "image": "https://media.breitbart.com/media/2023/08/GettyImages-1560083246-e1692966967585-640x335.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-25 12:39:05 +0000",
+    "short_uuid": "bf34ff5b"
+  },
+  {
+    "id": "e4df2d3e-3a50-44a0-8930-091644be66e6",
+    "title": "Trump Georgia election case: More co-defendants surrender, 2 left to be booked by deadline",
+    "description": "Former President Donald Trump speaks with reporters before departure from Hartsfield-Jackson Atlanta International Airport, Thursday, Aug. 24, 2023, in Atlanta. Alex Brandon | AP\n\nFive more co-defenda...",
+    "url": "https://www.cnbc.com/2023/08/25/trump-georgia-election-case-more-defendants-surrender-2-remaining.html",
+    "author": "Dan Mangan",
+    "image": "https://image.cnbcfm.com/api/v1/image/107291883-1692924419370-AP23237026196774.jpg?v=1692966465&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-25 12:27:45 +0000",
+    "short_uuid": "65edbc58"
+  },
+  {
+    "id": "4e2f0510-7f29-45e4-b96c-444c73f4dcee",
+    "title": "Prigozhin's second-in-command, logistics chief among passengers on crashed plane, manifest reveals",
+    "description": "The plane crash that presumably killed Russian mercenary leader Yevgeny Prigozhin also took out two other senior leaders of his privately contracted Wagner military company, a flight manifest shows, adding to the controversy of the crash. The passenger manifest revealed that Prigozhin's second-in-co...",
+    "url": "https://www.foxnews.com/world/prigozhins-second-command-logistics-chief-passengers-crashed-plane-manifest-reveals",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/wagner-military-leader-crash.jpg",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2023-08-25 12:26:49 +0000",
+    "short_uuid": "99a3f2ff"
+  },
+  {
+    "id": "422a96c3-5142-4ead-aadf-3387ca7a9ebe",
+    "title": "Donald Trump Returns to Twitter, Now X, with Georgia Mugshot | National Review",
+    "description": "Former president Donald Trump in a police booking mugshot released by the Fulton County Sheriff's Office in Atlanta, Ga., August 24, 2023....",
+    "url": "https://www.nationalreview.com/news/donald-trump-returns-to-twitter-now-x-with-georgia-mugshot/",
+    "author": "Ari Blaff",
+    "image": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/08/donald-trump-booking-photo.jpg?fit=1200%2C700&ssl=1",
+    "language": "en",
+    "category": [
+      "opinion",
+      "politics"
+    ],
+    "published": "2023-08-25 12:13:16 +0000",
+    "short_uuid": "63b7275f"
+  },
+  {
+    "id": "2f9ad59b-7901-4269-9d71-e757a4d923a3",
+    "title": "The Snap and the Scowl: The Trump Mugshot Ignites a Tinderbox Nation",
+    "description": "We often discuss the long-standing question of whether it is better for your client to smile or not smile in a mugshot. Some believe a smile conveys a lack of contrition while others view a frown as looking guilty. In the first mugshot of a former American president, Trump rejected both the \"carefre...",
+    "url": "https://jonathanturley.org/2023/08/25/the-snap-and-the-scowl-the-trump-mugshot-ignites-a-tinderbox-nation/",
+    "author": "jonathanturley",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-25 12:12:09 +0000",
+    "short_uuid": "70291309"
+  },
+  {
+    "id": "846c2797-3432-4f43-b7ad-21168edbed2d",
+    "title": "Post-GOP Debate Poll Shows Biggest Winners, Losers After Bloodbath in Wisconsin",
+    "description": "It's been said politics is a numbers game. Many of the numbers being gamed out by politicians and the media are generated from polling.\nData collected from a range of individual opinions gets codified into figures that can be compared and analyzed. When done honestly, polls theoretically can measure...",
+    "url": "https://www.westernjournal.com/post-gop-debate-poll-shows-biggest-winners-losers-bloodbath-wisconsin/",
+    "author": "Richard Bledsoe",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-25 12:11:19 +0000",
+    "short_uuid": "a1a81e02"
+  },
+  {
+    "id": "b418e691-10ad-4d1a-81ed-49fabd7c342e",
+    "title": "How the Opposition Won Guatemala\u2019s \u2018Free but Unfair\u2019 Election",
+    "description": "Welcome back to Foreign Policy\u2019s Latin America Brief.\n\nThe highlights this week: A Guatemalan opposition movement gets an unexpected win amid democratic erosion, Ecuador votes on presidential candidat...",
+    "url": "https://foreignpolicy.com/2023/08/25/guatemala-presidential-election-results-arevalo-seed-movement-semilla-corruption-torres/",
+    "author": "Catherine Osborn",
+    "image": "https://foreignpolicy.com/wp-content/uploads/2023/08/guatemala-election-GettyImages-1612775602.jpg?w=1000",
+    "language": "en",
+    "category": [
+      "politics",
+      "world"
+    ],
+    "published": "2023-08-25 12:00:46 +0000",
+    "short_uuid": "cc64d513"
+  },
+  {
+    "id": "03cefcd5-38d6-4f9b-9358-f46eaf0fe8d7",
+    "title": "Maybe all those federal workers should just work from home",
+    "description": "NEW You can now listen to Fox News articles!\n\nIt\u2019s hard to believe that Republican House Oversight Chairman James Comer, and Democrat D.C. Mayor Muriel Bowser have anything in common \u2013 but they do \u2013 a...",
+    "url": "https://www.foxnews.com/opinion/maybe-those-federal-workers-should-work-home",
+    "author": "Peggy Grande",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/OPM-GettyImages-4760070801.jpg",
+    "language": "en",
+    "category": [
+      "opinion"
+    ],
+    "published": "2023-08-25 12:00:30 +0000",
+    "short_uuid": "c7374ff4"
+  },
+  {
+    "id": "5a0e7480-354e-451f-a2b6-0c14cad0db51",
+    "title": "What Affirmative Action Taught Me",
+    "description": "This week's 60th anniversary of the March on Washington will surely include reminiscences and replays of the stirring \"I Have a Dream\" oration with which Martin Luther King Jr. famously concluded the original 1963 demonstration.\u00a0The Reverend Al Sharpton and the march's other organizers have frame...",
+    "url": "http://nymag.com/intelligencer/2023/08/what-affirmative-action-taught-me.html",
+    "author": "Errol Louis",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-25 12:00:07 +0000",
+    "short_uuid": "65b4d3d7"
+  },
+  {
+    "id": "f86144d1-6943-4a77-8fa1-f7a8645c9cdd",
+    "title": "The evolution of the Volkswagen bus \u2014 from Type 2 to the electric ID Buzz",
+    "description": "The Volkswagen Type 2 bus, known for its split windows, rear engine and distinctive colors, is making a comeback. In 2024, Volkswagen will deliver its electric ID Buzz line to North America .\n\nThe \"bu...",
+    "url": "https://www.cnbc.com/2023/08/25/the-evolution-of-the-vw-bus-from-type-2-to-the-electric-id-buzz.html",
+    "author": "Sydney Boyo",
+    "image": "https://image.cnbcfm.com/api/v1/image/107290025-1692710466109-gettyimages-1259013109-20090101230624-99-173656.jpeg?v=1692964801&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "technology"
+    ],
+    "published": "2023-08-25 12:00:01 +0000",
+    "short_uuid": "129dfc1a"
+  },
+  {
+    "id": "bfd0cc12-b808-4b4d-9d91-e2d4c70a177d",
+    "title": "Mountain hikes, rate hikes and Burning Man: Life in Jackson Hole",
+    "description": "Mountain hikes, rate hikes and Burning Man: Life in Jackson Hole\n\nProgramming Note: Morning Money will not be publishing from Aug. 28 through Sept. 4. We\u2019ll be back to our normal schedule on Tuesday, ...",
+    "url": "https://www.politico.com/newsletters/morning-money/2023/08/25/mountain-hikes-rate-hikes-and-burning-man-life-in-jackson-hole-00112912",
+    "author": "Follow Us On Twitter",
+    "image": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+    "language": "en",
+    "category": [
+      "politics",
+      "regional"
+    ],
+    "published": "2023-08-25 12:00:00 +0000",
+    "short_uuid": "30a82847"
+  },
+  {
+    "id": "2f4a7466-57db-4b34-ba33-d955b72eedcc",
+    "title": "Norway to spend $6 million a year to stockpile emergency grain",
+    "description": "Norway will spend $6 million per year until the end of the decade stocking up on grain as the COVID-19 pandemic, a war in Europe and climate change have made it necessary, the government said Friday. Starting next year, Norway will start storing 15,000 tons of grain and do so yearly until 2028 or 20...",
+    "url": "https://www.foxnews.com/world/norway-spend-6-million-year-stockpile-emergency-grain",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/agri.jpg",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2023-08-25 11:49:20 +0000",
+    "short_uuid": "267f673e"
+  },
+  {
+    "id": "eef669ca-5186-47f7-be50-ffbf85f52817",
+    "title": "Up First briefing: Trump's busy week; extremism in a hit song; 'miracle' Lahaina house",
+    "description": "Up First briefing: Trump's busy week; extremism in a hit song; 'miracle' Lahaina house\n\nGood morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and list...",
+    "url": "https://www.npr.org/2023/08/25/1195864509/up-first-briefing-trump-rich-men-north-of-richmond-miracle-house-lahaina",
+    "author": "Suzanne Nuyen",
+    "image": "https://media.npr.org/assets/img/2023/08/25/dtj-a_wide-77cc0a856b2cd37b366e22d10a2d3039c67e07db-s1400-c100.png",
+    "language": "en",
+    "category": [
+      "legal"
+    ],
+    "published": "2023-08-25 11:43:18 +0000",
+    "short_uuid": "e0e5185b"
+  },
+  {
+    "id": "7837b108-428c-4ea7-ad6d-218b66b9f158",
+    "title": "Pakistani prime minister honors rescuers who saved 6 children, 2 adults from broken cable car",
+    "description": "Pakistan's prime minister has paid tribute to the commandos and volunteers who rescued six children and two adults from the broken cable car where they dangled over a valley in a 16-hour ordeal. At the ceremony Thursday in Islamabad with the eight rescued people in attendance, caretaker Prime Minist...",
+    "url": "https://www.foxnews.com/world/pakistani-prime-minister-honors-rescuers-who-saved-6-children-2-adults-broken-cable-car",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/296a462a-pakistan.jpg",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2023-08-25 11:41:21 +0000",
+    "short_uuid": "347cb805"
+  },
+  {
+    "id": "4e2b6ad3-17d6-407f-bf73-c479e05089b0",
+    "title": "Elon Musk stopped policing political misinformation. The tech industry followed.",
+    "description": "Democracy in America Elon Musk stopped policing political misinformation. The tech industry followed. Facebook and YouTube are receding from their role as watchdogs against conspiracy theories ahead o...",
+    "url": "https://www.washingtonpost.com/technology/2023/08/25/political-conspiracies-facebook-youtube-elon-musk/",
+    "author": "Naomi Nix",
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/32BTMKSY4NHKFEMLFSLSI4LKKI.jpg&w=1440",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-25 11:34:08 +0000",
+    "short_uuid": "960d1e5c"
+  },
+  {
+    "id": "c4a4696e-1365-45c8-a795-b21288c7852d",
+    "title": "Kremlin Says 'Nyet'-- Calls Accusations It Killed Wagner Chief Prigozhin an 'Absolute Lie'",
+    "description": "The Kremlin dismissed Western suggestions Wagner Group warlord Yevgeny Prigozhin had been killed on its orders as an \"absolute lie.\"",
+    "url": "https://www.breitbart.com/europe/2023/08/25/kremlin-says-nyet-calls-accusations-it-killed-wagner-chief-prigozhin-an-absolute-lie/",
+    "author": "Simon Kent",
+    "image": "https://media.breitbart.com/media/2023/08/Prigozhin-and-Putin-640x335.jpeg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-25 11:32:11 +0000",
+    "short_uuid": "6663337b"
+  },
+  {
+    "id": "d7568467-ff7a-496e-9d5c-225683ea6588",
+    "title": "Nearly 2 million excess deaths after China ended 'zero-Covid': study",
+    "description": "HONG KONG \u2014 There were almost 2 million excess deaths in the two months after China lifted its \u201czero-Covid\u201d restrictions, a U.S. study found, contradicting official figures from Beijing that have been...",
+    "url": "https://www.nbcnews.com/news/world/china-excess-deaths-zero-covid-study-rcna101746",
+    "author": "Jennifer Jett",
+    "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-08/230825-china-covid-al-0535-300220.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-25 11:26:51 +0000",
+    "short_uuid": "f4c2ce67"
+  },
+  {
+    "id": "3bfd1ae9-0ea4-489b-86b2-c4f7c113396f",
+    "title": "UN Geneva compound shuts down temporarily after intruder breaks through security",
+    "description": "The sprawling U.N. compound in Geneva was briefly shut down Friday after an intruder broke through the security perimeter, a spokesperson said. Alessandra Vellucci said the incident lasted no more than about half an hour, and that U.N. security teams and Geneva police were investigating. She decline...",
+    "url": "https://www.foxnews.com/world/un-geneva-compound-shuts-down-temporarily-intruder-breaks-security",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/un.jpg",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2023-08-25 11:20:41 +0000",
+    "short_uuid": "966b14f1"
+  },
+  {
+    "id": "b156374b-a229-4bdf-b7d1-89c05768cd22",
+    "title": "Former President Donald Trump's legal and political calendars are filling up",
+    "description": "Former President Donald Trump's legal and political calendars are filling up Trump dominated recent headlines: avoiding the GOP debate, having a high-profile interview on social media site X \u2014 then wa...",
+    "url": "https://www.npr.org/2023/08/25/1195858196/former-president-donald-trumps-legal-and-political-calendars-are-filling-up",
+    "author": "Leila Fadel Franco Ordo\u00f1ez",
+    "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+    "language": "en",
+    "category": [
+      "legal"
+    ],
+    "published": "2023-08-25 11:20:00 +0000",
+    "short_uuid": "c8ac25bd"
   }
 ]
