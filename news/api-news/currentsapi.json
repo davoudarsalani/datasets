@@ -23668,5 +23668,50 @@
     ],
     "published": "2023-08-25 02:31:12 +0000",
     "short_uuid": "9fed46c8"
+  },
+  {
+    "id": "87f6f0e9-7060-4b63-8214-56341ab01241",
+    "title": "Presidential mug shot of inmate No. P01135809 is stark in its simplicity | CNN Politics",
+    "description": "CNN \u2014\n\nMillions and millions of photographs have been taken of American presidents.\n\nBut none like this.\n\nThe mug shot of Donald Trump instantly became one of the most iconic images of anyone who serv...",
+    "url": "https://www.cnn.com/2023/08/24/politics/trump-mug-shot-analysis/index.html",
+    "author": "Stephen Collinson",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230824220851-analysis-donald-trump-mugshot-082324.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-25 08:14:52 +0000",
+    "short_uuid": "35732c57"
+  },
+  {
+    "id": "3620f5b2-ce4f-4026-a062-cd7747214d2a",
+    "title": "Did Vivek Ramaswamy plagiarize Barack Obama during the Republican presidential primary debate? Chris Christie called him out in epic fashion",
+    "description": "Did Republican presidential candidate Vivek Ramaswamy steal a line from Barack Obama during the presidential primary debate in Milwaukee?\n\nFormer New Jersey Gov. Chris Christie had no doubt about it, ...",
+    "url": "http://rssfeeds.jsonline.com/~/788743631/0/milwaukee/politics~Did-Vivek-Ramaswamy-plagiarize-Barack-Obama-during-the-Republican-presidential-primary-debate-Chris-Christie-called-him-out-in-epic-fashion/",
+    "author": "Christopher Kuhagen, Milwaukee Journal Sentinel",
+    "image": "https://www.jsonline.com/gcdn/authoring/authoring-images/2023/08/24/USAT/70665252007-xxx-mjs-debate-0650-122021972.jpg?crop=2399,1356,x0,y146&width=2399&height=1356&format=pjpg&auto=webp",
+    "language": "en",
+    "category": [
+      "regional",
+      "milwaukee",
+      "politics"
+    ],
+    "published": "2023-08-25 03:47:13 +0000",
+    "short_uuid": "989bdf2a"
+  },
+  {
+    "id": "f8765ec1-e396-402d-a0e8-b171abf3c22c",
+    "title": "One image, one face, one American moment: The Donald Trump mugshot",
+    "description": "Politics One image, one face, one American moment: The Donald Trump mugshot Some of the 18 others charged with him in Georgia smiled in their booking photos like they were posing for a yearbook. Not T...",
+    "url": "https://www.boston.com/news/politics/2023/08/24/one-image-one-face-one-american-moment-the-donald-trump-mugshot/",
+    "author": "Associated Press",
+    "image": "https://www.boston.com/wp-content/uploads/2023/08/APTOPIX_Georgia_Election_Indictment_65468-64e80b3c567c5-scaled.jpg",
+    "language": "en",
+    "category": [
+      "politics",
+      "world"
+    ],
+    "published": "2023-08-25 02:43:16 +0000",
+    "short_uuid": "9f074160"
   }
 ]
