@@ -28685,5 +28685,76 @@
     ],
     "published": "2023-08-27 10:30:26 +0000",
     "short_uuid": "c738514"
+  },
+  {
+    "id": "1ee91425-15f1-481f-a1f5-797072f41ca6",
+    "title": "The Fulton County charges against Donald Trump face a major test Monday. Here's what to watch for | CNN Politics",
+    "description": "CNN \u2014\n\nFulton County District Attorney Fani Willis will lay out the first details of her sprawling anti-racketeering case against former President Donald Trump, his White House chief of staff Mark Mea...",
+    "url": "https://www.cnn.com/2023/08/27/politics/trump-meadows-georgia-hearing/index.html",
+    "author": "Tierney Sneed Jeremy Herb",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230816164804-mark-meadows-donald-trump-split.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-27 14:23:58 +0000",
+    "short_uuid": "19772873"
+  },
+  {
+    "id": "b72e452f-43cc-4587-9c60-df28836c7da8",
+    "title": "Latest news: Trump indictment updates in Georgia 2020 election case",
+    "description": "Donald Trump\u2019s campaign says it has raised $7.1 million since the former president was processed at an Atlanta jail Thursday, thanks in part to merchandise featuring his mug shot.\n\nTrump\u2019s fundraising...",
+    "url": "https://www.cnn.com/politics/live-news/trump-georgia-indictment-arrest-08-27-23/index.html",
+    "author": "Isabelle D'Antonio",
+    "image": "https://cdn.cnn.com/cnnnext/dam/assets/230825080812-01-donald-trump-atlanta-airport-0824-super-tease.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-27 14:23:58 +0000",
+    "short_uuid": "511773dd"
+  },
+  {
+    "id": "395007be-56eb-4c0e-8b2f-86f0e03e3120",
+    "title": "The Coolest Rooftop Bars in Dallas",
+    "description": "Dallas is known for having some of the best BBQ, Tex-Mex and margaritas in the state of Texas, but it is also home to several of the coolest rooftop bars. From trendy restaurants in Downtown to laid-back lounges in Lower Greenville, there are a handful of Dallas rooftops that serve quality bites and...",
+    "url": "https://observer.com/2023/08/dallas-texas-best-rooftop-bars/",
+    "author": "Allie Lebos",
+    "image": "https://observer.com/wp-content/uploads/sites/2/2023/08/Upside-West-2.jpeg?quality=80&strip",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-27 13:30:43 +0000",
+    "short_uuid": "dac94138"
+  },
+  {
+    "id": "081c3acf-4c23-49d1-b456-4dd56a376114",
+    "title": "How Americans are spending money",
+    "description": "How Americans are spending money Back-to-school spending reached another record this year, while other spending is giving some indications of how Americans feel about the economy.\n\nYour Money How Amer...",
+    "url": "https://www.npr.org/2023/08/27/1196219604/how-americans-are-spending-money",
+    "author": "Ayesha Rascoe Scott Horsley Alina Selyukh",
+    "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+    "language": "en",
+    "category": [
+      "economy",
+      "business"
+    ],
+    "published": "2023-08-27 12:08:28 +0000",
+    "short_uuid": "297c9ad"
+  },
+  {
+    "id": "8cb79f90-204f-48a8-87f0-e76d00d39554",
+    "title": "How to make school life a little less difficult for kids",
+    "description": "In early 2020, around the onset of Covid-19 lockdowns, Jessica Mungekar noticed her seventh grade honor student, Layla, retreat. \u201cI knew that she felt really uncomfortable and she wanted to fall into ...",
+    "url": "https://www.vox.com/even-better/23844294/parents-help-kids-school-homework-bullying-mental-health",
+    "author": "Allie Volpe",
+    "image": "https://cdn.vox-cdn.com/thumbor/lzeSJ0fmBcmoElnamw1baMKuXok=/1648x0:7430x3027/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24870504/GettyImages_1467004682.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-27 12:00:00 +0000",
+    "short_uuid": "fa78d8aa"
   }
 ]
