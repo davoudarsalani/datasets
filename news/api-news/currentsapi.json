@@ -28218,5 +28218,48 @@
     ],
     "published": "2023-08-27 01:29:21 +0000",
     "short_uuid": "19364a78"
+  },
+  {
+    "id": "83e89367-d571-4f8a-bb15-69580193dea8",
+    "title": "Aircraft 'incident' involving US defense personnel reported during military exercise in Australia | CNN",
+    "description": "CNN \u2014\n\nThree US Marines have been killed and others injured after an Osprey aircraft crashed during military exercises in Australia, officials said Sunday.\n\nOf the 23 Marines on board the MV-22B Ospre...",
+    "url": "https://www.cnn.com/2023/08/27/asia/aircraft-incident-us-defense-personnel-australia-intl-hnk/index.html",
+    "author": "Heather Chen Brad Lendon Angus Watson Jake Kwon Irene Nasser",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230826223217-osprey-aircraft-file.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-27 06:30:07 +0000",
+    "short_uuid": "8b063efd"
+  },
+  {
+    "id": "aad83397-350f-47f5-9d1e-469408e2ea17",
+    "title": "U.S. military personnel in aircraft 'incident' during Australia training exercise",
+    "description": "Three Marines were killed when an aircraft crashed on an island off Australia\u2019s northern coast, the Marine Corps said in a statement Sunday.\n\nThe MV-22B Osprey, tiltrotor aircraft came down \u201cwhile tra...",
+    "url": "https://www.nbcnews.com/news/us-news/us-military-personnel-aircraft-incident-australia-training-exercise-rcna101996",
+    "author": "Https",
+    "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-08/230827-osprey-helicopter-cc-1234a-a9b80e.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-27 06:05:43 +0000",
+    "short_uuid": "65cb7dd6"
+  },
+  {
+    "id": "03157aaa-833c-43e1-8ab2-89af7a2355c9",
+    "title": "Women working in Antarctica say they were left to fend for themselves against sexual harassers",
+    "description": "Women working in Antarctica say they were left to fend for themselves against sexual harassers Many women who work at McMurdo Station, the main United States research base in Antarctica, say the isola...",
+    "url": "https://www.adn.com/nation-world/2023/08/26/women-working-in-antarctica-say-they-were-left-to-fend-for-themselves-against-sexual-harassers/",
+    "author": "Nick Perry",
+    "image": "https://www.adn.com/resizer//ezkLHXdO0DA2QrHrnO1CrlvyKR4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/adn/K2PE654PLVHGWQCPF46NXIXYXM.jpg",
+    "language": "en",
+    "category": [
+      "regional",
+      "politics"
+    ],
+    "published": "2023-08-27 05:33:15 +0000",
+    "short_uuid": "6ea3526f"
   }
 ]
