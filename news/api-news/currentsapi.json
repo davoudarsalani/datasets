@@ -32949,5 +32949,33 @@
     ],
     "published": "2023-08-29 12:00:02 +0000",
     "short_uuid": "51bb4dbc"
+  },
+  {
+    "id": "70e694ab-8ede-46dc-add1-9ee256419eb1",
+    "title": "Best Buy scales back sales outlook as results top expectations",
+    "description": "Best Buy is seeing a reversion to pre-pandemic sales levels, as consumers return to more typical spending patterns and feel pressure on their budgets because of inflation. Similar to Home Depot and Lo...",
+    "url": "https://www.cnbc.com/2023/08/29/best-buy-bby-q2-2024.html",
+    "author": "Melissa Repko",
+    "image": "https://image.cnbcfm.com/api/v1/image/107292711-16932320762022-11-25t181233z_1537900479_rc2tsx9jceu8_rtrmadp_0_holidayshopping-retail.jpeg?v=1693307786&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-29 14:02:45 +0000",
+    "short_uuid": "93883049"
+  },
+  {
+    "id": "9d1a4ec4-9606-48e4-befa-7fc4550ff2e7",
+    "title": "Regulators unveil plans to force regional banks to raise debt in case of failure",
+    "description": "In this article FITB\n\nNTRS\n\nCFG\n\nMTB\n\nRF Follow your favorite stocks CREATE FREE ACCOUNT\n\nMartin Gruenberg, Chair of the Federal Deposit Insurance Corporation (FDIC), testifies about recent bank failu...",
+    "url": "https://www.cnbc.com/2023/08/29/regional-banks-to-be-forced-to-raise-debt-in-case-of-failure.html",
+    "author": "Hugh Son",
+    "image": "https://image.cnbcfm.com/api/v1/image/107243374-1684421403815-gettyimages-1255803503-AFP_33FG4TF.jpeg?v=1693317601&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-29 14:00:01 +0000",
+    "short_uuid": "5c4d9ee8"
   }
 ]
