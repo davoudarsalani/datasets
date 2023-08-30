@@ -33398,5 +33398,425 @@
     ],
     "published": "2023-08-29 18:27:18 +0000",
     "short_uuid": "85ba8ad7"
+  },
+  {
+    "id": "f3e92646-3a0c-417f-a2ae-72a31669c514",
+    "title": "The testimony from Trump's White House chief of staff could change everything | CNN Politics",
+    "description": "Former White House chief of staff Mark Meadows rolled the dice on Monday with his opening move in the sprawling Fulton County election subversion trial: he took the stand himself.",
+    "url": "https://www.cnn.com/2023/08/29/politics/mark-meadows-gamble-trump-fani-willis/index.html",
+    "author": "cnn",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230828105525-mark-meadows-donald-trump-072920.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-30 00:30:08 +0000",
+    "short_uuid": "dfc64079"
+  },
+  {
+    "id": "b6a97e19-1681-4b79-8516-16a4097d38e2",
+    "title": "Biden welcomes Costa Rica's president as migration in the Western Hemisphere reaches new records | CNN Politics",
+    "description": "President Joe Biden hosted Costa Rica\u2019s President Rodrigo Chaves Robles Tuesday at a critical time for a region grappling with a record number of migrants heading to the United States.",
+    "url": "https://www.cnn.com/2023/08/29/politics/joe-biden-costa-rica-president-visit/index.html",
+    "author": "cnn",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230602101853-rodrigo-chaves-costa-rica.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-30 00:30:08 +0000",
+    "short_uuid": "96fdec07"
+  },
+  {
+    "id": "1910e872-bd72-47d4-b0fd-cdb824d2ab78",
+    "title": "A major development in the fight against prescription drug costs | CNN Politics",
+    "description": "While much of the oxygen in the US political conversation is sucked up by former President Donald Trump\u2019s forthcoming trials, there is other news to report.",
+    "url": "https://www.cnn.com/2023/08/29/politics/medicare-drug-costs-what-matters/index.html",
+    "author": "cnn",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230829160047-prescription-drugs-what-matters-restricted.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-30 00:30:08 +0000",
+    "short_uuid": "52432b22"
+  },
+  {
+    "id": "afb02099-fd87-4912-b993-9aad3079f271",
+    "title": "DeSantis faces new leadership test as Hurricane Idalia barrels toward Florida | CNN Politics",
+    "description": "With the eyes of the country on Hurricane Idalia as it spins toward Florida\u2019s Gulf Coast, Florida Gov. Ron DeSantis\u2019 presidential ambitions are also under the spotlight as he puts his campaign on hold to manage the crisis at home.",
+    "url": "https://www.cnn.com/2023/08/29/politics/ron-desantis-hurricane-idalia-florida/index.html",
+    "author": "cnn",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230829160658-01-ron-desantis-082423.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-30 00:30:08 +0000",
+    "short_uuid": "fe592fb4"
+  },
+  {
+    "id": "7a93b51f-bbfb-4279-9632-9de6b82a297c",
+    "title": "Trump cited the 'Scottsboro Boys' case when he asked for a 2026 trial. Judge Chutkan rejected any comparison | CNN Politics",
+    "description": "When Donald Trump urged the judge in his federal election subversion case to set his trial for April 2026 earlier this month, he cited a landmark Supreme Court decision concerning the infamous 1931 Scottsboro Boys cases to bolster his argument that special counsel Jack Smith isn\u2019t giving him enough ...",
+    "url": "https://www.cnn.com/2023/08/29/politics/trump-trial-date-scottsboro-boys-rape-cases/index.html",
+    "author": "cnn",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230829131514-01-scottsboro-boys-file.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-30 00:30:08 +0000",
+    "short_uuid": "2086cd3c"
+  },
+  {
+    "id": "0150ad9a-ab42-4bad-8ef4-a7bfa0ccc9c9",
+    "title": "Families of troops killed in Abbey Gate bombing in Afghanistan demand accountability in emotional testimony | CNN Politics",
+    "description": "Family members of the 13 US service members killed two years ago in the Abbey Gate bombing during the US withdrawal from Afghanistan demanded accountability and answers from the Biden administration on Tuesday in emotional testimony about the withdrawal and their losses.",
+    "url": "https://www.cnn.com/2023/08/29/politics/abbey-gate-afghanistan-families-house-roundtable/index.html",
+    "author": "cnn",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230829170546-house-afghanistan-airport-bombing-082923.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-30 00:30:08 +0000",
+    "short_uuid": "7fdfe978"
+  },
+  {
+    "id": "6f5c7b6c-045d-4ca4-8891-d6eeb9f73fad",
+    "title": "Former Rep. Rogers expected to run for Senate seat in Michigan after being courted by GOP leaders | CNN Politics",
+    "description": "Mike Rogers, the former GOP congressman who chaired the House Intelligence Committee, is expected to soon announce he will run for the Senate in Michigan, giving Republican leaders a key recruit in a state Democrats need to hold to keep their narrow majority, according to two people familiar with hi...",
+    "url": "https://www.cnn.com/2023/08/29/politics/mike-rogers-michigan-senate-seate/index.html",
+    "author": "cnn",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230821095244-us-capitol-0815.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-30 00:30:08 +0000",
+    "short_uuid": "32cce1c4"
+  },
+  {
+    "id": "8ec7dcbb-916c-4644-9176-eb8a229b5e60",
+    "title": "University of Michigan shuts down school's internet connections following 'significant' cybersecurity incident | CNN Politics",
+    "description": "The University of Michigan has been without full internet access for two days after staff shut the school\u2019s connections down in response to a \u201csignificant [cyber]security concern\u201d on the eve of the new school year.",
+    "url": "https://www.cnn.com/2023/08/29/politics/university-of-michigan-cyber-incident-offline/index.html",
+    "author": "cnn",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230829164815-university-of-michigan-2019-file.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-30 00:30:08 +0000",
+    "short_uuid": "190851f2"
+  },
+  {
+    "id": "2768e237-45b7-4cca-8956-a60963fdbb35",
+    "title": "Texas high school football player was 'near death' from in-game heat stroke, mother says",
+    "description": "Austin Bowie High School opened up its football season on Friday night with an overtime loss to Vista Ridge, but the game wound up being the last thing on their mind. One of ABHS's offensive lineman in Justice Trumpler wound up in ICU due to a heat stroke he suffered during the game. The senior was ...",
+    "url": "https://www.foxnews.com/sports/texas-high-school-football-player-near-death-in-game-heat-stroke-mother-says",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/footballball.png",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-30 00:26:53 +0000",
+    "short_uuid": "7a26dc3c"
+  },
+  {
+    "id": "bd29cc01-8700-4b3f-b687-0800ec325ab8",
+    "title": "Gold Star dad calls out Biden as 'disgrace to this nation': \u2018I'm done biting my tongue\u2019",
+    "description": "The father of a U.S. Marine killed during the terrorist attack at the Kabul airport in Afghanistan two years ago tore into President Biden on Capitol Hill Tuesday, saying he is a \"disgrace to this nation\" who has \"more American blood\" on his hands \"than any president in U.S. history.\" Mark Schmitz, ...",
+    "url": "https://www.foxnews.com/politics/gold-star-dad-calls-biden-disgrace-nation-im-done-biting-my-tongue",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/Mark-Schmitz-and-biden-split.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-30 00:21:42 +0000",
+    "short_uuid": "3cf95c29"
+  },
+  {
+    "id": "58b3dd3c-dbf3-416d-a4a5-1691bb30e99c",
+    "title": "Missouri woman living off father's VA benefits arrested after 95-year-old dad found buried in backyard",
+    "description": "A Kansas City, Missouri, woman accused of living off her father's Social Security and VA Benefits will be extradited to Nevada after her father's remains were found buried in his yard. The Nye County Sheriff's Office in Nevada said in a press release Monday that it served a search warrant at a resid...",
+    "url": "https://www.foxnews.com/us/missouri-woman-living-fathers-va-benefits-arrested-dad-found-buried-backyard",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/Grennice-Walker-Mugshot.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-30 00:07:01 +0000",
+    "short_uuid": "ac70f5b9"
+  },
+  {
+    "id": "0c8b6b3b-3601-43ea-b2dd-8bdf4dac8f94",
+    "title": "Colts sticking with Jonathan Taylor; running back placed on PUP list",
+    "description": "The Indianapolis Colts held onto Pro Bowl running back Jonathan Taylor, but he still won't be with the team for a bit. The Colts placed Taylor on the physically unable to perform (PUP) list Tuesday with an ankle injury, which means he will miss at least the team's first four games. Owner Jim Irsay s...",
+    "url": "https://www.foxnews.com/sports/colts-sticking-jonathan-taylor-running-back-placed-pup-list",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2022/09/Jonathan-Taylor6.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-30 00:01:17 +0000",
+    "short_uuid": "a0fd833f"
+  },
+  {
+    "id": "2cd4aae3-0570-4da8-9e3f-3ecc6dfb960d",
+    "title": "Ramaswamy says he 'won't cut aid to Israel' until 'Israel tells us so' as he faces questions on foreign policy",
+    "description": "Republican presidential candidate Vivek Ramaswamy is vowing to not cut aid to Israel \"until Israel tells the U.S. that it no longer needs the aid\" as he continues to face questions about his foreign policy vision.\u00a0 In two recent interviews with Israeli news outlets, Ramaswamy told N12's Yuna Leibzon...",
+    "url": "https://www.foxnews.com/media/ramaswamy-says-he-wont-cut-aid-israel-questions-foreign-policy",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/VivekRamaswamyDebate.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-30 00:00:42 +0000",
+    "short_uuid": "6d80e2e6"
+  },
+  {
+    "id": "4e524c88-d62d-4193-a148-6a9281e33da9",
+    "title": "Clippers' Paul George calls Mavericks star Luka Doncic 'cold killer' for his trash talking prowess",
+    "description": "Dallas Mavericks superstar Luka Doncic has developed a reputation for his highly competitive style of play and has been involved in several notable trash talking moments. During a recent episode of \"Podcast P with Paul George,\" George gave an interesting assessment of Doncic's trash talk, calling th...",
+    "url": "https://www.foxnews.com/sports/clippers-paul-george-calls-mavericks-star-luka-doncic-cold-killer-for-his-trash-talking-prowess",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/03/Luka-Doncic.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-29 23:47:43 +0000",
+    "short_uuid": "8490b9f8"
+  },
+  {
+    "id": "830448d6-4361-4a63-afcf-eaebcf038a39",
+    "title": "5 crazy and surprising college courses your tuition is paying for: Taylor Swift, aliens and more",
+    "description": "Gone are the days \u2014 at least for some students \u2014 of math, science, English and history. Some colleges and universities around the country are offering \"unique\" curricula to engage their students. From deep dives into pop stars to studies of paranormal activity, here are five crazy and unexpected col...",
+    "url": "https://www.foxnews.com/lifestyle/5-crazy-surprising-college-courses-tuition-paying-taylor-swift-aliens-more",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/class-split.png",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-29 23:44:14 +0000",
+    "short_uuid": "dfdc2465"
+  },
+  {
+    "id": "a0438dbb-ef45-4fe0-8704-b6b699320451",
+    "title": "Alabama lawmaker arrested on felony voter fraud charges",
+    "description": "An Alabama legislator was arrested Tuesday on felony voter fraud charges accusing him of voting in a district where he did not live.",
+    "url": "https://www.washingtontimes.com/news/2023/aug/29/rep-david-cole-alabama-lawmaker-arrested-on-felony/",
+    "author": "washingtontimes",
+    "image": "https://twt-thumbs.washtimes.com/media/image/2017/02/07/alabama_legislature_14908_c0-240-5760-3600_s1200x700.jpg?3b9a8ea0e82656f098dd6f7cd5420c99f93f2f69",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-29 23:35:58 +0000",
+    "short_uuid": "2995a9b2"
+  },
+  {
+    "id": "875c7893-4a88-435d-a53e-f0327184ad37",
+    "title": "Technical failure that halted UK air traffic blamed on issues with flight data",
+    "description": "A technical failure that saw hundreds of flights delayed and canceled across the U.K. was caused by problems in some flight data received by Britain's national air traffic controllers and was not a cyberattack, authorities said Tuesday. The breakdown, which hit on a late-summer holiday Monday that i...",
+    "url": "https://www.foxnews.com/world/technical-failure-halted-uk-air-traffic-blamed-issues-flight-data",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/british_jetliner.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-29 23:30:20 +0000",
+    "short_uuid": "6f1536c4"
+  },
+  {
+    "id": "04e85253-d065-4b04-b526-cbe5d663ceaa",
+    "title": "New Mexico AG vows to proceed with Native education lawsuit",
+    "description": "It's been five years since a New Mexico judge issued a landmark ruling finding that the state was falling short in providing an adequate education to Native American students and many others, and the pace of progress since has been frustratingly slow for tribal leaders. New Mexico Attorney General R...",
+    "url": "https://www.foxnews.com/politics/new-mexico-ag-vows-proceed-native-education-lawsuit",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/raul_torrez.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-29 23:28:52 +0000",
+    "short_uuid": "b63700af"
+  },
+  {
+    "id": "14403424-d49e-4ab3-a5df-6016ec8bd460",
+    "title": "Biden Admin Rolling Out Pandemic 2.0 Preparations as CNN Barks 'Break Out the Masks'",
+    "description": "The 2024 election is coming. Is it any wonder that a new COVID variant just happens to be popping up? Many conservatives and Americans who think for themselves would say, \"No. It was expected.\"\nThe left-leaning intellectuals, the liberal elite, the propaganda media, the pharmaceutical companies, the...",
+    "url": "https://www.westernjournal.com/biden-admin-rolling-pandemic-2-0-preparations-cnn-barks-break-masks/",
+    "author": "Laura Wellington",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-29 23:26:25 +0000",
+    "short_uuid": "d42692fe"
+  },
+  {
+    "id": "f0934edf-ab90-4137-af51-c9ddc0e9d51d",
+    "title": "'Desperate Housewives' writer slams show, says staff avoided eye contact with Teri Hatcher",
+    "description": "And Wisteria Lane thought it had drama.\u00a0 A writer for the eight-season hit series \"Desperate Housewives\" is claiming that the writers weren't encouraged to interact with the cast of the show, that she experienced \"overt racism\" from creator Marc Cherry and that his inefficient leadership led to them...",
+    "url": "https://www.foxnews.com/entertainment/desperate-housewives-writer-slams-show-says-staff-avoided-eye-contact-teri-hatcher",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/d7839931-desperate-housewives-cast.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-29 23:25:52 +0000",
+    "short_uuid": "b27b86eb"
+  },
+  {
+    "id": "5492ef64-43e3-4977-9271-535a1ef37b0c",
+    "title": "California mall will require unaccompanied teens to wear ID lanyards after large brawl",
+    "description": "A Southern California shopping mall will require unaccompanied minors to wear identification tags following a violent brawl over the weekend, after hundreds came to the mall for cheap movie tickets.\u00a0 The move by the Moreno Valley Mall came after multiple fights broke out Sunday. Hundreds of people w...",
+    "url": "https://www.foxnews.com/us/california-mall-require-unaccompanied-teens-wear-id-lanyards-after-large-brawl",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/MVMall_brawl.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-29 23:24:43 +0000",
+    "short_uuid": "e682b6c5"
+  },
+  {
+    "id": "e83d9e54-4c71-4a53-bea7-828712a1f54f",
+    "title": "Video shows 5-year-old boy ringing doorbell, seeking help after let off at wrong bus stop in 105-degree heat",
+    "description": "An Oklahoma mother took to social media to share a \"cautionary tale\" of her 5-year-old son being let off at the wrong bus stop and wandering around the neighborhood in 105-degree heat. A viral video from Kelly Mulholland's TikTok account shows a clip of her son ringing the doorbell of a stranger's h...",
+    "url": "https://www.foxnews.com/us/video-shows-5-year-old-boy-ringing-doorbell-seeking-help-let-off-wrong-bus-stop-105-degree-heat",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/Edmond.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-29 23:22:52 +0000",
+    "short_uuid": "9ed06d9"
+  },
+  {
+    "id": "be1ed5e6-1d38-4671-bba0-ab0044c224dc",
+    "title": "50 Cent postpones Phoenix concert over 'dangerous' triple-digit temps",
+    "description": "Sweltering heat in Phoenix that has routinely broken records this summer led to yet another canceled concert, with rapper 50 Cent calling the triple-digit temperatures \"dangerous.\" Rapper 50 Cent said Monday that his scheduled show Tuesday night at Talking Stick Resort Amphitheatre, an outdoor venue...",
+    "url": "https://www.foxnews.com/us/50-cent-postpones-phoenix-concert-dangerous-triple-digit-temps",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/50_cent.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-29 23:21:19 +0000",
+    "short_uuid": "b8eaa4e0"
+  },
+  {
+    "id": "08004511-ff61-484a-bf0a-bc9f83a1acf5",
+    "title": "Boston no longer requiring sex, gender on marriage certificates",
+    "description": "Couples filling out marriage certificates in Boston will no longer be required to identify their sex or gender under a new policy adopted by the city Tuesday. The change is the first the city has made based on its new gender-aware guidelines, officials said. BOSTON PLANS HOMELESS ENCAMPMENT CRACKDOW...",
+    "url": "https://www.foxnews.com/politics/boston-no-longer-requiring-sex-gender-marriage-certificates",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/Bostons-mayor-michelle-wu.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-29 23:19:00 +0000",
+    "short_uuid": "4f3ee2cb"
+  },
+  {
+    "id": "49e54b17-692c-4251-9488-1ff5c62f481e",
+    "title": "Connecticut Supreme Court rules against concealing police report on state-held psych patient's death",
+    "description": "Police reports about deaths and other incidents in public hospitals cannot be kept secret, the Connecticut Supreme Court ruled Tuesday, citing the importance of government transparency and the public's right to know what happened. A majority of the justices rejected an attempt by state officials to ...",
+    "url": "https://www.foxnews.com/us/connecticut-supreme-court-rules-against-concealing-police-report-state-held-psych-patients-death",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/whiting_forensic.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-29 23:17:41 +0000",
+    "short_uuid": "9d31c580"
+  },
+  {
+    "id": "ddd331b8-31cc-4e09-90d1-8d785c6487ac",
+    "title": "Alabama proposes nitrogen gas executions",
+    "description": "Alabama's proposed procedures to carry out executions with nitrogen gas include fitting a mask over the inmate's face and replacing their breathing air with nitrogen until their heart stops. The state described the procedures for the proposed new execution method in a redacted court filing. Alabama ...",
+    "url": "https://www.foxnews.com/us/alabama-proposes-nitrogen-gas-executions",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/05/alabama-graphic.png",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-29 23:07:35 +0000",
+    "short_uuid": "a1aaa8fe"
+  },
+  {
+    "id": "5a2bf0d3-0b4f-4884-b6ff-85e312bd392e",
+    "title": "Tennessee special session on public safety ends amid chaos and political strife",
+    "description": "Tennessee lawmakers Tuesday abruptly ended a special session initially touted to improve public safety in the wake of a deadly elementary school shooting, but quickly unraveled into chaos over the past week as the GOP-dominant Statehouse refused to take up gun control measures and instead spent most...",
+    "url": "https://www.foxnews.com/us/tennessee-special-session-public-safety-ends-amid-chaos-political-strife",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/TN-school-shooting.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-29 23:05:13 +0000",
+    "short_uuid": "acb1eec"
+  },
+  {
+    "id": "d0faa0d1-737f-4184-8d8a-1a4584d71d61",
+    "title": "Every Phone, TV, and Radio in the US Will Soon Be Subject to an Emergency Alert System Test",
+    "description": "Federal officials are alerting Americans of a coming test of the Emergency Alert System that is scheduled for this fall and will likely reach most Americans.\nThe Federal Emergency Management Agency will partner with the Federal Communications Commission for a comprehensive nationwide test of the EAS...",
+    "url": "https://www.westernjournal.com/every-phone-tv-radio-us-will-soon-subject-emergency-alert-system-test/",
+    "author": "Johnathan Jones",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-29 23:04:20 +0000",
+    "short_uuid": "bb0c52f5"
+  },
+  {
+    "id": "2c38a6cf-3601-40d6-bdc9-39b140121290",
+    "title": "First Gulf of Mexico wind energy lease auction nets modest $5.6 million bid",
+    "description": "In a first-of-its kind auction for the Gulf of Mexico, a company bid $5.6 million Tuesday to lease federal waters off the Louisiana coast for wind energy generation. It was a modest start for wind energy in the Gulf, which lags the Northeast in offshore wind power development. Only one of three avai...",
+    "url": "https://www.foxnews.com/us/first-gulf-mexico-wind-energy-lease-auction-nets-modest-5-6-million-bid",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/Gulf-of-Mexico.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-29 23:03:29 +0000",
+    "short_uuid": "351c548e"
+  },
+  {
+    "id": "180f867d-7321-4e19-b89e-b3bff2088848",
+    "title": "Louisiana struggles with unprecedented wildfire season amid drought and blazes",
+    "description": "One of the largest wildfires in Louisiana history continues to burn through land and threaten rural communities, which are used to flooding and hurricanes this time of year rather than drought and blazes. Louisiana has had an unprecedented wildfire season as dry conditions and extreme heat persist. ...",
+    "url": "https://www.foxnews.com/us/louisiana-struggles-unprecedented-wildfire-season-amid-drought-blazes",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/Louisiana-fire.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-08-29 23:01:37 +0000",
+    "short_uuid": "2b39a862"
   }
 ]
