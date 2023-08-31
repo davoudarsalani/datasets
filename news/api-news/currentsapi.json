@@ -37240,5 +37240,362 @@
     ],
     "published": "2023-08-31 11:39:19 +0000",
     "short_uuid": "421031f1"
+  },
+  {
+    "id": "92bf7684-cfc5-498d-be66-8c958057a072",
+    "title": "Communicating Uncertainty and Risk in Air Quality Maps",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/9765706",
+    "author": "Annie Preston Kwan-Liu Ma",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "CS",
+      "GR",
+      "IEEE"
+    ],
+    "published": "2023-08-31 16:00:00 +0000",
+    "short_uuid": "64144009"
+  },
+  {
+    "id": "7bdca0fa-8a91-4f04-9d29-4a7fcfa920f8",
+    "title": "Understanding How In-Visualization Provenance Can Support Trade-Off Analysis",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/9768153",
+    "author": "Mehdi Chakhchoukh Nadia Boukhelifa Anastasia Bezerianos",
+    "image": "https://ieeexplore.ieee.org/ielx7/2945/10198498/9768153/graphical_abstract/tvcg-gagraphic-3171074.jpg",
+    "language": "en",
+    "category": [
+      "academia",
+      "CS",
+      "GR",
+      "IEEE"
+    ],
+    "published": "2023-08-31 16:00:00 +0000",
+    "short_uuid": "755330ef"
+  },
+  {
+    "id": "f39a2732-201a-483a-9654-5ba1714af8e8",
+    "title": "A Hybrid in Situ Approach for Cost Efficient Image Database Generation",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/9765476",
+    "author": "Valentin Bruder Matthew Larsen Thomas Ertl Hank Childs Steffen Frey",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "CS",
+      "GR",
+      "IEEE"
+    ],
+    "published": "2023-08-31 16:00:00 +0000",
+    "short_uuid": "ac0e3e05"
+  },
+  {
+    "id": "9b3355bd-d407-4ffc-978b-a4f7fd3aca3b",
+    "title": "Learning-Based Intrinsic Reflectional Symmetry Detection",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/9770416",
+    "author": "Yi-Ling Qiao Lin Gao Shu-Zhi Liu Ligang Liu Yu-Kun Lai Xilin Chen",
+    "image": "https://ieeexplore.ieee.org/ielx7/2945/10198498/9770416/graphical_abstract/tvcg-gagraphic-3172361.jpg",
+    "language": "en",
+    "category": [
+      "academia",
+      "CS",
+      "GR",
+      "IEEE"
+    ],
+    "published": "2023-08-31 16:00:00 +0000",
+    "short_uuid": "dda368b6"
+  },
+  {
+    "id": "1298c858-71d2-4dbe-81dc-3885be00b44c",
+    "title": "Sketch2PQ: Freeform Planar Quadrilateral Mesh Design via a Single Sketch",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/9767703",
+    "author": "Zhi Deng Yang Liu Hao Pan Wassim Jabi Juyong Zhang Bailin Deng",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "CS",
+      "GR",
+      "IEEE"
+    ],
+    "published": "2023-08-31 16:00:00 +0000",
+    "short_uuid": "c834f49a"
+  },
+  {
+    "id": "aaf7c2b8-466a-4049-8476-28f502259e26",
+    "title": "A GPU Parallel Algorithm for Computing Morse-Smale Complexes",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/9773959",
+    "author": "Varshini Subhash Karran Pandey Vijay Natarajan",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "CS",
+      "GR",
+      "IEEE"
+    ],
+    "published": "2023-08-31 16:00:00 +0000",
+    "short_uuid": "9c34c123"
+  },
+  {
+    "id": "53ada5bc-59c4-4673-bb09-80328d2350b0",
+    "title": "Watertight Incremental Heightfield Tessellation",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/9770381",
+    "author": "Daniel Cornel Silvana Zechmeister Eduard Gr\u00f6ller J\u00fcrgen Waser",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "CS",
+      "GR",
+      "IEEE"
+    ],
+    "published": "2023-08-31 16:00:00 +0000",
+    "short_uuid": "371efba6"
+  },
+  {
+    "id": "f53dd192-e6a4-45e6-9855-1be53e2b3045",
+    "title": "Using Extended Reality in Flight Simulators: A Literature Review",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/9772329",
+    "author": "Jamie Cross Christine Boag-Hodgson Tim Ryley Timothy J Mavin Leigh Ellen Potter",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "CS",
+      "GR",
+      "IEEE"
+    ],
+    "published": "2023-08-31 16:00:00 +0000",
+    "short_uuid": "fd1d92db"
+  },
+  {
+    "id": "28a058b7-f262-4863-88fe-0e4ab6927a51",
+    "title": "Multi-Scale Flow-Based Occluding Effect and Content Separation for Cartoon Animations",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/9774005",
+    "author": "Cheng Xu Wei Qu Xuemiao Xu Xueting Liu",
+    "image": "https://ieeexplore.ieee.org/ielx7/2945/10198498/9774005/graphical_abstract/tvcg-gagraphic-3174656.jpg",
+    "language": "en",
+    "category": [
+      "academia",
+      "CS",
+      "GR",
+      "IEEE"
+    ],
+    "published": "2023-08-31 16:00:00 +0000",
+    "short_uuid": "24c3b480"
+  },
+  {
+    "id": "7d8df6b5-083b-4495-a81b-add8cfd29f69",
+    "title": "Uncover: Toward Interpretable Models for Detecting New Star Cluster Members",
+    "description": "",
+    "url": "https://ieeexplore.ieee.org/document/9769931",
+    "author": "Sebastian Ratzenb\u00f6ck Verena Oberm\u00fcller Torsten M\u00f6ller Jo\u00e3o Alves Immanuel M. Bomze",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "CS",
+      "GR",
+      "IEEE"
+    ],
+    "published": "2023-08-31 16:00:00 +0000",
+    "short_uuid": "dde2c059"
+  },
+  {
+    "id": "56e9714a-9ce6-4d59-8b7c-412d7465265d",
+    "title": "Visual Data Exploration as a Statistical Testing Procedure: Within-View and Between-View Multiple Comparisons",
+    "description": "",
+    "url": "https://ieeexplore.ieee.org/document/9779102",
+    "author": "Rafael Savvides Andreas Henelius Emilia Oikarinen Kai Puolam\u00e4ki",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "CS",
+      "GR",
+      "IEEE"
+    ],
+    "published": "2023-08-31 16:00:00 +0000",
+    "short_uuid": "f6af7103"
+  },
+  {
+    "id": "bfcfb938-9045-4e09-a271-73d9711587c2",
+    "title": "Rank-PointRetrieval: Reranking Point Cloud Retrieval via a Visually Consistent Registration Evaluation",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/9764639",
+    "author": "Wenxiao Zhang Huajian Zhou Zhen Dong Qingan Yan Chunxia Xiao",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "CS",
+      "GR",
+      "IEEE"
+    ],
+    "published": "2023-08-31 16:00:00 +0000",
+    "short_uuid": "25c15f4a"
+  },
+  {
+    "id": "133392a0-9282-4899-82a4-ffc861b7213f",
+    "title": "How Augmented Reality (AR) Can Help and Hinder Collaborative Learning: A Study of AR in Electromagnetism Education",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/9766081",
+    "author": "Iulian Radu Bertrand Schneider",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "CS",
+      "GR",
+      "IEEE"
+    ],
+    "published": "2023-08-31 16:00:00 +0000",
+    "short_uuid": "48ca2c44"
+  },
+  {
+    "id": "46c17ff4-d687-45d6-943d-1bfedf60c31f",
+    "title": "Graphical Enhancements for Effective Exemplar Identification in Contextual Data Visualizations",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/9765327",
+    "author": "Xinyu Zhang Shenghui Cheng Klaus Mueller",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "CS",
+      "GR",
+      "IEEE"
+    ],
+    "published": "2023-08-31 16:00:00 +0000",
+    "short_uuid": "8d9c520e"
+  },
+  {
+    "id": "dfe276d8-2fd8-4379-a9d6-39cd78995a52",
+    "title": "Learning-From-Disagreement: A Model Comparison and Visual Analytics Framework",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/9767606",
+    "author": "Junpeng Wang Liang Wang Yan Zheng Chin-Chia Michael Yeh Shubham Jain Wei Zhang",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "CS",
+      "GR",
+      "IEEE"
+    ],
+    "published": "2023-08-31 16:00:00 +0000",
+    "short_uuid": "dbb6e0a2"
+  },
+  {
+    "id": "738adaaf-9d97-42fd-990a-0ee74052e5f0",
+    "title": "A Review of Interaction Techniques for Immersive Environments",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/9773967",
+    "author": "Becky Spittle Maite Frutos-Pascual Chris Creed Ian Williams",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "CS",
+      "GR",
+      "IEEE"
+    ],
+    "published": "2023-08-31 16:00:00 +0000",
+    "short_uuid": "2954583a"
+  },
+  {
+    "id": "2ce2527b-89bd-40b8-b6b0-8254ea5db7d2",
+    "title": "Design Order Guided Visual Note Layout Optimization",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/9767765",
+    "author": "Xiaotian Qiao Ying Cao Rynson W. H. Lau",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "CS",
+      "GR",
+      "IEEE"
+    ],
+    "published": "2023-08-31 16:00:00 +0000",
+    "short_uuid": "4e506b54"
+  },
+  {
+    "id": "37a732fc-384e-403b-9cd5-73df2ef42296",
+    "title": "Practice Improves Performance of a 2D Uncertainty Integration Task Within and Across Visualizations",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/9772276",
+    "author": "Sarah A. Kusumastuti Kimberly A. Pollard Ashley H. Oiknine Bianca Dalangin Tiffany R. Raber Benjamin T. Files",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "CS",
+      "GR",
+      "IEEE"
+    ],
+    "published": "2023-08-31 16:00:00 +0000",
+    "short_uuid": "be26dba9"
+  },
+  {
+    "id": "f1e70e7f-c618-4e2c-a688-27ac159e2b44",
+    "title": "Casual 6-DoF: Free-Viewpoint Panorama Using a Handheld 360\u00b0 Camera",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/9779957",
+    "author": "Rongsen Chen Fang-Lue Zhang Simon Finnie Andrew Chalmers Taehyun Rhee",
+    "image": "https://ieeexplore.ieee.org/ielx7/2945/10198498/9779957/graphical_abstract/tvcg-gagraphic-3176832.jpg",
+    "language": "en",
+    "category": [
+      "academia",
+      "CS",
+      "GR",
+      "IEEE"
+    ],
+    "published": "2023-08-31 16:00:00 +0000",
+    "short_uuid": "8840ff63"
+  },
+  {
+    "id": "b2e1b054-31f4-4141-bd06-da9739154ec7",
+    "title": "Good Keyframes to Inpaint",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/9780012",
+    "author": "Shohei Mori Dieter Schmalstieg Denis Kalkofen",
+    "image": "https://ieeexplore.ieee.org/ielx7/2945/10198498/9780012/graphical_abstract/tvcg-gagraphic-3176958.jpg",
+    "language": "en",
+    "category": [
+      "academia",
+      "CS",
+      "GR",
+      "IEEE"
+    ],
+    "published": "2023-08-31 16:00:00 +0000",
+    "short_uuid": "8bbc42f2"
+  },
+  {
+    "id": "cf4b889b-d7a5-492c-9f30-9bd006aa3dca",
+    "title": "MUSE: Visual Analysis of Musical Semantic Sequence",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/9781257",
+    "author": "Baofeng Chang Guodao Sun Tong Li Houchao Huang Ronghua Liang",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "CS",
+      "GR",
+      "IEEE"
+    ],
+    "published": "2023-08-31 16:00:00 +0000",
+    "short_uuid": "38d98b3d"
   }
 ]
