@@ -35569,5 +35569,425 @@
     ],
     "published": "2023-08-30 18:20:33 +0000",
     "short_uuid": "954353c"
+  },
+  {
+    "id": "9001db68-4220-4fbd-90fe-04f94bd57005",
+    "title": "Millions of salaried workers would get overtime pay under Biden administration proposal | CNN Politics",
+    "description": "Some 3.6 million salaried workers would newly qualify for overtime pay under a proposed rule unveiled by the US Department of Labor on Wednesday. It would guarantee overtime pay of at least time-and-a-half for most salaried workers earning less than $1,059 a week, or about $55,000 a year.",
+    "url": "https://www.cnn.com/2023/08/30/politics/overtime-pay-salaried-workers-biden/index.html",
+    "author": "cnn",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230830123322-overtime-salaried-workers.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-31 00:36:00 +0000",
+    "short_uuid": "9b0a944d"
+  },
+  {
+    "id": "5472d524-0fa4-4e1c-a0b0-8b05b41db06d",
+    "title": "Biden cancels $72 million in student loan debt for borrowers who went to for-profit Ashford University | CNN Politics",
+    "description": "Even though President Joe Biden\u2019s student loan forgiveness program was blocked by the Supreme Court earlier this year, his administration is moving forward with more targeted student debt cancellations allowed under existing programs.",
+    "url": "https://www.cnn.com/2023/08/30/politics/student-loan-forgiveness-ashford-university/index.html",
+    "author": "cnn",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230830115400-ashford-university-san-diego-file.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-31 00:36:00 +0000",
+    "short_uuid": "2cc2217a"
+  },
+  {
+    "id": "038e6fbb-b132-4304-bbce-5d93301d0d2c",
+    "title": "US intel: Ukraine war caused 'one of the most disruptive periods' for global food security | CNN Politics",
+    "description": "Russia\u2019s invasion of Ukraine caused deep disruptions in the global food supply, raising prices and increasing the risk of food insecurity in poorer nations in the Middle East and North Africa, America\u2019s top spy agency said in an unclassified report released by Congress on Wednesday.",
+    "url": "https://www.cnn.com/2023/08/30/politics/food-security-ukraine-russia-war/index.html",
+    "author": "cnn",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230830161714-01-global-food-prices-ukraine-war.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-31 00:36:00 +0000",
+    "short_uuid": "4bfee585"
+  },
+  {
+    "id": "3dc1f022-1cac-4536-b17c-fbc2352a7497",
+    "title": "Biden threatens to blame GOP if there isn't enough funding for response to natural disasters impacting US | CNN Politics",
+    "description": "President Joe Biden on Wednesday pledged enduring support for Americans affected by Hurricane Idalia and the Hawaii wildfires while making clear he\u2019s ready to blame congressional Republicans if there isn\u2019t enough funding for the response to a confluence of natural disasters.",
+    "url": "https://www.cnn.com/2023/08/30/politics/biden-idalia-maui/index.html",
+    "author": "cnn",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230830145248-01-joe-biden-083023.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-31 00:36:00 +0000",
+    "short_uuid": "b8b93115"
+  },
+  {
+    "id": "7cb1fd61-0e6f-4cf1-bf25-660bebcbbb4d",
+    "title": "Mar-a-Lago property manager's lawyers say prosecutors overplaying potential conflict of interest in classified documents case | CNN Politics",
+    "description": "Lawyers for Carlos de Oliveira \u2013 the Mar-a-Lago property manager charged alongside former President Donald Trump in the classified documents case \u2013 said Wednesday that special counsel Jack Smith was overplaying a potential ethical conflict in their representation of their client.",
+    "url": "https://www.cnn.com/2023/08/30/politics/carlos-de-oliveira-classified-documents-case/index.html",
+    "author": "cnn",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230731101802-02-carlos-de-oliveira-073123.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-31 00:36:00 +0000",
+    "short_uuid": "1cc0ce89"
+  },
+  {
+    "id": "1c455fb7-997d-41b1-9de1-a4b51b745900",
+    "title": "New York AG's office alleges Trump inflated his net worth by as much as $2.2 billion in 1 year | CNN Politics",
+    "description": "Donald Trump inflated his net worth by as much as $2.2 billion in one year, lawyers for the New York attorney general\u2019s office alleged as part of their civil fraud lawsuit against the former president, his adult sons and the Trump Organization.",
+    "url": "https://www.cnn.com/2023/08/30/politics/donald-trump-wealth-new-york/index.html",
+    "author": "cnn",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230830145920-01-donald-trump-053123.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-31 00:36:00 +0000",
+    "short_uuid": "ae8702b0"
+  },
+  {
+    "id": "76b4fbf5-4430-4d6c-a706-67c1ece7377d",
+    "title": "2 Trump co-defendants ask judge to break apart Georgia election interference case and hold separate trials | CNN Politics",
+    "description": "Two Trump co-defendants in Georgia who requested speedy trials asked a judge Wednesday to formally separate their cases from the sprawling overall indictment, a move that would undercut Fulton County District Attorney Fani Willis\u2019 attempt to hold one massive trial for all 19 defendants in the electi...",
+    "url": "https://www.cnn.com/2023/08/30/politics/powell-chesebro-sever-georgia-2020-election-case/index.html",
+    "author": "cnn",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230830150318-powell-chesebro-split.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-31 00:36:00 +0000",
+    "short_uuid": "378fd845"
+  },
+  {
+    "id": "aff740cc-c6df-47f6-a0c6-a736c88265b6",
+    "title": "US asks Mexico to investigate labor rights at cargo airline under trade agreement",
+    "description": "The United States is asking Mexico to review whether the labor rights of pilots at a small cargo airline are being infringed, the eight such request Washington has made this year, U.S. officials said on Wednesday. Since the U.S.-Mexico-Canada Agreement (USMCA) on trade took effect in 2020, the offic...",
+    "url": "https://www.foxnews.com/world/us-asks-mexico-investigate-labor-rights-cargo-airline-trade-agreement",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/Airport.jpg",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2023-08-30 23:55:50 +0000",
+    "short_uuid": "1658408d"
+  },
+  {
+    "id": "0406b679-656e-4af3-b853-96065a19bbd9",
+    "title": "IATA calls on Mexican government to seek alternatives to proposed flight cuts at Mexico City airport",
+    "description": "The International Air Transport Association (IATA) on Wednesday urged the Mexican government to take alternative measures to its plans to announce flight reductions at the Mexico City International Airport (AICM). The IATA said in a statement to Reuters that it could not accept \"any unilateral and u...",
+    "url": "https://www.foxnews.com/world/iata-calls-mexican-government-seek-alternatives-proposed-flight-cuts-mexico-city-airport",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/Airlines.jpg",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2023-08-30 23:54:09 +0000",
+    "short_uuid": "9116930c"
+  },
+  {
+    "id": "974f6a38-46ca-42a1-ad0a-1886d3cb39f1",
+    "title": "'Quite the scene': 5 million bees loose after falling off truck outside Toronto",
+    "description": "Police west of Toronto on Wednesday warned drivers to keep their car windows closed after a truck spilled crates carrying five million bees onto a road. Halton Regional Police said they received a call around 6:15 a.m. reporting the bee crates had come loose from a truck and spilled onto Guelph Line...",
+    "url": "https://www.foxnews.com/world/quite-scene-5-million-bees-loose-falling-truck-toronto",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/canada_bee_crash.jpg",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2023-08-30 23:36:21 +0000",
+    "short_uuid": "1797dcf"
+  },
+  {
+    "id": "561a41f9-0936-410c-83cb-6a4b041ab243",
+    "title": "168 migrants return to Senegal after Mauritania refuses to accept boat",
+    "description": "Nearly 170 migrants returned to Senegal on Wednesday after spending almost a week in limbo on a Spanish rescue boat. Deputy Mayor Lamine Ndiaye confirmed 168 migrants were safely transferred from a Spanish vessel to Senegalese authorities. They were expected to arrive in Dakar by sea Wednesday eveni...",
+    "url": "https://www.foxnews.com/world/168-migrants-return-senegal-mauritania-refuses-accept-boat",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/DOTCOM_STATE_COUNTRY_NEWS_AFRICA.png",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2023-08-30 23:34:53 +0000",
+    "short_uuid": "33cb9998"
+  },
+  {
+    "id": "92ef8ca1-1c4c-4750-a906-38c5d34d2ac3",
+    "title": "2nd Debate GOP Debate Hosted by Fox Business, Will Have Different Moderators",
+    "description": "Fox Business Network has revealed a new panel of moderators for the GOP primary debate.\nThe second debate in this critical political season will feature conservative political commentator Stuart Varney and Dana Perino, who co-anchors the Fox News program \"America's Newsroom,\" Fox Business reported.\u00a0...",
+    "url": "https://www.westernjournal.com/2nd-debate-gop-debate-hosted-fox-business-will-different-moderators/",
+    "author": "Froilan Bersamina",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-30 22:38:46 +0000",
+    "short_uuid": "25e3f15c"
+  },
+  {
+    "id": "141c63e0-2c76-4fa5-bad5-262e9f2675eb",
+    "title": "Biden Says He'll 'Get in Touch' with McConnell After Freezing Episode, Bizarrely Deflects Re-Election Question",
+    "description": "President Joe Biden is wishing Senate Minority Leader Mitch McConnell well after the Kentucky Republican appeared to freeze up during a public event in his home state.\nBiden extended his well wishes to McConnell in a Wednesday White House news conference regarding Maui wildfire relief.\nBiden didn't ...",
+    "url": "https://www.westernjournal.com/biden-says-get-touch-mcconnell-freezing-episode-bizarrely-deflects-re-election-question/",
+    "author": "Richard Moorhead",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-30 22:02:51 +0000",
+    "short_uuid": "952a4752"
+  },
+  {
+    "id": "4745659f-d7de-4a05-bd86-d6630fe8be4a",
+    "title": "CNN's Jake Tapper Corners KJP on Biden's Age, Subjects Her to 5 Minutes of Brutal Questioning",
+    "description": "CNN host Jake Tapper would not let White House press secretary Karine Jean-Pierre off the hook Tuesday when she tried to respond to Americans' concerns about President Joe Biden's age and fitness for office with well-worn talking points.\nTapper cited an Associated Press/NORC poll finding that 77 per...",
+    "url": "https://www.westernjournal.com/cnns-jake-tapper-corners-kjp-bidens-age-subjects-5-minutes-brutal-questioning/",
+    "author": "Randy DeSoto",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-30 21:39:40 +0000",
+    "short_uuid": "4281f329"
+  },
+  {
+    "id": "ea0c33f7-58f5-436f-9033-573b6b86f2ad",
+    "title": "HHS calls for easing restrictions on marijuana, sending cannabis stocks higher",
+    "description": "That move could potentially expand the market for cannabis, sending shares of Canopy Growth, Tilray Brands and Cronos Group higher.",
+    "url": "https://www.cnbc.com/2023/08/30/hhs-calls-for-easing-marijuana-restrictions.html",
+    "author": "cnbc",
+    "image": "https://image.cnbcfm.com/api/v1/image/106995423-1640971059819-gettyimages-1236440433-clark_weed_step7_33.jpeg?v=1693427304&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "business"
+    ],
+    "published": "2023-08-30 21:22:47 +0000",
+    "short_uuid": "558c8625"
+  },
+  {
+    "id": "3884f5d8-3adc-467e-867e-22e1d0433fdf",
+    "title": "Tucker Carlson Warns We Are Speeding Toward the Assassination of Trump",
+    "description": "Tucker Carlson has reached a conclusion that must also have occurred to many of us at some point since 2020.\nAppearing on \"The Adam Carolla Show\" on Tuesday, Carlson noted that the years-long trajectory of persecution against former President Donald Trump has only one logical end.\n\"We're speeding to...",
+    "url": "https://www.westernjournal.com/tucker-carlson-warns-speeding-toward-assassination-trump/",
+    "author": "Michael Schwarz",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-30 21:20:34 +0000",
+    "short_uuid": "84fc4e8f"
+  },
+  {
+    "id": "4ce44fc3-35ff-401b-915b-3651a4a52e61",
+    "title": "Biden Privately Admitted to Feeling 'Tired' as Worry About His Age Rises: Book",
+    "description": "News flash \u2014 President Joe Biden is old and tired.\nThe calendar says he's 80 years of age, and if you watch him for a while you'll see he's every bit the octogenarian.\nI'm not mocking him, just stating facts about a man older than any previous president.\nAnd those facts no doubt have the White House...",
+    "url": "https://www.westernjournal.com/biden-privately-admitted-feeling-tired-worry-age-rises-book/",
+    "author": "Mike Landry",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-30 21:09:40 +0000",
+    "short_uuid": "a825168"
+  },
+  {
+    "id": "5cb8921c-4655-41b5-94bd-f31dc3213eab",
+    "title": "CNN Slapped with Community Note on X After Defending Alleged Rapist of a Child",
+    "description": "After a decidedly slanted report about two Ugandan men charged with \"aggravated homosexuality\" in their home country, CNN found itself the recipient of a \"community note\" on X, the social media platform formerly known as Twitter.\nCNN's post had said simply, \"Two men in Uganda are facing separate cha...",
+    "url": "https://www.westernjournal.com/cnn-slapped-community-note-x-defending-alleged-rapist-child/",
+    "author": "George C. Upper III",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-30 20:51:15 +0000",
+    "short_uuid": "4bfa1a22"
+  },
+  {
+    "id": "531ac439-86f2-43ec-97c6-93617063e03b",
+    "title": "UK's National Health Service introduces groundbreaking 'under the skin' cancer treatment injection",
+    "description": "Britain's state-run national health service will be the first in the world to offer an injection that treats cancer to hundreds of patients in England which could cut treatment times by up to three quarters. Following approval from the Medicines and Healthcare products Regulatory Agency (MHRA), NHS ...",
+    "url": "https://www.foxnews.com/world/uks-national-health-service-introduces-groundbreaking-skin-cancer-treatment-injection",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/Tecentriq.jpg",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2023-08-30 20:35:09 +0000",
+    "short_uuid": "cccd99e5"
+  },
+  {
+    "id": "cf35765a-bb95-4db2-8689-1aa8d3fdb575",
+    "title": "Nearly one-third of 18-year-old women in Japan may never have children, highlighting population concerns",
+    "description": "About a third of 18-year-old women in Japan may never have children, a government institute said on Wednesday, in the latest data spelling an uphill battle to reverse a dwindling population in the world's third-largest economy. The National Institute of Population and Social Security Research (IPSS)...",
+    "url": "https://www.foxnews.com/world/nearly-third-18-year-old-women-japan-may-children-highlighting-population-concerns",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/Japan-women.jpg",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2023-08-30 20:33:08 +0000",
+    "short_uuid": "9f74feb6"
+  },
+  {
+    "id": "bc90f245-94bd-448f-8ef3-cc884fb845f0",
+    "title": "Freefall: Elevator suddenly takes plunge in China apartment building, injuring three people",
+    "description": "An elevator in China took a sudden drop on Aug. 26, sending three people to the hospital in an apartment building. The incident happened in a residential building of Zhongfang Ruizhi International Community, Furong District, Changsha City on Aug. 25 at around 8:00 p.m., according to state media. The...",
+    "url": "https://www.foxnews.com/world/freefall-elevator-suddenly-takes-plunge-china-injuring-three-people",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/Untitled-design-1000.png",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2023-08-30 20:29:52 +0000",
+    "short_uuid": "960c4117"
+  },
+  {
+    "id": "997d8406-ecbf-4ec7-950a-59941bc28613",
+    "title": "Hurricane Franklin, a Category 2 storm, approaches Bermuda",
+    "description": "The outer bands of Hurricane Franklin lashed Bermuda on Wednesday as the Category 2 storm was forecast to pass near the island located in the North Atlantic Ocean. HURRICANE IDALIA MAKES LANDFALL OVER FLORIDA'S BIG BEND AS A CATEGORY 3, HUNDREDS OF THOUSANDS WITHOUT POWER Franklin had maximum sustai...",
+    "url": "https://www.foxnews.com/world/hurricane-franklin-category-2-storm-approaches-bermuda",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/bermuda_flag.jpg",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2023-08-30 20:25:57 +0000",
+    "short_uuid": "9e2c93cd"
+  },
+  {
+    "id": "fd5803ee-9982-4577-af8e-8984c0b5b709",
+    "title": "Watch: 'Rich Men North of Richmond' Singer Performs at Rogan's Club, Teases Podcast Appearance",
+    "description": "Singer Oliver Anthony made a surprise performance at Joe Rogan's comedy club in Austin, Texas, on Tuesday.\nAnthony performed \"Rich Men North of Richmond\" in the appearance at the Comedy Mothership.\nWARNING: The following video contains vulgar language that some viewers may find offensive.\n\n\n\u00a0\n\n\n\n\n\n\n...",
+    "url": "https://www.westernjournal.com/watch-rich-men-north-richmond-singer-performs-rogans-club-teases-podcast-appearance/",
+    "author": "Richard Moorhead",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-30 20:08:28 +0000",
+    "short_uuid": "9ff57f6d"
+  },
+  {
+    "id": "0891069d-5477-4db8-a59c-9c1322fa83a2",
+    "title": "'We Won': Student Booted from Class Over 'Don't Tread on Me' Flag Scores Quick Victory Over Administrators",
+    "description": "A Colorado school just gave the country a lesson in the power of conservative resistance.\nA day after a 12-year-old boy was removed from a classroom in Colorado Springs over a Gadsden flag patch he had on a backpack, the school's board of directors issued a statement declaring the boy would be welco...",
+    "url": "https://www.westernjournal.com/won-student-booted-class-dont-tread-flag-scores-quick-victory-administrators/",
+    "author": "Joe Saunders",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-30 19:59:52 +0000",
+    "short_uuid": "3c19f015"
+  },
+  {
+    "id": "9ab132ad-ba46-4d81-9fb4-41cfe6684ad0",
+    "title": "John Fetterman's Wife All-In on Future Democrats Want: 'Pot, Porn, Planned Parenthood'",
+    "description": "Horror.\nThat is what I felt when I discovered that my fellow Pennsylvanians had elected a stroked-out slob to represent them in the U.S. Senate.\nThis was not merely a partisan reaction, for I was all too familiar with John Fetterman's governance.\nWhen I was getting my master's in theology at a conse...",
+    "url": "https://www.westernjournal.com/john-fettermans-wife-future-democrats-want-pot-porn-planned-parenthood/",
+    "author": "Joshua Johnson",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-30 19:52:02 +0000",
+    "short_uuid": "a11c3a87"
+  },
+  {
+    "id": "300b1a71-da14-4fcb-9b07-e3c1687c824b",
+    "title": "McConnell Appears to Suffer Another Scary Health Episode - Camera Keeps Rolling as Aides Step In",
+    "description": "When Senate Minority Leader Mitch McConnell was asked a question on Wednesday about whether he plans to run for re-election, his reaction might have been all the answer it needed.\nFor a full, scary 30 seconds, McConnell froze, his face blank, barely registering he was aware of where he stood.\nAnd th...",
+    "url": "https://www.westernjournal.com/mcconnell-appears-suffer-another-scary-health-episode-camera-keeps-rolling-aides-step/",
+    "author": "Joe Saunders",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-30 19:29:22 +0000",
+    "short_uuid": "cf5ed072"
+  },
+  {
+    "id": "9238e11f-b3e5-44de-8623-d1e20fee76bf",
+    "title": "England accelerates vaccine programs due to new COVID variant",
+    "description": "England will bring forward the start of its autumn flu and COVID-19 vaccination programmes as a precautionary step after the identification of highly mutated COVID variant BA.2.86, which has been found in Britain. Scientists have said BA.2.86, an offshoot of the Omicron variant, was unlikely to caus...",
+    "url": "https://www.foxnews.com/world/england-accelerates-vaccine-programs-due-to-new-covid-variant",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/Vaccines.jpg",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2023-08-30 19:28:43 +0000",
+    "short_uuid": "ed74f5f0"
+  },
+  {
+    "id": "53fd6703-04f5-4d05-bdd7-e86c2962358f",
+    "title": "2024 Battleground State AG Could Have Trump Removed From Ballot by December",
+    "description": "Another state official says he's looking into the question of whether former President Donald Trump can constitutionally appear on the ballot for the 2024 presidential election.\nArizona Secretary of State Adrian Fontes said that he expects that question to \"end up in court\" and was working to determ...",
+    "url": "https://www.westernjournal.com/2024-battleground-state-ag-trump-removed-ballot-december/",
+    "author": "George C. Upper III",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-30 19:25:19 +0000",
+    "short_uuid": "1189869d"
+  },
+  {
+    "id": "16ab3471-0a56-49e2-904b-2793e92f91dc",
+    "title": "State officials want Shein to prove it doesn't use forced labor before it goes public",
+    "description": "Fast-fashion retailer Shein is facing more scrutiny from elected officials who want the company to independently prove it doesn't use forced labor.",
+    "url": "https://www.cnbc.com/2023/08/30/shein-faces-scrutiny-over-forced-labor-before-ipo.html",
+    "author": "cnbc",
+    "image": "https://image.cnbcfm.com/api/v1/image/107071298-GettyImages-1400652419.jpg?v=1693422719&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "business"
+    ],
+    "published": "2023-08-30 19:22:42 +0000",
+    "short_uuid": "a549541a"
+  },
+  {
+    "id": "f143dc43-173f-4d3e-bade-8cceb2913794",
+    "title": "Intel to invest $1.2 billion in Costa Rica over next 2 years",
+    "description": "Intel will invest $1.2 billion in Costa Rica over the next two years, the company said in a press release on Wednesday. The announcement comes after the U.S. State Department said in July that it would partner with Costa Rica's government to support the Costa Rican semiconductor sector through the 2...",
+    "url": "https://www.foxnews.com/world/intel-invest-1-2-billion-costa-rica-next-2-years",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/Intel.jpg",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2023-08-30 19:21:13 +0000",
+    "short_uuid": "d7cb8d3d"
   }
 ]
