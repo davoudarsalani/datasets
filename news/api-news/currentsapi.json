@@ -40444,5 +40444,33 @@
     ],
     "published": "2023-09-01 18:18:49 +0000",
     "short_uuid": "a4cd2b43"
+  },
+  {
+    "id": "2dbbeb63-ba3b-402d-bd8c-d726ebb69906",
+    "title": "Kenneth Chesebro, architect of fake electors plot, pleads not guilty in Georgia election case | CNN Politics",
+    "description": "CNN \u2014\n\nDonald Trump\u2019s former lawyer Rudy Giuliani and six other co-conspirators charged in the Georgia election subversion case pleaded not guilty on Friday and waived their right to an arraignment he...",
+    "url": "https://www.cnn.com/2023/09/01/politics/georgia-fulton-county-plead-kenneth-chesebro/index.html",
+    "author": "Marshall Cohen Jason Morris Nick Valencia",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230821130835-01-kenneth-chesebro-082123.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-01 18:57:59 +0000",
+    "short_uuid": "397db5d4"
+  },
+  {
+    "id": "32c1e470-aa5e-4c30-ab44-c4dde26cf600",
+    "title": "Proud Boy who smashed Capitol window on January 6 sentenced to 10 years | CNN Politics",
+    "description": "CNN \u2014\n\nA federal judge handed down hefty sentences against two members of the Proud Boys for their role in attacking the Capitol on January 6, 2021, one who broke open a window to the building and ano...",
+    "url": "https://www.cnn.com/2023/09/01/politics/dominic-pezzola-proud-boys-sentencing/index.html",
+    "author": "Hannah Rabinowitz",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230901123015-dominic-pezzola-010621.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-01 18:57:59 +0000",
+    "short_uuid": "8dc1e3db"
   }
 ]
