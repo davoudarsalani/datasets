@@ -38818,5 +38818,33 @@
     ],
     "published": "2023-08-31 23:55:49 +0000",
     "short_uuid": "b850cd58"
+  },
+  {
+    "id": "1915d463-b1b8-463c-87a9-9ab3f79048c1",
+    "title": "Texas man pleads guilty to threatening Georgia officials after 2020 election | CNN Politics",
+    "description": "CNN \u2014\n\nTwo men pleaded guilty to threatening elections officials in separate criminal cases, the Justice Department announced Thursday \u2013 the latest in a department effort to crack down on election thr...",
+    "url": "https://www.cnn.com/2023/08/31/politics/guilty-plea-election-officials-threat/index.html",
+    "author": "Piper Hudspeth Blackburn",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230901103209-voters-texas-2022.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-01 00:57:12 +0000",
+    "short_uuid": "a910bb20"
+  },
+  {
+    "id": "6889fead-6418-4c49-85bc-3acb4c1356f7",
+    "title": "2 dead, others hurt in shooting at Austin business",
+    "description": "One person was killed and another was shot and critically wounded in a shooting at an Austin, Texas, shopping center Thursday, police said.\n\nThe gunman was also found dead, Interim Police Chief Robin ...",
+    "url": "https://www.nbcnews.com/news/us-news/2-dead-others-hurt-shooting-austin-business-rcna102908",
+    "author": "Https",
+    "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-09/230831-texas-shooting-arboretum-se-801p-b2c338.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-01 00:25:47 +0000",
+    "short_uuid": "95039c30"
   }
 ]
