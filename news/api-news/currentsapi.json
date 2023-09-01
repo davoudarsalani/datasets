@@ -38038,5 +38038,363 @@
     ],
     "published": "2023-08-31 19:58:55 +0000",
     "short_uuid": "407aad98"
+  },
+  {
+    "id": "00902064-feb9-43b6-bb05-c4edf59c64d2",
+    "title": "White House asks Congress for short-term funding to avoid government shutdown",
+    "description": "The White House on Thursday asked Congress to pass a short-term measure to fund the federal government and avoid a shutdown at the end of September.",
+    "url": "https://www.cnbc.com/2023/08/31/white-house-asks-congress-for-short-term-funding-to-avoid-shutdown.html",
+    "author": "cnbc",
+    "image": "https://image.cnbcfm.com/api/v1/image/107288006-16922738702023-08-17t060252z_1559381634_rc2ep2aci97o_rtrmadp_0_usa-dailylife.jpeg?v=1693526674&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-01 00:04:48 +0000",
+    "short_uuid": "3a32e414"
+  },
+  {
+    "id": "6282e042-bc30-46cb-931b-93b59d8c2037",
+    "title": "UAW president says union has filed unfair labor practice charges against GM, Stellantis over contract talks",
+    "description": "The Thursday filings followed the companies not responding to the union's demands in a timely matter, United Auto Workers President Shawn Fain said.",
+    "url": "https://www.cnbc.com/2023/08/31/uaw-files-nlrb-complaints-against-gm-stellantis-over-contract-talks.html",
+    "author": "cnbc",
+    "image": "https://image.cnbcfm.com/api/v1/image/107289121-1692569963993-IMG_7638.JPG?v=1693526132&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "auto"
+    ],
+    "published": "2023-08-31 23:55:49 +0000",
+    "short_uuid": "e702df33"
+  },
+  {
+    "id": "0b6729ea-499f-4311-8121-8fd66eae4d03",
+    "title": "'General Hospital' star Haley Pullos returns to court over felony DUI charges",
+    "description": "\"General Hospital\" actress Haley Pullos appeared in Los Angeles court this week for her latest hearing related to her DUI arrest in April. The 25-year-old wore a short blue-green dress with transparent sleeves and white heels as she walked outside the LA-area courthouse Wednesday. A brace, presumabl...",
+    "url": "https://www.foxnews.com/entertainment/general-hospital-star-haley-pullos-returns-court-over-felony-dui-charges",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/haley-pullos-court.jpg",
+    "language": "en",
+    "category": [
+      "entertainment"
+    ],
+    "published": "2023-08-31 23:51:33 +0000",
+    "short_uuid": "efddb7"
+  },
+  {
+    "id": "bfb52aa9-5f26-4f4c-b41e-79d4c702f764",
+    "title": "Ex-Proud Boys leader gets one of the longest Capitol riot sentences",
+    "description": "Two former leaders of the Proud Boys were sentenced Thursday for seditious conspiracy and other charges related to the Capitol riot. Driving the news: \u2026",
+    "url": "https://www.axios.com/2023/08/31/proud-boys-leaders-joseph-biggs-sentenced-sedition-jan-6",
+    "author": "Sareen Habeshian",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-31 23:27:05 +0000",
+    "short_uuid": "1048c214"
+  },
+  {
+    "id": "e1d319d4-8cb7-43b7-a94e-608c17af85f0",
+    "title": "Trump Georgia trial will be streamed live, judge rules",
+    "description": "The broadcasting of Trump's proceedings would give the public unprecedented access to what will be one of the most high-profile trials in American history.",
+    "url": "https://www.cnbc.com/2023/08/31/trump-georgia-trial-will-be-streamed-live-judge-rules.html",
+    "author": "cnbc",
+    "image": "https://image.cnbcfm.com/api/v1/image/107256203-16867013032023-06-13t213949z_1694804255_hp1ej6d1mbd0k_rtrmadp_0_usa-trump-documents.jpeg?v=1693520409&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-31 22:21:30 +0000",
+    "short_uuid": "e93b7975"
+  },
+  {
+    "id": "4540c7f7-902d-402b-a4f0-d1d93f80f9d5",
+    "title": "Lululemon ups guidance after 'strong' growth in China boosts quarterly sales",
+    "description": "Lululemon raised its full year guidance and saw its sales and profit rise 18% during its most recent quarter, fueled by a 61% boost in China.",
+    "url": "https://www.cnbc.com/2023/08/31/lululemon-lulu-earnings-q2-2023.html",
+    "author": "cnbc",
+    "image": "https://image.cnbcfm.com/api/v1/image/107250392-1685734370196-gettyimages-1495444866-img_1650_pxwvxup1.jpeg?v=1693512356&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "business"
+    ],
+    "published": "2023-08-31 22:12:38 +0000",
+    "short_uuid": "b4aeedd6"
+  },
+  {
+    "id": "63de6f0c-6460-443e-a991-670568364155",
+    "title": "A big group of student loan borrowers are learning their debt has been forgiven",
+    "description": "Federal student loan borrowers are expected to resume payments this fall. But more than 800,000 borrowers are finding out that their loans have suddenly been forgiven....",
+    "url": "https://www.npr.org/2023/08/31/1197122000/a-big-group-of-student-loan-borrowers-are-learning-their-debt-has-been-forgiven",
+    "author": "Cory Turner",
+    "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+    "language": "en",
+    "category": [
+      "education",
+      "lifestyle"
+    ],
+    "published": "2023-08-31 22:04:55 +0000",
+    "short_uuid": "445291e0"
+  },
+  {
+    "id": "7ca92ff5-6a0d-4d8c-9ce7-5d152b1032f9",
+    "title": "A neurology professor weighs in on the health questions surrounding Mitch McConnell",
+    "description": "For a second time in a little over a month, Senate Minority Leader Mitch McConnell appeared to freeze up while taking questions a press conference, raising questions about his health....",
+    "url": "https://www.npr.org/2023/08/31/1197119638/a-neurology-professor-weighs-in-on-the-health-questions-surrounding-mitch-mcconn",
+    "author": "Kira Wakeam",
+    "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+    "language": "en",
+    "category": [
+      "health",
+      "lifestyle"
+    ],
+    "published": "2023-08-31 22:02:00 +0000",
+    "short_uuid": "b6f4f5f4"
+  },
+  {
+    "id": "03fb4527-8ef9-4be9-81fe-ec634bc3cc48",
+    "title": "When Saul Steinberg Reimagined an Icon",
+    "description": "Observer described him as \"the best-loved nonwriter in the history of The New Yorker.\" Herman Miller's WHY dubbed him an \"enthusiastic indoorsman.\" Interiors magazine said he was a \"chronicler of the absurd.\" And legendary design duo Ray and Charles Eames called him a friend.\n\nI'm referring, of cour...",
+    "url": "https://observer.com/2023/08/saul-steinberg-ray-charles-eames/",
+    "author": "Christa Terry",
+    "image": "https://observer.com/wp-content/uploads/sites/2/2023/08/Photo-Credit-Vitra-Tom-Ziora_-Contemporary-image-of-the-Fiberglass-Armchairs-with-Steinberg-Cat-and-Nude.jpg?quality=80&strip",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-31 21:57:14 +0000",
+    "short_uuid": "4e03f675"
+  },
+  {
+    "id": "fd575a2b-ddb9-428d-82e1-30b0dc3d6da4",
+    "title": "\u2018Star Trek: Lower Decks\u2019 S4 Review: A Loving Parody Develops Its Own Legends",
+    "description": "An animated sitcom set in the Star Trek universe was a bold idea, but when it debuted in 2020 everything about Lower Decks felt too safe, from its Rick & Morty-inspired art style to its constant pandering references to Star Trek's past. Reviewing the first three episodes, I called it \"a trip to the ...",
+    "url": "https://observer.com/2023/08/star-trek-lower-decks-s4-review-a-loving-parody-develops-its-own-legends/",
+    "author": "Dylan Roth",
+    "image": "https://observer.com/wp-content/uploads/sites/2/2023/08/LD_401_0023_f.jpeg?quality=80&strip",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-31 21:49:48 +0000",
+    "short_uuid": "fae9c25"
+  },
+  {
+    "id": "0077aa5b-f3dc-4a00-8c4e-15dd770d6a8a",
+    "title": "FEMA is down to its last $3.4 billion as Maui wildfires, Hurricane Idalia slam U.S.",
+    "description": "Biden called on Congress Thursday to pass $12 billion in additional funding for FEMA next month at the latest when hurricane season reaches its peak.",
+    "url": "https://www.cnbc.com/2023/08/31/fema-is-down-to-its-last-3point4-billion-as-maui-wildfires-storms-idalia-slam-us.html",
+    "author": "cnbc",
+    "image": "https://image.cnbcfm.com/api/v1/image/107125804-1664377288501-gettyimages-1428403850-kd_12456_7d59d925-a7b1-4bcc-9ef3-1177f82b7fb8.jpeg?v=1693517563&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-31 21:32:43 +0000",
+    "short_uuid": "fff4c992"
+  },
+  {
+    "id": "29116087-dcc3-4a9f-972b-43fe93809286",
+    "title": "George Clooney plays leading man to wife Amal in Venice as she receives major honor",
+    "description": "George and Amal Clooney are enjoying some couple time in Venice, Italy. The couple was spotted boarding a gondola in one of the city's famous canals heading to dinner Wednesday night. Amal wore a stunning green dress, standing out in the crowd as she was helped into the boat by her chivalrous husban...",
+    "url": "https://www.foxnews.com/entertainment/george-clooney-plays-leading-man-to-wife-amal-venice-she-receives-major-honor",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/GeorgeClooneyAmalClooney_Thumb.jpg",
+    "language": "en",
+    "category": [
+      "entertainment"
+    ],
+    "published": "2023-08-31 21:31:40 +0000",
+    "short_uuid": "e12afb87"
+  },
+  {
+    "id": "3ae90b4d-d48a-42d7-914b-e27863955fae",
+    "title": "Myriam Gurba Skins The Myths Of California In Her New Collection \u2018Creep\u2019",
+    "description": "My favorite bar in Los Angeles sits beneath the Santa Monica pier. But during my first ten years in L.A. I never once set foot on Santa Monica's wide sandy beaches. \"The pier is for tourists,\" I'd say. Now it's the tourists who keep me coming here. At a wobbly picnic table at Big Deans, I sip a beer...",
+    "url": "https://observer.com/2023/08/myriam-gurba-skins-the-myths-of-california-in-her-new-collection-creep/",
+    "author": "Elizabeth Hall",
+    "image": "https://observer.com/wp-content/uploads/sites/2/2023/08/A46B6B00-07B9-4BAF-8959-09742F9B4294-e1693411756382.jpeg?quality=80&strip",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-31 21:15:38 +0000",
+    "short_uuid": "9ccb2d14"
+  },
+  {
+    "id": "88ec45a6-36a3-4089-b3c3-e54e4208c3c5",
+    "title": "Texas will soon allow unlicensed chaplains to act as school counselors",
+    "description": "Citing a shortage of school counselors, Texas passed a law allowing chaplains to be school counselors. Some say it's the government's responsibility, not churches', to provide mental health services....",
+    "url": "https://www.npr.org/2023/08/31/1197084278/texas-will-soon-allow-unlicensed-chaplains-to-act-as-school-counselors",
+    "author": "Bill Zeeble",
+    "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+    "language": "en",
+    "category": [
+      "education",
+      "lifestyle"
+    ],
+    "published": "2023-08-31 21:12:11 +0000",
+    "short_uuid": "27bf8bf8"
+  },
+  {
+    "id": "67634a07-307e-4a62-9012-4db3f2899f23",
+    "title": "Biden says he will visit Florida this weekend to survey Idalia damage: 'Our nation has your back'",
+    "description": "Idalia made landfall Wednesday morning as a Category 3 storm but has since weakened to a tropical storm.",
+    "url": "https://www.cnbc.com/2023/08/31/biden-says-he-will-visit-florida-this-weekend-to-survey-idalia-damage.html",
+    "author": "cnbc",
+    "image": "https://image.cnbcfm.com/api/v1/image/107294100-1693425010787-gettyimages-1634650858-AFP_33U23ZG.jpeg?v=1693516167&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-31 21:10:00 +0000",
+    "short_uuid": "11812947"
+  },
+  {
+    "id": "2e04f84f-fa41-45a8-b3a2-c41b776242bb",
+    "title": "Hollywood studios should cut Netflix out of strike negotiations, Barry Diller says",
+    "description": "Media mogul Barry Diller called on Hollywood studios to make deals and end the writers and actors' strikes.",
+    "url": "https://www.cnbc.com/2023/08/31/barry-diller-hollywood-strikes-netflix.html",
+    "author": "cnbc",
+    "image": "https://image.cnbcfm.com/api/v1/image/104010179-IMG_2114.JPG?v=1693515826&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "business"
+    ],
+    "published": "2023-08-31 21:03:46 +0000",
+    "short_uuid": "d274ee02"
+  },
+  {
+    "id": "6a25ae40-e0eb-4d79-bf29-733b00dd75aa",
+    "title": "What to Watch on Streaming This Week: September 1-7",
+    "description": "Kick-ass action and comedy meets a couple of awards season favorites this week on streaming. Also, Max has made a pop-up deal with AMC+, meaning that some exclusive series will be available on the platform for a limited time\u2014several of those will be highlighted in the coming weeks.\nWhat to watch on ...",
+    "url": "https://observer.com/2023/08/what-to-watch-on-streaming-this-week-september-1-7/",
+    "author": "Laura Babiak",
+    "image": "https://observer.com/wp-content/uploads/sites/2/2023/08/WOFT_S2_UT_211019_THIJAN_00562_1_3000.jpg?quality=80&strip",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-31 21:00:42 +0000",
+    "short_uuid": "21f3691e"
+  },
+  {
+    "id": "6ea763f8-6099-4d02-9ab8-38e88d4a83bf",
+    "title": "Fact check: Do lower drug prices make it harder for companies to find new treatments?",
+    "description": "The pharmaceutical industry has long said that any attempts to control drug prices would mean disaster for their research and development efforts. But the research doesn't back that up....",
+    "url": "https://www.npr.org/2023/08/31/1197084264/fact-check-do-lower-drug-prices-make-it-harder-for-companies-to-find-new-treatme",
+    "author": "Sydney Lupkin",
+    "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+    "language": "en",
+    "category": [
+      "health",
+      "lifestyle"
+    ],
+    "published": "2023-08-31 20:58:04 +0000",
+    "short_uuid": "d838f84d"
+  },
+  {
+    "id": "38fbce7b-232e-4e3e-85cf-9ad43b8d139e",
+    "title": "Be well: 5 tips for managing postpartum issues from a New York-based family physician",
+    "description": "This story discusses suicide. If you or someone you know is having thoughts of suicide, please contact the Suicide & Crisis Lifeline at 988 or 1-800-273-TALK (8255). Giving birth is one of the most transformative experiences a woman can have \u2014 but the postpartum period isn't always so easy to naviga...",
+    "url": "https://www.foxnews.com/health/be-well-5-tips-managing-postpartum-issues-new-york-family-physician",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/be-well-postpartum.jpg",
+    "language": "en",
+    "category": [
+      "health",
+      "lifestyle"
+    ],
+    "published": "2023-08-31 20:57:34 +0000",
+    "short_uuid": "af277361"
+  },
+  {
+    "id": "59bdec28-8fb0-446a-8625-2bf236b5a26f",
+    "title": "Politicians now tend to be older than they've been historically. It's causing issues",
+    "description": "The average age in Congress dropped slightly this year, but is still one of the oldest in modern history. Democrats and Republicans have both been forced to confront limitations in aging politicians....",
+    "url": "https://www.npr.org/2023/08/31/1197084257/politicians-now-tend-to-be-older-than-theyve-been-historically-its-causing-issue",
+    "author": "Kelsey Snell",
+    "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+    "language": "en",
+    "category": [
+      "health",
+      "lifestyle"
+    ],
+    "published": "2023-08-31 20:51:27 +0000",
+    "short_uuid": "81e03272"
+  },
+  {
+    "id": "372fc2ec-1b5d-42de-8c85-b1db65270779",
+    "title": "Salesforce CEO Marc Benioff Calls San Francisco \u2018A.I. Central\u2019 Despite Dreamforce Worries",
+    "description": "Salesforce CEO Marc Benioff still has faith in San Francisco's ability to be a global center for innovation, despite the city's rampant homelessness and drug use problems threatening his company's annual tech conference. During an earnings call with analysts yesterday (Aug. 30), Benioff said San Fra...",
+    "url": "https://observer.com/2023/08/marc-benioff-san-francisco-ai-center-salesforce/",
+    "author": "Sissi Cao",
+    "image": "https://observer.com/wp-content/uploads/sites/2/2023/08/GettyImages-1541081278-e1693512098678.jpg?quality=80&strip",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-31 20:46:50 +0000",
+    "short_uuid": "c8fe9866"
+  },
+  {
+    "id": "be1ab805-95d1-4d2d-9197-49b28c923214",
+    "title": "States look to see if 14th Amendment can be used to disqualify Trump \u2014 but it has risks",
+    "description": "State election officials are raising questions about whether the 14th Amendment can be used to stop former President Trump's 2024 bid. Why it matters: \u2026",
+    "url": "https://www.axios.com/2023/08/31/14th-amendment-trump",
+    "author": "Sareen Habeshian",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-31 20:43:24 +0000",
+    "short_uuid": "693a893f"
+  },
+  {
+    "id": "b158c9cd-efc1-4b31-b840-979c3c0f878f",
+    "title": "Healey activates Massachusetts National Guard to help with migrant crisis",
+    "description": "The move comes after the governor declared a state of emergency several weeks ago because of the strain on the shelter system.",
+    "url": "https://www.boston.com/news/local-news/2023/08/31/healey-activates-massachusetts-national-guard-to-help-with-migrant-crisis/",
+    "author": "Associated Press",
+    "image": "https://www.boston.com/wp-content/uploads/2023/08/Massachusetts_Migrants_National_Guard_09417-64f0e7ad00b76-scaled.jpg",
+    "language": "en",
+    "category": [
+      "politics",
+      "world"
+    ],
+    "published": "2023-08-31 20:27:02 +0000",
+    "short_uuid": "25912d6e"
+  },
+  {
+    "id": "92f830d4-2e14-482d-8a56-c7e7dd0a0cd3",
+    "title": "Whatever happened to the case of 66 child deaths linked to cough syrup from India?",
+    "description": "Since the deaths in The Gambia, there have been additional charges that medicines made in India were contaminated and led to sickness. What has happened to the companies involved?(Image credit: Milan Berckmans/AFP via Getty Images)...",
+    "url": "https://www.npr.org/sections/goatsandsoda/2023/08/31/1196893607/whatever-happened-to-the-case-of-66-child-deaths-linked-to-cough-syrup-from-indi",
+    "author": "Kamala Thiagarajan",
+    "image": "https://media.npr.org/assets/img/2023/08/30/gettyimages-1243885843-3_wide-1f8f1eebab80a45b00d0254f6dcdb4c90f6ed118-s1400-c100.jpg",
+    "language": "en",
+    "category": [
+      "health",
+      "lifestyle"
+    ],
+    "published": "2023-08-31 20:13:04 +0000",
+    "short_uuid": "cf0b7bbd"
+  },
+  {
+    "id": "a6ba3bd4-7b8c-4d3a-875f-d45aa23a048a",
+    "title": "Column: Trump's Chief of Staff Mark Meadows seems to think he can avoid prosecution. Here's how",
+    "description": "His bid to remove the Georgia case to federal court appears to be part of a strategy to secure immunity and make Fulton County Dist. Atty. Fani Willis' case go away.",
+    "url": "https://www.latimes.com/opinion/story/2023-08-31/trump-chief-of-staff-mark-meadows-testimony-removal-immunity-harry-litman",
+    "author": "Harry Litman",
+    "image": "https://ca-times.brightspotcdn.com/dims4/default/9848be7/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F29%2F43%2F5c0db16445ccbbf5ee43955710ef%2Fbiden-chiefs-of-staff-90705.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-31 20:05:51 +0000",
+    "short_uuid": "9597cd81"
   }
 ]
