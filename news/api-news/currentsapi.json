@@ -38396,5 +38396,427 @@
     ],
     "published": "2023-08-31 20:05:51 +0000",
     "short_uuid": "9597cd81"
+  },
+  {
+    "id": "1ba99cad-039d-4a2c-ab99-706a0882f71a",
+    "title": "What Happens if Mitch McConnell Retires Before His Senate Term Ends?",
+    "description": "For the second time in a little over a month, Senator Mitch McConnell of Kentucky, the longtime Republican leader, froze up during a news conference on Wednesday, elevating concerns about his health a...",
+    "url": "https://www.nytimes.com/2023/08/31/us/politics/mcconnell-freeze-resign-senate.html",
+    "author": "Neil Vigdor",
+    "image": "https://static01.nyt.com/images/2023/08/31/multimedia/POL-KENTUCKY-GOP-bgzc/POL-KENTUCKY-GOP-bgzc-facebookJumbo.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-01 01:15:13 +0000",
+    "short_uuid": "d40eb92b"
+  },
+  {
+    "id": "7689febd-f49d-42d9-9813-b071b54f1d27",
+    "title": "Where Is the GOP on Health Care? | National Review",
+    "description": "",
+    "url": "https://www.nationalreview.com/corner/where-is-the-gop-on-health-care/",
+    "author": "Michael Brendan Dougherty",
+    "image": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/10/doctor-patient-stethoscope.jpg?resize=300%2C300&ssl=1",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-01 01:13:37 +0000",
+    "short_uuid": "82e352e7"
+  },
+  {
+    "id": "aa28f64f-e6a7-4c98-b96d-e67ffb33a8ec",
+    "title": "With one last fifth-set tiebreak, John Isner says goodbye to tennis",
+    "description": "Listen 6 min Share Comment on this story Comment\n\nNEW YORK \u2014 With a fresh change of shorts and his green Fila T-shirt swapped out for cream, John Isner took a deep breath. He had white tape wrapped ar...",
+    "url": "https://www.washingtonpost.com/sports/2023/08/31/john-isner-us-open-farewell/",
+    "author": "Ava Wallace",
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IDNIDXWPANBGZAOZDBBUPEKCYM.jpg&w=1440",
+    "language": "en",
+    "category": [
+      "sports"
+    ],
+    "published": "2023-09-01 01:05:00 +0000",
+    "short_uuid": "4b737a25"
+  },
+  {
+    "id": "10bc59cc-c9db-4458-8899-1b8588a4c7a9",
+    "title": "Army, Marine units involved in Afghanistan withdrawal to receive Presidential Unit Citation two years later | CNN Politics",
+    "description": "CNN \u2014\n\nUS service members deployed on the Afghanistan withdrawal mission will receive the Presidential Unit Citation, Defense Secretary Lloyd Austin announced Thursday, the two-year anniversary of the...",
+    "url": "https://www.cnn.com/2023/08/31/politics/us-military-afghanistan-presidential-unit-citations/index.html",
+    "author": "Haley Britzky",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/221226150706-01-afghanistan-withdrawal-plane-082121.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-01 00:57:12 +0000",
+    "short_uuid": "c889829f"
+  },
+  {
+    "id": "1fb262d6-4947-4d11-9d7f-87776eeeb484",
+    "title": "House GOP asks White House if administration's remote work policy led to 'reduced productivity' by federal employees | CNN Politics",
+    "description": "CNN \u2014\n\nRepublicans on the House Oversight Committee are demanding that the White House explain what motivated a recent push for federal employees to work more in-person.\n\nIn a letter sent Thursday and...",
+    "url": "https://www.cnn.com/2023/08/31/politics/house-oversight-committee-telework/index.html",
+    "author": "Pamela Brown Curt Devine Allison Gordon",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/210325181645-washington-dc.jpg?q=x_4,y_128,h_2259,w_4015,c_crop/w_800",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-01 00:57:12 +0000",
+    "short_uuid": "8ec352ae"
+  },
+  {
+    "id": "0a9ee8c9-3286-4acf-ac70-479af0128a43",
+    "title": "Fact check: Ramaswamy makes two false claims about what he wrote in his own book | CNN Politics",
+    "description": "Washington CNN \u2014\n\nOver a span of four days, Republican presidential candidate Vivek Ramaswamy made two different false claims about what he wrote in his own 2022 book.\n\nAt the first Republican preside...",
+    "url": "https://www.cnn.com/2023/08/31/politics/fact-check-vivek-ramaswamy-book-trump-2020-election/index.html",
+    "author": "Daniel Dale",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230827135829-vivek-ramaswamy-iowa-082523.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-01 00:57:12 +0000",
+    "short_uuid": "ad43658a"
+  },
+  {
+    "id": "558e81d6-ce2f-4460-b330-494350c01deb",
+    "title": "Fulton County judge gives green light for Trump Georgia 2020 election case to be televised | CNN Politics",
+    "description": "CNN \u2014\n\nThe Fulton County, Georgia, judge overseeing the sprawling 2020 election interference racketeering case against former President Donald Trump and 18 co-defendants says that all proceedings in h...",
+    "url": "https://www.cnn.com/2023/08/31/politics/fulton-county-trump-trial-tv-cameras/index.html",
+    "author": "Jason Morris",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230728105508-fulton-county-courthouse-072823-screengrab.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-01 00:57:12 +0000",
+    "short_uuid": "fc91e9e4"
+  },
+  {
+    "id": "2adbef76-d67b-4991-b53b-777d2e890458",
+    "title": "Biden administration proposes rule aimed at curbing the 'gun show loophole' | CNN Politics",
+    "description": "Washington CNN \u2014\n\nThe Biden administration on Thursday proposed a rule intended to require people selling firearms at gun shows and on the internet to conduct background checks on potential buyers, in...",
+    "url": "https://www.cnn.com/2023/08/31/politics/gun-show-loophole-rules-atf-biden-administration/index.html",
+    "author": "Devan Cole",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230831163835-01-gun-show-michigan-2018.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-01 00:57:12 +0000",
+    "short_uuid": "40f15a68"
+  },
+  {
+    "id": "b3047de5-cdcd-4768-af88-a869497967d6",
+    "title": "DeSantis-aligned super PAC asked for $50 million from donors on day of first GOP primary debate, leaked audio shows | CNN Politics",
+    "description": "CNN \u2014\n\nIn an urgent appeal to wealthy Republicans who had assembled in Milwaukee ahead of the first GOP presidential primary debate, top brass for the super PAC backing Florida Gov. Ron DeSantis told ...",
+    "url": "https://www.cnn.com/2023/08/31/politics/desantis-super-pac-audio/index.html",
+    "author": "Alayna Treene Steve Contorno",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230831155318-04-ron-desantis-080623.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-01 00:57:12 +0000",
+    "short_uuid": "eb587436"
+  },
+  {
+    "id": "1915d463-b1b8-463c-87a9-9ab3f79048c1",
+    "title": "Texas man pleads guilty to threatening Georgia officials after 2020 election | CNN Politics",
+    "description": "CNN \u2014\n\nA Texas man pleaded guilty on Thursday to making threats against public officials in Georgia following the 2020 election, the Department of Justice said in a news release.\n\nChad Christopher Sta...",
+    "url": "https://www.cnn.com/2023/08/31/politics/guilty-plea-election-officials-threat/index.html",
+    "author": "Piper Hudspeth Blackburn",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230831183348-chad-stark-ga-election-file-2022.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-01 00:57:12 +0000",
+    "short_uuid": "fd437c41"
+  },
+  {
+    "id": "e02f15b0-b66c-4673-afb4-b7f6836d548f",
+    "title": "Super Bowl champ Mark Schlereth rips Cowboys owner Jerry Jones over Trey Lance trade: 'That's the Cowboys'",
+    "description": "Legendary Denver Broncos offensive lineman Mark Schlereth took issue with longtime Dallas Cowboys owner and general manager Jerry Jones' decision to trade for quarterback Trey Lance. Schlereth, who won two Super Bowls with the Broncos, unleashed on Jones for not consulting with the team's starting q...",
+    "url": "https://www.foxnews.com/sports/super-bowl-champ-mark-schlereth-rips-cowboys-owner-jerry-jones-over-trey-lance-trade-thats-the-cowboys",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2022/12/Mark-Schlereth.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-09-01 00:52:29 +0000",
+    "short_uuid": "377e2660"
+  },
+  {
+    "id": "ef4b2324-fa2a-4f09-bb31-f303067f0758",
+    "title": "Daily aspirin after a heart attack can reduce the risk of future events, study finds",
+    "description": "For people who have previously had a heart attack, taking a daily aspirin could reduce their risk of a repeat cardiac event or stroke, according to a recent Danish study. The findings were presented at the ESC Congress 2023 in Amsterdam this week. \"Our findings support current clinical guidelines on...",
+    "url": "https://www.foxnews.com/health/daily-aspirin-heart-attack-can-reduce-risk-future-events-study-finds",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/woman-taking-aspirin.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-09-01 00:46:51 +0000",
+    "short_uuid": "c464991"
+  },
+  {
+    "id": "19730575-5a66-4812-ada5-38d9787c7269",
+    "title": "D.C. United goalkeeper Tyler Miller out 4-6 weeks because of rib injury",
+    "description": "Listen 2 min Share Comment on this story Comment\n\nD.C. United goalkeeper Tyler Miller will miss four to six weeks because of a rib injury, thrusting Alex Bono into the starting role for a critical str...",
+    "url": "https://www.washingtonpost.com/sports/2023/08/31/tyler-miller-united-injury/",
+    "author": "Steven Goff",
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7G5FUZSGHNG5TKAK4NWDOL2NMA.jpg&w=1440",
+    "language": "en",
+    "category": [
+      "sports"
+    ],
+    "published": "2023-09-01 00:45:00 +0000",
+    "short_uuid": "8c403603"
+  },
+  {
+    "id": "6227e2f1-7528-4f0e-aa45-942f8dc62aa0",
+    "title": "McConnell Releases Letter Declaring Him \u2018Medically Clear\u2019 to Work After Episode",
+    "description": "Another possible explanation was ministrokes, formally known as transient ischemic attacks, resulting from a clot that reduces blood flow to the brain, though some experts said those attacks were less...",
+    "url": "https://www.nytimes.com/2023/08/31/us/politics/mcconnell-letter-medically-clear.html",
+    "author": "Annie Karni",
+    "image": "https://static01.nyt.com/images/2023/08/31/multimedia/31dc-mcconnell-whqv/31dc-mcconnell-whqv-facebookJumbo.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-01 00:42:31 +0000",
+    "short_uuid": "9fca0feb"
+  },
+  {
+    "id": "4d054acc-b26c-461a-a478-e3e7859c809f",
+    "title": "Massachusetts boy, 2, dies in horrific accident at auto repair shop",
+    "description": "A 2-year-old boy in Massachusetts died Thursday after he was crushed by a piece of construction equipment at an auto repair shop.\u00a0 The \"horrible tragedy\" happened around 12:40 p.m. at Hajj Auto Service in Cohasset, Massachusetts, Cohasset Chief of Police William Quigley told reporters.\u00a0 The boy's gr...",
+    "url": "https://www.foxnews.com/us/massachusetts-boy-2-dies-horrific-accident-auto-repair-shop",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/F44pCD4XAAArIh8.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-09-01 00:42:06 +0000",
+    "short_uuid": "663d1710"
+  },
+  {
+    "id": "40fe575d-fd71-4990-bf3b-aad96a8bdbd2",
+    "title": "'He Never Reads the Room': Biden Opens Remarks on Hurricane Idalia with a Joke from His Mother",
+    "description": "President Joe Biden is yet again responding to a natural disaster with misplaced jokes.\nThis time, the natural disaster in question is Hurricane Idalia, which just battered Florida and is continuing into Georgia and the Carolinas, leaving a trail of destruction in its wake.\nOn Thursday, Biden showed...",
+    "url": "https://www.westernjournal.com/never-reads-room-biden-opens-remarks-hurricane-idalia-joke-mother/",
+    "author": "Peter Partoll",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-01 00:36:05 +0000",
+    "short_uuid": "9d0e8a22"
+  },
+  {
+    "id": "83038de2-3fc4-44bd-a1ff-0797ad87e7cd",
+    "title": "MSNBC host ponders why 'frequent death and destruction' not pushing people to address climate change",
+    "description": "MSNBC host Chris Jansing wondered on Thursday if there needs to be more than \"frequent death and destruction\" caused by climate-related natural disasters for the public to take the issue more seriously. Jansing spoke to University of Pennsylvania Earth and Environmental Sciences professor Dr. Michae...",
+    "url": "https://www.foxnews.com/media/msnbc-host-ponders-why-frequent-death-destruction-not-pushing-people-address-climate-change",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/Jansing.png",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-09-01 00:30:23 +0000",
+    "short_uuid": "fb39a96d"
+  },
+  {
+    "id": "6889fead-6418-4c49-85bc-3acb4c1356f7",
+    "title": "2 dead, others hurt in shooting at Austin business",
+    "description": "Two people were killed and another person was wounded Thursday in a shooting at a business in Austin, Texas, officials said.\n\nThe injured person had what Austin-Travis County EMS described as critical...",
+    "url": "https://www.nbcnews.com/news/us-news/2-dead-others-hurt-shooting-austin-business-rcna102908",
+    "author": "Https",
+    "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-09/230831-texas-shooting-arboretum-se-801p-b2c338.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-01 00:25:47 +0000",
+    "short_uuid": "3c957a44"
+  },
+  {
+    "id": "4b9a9be4-9319-4f51-a3bc-c7650b29ea45",
+    "title": "Texas shopping center shooting leaves at least 2 dead, multiple injured",
+    "description": "Two people were killed and at least three others were injured after a shooting at a Texas shopping center.\u00a0 The Austin Police Department said officers responded to the Arboretum Shopping Center shortly after 5 p.m. after shots were fired. \"APD resources are working to stabilize the scene,\" an APD so...",
+    "url": "https://www.foxnews.com/us/texas-shopping-center-shooting-leaves-least-2-dead-multiple-injured",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/screenshot__23_.png",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-09-01 00:24:01 +0000",
+    "short_uuid": "fd8681d8"
+  },
+  {
+    "id": "a1cdffc9-4348-40e6-a200-5e46ce9393c2",
+    "title": "Ted Cruz Cracks Open a Cold One on Live TV, Tells Biden Admin to 'Kiss My A**'",
+    "description": "Like many Americans, Texas Republican Sen. Ted Cruz has had just about enough of the authoritarian Joe Biden administration telling us how to lead our lives, and he hilarious cracked open a cold one to give Biden and his nanny state a \"salute\" on live TV.\nCruz appeared on Newsmax with host Eric Boll...",
+    "url": "https://www.westernjournal.com/ted-cruz-cracks-open-cold-one-live-tv-tells-biden-admin-kiss/",
+    "author": "Warner Todd Huston",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-01 00:13:53 +0000",
+    "short_uuid": "3f12335f"
+  },
+  {
+    "id": "48aab040-5fc3-4485-88f3-6016075de171",
+    "title": "Keith Olbermann calls Riley Gaines 'stupid' and 'unsuccessful'; ex-swimmer responds by showing off accolades",
+    "description": "Former MSNBC and ESPN host Keith Olbermann got into a war of words with Riley Gaines Thursday, saying the two-time All-SEC first-teamer \"sucked at swimming.\" Cooler heads prevailed, but Olbermann took one last jab at the former college swimmer when the New York Post shared the story of their social ...",
+    "url": "https://www.foxnews.com/sports/keith-olbermann-calls-riley-gaines-stupid-unsuccessful-ex-swimmer-responds-showing-off-accolades",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2022/06/olbermann.jpg",
+    "language": "en",
+    "category": [
+      "sports"
+    ],
+    "published": "2023-09-01 00:09:57 +0000",
+    "short_uuid": "9b5183de"
+  },
+  {
+    "id": "ff4c3770-cd93-45d2-98a8-e2eeb935762a",
+    "title": "Genetic study of virulent Lyme disease bacteria offers clues to long-lasting symptoms",
+    "description": "By mapping the genetic code of particularly virulent strains of Lyme disease bacteria, scientists may have gotten a step closer to figuring out why symptoms persist for months, or even years, in some ...",
+    "url": "https://www.nbcnews.com/health/health-news/lyme-symptoms-lyme-disease-study-offers-clue-severity-spread-rcna102757",
+    "author": "Linda Carroll",
+    "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-08/230831-deer-tick-jm-1133-6975d5.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-01 00:08:56 +0000",
+    "short_uuid": "fab96bc"
+  },
+  {
+    "id": "cbda1d1c-3b26-404f-ae30-dafd19bd4672",
+    "title": "Massachusetts Gov. Maura Healey activates National Guard to assist in emergency shelters housing migrants",
+    "description": "Massachusetts Gov. Maura Healey has activated 250 members of the National Guard to provide basic services at emergency shelter hotels amid an influx of migrants that has service providers stretched thin.\u00a0 Healey's administration will also launch a Regional Rapid Response Teams to assist with oversee...",
+    "url": "https://www.foxnews.com/politics/massachusetts-gov-maura-healey-activates-national-guard-assist-emergency-shelters-housing-migrants",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/03/AP23081676047127.jpg",
+    "language": "en",
+    "category": [
+      "politics",
+      "world"
+    ],
+    "published": "2023-09-01 00:08:24 +0000",
+    "short_uuid": "4220159c"
+  },
+  {
+    "id": "00902064-feb9-43b6-bb05-c4edf59c64d2",
+    "title": "White House asks Congress for short-term funding to avoid government shutdown",
+    "description": "The U.S. Capitol Building is seen in Washington, D.C., Aug. 16, 2023.\n\nWASHINGTON \u2014 The White House on Thursday asked Congress to pass a short-term measure to fund the federal government and avoid a s...",
+    "url": "https://www.cnbc.com/2023/08/31/white-house-asks-congress-for-short-term-funding-to-avoid-shutdown.html",
+    "author": "Emma Kinery",
+    "image": "https://image.cnbcfm.com/api/v1/image/107288006-16922738702023-08-17t060252z_1559381634_rc2ep2aci97o_rtrmadp_0_usa-dailylife.jpeg?v=1693526674&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-01 00:04:48 +0000",
+    "short_uuid": "7f5f57a1"
+  },
+  {
+    "id": "2b36829c-50cb-43da-87e9-7e6b76f27b7b",
+    "title": "Florida woman in hospital gown arrested after allegedly stealing ambulance",
+    "description": "A woman in Florida was arrested on Wednesday afternoon after allegedly stealing an ambulance from a local hospital. The Port St. Lucie Police Department said in a Facebook post that 25-year-old Marquisa Allen stole an unoccupied ambulance from the HCA Florida St. Lucie Hospital in Port St. Lucie, Fl...",
+    "url": "https://www.foxnews.com/us/florida-woman-hospital-gown-arrested-allegedly-stealing-ambulance",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/Untitled-design-1009.png",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-09-01 00:03:19 +0000",
+    "short_uuid": "252cac00"
+  },
+  {
+    "id": "93aa2718-b3a7-4937-badd-ffc2ce09b105",
+    "title": "Capitol Physician Issues Statement After Evaluation of McConnell's Freezing Incident",
+    "description": "The physician tasked with attending to members of Congress has cleared Senate Minority Leader Mitch McConnell after another incident in which McConnell froze in the middle of a news conference.\nDr. Brian P. Monahan cleared McConnell to work as usual on Thursday, according to ABC News.\nMonahan consul...",
+    "url": "https://www.westernjournal.com/capitol-physician-issues-statement-evaluation-mcconnells-freezing-incident/",
+    "author": "Richard Moorhead",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-01 00:00:53 +0000",
+    "short_uuid": "5083fea4"
+  },
+  {
+    "id": "6e6167dd-4a10-4e4a-95da-eb785ddbf1db",
+    "title": "Disney reportedly hires 'unflinchingly loyal' former Biden advisor to handle 'issues-oriented messaging'",
+    "description": "The Walt Disney Company has reportedly tapped former Biden advisor Remi Yamamoto to handle \"issues-oriented messaging\" for their television division. Variety reported on Thursday that Biden's former national press secretary will be the vice president of media relations for Disney's television divisi...",
+    "url": "https://www.foxnews.com/media/disney-reportedly-hires-unflinchingly-loyal-former-biden-advisor-handle-issues-oriented-messaging",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/Biden-Mickey.png",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-09-01 00:00:04 +0000",
+    "short_uuid": "fc8f800e"
+  },
+  {
+    "id": "4db1fdc6-309c-4450-8992-3160b4611662",
+    "title": "McConnell and Biden | National Review",
+    "description": "",
+    "url": "https://www.nationalreview.com/corner/mcconnell-and-biden/",
+    "author": "Michael Brendan Dougherty",
+    "image": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/09/mitch-mcconnell-senate-republicans.jpg?fit=1200%2C700&ssl=1",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-08-31 23:59:28 +0000",
+    "short_uuid": "df39a97"
+  },
+  {
+    "id": "94d7d09a-bcf8-4a8d-9812-0ba272993a2c",
+    "title": "Biden admin's proposed rule to combat gun violence would require firearms dealers to conduct background checks",
+    "description": "A proposed rule from the Biden administration aimed at combating rising gun violence across the U.S. could require thousands more firearms dealers to run background checks if approved. Last year, Biden signed the most significant gun control bill in nearly 30 years, which incentivized states to pass...",
+    "url": "https://www.foxnews.com/politics/biden-admins-proposed-rule-combat-gun-violence-require-firearms-dealers-conduct-background-checks",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/11/AR-15-RIFLES-FOR-SALE.jpg",
+    "language": "en",
+    "category": [
+      "politics",
+      "world"
+    ],
+    "published": "2023-08-31 23:56:47 +0000",
+    "short_uuid": "f3f7a39e"
+  },
+  {
+    "id": "6282e042-bc30-46cb-931b-93b59d8c2037",
+    "title": "UAW president says union has filed unfair labor practice charges against GM, Stellantis over contract talks",
+    "description": "DETROIT \u2014 United Auto Workers has filed unfair labor practice charges against automakers General Motors and Stellantis to the National Labor Relations Board for not bargaining with the union in good f...",
+    "url": "https://www.cnbc.com/2023/08/31/uaw-files-nlrb-complaints-against-gm-stellantis-over-contract-talks.html",
+    "author": "Michael Wayland",
+    "image": "https://image.cnbcfm.com/api/v1/image/107289121-1692569963993-IMG_7638.JPG?v=1693526132&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "auto"
+    ],
+    "published": "2023-08-31 23:55:49 +0000",
+    "short_uuid": "b850cd58"
   }
 ]
