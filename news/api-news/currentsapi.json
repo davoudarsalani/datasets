@@ -39991,5 +39991,33 @@
     ],
     "published": "2023-09-01 12:38:34 +0000",
     "short_uuid": "eb6c26"
+  },
+  {
+    "id": "647aa274-63ad-4976-a307-2bec55ff9d16",
+    "title": "Unemployment rate unexpectedly rose to 3.8% in August as payrolls increased by 187,000",
+    "description": "watch now\n\nThe unemployment rate rose sharply in August, as the summer of 2023 neared a close with a job market in slowdown mode. Nonfarm payrolls grew by a seasonally adjusted 187,000 for the month, ...",
+    "url": "https://www.cnbc.com/2023/09/01/jobs-report-august-2023.html",
+    "author": "Jeff Cox",
+    "image": "https://image.cnbcfm.com/api/v1/image/107287814-1692225823720-gettyimages-1435419029-newyorkcityunemploymentratefellapointthepastmonth001.jpeg?v=1693571520&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "national"
+    ],
+    "published": "2023-09-01 12:55:27 +0000",
+    "short_uuid": "b972663d"
+  },
+  {
+    "id": "3821c5f6-2a96-4eed-b361-c5b00d00afb2",
+    "title": "Proud Boys leader, Capitol window smasher set to be sentenced",
+    "description": "Dominic Pezzola, a member of the far-right group the Proud Boys, punches through a window on the western front of the U.S. Capitol on Jan. 6, 2021. (Video: Brendan Gutenschwager via Storyful)\n\nListen ...",
+    "url": "https://www.washingtonpost.com/dc-md-va/2023/09/01/proud-boys-pezzola-nordean-sentencing-jan6/",
+    "author": "Tom Jackman",
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/01-09-2023/t_67d155eb33314185a04aad354856b89f_name_2___1920x1080___24p_00_01_11_00_Still005.jpg&w=1440",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-01 12:15:11 +0000",
+    "short_uuid": "2b444edb"
   }
 ]
