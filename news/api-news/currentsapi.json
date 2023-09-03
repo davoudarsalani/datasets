@@ -44234,5 +44234,19 @@
     ],
     "published": "2023-09-03 11:24:45 +0000",
     "short_uuid": "550b20a4"
+  },
+  {
+    "id": "b0754bd9-8a92-4af2-a5f6-389ff94e050b",
+    "title": "Fire consumes oil depot in St. Petersburg | CNN",
+    "description": "CNN \u2014\n\nA fire burning at an oil depot in St. Petersburg has been extinguished, the Russian Emergency Ministry said on Telegram, after dozens of firefighters were called to the scene.\n\nVideos from the ...",
+    "url": "https://www.cnn.com/2023/09/03/europe/st-petersburg-fire-intl/index.html",
+    "author": "Darya Tarasova Alex Stambaugh",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230903052710-01-st-petersburg-fire-0903-screengrab.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-09-03 13:08:33 +0000",
+    "short_uuid": "b3df337e"
   }
 ]
