@@ -47272,5 +47272,431 @@
     ],
     "published": "2023-09-05 01:28:22 +0000",
     "short_uuid": "e93ba0f1"
+  },
+  {
+    "id": "35db1b6c-b791-4e63-a4dd-a9b29c8a597f",
+    "title": "Analysis | Why a \u2018perfect storm\u2019 of misinformation may loom in 2024",
+    "description": "Share Comment on this story Comment\n\nWelcome back to The Technology 202! We hope you enjoyed the long holiday weekend. We have an update we\u2019re excited to share with you today: The Technology 202 is sh...",
+    "url": "https://www.washingtonpost.com/politics/2023/09/05/why-perfect-storm-misinformation-may-loom-2024/",
+    "author": "Cristiano Lima",
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WLCRWOHRXAI6ZLAWR67XDFGNPA.jpg&w=1440",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-05 13:09:33 +0000",
+    "short_uuid": "28a826fb"
+  },
+  {
+    "id": "21ad0c24-2ba6-4a12-b02c-7e558ab1b628",
+    "title": "Biden facing revolt from blue state Democrats over immigration crisis",
+    "description": "Tensions are rising between President Biden and blue state Democrats trying to stem the tide of migrants flowing from Republican border states. New York City Mayor Eric Adams has criticized the Biden administration in no uncertain terms, and New York Gov. Kathy Hochul has leaned on the president to ...",
+    "url": "https://www.foxnews.com/politics/biden-facing-revolt-blue-state-democrats-immigration-crisis",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/GettyImages-1251861132.jpg",
+    "language": "en",
+    "category": [
+      "politics",
+      "world"
+    ],
+    "published": "2023-09-05 13:02:34 +0000",
+    "short_uuid": "2802d1e9"
+  },
+  {
+    "id": "d163c3a3-f4d1-42f9-803b-0f0880cdc070",
+    "title": "'I killed someone': Dad with meth problem allegedly used power tool to murder 16-year-old son",
+    "description": "A 37-year-old man with numerous arrests and a lengthy history of using methamphetamine is under arrest in Florida for the death of his 16-year-old son, whom he allegedly murdered with an angle grinder...",
+    "url": "https://lawandcrime.com/crime/you-probably-need-to-read-me-my-rights-evil-dad-with-meth-problem-allegedly-used-power-tool-to-murder-teen-son-in-mobile-home/",
+    "author": "Matt Naham Is The Senior A.M. Editor Of Law Crime.",
+    "image": "https://lawandcrime.com/wp-content/uploads/2023/09/Stephen-Rodda-Stephan-Rodda-1-1.jpg",
+    "language": "en",
+    "category": [
+      "legal",
+      "crime",
+      "politics"
+    ],
+    "published": "2023-09-05 13:01:06 +0000",
+    "short_uuid": "ed43f69a"
+  },
+  {
+    "id": "74bec0c6-fbaa-4445-916d-b4107df5e0a8",
+    "title": "Warner Bros Discovery expects earnings hit of up to $500 million as strikes drag on",
+    "description": "Warner Bros. Discovery is preparing investors for the effects of the writers' and actors' strikes if they continue through the end of this year.\n\nThe company, in a Tuesday securities filing, said it...",
+    "url": "https://www.cnbc.com/2023/09/05/warner-bros-discovery-expects-big-earnings-hit-amid-strikes.html",
+    "author": "Lillian Rizzo",
+    "image": "https://image.cnbcfm.com/api/v1/image/106963359-1634750610901-dune_2_Cropped.jpg?v=1693918656&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "business"
+    ],
+    "published": "2023-09-05 12:57:36 +0000",
+    "short_uuid": "a71a3fb7"
+  },
+  {
+    "id": "f7b1b3e4-a105-412a-8876-d24452c0cc2c",
+    "title": "Peter Navarro, second ex-Trump aide to be prosecuted for contempt of Congress, faces trial Tuesday | CNN Politics",
+    "description": "CNN \u2014\n\nFormer White House trade adviser Peter Navarro goes on trial Tuesday as the second ex-aide to former President Donald Trump to be prosecuted for criminal contempt of Congress.\n\nNavarro, like Tr...",
+    "url": "https://www.cnn.com/2023/09/05/politics/navarro-trump-contempt-of-congress-trial/index.html",
+    "author": "Tierney Sneed",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/220818101548-02-peter-navarro-file-081122.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-05 12:55:16 +0000",
+    "short_uuid": "57d6e79d"
+  },
+  {
+    "id": "9858e3b9-38bf-4506-af33-d33c0bc38e27",
+    "title": "Helicopter pilot to receive Medal of Honor for daring rescue during Vietnam War | CNN Politics",
+    "description": "CNN \u2014\n\nIt wasn\u2019t until after Army Capt. Larry Taylor had picked up four of his fellow soldiers during a raging firefight in Vietnam \u2013 the men clinging onto the outside of his helicopter, as there wasn...",
+    "url": "https://www.cnn.com/2023/09/05/politics/medal-of-honor-larry-taylor-vietnam/index.html",
+    "author": "Haley Britzky",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230904101758-01-army-medal-of-honor-larry-taylor-vietnam.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-05 12:55:16 +0000",
+    "short_uuid": "e455081f"
+  },
+  {
+    "id": "32048067-41de-426d-87f0-bca43ad45923",
+    "title": "Why even a popular bipartisan issue like firefighter pay may have trouble getting passed in Congress | CNN Politics",
+    "description": "Washington CNN \u2014\n\nSen. Kyrsten Sinema and Speaker Kevin McCarthy aren\u2019t typically aligned on many issues. But they were kindred spirits in a recent phone call on one key priority: boosting pay for wil...",
+    "url": "https://www.cnn.com/2023/09/05/politics/congress-wrestles-over-firefighter-pay/index.html",
+    "author": "Melanie Zanona Haley Talbot",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230904164205-congress-wrestles-over-firefighter-pay.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-05 12:55:16 +0000",
+    "short_uuid": "e36f606d"
+  },
+  {
+    "id": "056b0941-0796-4874-9128-9d7d598d6cb4",
+    "title": "CNN Exclusive: Special counsel election probe continues with focus on fundraising, voting equipment breaches | CNN Politics",
+    "description": "Washington CNN \u2014\n\nSpecial counsel Jack Smith is still pursuing his investigation into efforts to overturn the 2020 election a month after indicting Donald Trump for orchestrating a broad conspiracy to...",
+    "url": "https://www.cnn.com/2023/09/05/politics/special-counsel-election-probe-continues-fundraising-voting-equipment-breaches-sidney-powell/index.html",
+    "author": "Zachary Cohen Paula Reid",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230711111523-jack-smith-donald-trump-split.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-05 12:55:16 +0000",
+    "short_uuid": "ed98652c"
+  },
+  {
+    "id": "8815bb41-e7a7-46ae-83a5-b78ff6a85b36",
+    "title": "Rhode Island and Utah hold special election primaries for House seats | CNN Politics",
+    "description": "CNN \u2014\n\nRhode Island and Utah voters will choose party nominees for US House seats on Tuesday with the two states each holding a special primary election.\n\nIn Rhode Island, a crowded Democratic field w...",
+    "url": "https://www.cnn.com/2023/09/05/politics/rhode-island-utah-special-primary-elections/index.html",
+    "author": "Shania Shelton Kaanita Iyer",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230904171644-rhode-island-utah-special-primary-elections.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-05 12:55:16 +0000",
+    "short_uuid": "8610b9f6"
+  },
+  {
+    "id": "01dcca08-ffd7-4584-8159-6f2cb7223311",
+    "title": "California Plays Psychologist, Judge, and Parent | National Review",
+    "description": "",
+    "url": "https://www.nationalreview.com/corner/california-plays-psychologist-judge-and-parent/",
+    "author": "Madeleine Kearns",
+    "image": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/09/Rob-Bonta.jpg?resize=300%2C300&ssl=1",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-05 12:49:13 +0000",
+    "short_uuid": "8bde3529"
+  },
+  {
+    "id": "0f0ad314-3ad5-41bf-9b81-912618b3d4a3",
+    "title": "Jill Biden tests positive for COVID-19, President Biden's results still negative",
+    "description": "WASHINGTON (AP) \u2014 First lady Jill Biden tested positive for COVID-19 Monday but is experiencing only mild symptoms, her spokeswoman said.\n\nPresident Joe Biden was tested for the virus following his wi...",
+    "url": "https://www.pbs.org/newshour/politics/jill-biden-tests-positive-for-covid-19-president-bidens-results-still-negative",
+    "author": "Associated Press",
+    "image": "https://d3i6fh83elv35t.cloudfront.net/static/2023/09/2023-09-02T213304Z_1503784763_RC2L03AV55JQ_RTRMADP_3_STORM-IDALIA-BIDEN-1024x683.jpg",
+    "language": "en",
+    "category": [
+      "politics",
+      "world"
+    ],
+    "published": "2023-09-05 12:39:57 +0000",
+    "short_uuid": "7b7266a4"
+  },
+  {
+    "id": "6cdea25f-99d2-4feb-8509-eed32c7938b0",
+    "title": "Former Trump aide Peter Navarro's contempt of Congress trial begins",
+    "description": "Former Trump White House adviser Peter Navarro's trial on contempt of Congress charges for ignoring subpoenas from the House Jan. 6 committee starts Tuesday, when jury selection begins in Washington.\n...",
+    "url": "https://www.nbcnews.com/politics/donald-trump/former-trump-aide-peter-navarros-contempt-congress-trial-begins-rcna103341",
+    "author": "Https",
+    "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-04/220406-peter-navarro-jm-1121-eaa290.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-05 12:39:10 +0000",
+    "short_uuid": "e4c0e31a"
+  },
+  {
+    "id": "a4fbf0a1-3428-42f2-87e7-5e2c2055feef",
+    "title": "Pro-life protesters could face up to 10 years in prison: \u2018Political witch hunt\u2019",
+    "description": "Four more defendants facing federal charges over an October 2020 \"rescue action\" protest at a Washington, D.C.-based abortion clinic will begin trial this week. Jonathan Darnel \u2014 one of the nine defendants listed in the 2022 indictment accusing protesters of a felony conspiracy against rights and fe...",
+    "url": "https://www.foxnews.com/politics/pro-life-protesters-could-face-10-years-prison-political-witch-hunt",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/7aff555c-Untitled-1.jpg",
+    "language": "en",
+    "category": [
+      "politics",
+      "world"
+    ],
+    "published": "2023-09-05 12:36:16 +0000",
+    "short_uuid": "962a4ed1"
+  },
+  {
+    "id": "2b42b5cf-81d7-4512-8274-6359153a32f3",
+    "title": "Pennsylvania schools close as law enforcement continues manhunt for escaped killer",
+    "description": "Two school districts in Pennsylvania are closed Tuesday, as authorities widen the manhunt for a convicted killer who has been on the run for days after escaping a Chester County prison. Danelo Souza Cavalcante, 34, was spotted on a private trail camera on Monday night as he squeezed his way through ...",
+    "url": "https://www.foxnews.com/us/pennsylvania-schools-close-law-enforcement-continues-manhunt-escaped-killer",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/Danelo-Cavalcante-1.jpg",
+    "language": "en",
+    "category": [
+      "regional"
+    ],
+    "published": "2023-09-05 12:35:41 +0000",
+    "short_uuid": "c7ef237c"
+  },
+  {
+    "id": "fe770263-a97f-4889-9990-f7ec70b55c47",
+    "title": "Biden\u2019s net worth pegged at $10 million as House investigators probe family\u2019s business deals",
+    "description": "President Biden likes to call himself \u201cmiddle-class Joe,\u201d but his reported net worth has grown to at least $10 million and congressional investigators are delving into how the president and his family amassed tens of millions more in secretive foreign business deals.",
+    "url": "https://www.washingtontimes.com/news/2023/sep/5/joe-bidens-net-worth-pegged-10-million-house-inves/",
+    "author": "Dave Boyer",
+    "image": "https://twt-thumbs.washtimes.com/media/image/2023/09/04/Biden_26682--9359e_c0-0-5065-2954_s1200x700.jpg?72ea0149d5966c24bc6fd52c925a4fb638ccd165",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-05 12:31:54 +0000",
+    "short_uuid": "24f95842"
+  },
+  {
+    "id": "5804eff5-213c-4d15-8473-3293a2ef5c02",
+    "title": "Vance to introduce measure preventing federal officials from imposing mask mandates in schools, on airplanes",
+    "description": "EXCLUSIVE: Ohio Republican Sen. JD Vance will introduce legislation Tuesday to crackdown on the ability by the federal government or commercial airlines to force Americans into wearing face masks amid a string of new coronavirus variants. Titled the Freedom to Breathe Act, the legislation, if passed...",
+    "url": "https://www.foxnews.com/politics/vance-introduce-measure-preventing-federal-officials-imposing-mask-mandates-schools-airplanes",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/GettyImages-1247862532.png",
+    "language": "en",
+    "category": [
+      "politics",
+      "world"
+    ],
+    "published": "2023-09-05 12:30:41 +0000",
+    "short_uuid": "9cc366"
+  },
+  {
+    "id": "ea54b81e-0d59-4ebb-aae4-c38eb69d36ca",
+    "title": "Ukraine live briefing: Kremlin has \u2018nothing to say\u2019 on Putin-Kim meeting reports; drones downed near Moscow",
+    "description": "Ukraine live briefing: Kremlin has \u2018nothing to say\u2019 on Putin-Kim meeting reports; drones downed near Moscow Russian President Vladimir Putin and North Korean leader Kim Jong Un in 2019 before talks in...",
+    "url": "https://www.washingtonpost.com/world/2023/09/05/russia-ukraine-war-news/",
+    "author": "Kelly Kasulis Cho",
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RIFU6KMC2VVAYLVN5FO3RKFEVY.JPG&w=1440",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2023-09-05 12:29:40 +0000",
+    "short_uuid": "daa0c637"
+  },
+  {
+    "id": "7046b78e-26ec-45fd-807a-d6ed922260ac",
+    "title": "23 people injured after car plows into Denny's near Houston",
+    "description": "ROSENBERG, Texas (AP) \u2014 A driver plowed through a wall of a busy East Texas restaurant, injuring 23 people.\n\nPolice in the Houston suburb of Rosenberg, Texas said a man crashed his SUV into a Denny\u2019s ...",
+    "url": "https://www.nbcnews.com/news/us-news/23-people-injured-car-plows-dennys-houston-rcna103353",
+    "author": "The Associated Press",
+    "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-09/230905-dennys-crash-al-0821-237b6e.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-05 12:24:26 +0000",
+    "short_uuid": "d2a1b43e"
+  },
+  {
+    "id": "59f78f59-d727-4431-a107-44b903a5b11a",
+    "title": "India\u2019s lunar rover completes walk on moon's surface in less than 2 weeks after historic launch",
+    "description": "India\u2019s moon rover has completed its walk on the lunar surface and been put into sleep mode less than two weeks after its historic landing near the lunar south pole, India\u2019s space mission said.\n\n\"The ...",
+    "url": "https://www.foxnews.com/world/indias-lunar-rover-completes-walk-moon-less-2-weeks-historic-launch",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/rover.jpg",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2023-09-05 12:18:00 +0000",
+    "short_uuid": "9286f4a1"
+  },
+  {
+    "id": "5d8279ee-c2be-4e5d-8866-b157d0179c27",
+    "title": "U.S. Open fan thrown out after star says they sang 'Hitler anthem'",
+    "description": "A fan was removed from a U.S. Open tennis match after German player Alexander Zverev accused them of using \u201cthe most famous Hitler phrase\u201d during the game.\n\nZverev, the No. 12 seed, was serving in a m...",
+    "url": "https://www.nbcnews.com/news/us-news/us-open-fan-thrown-out-zverev-match-famous-hitler-phrase-rcna103338",
+    "author": "Chantal Da Silva",
+    "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-09/230905-Zverev-us-open-mb-1229-84d3ec.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-05 12:11:47 +0000",
+    "short_uuid": "c676c9f0"
+  },
+  {
+    "id": "7864d462-981f-44ed-90a6-64b0002b2159",
+    "title": "This Indian family tried to immigrate to the U.S. legally. They ended up separated and in legal limbo",
+    "description": "On the surface, Dr. Pradyuman Singh has all the makings of the immigrant American dream. He has a business recruiting students to medical schools; a wife, son and daughter who is pre-med at UC Irvine;...",
+    "url": "https://www.latimes.com/politics/story/2023-09-05/la-na-pol-california-legal-immigration-separated",
+    "author": "Staff Writer",
+    "image": "https://ca-times.brightspotcdn.com/dims4/default/6246840/2147483647/strip/true/crop/4169x2189+0+295/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fac%2F9e%2F60db6d104b39ad1b40a81691100d%2F1298297-me-indian-family-tijuana-jlc-0519-11067.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-05 12:00:21 +0000",
+    "short_uuid": "6ff1c469"
+  },
+  {
+    "id": "15a2939a-459c-4a7d-9115-37d22d736cc5",
+    "title": "Enrique Tarrio, 'savvy propagandist' for Proud Boys, set to be sentenced in Jan. 6 sedition case",
+    "description": "WASHINGTON \u2014 Enrique Tarrio, the former chairman of the far-right Proud Boys, will be sentenced Tuesday afternoon following his conviction on a seditious conspiracy charge in connection with the Jan. ...",
+    "url": "https://www.nbcnews.com/politics/justice-department/enrique-tarrio-proud-boys-sentenced-jan-6-sedition-case-rcna103280",
+    "author": "Daniel Barnes",
+    "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-08/230817-enrique-tarrio-mjf-1708-8709d2.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-05 12:00:00 +0000",
+    "short_uuid": "5bf9e548"
+  },
+  {
+    "id": "719ee044-ef99-4490-8c9d-2ffc58628a7f",
+    "title": "Five preposterously positive Washington Commanders predictions for 2023",
+    "description": "Listen 7 min Share Comment on this story Comment\n\nIt\u2019s the dawn of a new era for Washington\u2019s NFL franchise. Daniel Snyder is no longer in charge, which for at least a portion of the fan base makes th...",
+    "url": "https://www.washingtonpost.com/sports/2023/09/05/washington-commanders-predictions-2023/",
+    "author": "Scott Allen",
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/INHMESSMSZHD5JY53XQXZZXTZU.jpg&w=1440",
+    "language": "en",
+    "category": [
+      "sports"
+    ],
+    "published": "2023-09-05 12:00:00 +0000",
+    "short_uuid": "fa96bb6c"
+  },
+  {
+    "id": "94976ff6-2751-4c30-8e8c-88222b31a4d4",
+    "title": "Men accusing Japanese boy band producer of sex abuse seek company apology, compensation",
+    "description": "Johnny Kitagawa, the late founder of a Japanese boy band talent agency, has been accused of sexually assaulting teenagers for decades.\n\nKitagawa, who allegedly sexually targeted hundreds of young men,...",
+    "url": "https://www.foxnews.com/world/men-accusing-japanese-boy-band-producer-sex-abuse-seek-company-apology-compensation",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/hk.jpg",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2023-09-05 11:53:08 +0000",
+    "short_uuid": "b1e94692"
+  },
+  {
+    "id": "fbe7b43e-2cbf-47e9-9c3c-7946a8064f15",
+    "title": "Two Years Ago, the Biden Team Boasted They Had \u2018Enormous Leverage over the Taliban\u2019 | National Review",
+    "description": "",
+    "url": "https://www.nationalreview.com/corner/two-years-ago-the-biden-team-boasted-they-had-enormous-leverage-over-the-taliban/",
+    "author": "Jim Geraghty",
+    "image": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/08/top-shots-081823-12.jpg?fit=1200%2C700&ssl=1",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-05 11:48:45 +0000",
+    "short_uuid": "77272ebb"
+  },
+  {
+    "id": "d01f3f48-5a83-46e9-b803-f4291f29ff6a",
+    "title": "Denver Zoo gives angelfish a CT scan after worker sees fish swimming with funny tilt",
+    "description": "A fancy-looking French angelfish that was found one day with a funny float has its buoyancy back after taking some time from its tropical trappings to get a CT scan at the Denver Zoo. A zoo worker recently noticed the blue and yellow fish was swimming with a tilt, prompting a visit last week to the ...",
+    "url": "https://www.foxnews.com/us/denver-zoo-gives-angelfish-ct-scan-after-worker-sees-fish-swimming-funny-tilt",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/fish.jpg",
+    "language": "en",
+    "category": [
+      "regional"
+    ],
+    "published": "2023-09-05 11:48:07 +0000",
+    "short_uuid": "8898339d"
+  },
+  {
+    "id": "aef6566f-c5d0-4b1f-8b84-00822918ea1f",
+    "title": "2 recovering after Labor Day shark bites at same Florida beach, officials say",
+    "description": "Two people are recovering after being bitten by sharks off the same Florida beach over Labor Day, officials say. A 37-year-old woman from Apopka was bitten on her right foot while in shallow waters on Ponce Inlet, Volusia County Beach Safety confirmed to FOX 35 Orlando. She was playing in waist-deep...",
+    "url": "https://www.foxnews.com/us/2-recovering-labor-day-shark-bites-same-florida-beach-officials-say",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/03/Florida-Shark.jpg",
+    "language": "en",
+    "category": [
+      "regional"
+    ],
+    "published": "2023-09-05 11:47:28 +0000",
+    "short_uuid": "b745dba4"
+  },
+  {
+    "id": "c2a161a4-8850-4089-8c9c-9fa7a3e0bc78",
+    "title": "Pope Francis acknowledges his Russian empire comments were faulty",
+    "description": "Pope Francis acknowledged on Monday that his recent comments on Russia, seen by Ukraine as praise for imperialism, were badly phrased and said his intention was to remind young Russians of a great cul...",
+    "url": "https://www.nbcnews.com/news/world/pope-francis-acknowledges-russian-empire-comments-faulty-rcna103342",
+    "author": "Reuters",
+    "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-09/230905-pope-mb-1241-439542.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-05 11:44:09 +0000",
+    "short_uuid": "796a004d"
+  },
+  {
+    "id": "45ea6839-105a-4eba-9c90-ef9f3c17d58e",
+    "title": "NY couple killed after late-night boat crash with fishing vessel, operator delivers 1-word reaction",
+    "description": "A New York couple was tragically killed over the weekend in a boating accident that capsized their vessel. Emergency responders were called to Great South Bay late Sunday night on reports of two boats colliding. Another call came not long after \u2014 reporting an overturned boat with no one in the surro...",
+    "url": "https://www.foxnews.com/us/ny-couple-killed-late-night-boat-crash-fishing-vessel-operator-delivers-1-word-reaction",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/Islip-FD-2-e1693911113834.jpg",
+    "language": "en",
+    "category": [
+      "regional"
+    ],
+    "published": "2023-09-05 11:43:42 +0000",
+    "short_uuid": "39fd146b"
+  },
+  {
+    "id": "fdef589c-02d1-43e9-abe4-9601761011c7",
+    "title": "Belgium, France seek to get WWI memorials recognized as UNESCO World Heritage sites",
+    "description": "With war ravaging Europe's heartland again, the countless headstones, cemeteries and memorials from World War I are a timeless testimony to its cruelty. Belgium and France want them recognized as UNESCO World Heritage sites to make sure people stop and think. They bring pause and introspection to ju...",
+    "url": "https://www.foxnews.com/world/belgium-france-seek-get-wwi-memorials-recognized-unesco-world-heritage-sites",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/army.jpg",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2023-09-05 11:40:46 +0000",
+    "short_uuid": "119a42c4"
   }
 ]
