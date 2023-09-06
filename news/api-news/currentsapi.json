@@ -49530,5 +49530,19 @@
     ],
     "published": "2023-09-06 12:00:02 +0000",
     "short_uuid": "990fe262"
+  },
+  {
+    "id": "aa88e7db-ded9-4a1a-a366-3f944b24dc59",
+    "title": "Latest news on Russia's war in Ukraine, Antony Blinken in Kyiv for talks",
+    "description": "Senior US Senate Republicans say Congress should move quickly to pass new funding for Ukraine, even as the push has faced headwinds from conservatives in the House of Representatives.\n\nThe dispute cen...",
+    "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-09-06-23/index.html",
+    "author": "Chris Lau",
+    "image": "https://cdn.cnn.com/cnnnext/dam/assets/230904130612-russia-attack-odesa-0903-super-tease.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-09-06 12:33:46 +0000",
+    "short_uuid": "ef843756"
   }
 ]
