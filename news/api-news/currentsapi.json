@@ -49502,5 +49502,33 @@
     ],
     "published": "2023-09-06 11:59:16 +0000",
     "short_uuid": "3a8d2415"
+  },
+  {
+    "id": "aa88e7db-ded9-4a1a-a366-3f944b24dc59",
+    "title": "Latest news on Russia's war in Ukraine, Antony Blinken in Kyiv for talks",
+    "description": "Ukraine's President Volodymyr Zelensky greets US Secretary of State Antony Blinken in Kyiv on September 6. Brendan Smialowski/Pool/AFP/Getty Images\n\nUS Secretary of State Antony Blinken said the US is...",
+    "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-09-06-23/index.html",
+    "author": "Chris Lau",
+    "image": "https://cdn.cnn.com/cnnnext/dam/assets/230904130612-russia-attack-odesa-0903-super-tease.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-09-06 12:33:46 +0000",
+    "short_uuid": "ced8ef46"
+  },
+  {
+    "id": "8a2dbbdc-76c1-445d-9a41-fcb15330db54",
+    "title": "NFL games are shifting away from traditional TV. Are you ready to stream some football?",
+    "description": "DETROIT, MI - SEPTEMBER 29: Kansas City Chiefs quarterback Patrick Mahomes (15) runs with the ball during a regular season game between the Kansas City Chiefs and the Detroit Lions on September 29, 20...",
+    "url": "https://www.cnbc.com/2023/09/06/football-nfl-shift-toward-streaming-away-from-regular-tv.html",
+    "author": "Lillian Rizzo",
+    "image": "https://image.cnbcfm.com/api/v1/image/107296383-1694010103485-gettyimages-1195734768-cbw190929422_kc_at_det.jpeg?v=1694010207&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-09-06 12:00:02 +0000",
+    "short_uuid": "990fe262"
   }
 ]
