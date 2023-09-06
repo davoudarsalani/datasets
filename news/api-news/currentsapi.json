@@ -48123,5 +48123,107 @@
     ],
     "published": "2023-09-05 18:38:40 +0000",
     "short_uuid": "7fd4b415"
+  },
+  {
+    "id": "10f5624d-91eb-4e53-8e10-7cc294455574",
+    "title": "Coco Gauff dominates Jelena Ostapenko to reach her first US Open semifinal | CNN",
+    "description": "Coco Gauff continued her run of emphatic victories at the US Open on Tuesday, breezing past Jelena Ostapenko in straight sets.",
+    "url": "https://www.cnn.com/2023/09/05/tennis/coco-gauff-aryna-sabalenka-us-open-spt-intl/index.html",
+    "author": "cnn",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230905133609-03-coco-guaff-ostapenko-us-open-0905.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "sports",
+      "tennis"
+    ],
+    "published": "2023-09-06 00:30:06 +0000",
+    "short_uuid": "19e8e170"
+  },
+  {
+    "id": "d63ae305-374f-4e8e-bb92-a6e0ef616b86",
+    "title": "Novak Djokovic beats American star Taylor Fritz to reach US Open semifinals and celebrates with a singalong | CNN",
+    "description": "Novak Djokovic booked his spot in the US Open semifinals with an emphatic victory over American Taylor Fritz on Tuesday.",
+    "url": "https://www.cnn.com/2023/09/05/tennis/novak-djokovic-taylor-fritz-us-open-spt-intl/index.html",
+    "author": "cnn",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230905150744-01-novak-djokovic-090523.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "sports",
+      "tennis"
+    ],
+    "published": "2023-09-06 00:30:06 +0000",
+    "short_uuid": "205192e8"
+  },
+  {
+    "id": "dea60c13-6646-457f-aadb-cf66ba349804",
+    "title": "For the first time, 2 Black men will face off in US Open quarterfinal | CNN",
+    "description": "No matter who wins Tuesday\u2019s US Open quarterfinals match between Frances Tiafoe and Ben Shelton, history will be made: For the first time, two Black men will face off in the match.",
+    "url": "https://www.cnn.com/2023/09/05/tennis/ben-shelton-frances-tiafoe-us-open/index.html",
+    "author": "cnn",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230905094121-frances-tiafoe-ben-shelton-split.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "sports",
+      "tennis"
+    ],
+    "published": "2023-09-06 00:30:06 +0000",
+    "short_uuid": "b419c091"
+  },
+  {
+    "id": "f7b1bd61-fb08-4a54-a793-de02d687af3f",
+    "title": "The American men aiming to upset the odds at this year's US Open | CNN",
+    "description": "For quite some time, American men have been threatening to break through tennis\u2019 elite and, at this year\u2019s US Open, it appears that time has finally come.",
+    "url": "https://www.cnn.com/2023/09/05/tennis/us-open-mens-quarterfinal-trio-spt-intl/index.html",
+    "author": "cnn",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230904123444-taylor-fritz-frances-tiafoe-and-ben-shelton-split.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "sports",
+      "tennis"
+    ],
+    "published": "2023-09-06 00:30:06 +0000",
+    "short_uuid": "bc052794"
+  },
+  {
+    "id": "509ff362-8144-49fd-9633-74d29079670b",
+    "title": "McConnell pushes to silence health doubts as Senate returns",
+    "description": "Mitch McConnell is moving as fast as he can to get beyond questions about whether his health will hurt his ability to lead Senate Republicans.\nWithin hours of the Senate's return Tuesday, the GOP leader's office released a letter from the Capitol physician with more details clearing him for work aft...",
+    "url": "https://www.politico.com/news/2023/09/05/mcconnell-pushes-to-silence-health-doubts-as-senate-returns-00114107",
+    "author": "Burgess Everett,Ursula Perano",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "poiltics"
+    ],
+    "published": "2023-09-05 23:16:03 +0000",
+    "short_uuid": "80ab32b6"
+  },
+  {
+    "id": "1e54d691-b5f9-4a83-91fa-dbf18212e401",
+    "title": "McConnell addresses freezing episode on Senate floor",
+    "description": "McConnell addresses freezing episode on Senate floor\nlead image...",
+    "url": "https://www.politico.com/video/2023/09/05/mcconnell-addresses-freezing-episode-on-senate-floor-1044029",
+    "author": "politico",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "poiltics"
+    ],
+    "published": "2023-09-05 20:22:21 +0000",
+    "short_uuid": "3105c942"
+  },
+  {
+    "id": "ea51c764-ccfe-4cff-8069-105b5286377b",
+    "title": "George Santos and aide appear to be discussing plea deals with feds",
+    "description": "NEW YORK \u2014 Rep. George Santos and his former campaign aide, both indicted by federal prosecutors, appear to be in plea talks with the government, according to court papers filed Tuesday.\nProsecutors in the Santos case asked the judge overseeing the case to delay a court hearing set for Thursday beca...",
+    "url": "https://www.politico.com/news/2023/09/05/george-santos-indictment-plea-deal-00114038",
+    "author": "Erica Orden",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "poiltics"
+    ],
+    "published": "2023-09-05 19:31:35 +0000",
+    "short_uuid": "74208fa6"
   }
 ]
