@@ -52893,5 +52893,33 @@
     ],
     "published": "2023-09-08 00:53:00 +0000",
     "short_uuid": "a1c0ef8b"
+  },
+  {
+    "id": "bc0e1ebf-7a17-4cd2-9ae4-d20b015e7708",
+    "title": "North Korea says it launched new 'tactical nuclear attack' submarine | CNN",
+    "description": "Seoul, South Korea CNN \u2014\n\nNorth Korea claims to have launched a new \u201cKorean-style\u201d tactical nuclear attack submarine that it says heralds \u201cthe beginning of a new chapter\u201d for its navy. But analysts sa...",
+    "url": "https://www.cnn.com/2023/09/07/asia/north-korea-submarine-intl/index.html",
+    "author": "Brad Lendon Hamdi Alkhshali",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230907174406-01-north-korea-nuclear-submarine-launch.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-09-08 01:42:05 +0000",
+    "short_uuid": "e3ad55ee"
+  },
+  {
+    "id": "6708b28c-da46-48bb-b1e0-ea216489f74c",
+    "title": "Live updates: Lions strike first against Chiefs in NFL season opener",
+    "description": "The Chiefs were missing two of their top players. And they didn\u2019t do enough to help quarterback Patrick Mahomes as they lost to the Detroit Lions, 21-20 , in Kansas City, Mo., in the NFL\u2019s season open...",
+    "url": "https://www.washingtonpost.com/sports/2023/09/07/chiefs-vs-lions-nfl-season-opener/",
+    "author": "Mark Maske,Des Bieler",
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YLZXAMPKGZQ4WX4EGQEOO2H4EM_size-normalized.jpg&w=1440",
+    "language": "en",
+    "category": [
+      "sports"
+    ],
+    "published": "2023-09-08 00:53:00 +0000",
+    "short_uuid": "83b98610"
   }
 ]
