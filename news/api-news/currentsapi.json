@@ -56229,5 +56229,425 @@
     ],
     "published": "2023-09-09 11:00:39 +0000",
     "short_uuid": "49c1336f"
+  },
+  {
+    "id": "ce3beb7a-afc6-43e5-b404-695e81d34b0d",
+    "title": "A moment of reckoning for gerrymandering | CNN Politics",
+    "description": "Americans\u2019 reckoning with their own democracy extends beyond the looming presidential election to a much more local level.",
+    "url": "https://www.cnn.com/2023/09/09/politics/gerrymandering-what-matters/index.html",
+    "author": "cnn",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230908153753-2022-house-congressional-districts-results-map.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-09 20:08:18 +0000",
+    "short_uuid": "ee613f64"
+  },
+  {
+    "id": "5231734e-b46c-4792-8db1-e3444f97df02",
+    "title": "States step in to pay for school meals for all kids | CNN Politics",
+    "description": "After the expiration of a federal program that provided funding for free meals for all students, nine states are picking up the tab for pupils\u2019 breakfast and lunch.",
+    "url": "https://www.cnn.com/2023/09/09/politics/free-school-meals-states/index.html",
+    "author": "cnn",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230907095421-free-school-meals-states.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-09 20:08:18 +0000",
+    "short_uuid": "3c496855"
+  },
+  {
+    "id": "7c57b344-5d97-408e-a54b-911171ffd519",
+    "title": "At the scene: Marrakech residents spend a night in the streets while others flee | CNN",
+    "description": "Marrakech CNN \u2014\n\nAs the dust began to settle, panic set in.\n\nScreams echoed through the narrow streets of Marrakech\u2019s old city as the extent of injuries and damage became apparent.\n\nJust seconds befor...",
+    "url": "https://www.cnn.com/2023/09/09/europe/marrakech-morocco-earthquake-eyewitness-intl/index.html",
+    "author": "Benjamin Brown",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230909065104-11-morocco-earthquake-090923.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-09-09 19:53:45 +0000",
+    "short_uuid": "d57bb826"
+  },
+  {
+    "id": "1ebaf19a-54b7-4525-84be-30310fc1d17c",
+    "title": "Azerbaijan agrees to reopen Lachin Corridor to Nagorno-Karabakh",
+    "description": "An Azerbaijani checkpoint at the entrance of the Lachin Corridor | Tofik Babayev/AFP via Getty Images\n\nYEREVAN, Armenia \u2014 Azerbaijan has agreed to reopen the only highway linking Armenia to the breaka...",
+    "url": "https://www.politico.eu/article/azerbaijan-agrees-to-reopen-lachin-corridor-to-nagorno-karabakh/",
+    "author": "More ...",
+    "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/07/29/GettyImages-1252523760-scaled.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-09 19:49:35 +0000",
+    "short_uuid": "b74d1620"
+  },
+  {
+    "id": "5da5540b-8786-447d-9fa3-5f607dc24b6a",
+    "title": "Trump, DeSantis and other 2024 GOP prospects vie for attention at the Iowa-Iowa State football game",
+    "description": "DES MOINES, Iowa \u2014 Donald Trump crossed paths with several Republican rivals Saturday as he attended Iowa's in-state college football grudge match, one of the former president's few visits so far to the state that holds the first nominating caucus next year. Trump waded into one of the state's large...",
+    "url": "https://www.politico.com/news/2023/09/09/gop-candidates-iowa-football-00114880",
+    "author": "Associated Press",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-09 19:45:41 +0000",
+    "short_uuid": "f9ed3417"
+  },
+  {
+    "id": "eecabe49-8585-4ced-923d-cf7789edb618",
+    "title": "Key lime pie with 'creamy, tart' filling is a no-bake delight: Try the recipe",
+    "description": "For dessert lovers, Key lime pie is always a good idea \u2014 especially as folks continue to try and beat the heat. \"This Key lime pie is the perfect refreshing ending to your next summer BBQ or dinner. No hot oven required,\" said Alyssa Rivers, TheRecipeCritic.com in Utah. \"The crunchy crust is buttery...",
+    "url": "https://www.foxnews.com/lifestyle/key-lime-pie-creamy-tart-filling-no-bake-delight-try-recipe",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/key-lime-pie-split.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-09-09 19:40:10 +0000",
+    "short_uuid": "c71d7e11"
+  },
+  {
+    "id": "84688838-b740-4b8e-886f-1d558878ecd5",
+    "title": "A big auto workers' strike could hit next week \u2014 with Biden's policies in the balance",
+    "description": "President Joe Biden is publicly predicting that auto workers won't strike when their contracts with the Big 3 U.S. carmakers expire next week. But privately, White House officials are \"aware\" that a strike is likely, said a person familiar with their thinking \u2014 and have spent much of the summer enga...",
+    "url": "https://www.politico.com/news/2023/09/09/biden-uaw-strike-labor-00114867",
+    "author": "Holly Otterbein, Zack Colman,Olivia Olander",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-09 19:40:00 +0000",
+    "short_uuid": "62f63af8"
+  },
+  {
+    "id": "343f2ca3-367c-490f-8d5f-1aac630c25db",
+    "title": "Arizona man accused of stabbing girlfriend 26 times, then fleeing to Mexico: police",
+    "description": "Arizona authorities arrested a suspect for murder after he allegedly stabbed his girlfriend 26 times and then fled to Mexico. Peoria resident Erik Islas, 53, was charged with first-degree murder. Police believe he stabbed his 59-year-old girlfriend, Patricia Hawking, during a fight on September 3. A...",
+    "url": "https://www.foxnews.com/us/arizona-man-accused-stabbing-girlfriend-26-times-fleeing-mexico-police",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/Erik-Islas.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-09-09 19:25:55 +0000",
+    "short_uuid": "b0acada7"
+  },
+  {
+    "id": "d0675ea7-d9af-4420-a844-89d8fd17ef90",
+    "title": "NC State's brand-new scoreboard shorts out due to lightning storms",
+    "description": "Saturday's N.C. State game against No. 10 Notre Dame was delayed due to lightning in the area \u2013 but the lightning wound up right on top of the stadium. The game marked the debut of the brand-new scoreboard at Carter-Finley Stadium, but it hardly lasted one quarter. That's because the scoreboard shor...",
+    "url": "https://www.foxnews.com/sports/nc-states-brand-new-scoreboard-shorts-out-lightning-storms",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/nc-state-stadium.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-09-09 19:23:18 +0000",
+    "short_uuid": "69ecf4c3"
+  },
+  {
+    "id": "11eb28ca-adce-4fc4-aac6-4e3600459d5f",
+    "title": "Ukraine Estimates Russia Has 420,000 Troops in Occupied Regions",
+    "description": "Why did this happen?\n\nPlease make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie...",
+    "url": "https://www.bloomberg.com/news/articles/2023-09-09/ukraine-estimates-russia-has-420-000-troops-in-occupied-regions",
+    "author": "Bloomberg",
+    "image": "",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-09 19:16:43 +0000",
+    "short_uuid": "3b4faf2d"
+  },
+  {
+    "id": "283bec54-407e-47c8-bd3d-7c8366a1e05f",
+    "title": "Tim Scott has one-word response to California bill to punish parents who won't 'affirm' trans kids",
+    "description": "EXCLUSIVE: Republican presidential candidate Tim Scott gave a one-word response to a California bill that would punish parents in custody battles who don't \"affirm\" transgender kids.\u00a0 The South Carolina senator called the proposal \"evil\" in a statement to Fox News.\u00a0 The California State Assembly pas...",
+    "url": "https://www.foxnews.com/politics/tim-scott-one-word-response-california-bill-punish-parents-wont-affirm-trans-kids",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/59f0c028-Video-2.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-09-09 19:16:20 +0000",
+    "short_uuid": "4ad78a0a"
+  },
+  {
+    "id": "a7b5e675-626e-4c44-9f4b-50780d0b78a1",
+    "title": "Belgian Doctor Euthanizes Patient with a Pillow | National Review",
+    "description": "Euthanasia is not the practice of medicine. It just puts a \u2018medical\u2019 patina on homicide.",
+    "url": "https://www.nationalreview.com/corner/belgian-doctor-euthanizes-patient-with-a-pillow/",
+    "author": "Wesley J Smith",
+    "image": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/02/gurner.jpg?fit=1200%2C700&ssl=1",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-09 19:14:12 +0000",
+    "short_uuid": "31ca2599"
+  },
+  {
+    "id": "03c55b15-b127-4118-978d-acb169012717",
+    "title": "Priyanka Chopra, Leni Klum, Naomi Campbell embrace barely-there fashion: PHOTOS",
+    "description": "Naomi struts her stuff\n\nNaomi Campbell stunned in a sheer dress at the PrettyLittleThing Designed by Naomi Campbell runway show, showcasing looks from her collaboration with the clothing line.\n\nThis w...",
+    "url": "https://www.foxnews.com/entertainment/priyanka-chopra-leni-klum-naomi-campbell-embrace-barely-there-fashion-photos",
+    "author": "Lori Bashian",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/priyanka-chopra-naomi-campbell.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-09-09 19:00:31 +0000",
+    "short_uuid": "3ce232bd"
+  },
+  {
+    "id": "54e64459-558d-4dea-a3c1-3b3bcc9d0316",
+    "title": "Watch Live: Donald Trump Attends Iowa vs. Iowa State College Football Game",
+    "description": "Former President Donald Trump will travel to Des Moines to attend the University of Iowa vs. Iowa State University college football game on Saturday.",
+    "url": "https://www.breitbart.com/politics/2023/09/09/watch-live-donald-trump-attends-iowa-vs-iowa-state-college-football-game/",
+    "author": "Breitbart News",
+    "image": "https://media.breitbart.com/media/2023/09/trump-iowa-fraternity-footballs-AP-640x335.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-09 18:52:26 +0000",
+    "short_uuid": "d5ce9c6"
+  },
+  {
+    "id": "dde9559b-59af-4dc7-852b-8924201ef62f",
+    "title": "Jimmy Buffett's Daughter: My Dad Was 'A Man Whose Spirit Could Not Be Broken' in His Final Days",
+    "description": "After the tragic death of legendary music icon Jimmy Buffett, his daughter is speaking out about the man she knew in a lengthy social media post.\nBuffett's daughter, Delaney, referred to her dad as\u00a0\"a man whose spirit could not be broken.\"\n\"Despite the pain, he smiled everyday. He was kind when he h...",
+    "url": "https://www.westernjournal.com/jimmy-buffetts-daughter-dad-man-whose-spirit-not-broken-final-days/",
+    "author": "Maire Clayton",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-09 18:35:55 +0000",
+    "short_uuid": "f3bc4869"
+  },
+  {
+    "id": "d238e892-5564-4ef8-a94b-52bc09409069",
+    "title": "Elon Musk: \u2018How Soon Can\u2019 NM Governor \u2018Be Removed\u2019 for Violating 2nd Amendment",
+    "description": "Elon Musk responded to New Mexico Gov. Grisham's order banning concealed carry by asking how soon the governor can be removed from office.",
+    "url": "https://www.breitbart.com/2nd-amendment/2023/09/09/elon-musk-how-soon-can-nm-governor-removed-violating-2a/",
+    "author": "AWR Hawkins",
+    "image": "https://media.breitbart.com/media/2023/06/Elon-Musk-plotting-640x335.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-09 18:34:10 +0000",
+    "short_uuid": "c5043192"
+  },
+  {
+    "id": "ac1b3022-8ccc-4d31-99cc-9fbcac4c5aa3",
+    "title": "'Black America's CNN': Harris talks Chuck D, calls to action at hip hop celebration",
+    "description": "Vice President Kamala Harris celebrated 50 years of hip-hop's influence on American arts and culture Saturday, honoring the genre's prominent Black roots as the Democratic ticket seeks to retain the community's support in their 2024 reelection bids. \"Hip-hop is the ultimate American art form,\" Harri...",
+    "url": "https://www.politico.com/news/2023/09/09/black-americas-cnn-harris-talks-chuck-d-calls-to-action-at-hip-hop-celebration-00114878",
+    "author": "Andrew Zhang",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-09 18:32:52 +0000",
+    "short_uuid": "90345f8c"
+  },
+  {
+    "id": "63d49129-acc4-462a-ba24-d96d34e17cd5",
+    "title": "Ahead of Sept. 11, 2023, Washington pastor urges, 'Remember our loved ones' and 'find peace and purpose'",
+    "description": "With the 22nd anniversary of the September 11th terror attacks nearly here, it's vital to acknowledge how significant this day in 2001 was and still remains for this country on so many levels, a faith leader based outside Seattle, Washington, shared with Fox News Digital ahead of the day.\u00a0 \"It is im...",
+    "url": "https://www.foxnews.com/lifestyle/ahead-sept-11-2023-washington-pastor-urges-remember-loved-ones-find-peace-purpose",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Smoke-September-11.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-09-09 18:31:50 +0000",
+    "short_uuid": "5a3a300a"
+  },
+  {
+    "id": "7beb8bd9-b31b-425b-8bb9-9524ef73762c",
+    "title": "Rams place Cooper Kupp on IR with hamstring injury; to miss at least 4 games: reports",
+    "description": "The Los Angeles Rams thought 2023 would be a bounce-back season, considering the many key injuries the team endured in 2022. However, before the new season even starts, they are in the same boat from 2022 as star receiver Cooper Kupp, who missed a chunk of last year with an ankle injury, has reporte...",
+    "url": "https://www.foxnews.com/sports/rams-cooper-kupp-ir-hamstring-injury-miss-4-games",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2022/11/Cooper-Kupp2.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-09-09 18:29:36 +0000",
+    "short_uuid": "7c9d7bbb"
+  },
+  {
+    "id": "2b3307e8-21c6-4c74-9122-67609ddf7b14",
+    "title": "Ex-Yankees pitcher David Wells puts tape over Nike logo on Yankees uniform: 'I hate Nike'",
+    "description": "Former New York Yankees players once again returned to the Bronx for the 75th edition of the team's annual Old Timers' Day. David Wells, who was a member of the 1998 Yankees World Series champion team, arrived at Yankee Stadium with a noticeable alteration to his jersey \u2013 a piece of tape. The tape i...",
+    "url": "https://www.foxnews.com/sports/ex-yankees-pitcher-david-wells-puts-tape-over-nike-logo-on-yankees-uniform-i-hate-nike",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/Yankees-David-Wells.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-09-09 18:21:28 +0000",
+    "short_uuid": "bb0719a5"
+  },
+  {
+    "id": "4bd67eaa-b8e6-4065-b2ed-f0cb53ba1de7",
+    "title": "Democrat in VA race says 'unqualified' Whites have high-paying jobs that Black people need 'a PhD' to get",
+    "description": "The Democrat candidate in one of the most closely watched state legislature races in Virginia said earlier this year that \"unqualified\" White people are able to secure high-paying jobs while Black people need \"a Ph.D.\" to be considered for the same type of job. Nadarius Clark, a political activist a...",
+    "url": "https://www.foxnews.com/politics/democrat-va-race-claims-unqualified-white-people-high-paying-jobs-black-people-need-phd",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/Nadarius.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-09-09 18:14:16 +0000",
+    "short_uuid": "7f039b2f"
+  },
+  {
+    "id": "a87b8b49-ef74-4666-8396-cb281d31a8cb",
+    "title": "Op-Ed: The Palestinians Set Israel's Own System Against Itself",
+    "description": "This is Part 7 of a 10-part series exposing the underreported joint European and Palestinian program to bypass international law and establish a de facto Palestinian state on Israeli land.\u00a0\nWhile Israel's Civil Administration (COGAT), which governs Area C of the West Bank, technically receives order...",
+    "url": "https://www.westernjournal.com/op-ed-palestinians-set-israels-system/",
+    "author": "Karys Rhea",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-09 18:04:38 +0000",
+    "short_uuid": "6ed70740"
+  },
+  {
+    "id": "b980525b-2c64-4b6f-a046-98ef09d34acb",
+    "title": "What we know about Morocco's deadly earthquake",
+    "description": "More than 1,000 people are dead after a powerful earthquake with a magnitude of at least 6.8 hit Morocco Friday night near the city of Marrakesh, the largest such quake to hit the country decades.\n\nTh...",
+    "url": "https://www.vox.com/2023/9/9/23865572/morocco-deadly-earthquake-marrakesh",
+    "author": "Ellen Ioanes",
+    "image": "https://cdn.vox-cdn.com/thumbor/4qFW_lX_STChBr-4X3QB99lYV1k=/0x521:5742x3527/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24908622/1654173038.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-09-09 18:03:28 +0000",
+    "short_uuid": "80b86dca"
+  },
+  {
+    "id": "d61611ff-eff6-464b-abbb-2246c18dbe75",
+    "title": "Trump, DeSantis to Attend Iowa-Iowa State Football Game",
+    "description": "Why did this happen?\n\nPlease make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie...",
+    "url": "https://www.bloomberg.com/en/news/thp/2023-09-09/trump-desantis-and-other-2024-gop-prospects-vie-for-attention-at-iowa-iowa-state-football-game",
+    "author": "Bloomberg",
+    "image": "",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-09 18:03:22 +0000",
+    "short_uuid": "6fbf977d"
+  },
+  {
+    "id": "4d974e1c-b937-4819-a2be-33058d1eb54b",
+    "title": "Elon Musk biographer moves to 'clarify' details about Ukraine and Starlink after backlash",
+    "description": "Elon Musk, Chief Executive Officer of SpaceX and Tesla and owner of Twitter, looks on as he attends the Viva Technology conference dedicated to innovation and startups at the Porte de Versailles exhib...",
+    "url": "https://www.cnbc.com/2023/09/09/elon-musk-biographer-moves-to-clarify-details-on-ukraine-starlink.html",
+    "author": "Ashley Capoot",
+    "image": "https://image.cnbcfm.com/api/v1/image/107293744-1693398435735-elon.jpg?v=1694271610&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "technology"
+    ],
+    "published": "2023-09-09 17:57:30 +0000",
+    "short_uuid": "355053c8"
+  },
+  {
+    "id": "79d2263b-3a21-41d8-bcf5-1d7841f60161",
+    "title": "Taylor Swift fans outraged over rumors former Disney star's diss track is about her",
+    "description": "Taylor Swift fans expressed their outrage over former Disney star Olivia Rodrigo's newest songs.\u00a0 Swift superfans, or \"Swifties,\" speculated that Rodrigo's latest track off her new album \"Guts\" was about the pop star. Rodrigo's lyrics to her single \"The Grudge\" appeared to reflect on a bad relations...",
+    "url": "https://www.foxnews.com/entertainment/taylor-swift-fans-outraged-rumors-former-disney-stars-diss-track",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/olivia-rodrigo-taylor-swift.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-09-09 17:48:41 +0000",
+    "short_uuid": "74252733"
+  },
+  {
+    "id": "d890eb8b-1f73-4f4b-a8de-a79818777929",
+    "title": "Turkish officials launch rescue of US researcher trapped in 3,000-foot cave",
+    "description": "Rescue efforts are underway in Turkey to retrieve a U.S. researcher stranded 3,000 feet inside a massive cave.\u00a0 Doctors gave the final go-ahead Saturday to begin rescue operations for researcher Mark Dickey, 40, who fell ill while exploring the Morca cave in southern Turkey's Taurus Mountains. \"This...",
+    "url": "https://www.foxnews.com/world/turkish-officials-launch-rescue-us-researcher-trapped-3000-foot-cave",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/Screenshot-2023-09-07-082830.png",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-09-09 17:42:42 +0000",
+    "short_uuid": "72e14a0f"
+  },
+  {
+    "id": "9712f9fe-4afe-4eec-b52b-6e21682b582e",
+    "title": "At G-20, Biden announces ambitious corridor connecting India, Europe",
+    "description": "Senior Biden administration officials view the corridor as a way to open up the flow of energy and digital information, as well as to have Israel work with traditional adversaries including Saudi Arabia.",
+    "url": "https://www.washingtonpost.com/politics/2023/09/09/g20-communique-india-europe-israel/",
+    "author": "Matt Viser",
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RRSFDSA7RHAQBWOZTYMYUMKT3M_size-normalized.jpg&w=1440",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-09 17:39:56 +0000",
+    "short_uuid": "669cb0e8"
+  },
+  {
+    "id": "8827bab2-5eb7-4a9a-aafb-51482d18d504",
+    "title": "Tom Brady attends US Open, introduces his children to Novak Djokovic following semifinal win",
+    "description": "Seven-time Super Bowl winner Tom Brady attended the US Open Tennis Championships on Friday in Queens, New York City.\u00a0 No. 2 ranked Novak Djokovic won his semifinal match against Atlanta native Ben Shelton. After the match, Brady meet with Djokovic.\u00a0 The US Open shared a social media of Brady with hi...",
+    "url": "https://www.foxnews.com/sports/tom-brady-attends-us-open-introduces-his-children-to-novak-djokovic-following-semifinal-win",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/Tom-Brady-US-Open.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-09-09 17:13:11 +0000",
+    "short_uuid": "d0460456"
+  },
+  {
+    "id": "de248504-1783-4399-9573-84af93dd44a8",
+    "title": "New Mexico governor shocks with comment about Constitution after issuing temporary gun ban: Not 'absolute'",
+    "description": "New Mexico Gov. Michelle Lujan Grisham's controversial comments in defense of a temporary gun ban, prompted fierce backlash on social media. The Democrat issued an emergency public health order on Friday, suspending the right to carry guns in public across Albuquerque and the surrounding Bernalillo ...",
+    "url": "https://www.foxnews.com/media/new-mexico-governor-shocks-comment-constitution-issuing-temporary-gun-ban-not-absolute",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/AP20218760553243.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-09-09 17:09:53 +0000",
+    "short_uuid": "f9ea258d"
   }
 ]
