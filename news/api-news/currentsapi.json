@@ -54687,5 +54687,47 @@
     ],
     "published": "2023-09-08 19:37:12 +0000",
     "short_uuid": "eba946db"
+  },
+  {
+    "id": "c121d680-90c6-4397-b960-34f24ef47068",
+    "title": "5th Circuit finds Biden White House, CDC violated First Amendment",
+    "description": "The judges wrote that the White House, the Surgeon General, the CDC and the FBI likely \u201ccoerced the platforms to make their moderation decisions by way of intimidating messages and threats of adverse consequences.\u201d",
+    "url": "https://www.washingtonpost.com/technology/2023/09/08/5th-circuit-ruling-covid-content-moderation/",
+    "author": "Cat Zakrzewski, Joseph Menn",
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XMVWFEQUP25K3LPC574MQO33XQ.JPG&w=1440",
+    "language": "en",
+    "category": [
+      "technology"
+    ],
+    "published": "2023-09-09 00:27:57 +0000",
+    "short_uuid": "9bcf5cf6"
+  },
+  {
+    "id": "c299f3df-963d-4d3d-b4e4-065653c51e6a",
+    "title": "Dennis Austin, the software developer of PowerPoint, dies at 76",
+    "description": "PowerPoint was the overhead projector\u2019s digital successor. It became one of the most ubiquitous and scorned programs of modern office life.",
+    "url": "https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/",
+    "author": "Michael Rosenwald",
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U7KG327NNBHTPJ3KQPECY4PHMY.jpg&w=1440",
+    "language": "en",
+    "category": [
+      "technology"
+    ],
+    "published": "2023-09-08 23:11:59 +0000",
+    "short_uuid": "22e21cf6"
+  },
+  {
+    "id": "e822665a-bce3-416a-ae49-ea07a0ee504a",
+    "title": "Live updates: Trump Georgia special grand jury report and latest election subversion case news",
+    "description": "US District Court Judge Steve Jones concluded that some of Mark Meadows\u2019 high-stakes testimony on the witness stand last month was lacking \u2013 and even used some of the former Trump chief of staff's tes...",
+    "url": "https://www.cnn.com/politics/live-news/trump-georgia-indictment-09-08-23/index.html",
+    "author": "Aditi Sangal",
+    "image": "https://cdn.cnn.com/cnnnext/dam/assets/230817002729-trump-trials-judges-2024-politics-super-tease.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-08 20:01:02 +0000",
+    "short_uuid": "9c4100a5"
   }
 ]
