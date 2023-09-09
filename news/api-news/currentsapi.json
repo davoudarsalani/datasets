@@ -55701,5 +55701,103 @@
     ],
     "published": "2023-09-09 02:20:09 +0000",
     "short_uuid": "e7fcab3"
+  },
+  {
+    "id": "3e773f84-1432-49ab-8336-c48ec88c567e",
+    "title": "Live updates: More than 600 dead as powerful earthquake hits Morocco",
+    "description": "The United States Geological Survey said in a preliminary report that this was the first quake of such magnitude to hit the area in more than 100 years. It said earthquakes of this size were \u201cuncommon...",
+    "url": "https://www.washingtonpost.com/world/2023/09/08/morocco-earthquake-marrakesh/",
+    "author": "Claire Parker, Kelsey Ables, Ellen Francis",
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FZLU3M2TXARXOZQSORYGEW6T5A_size-normalized.jpg&w=1440",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2023-09-09 08:03:09 +0000",
+    "short_uuid": "82df18b7"
+  },
+  {
+    "id": "e7698f59-6f1f-41f2-9c9d-faf761d953c2",
+    "title": "Why Russia's failures in Ukraine could be a win for North Korea | CNN",
+    "description": "Seoul, South Korea CNN \u2014\n\nRussia\u2019s failures on the battlefield in Ukraine could turn into a win for North Korea.\n\nThat\u2019s the view of analysts who say a possible meeting between Kim Jong Un and Vladimi...",
+    "url": "https://www.cnn.com/2023/09/07/asia/north-korea-russia-military-relations-intl-hnk-ml/index.html",
+    "author": "Brad Lendon",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230907110540-kim-jong-un-putin-split.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-09-09 08:01:52 +0000",
+    "short_uuid": "97c8a721"
+  },
+  {
+    "id": "d38b19a1-36de-4ae0-bae3-371d31f95e43",
+    "title": "Kim Jong Un and his daughter celebrate North Korea's 75th anniversary. Xi and Putin send their regards | CNN",
+    "description": "Seoul, South Korea CNN \u2014\n\nKim Jong Un attended a \u201cparamilitary parade\u201d with his daughter to mark the 75th anniversary of North Korea\u2019s founding on Saturday, the country\u2019s state media have reported.\n\nP...",
+    "url": "https://www.cnn.com/2023/09/08/asia/north-korea-parade-intl-hnk/index.html",
+    "author": "Gawon Bae",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230908193354-01-kim-jong-un-parade-0909.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-09-09 08:01:52 +0000",
+    "short_uuid": "10e499e7"
+  },
+  {
+    "id": "3b4d3277-79db-4cda-b0a9-010b8f27bbd4",
+    "title": "Philippines accuses Chinese vessels of 'dangerous maneuvers' in disputed South China Sea | CNN",
+    "description": "CNN \u2014\n\nThe Philippines has accused Chinese vessels of carrying out \u201cdangerous maneuvers\u201d in a disputed area of the South China Sea in the latest maritime flare-up between the two neighbors.\n\nThe Phili...",
+    "url": "https://www.cnn.com/2023/09/09/asia/philippines-south-china-sea-dangerous-maneuvers-intl-hnk/index.html",
+    "author": "Shawn Deng Chris Lau",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230909032119-02-philippines-china-sea-conflict-082223.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-09-09 08:01:52 +0000",
+    "short_uuid": "7fd07921"
+  },
+  {
+    "id": "03d0098e-c8e9-4012-8100-a98dff3b5cbc",
+    "title": "Ukraine live briefing: Zelensky says no compromise with \u2018liar\u2019 Putin",
+    "description": "Ukraine live briefing: Zelensky says no compromise with \u2018liar\u2019 Putin Ukrainian President Volodymyr Zelensky said he would not reach a compromise with Russian President Vladimir Putin, whom he called a...",
+    "url": "https://www.washingtonpost.com/world/2023/09/09/russia-ukraine-war-news/",
+    "author": "Andrew Jeong",
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2GISQLBLYHQRKDZXA6JS5BQAFQ.JPG&w=1440",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2023-09-09 05:23:27 +0000",
+    "short_uuid": "23a21c5f"
+  },
+  {
+    "id": "078eee90-3212-4668-bc46-8be98f1579ee",
+    "title": "Gov. Kristi Noem endorses Trump as he visits South Dakota",
+    "description": "WASHINGTON \u2014 South Dakota Gov. Kristi Noem endorsed former President Donald Trump at a party fundraiser in South Dakota Friday night that doubled as an opportunity for Noem to showcase herself as a po...",
+    "url": "https://www.washingtontimes.com/news/2023/sep/8/kristi-noem-endorses-donald-trump-he-visits-south-/",
+    "author": "The Washington Times Https",
+    "image": "https://twt-thumbs.washtimes.com/media/image/2023/09/07/Election_2024_Trump_South_Dakota_69360_c0-90-2780-1711_s1200x700.jpg?7d8a06c6ee13981152660b4edab0528675a57d10",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-09 03:05:24 +0000",
+    "short_uuid": "f3dacbea"
+  },
+  {
+    "id": "3b2dcb0c-f0e9-41ab-bcee-337abb1f4286",
+    "title": "South Dakota Gov. Kristi Noem endorses Trump",
+    "description": "South Dakota Gov. Kristi Noem endorsed former President Trump on Friday in the 2024 Republican presidential primary at a campaign rally in her home \u2026",
+    "url": "https://www.axios.com/2023/09/09/kristi-noem-south-dakota-trump-endorsement",
+    "author": "Erin Doherty",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-09 02:23:33 +0000",
+    "short_uuid": "9c5240a8"
   }
 ]
