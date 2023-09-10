@@ -58170,5 +58170,195 @@
     ],
     "published": "2023-09-10 11:34:00 +0000",
     "short_uuid": "1381fd91"
+  },
+  {
+    "id": "26b9e5eb-5b37-4cec-8221-4cb862fd2a6a",
+    "title": "Impact of Mobile Technology and Use of Big Data in Physics Education During Coronavirus Lockdown",
+    "description": "",
+    "url": "https://ieeexplore.ieee.org/document/10097656",
+    "author": "Edeh Michael Onyema Rijwan Khan Nwafor Chika Eucheria Tribhuwan Kumar",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "EE",
+      "IR"
+    ],
+    "published": "2023-09-10 16:00:00 +0000",
+    "short_uuid": "3f48e59"
+  },
+  {
+    "id": "f15c48c4-9806-48a7-96e7-f7c743e2db13",
+    "title": "Extraction of Fetal Electrocardiogram by Combining Deep Learning and SVD-ICA-NMF Methods",
+    "description": "",
+    "url": "https://ieeexplore.ieee.org/document/10097661",
+    "author": "Said Ziani Yousef Farhaoui Mohammed Moutaib",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "EE",
+      "IR"
+    ],
+    "published": "2023-09-10 16:00:00 +0000",
+    "short_uuid": "dcc1b573"
+  },
+  {
+    "id": "c72c09e4-b1d5-434f-8325-07baeb230f3d",
+    "title": "An Intelligent Heuristic Manta-Ray Foraging Optimization and Adaptive Extreme Learning Machine for Hand Gesture Image Recognition",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/10097660",
+    "author": "Seetharam Khetavath Navalpur Chinnappan Sendhilkumar Pandurangan Mukunthan Selvaganesan Jana Subburayalu Gopalakrishnan Lakshmanan Malliga Sankuru Ravi Chand Yousef Farhaoui",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "EE",
+      "IR"
+    ],
+    "published": "2023-09-10 16:00:00 +0000",
+    "short_uuid": "8ca6157e"
+  },
+  {
+    "id": "874e27b4-4aa0-448e-8d54-705cc0fd4602",
+    "title": "Human Action Recognition Using Difference of Gaussian and Difference of Wavelet",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/10097655",
+    "author": "Gopampallikar Vinoda Reddy Kongara Deepika Lakshmanan Malliga Duraivelu Hemanand Chinnadurai Senthilkumar Subburayalu Gopalakrishnan Yousef Farhaoui",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "EE",
+      "IR"
+    ],
+    "published": "2023-09-10 16:00:00 +0000",
+    "short_uuid": "a1b86659"
+  },
+  {
+    "id": "d9d10741-daf0-49f3-96ab-318f0edf397c",
+    "title": "Copy-Move Forgery Verification in Images Using Local Feature Extractors and Optimized Classifiers",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/10097650",
+    "author": "S. B. G. Tilak Babu Ch Srinivasa Rao",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "EE",
+      "IR"
+    ],
+    "published": "2023-09-10 16:00:00 +0000",
+    "short_uuid": "9a8d041d"
+  },
+  {
+    "id": "abcb8b09-6146-49ca-9ae6-6a6de898e155",
+    "title": "Artificial Intelligence Methods Applied to Catalytic Cracking Processes",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/10097651",
+    "author": "Fan Yang Mao Xu Wenqiang Lei Jiancheng Lv",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "EE",
+      "IR"
+    ],
+    "published": "2023-09-10 16:00:00 +0000",
+    "short_uuid": "852054aa"
+  },
+  {
+    "id": "cc23f664-3a1f-4d58-9bf4-a2da0660ddf2",
+    "title": "A Machine Learning Based Framework for a Stage-Wise Classification of Date Palm White Scale Disease",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/10097658",
+    "author": "Abdelaaziz Hessane Ahmed El Youssefi Yousef Farhaoui Badraddine Aghoutane Fatima Amounas",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "EE",
+      "IR"
+    ],
+    "published": "2023-09-10 16:00:00 +0000",
+    "short_uuid": "8e1bb630"
+  },
+  {
+    "id": "57e11ad6-6e0f-4340-abf9-ff795d707897",
+    "title": "An Ensemble Learning Based Intrusion Detection Model for Industrial IoT Security",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/10097653",
+    "author": "Mouaad Mohy-Eddine Azidine Guezzaz Said Benkirane Mourade Azrour Yousef Farhaoui",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "EE",
+      "IR"
+    ],
+    "published": "2023-09-10 16:00:00 +0000",
+    "short_uuid": "2142c5f3"
+  },
+  {
+    "id": "5fa7e764-0cc8-46e8-8f70-288f89759f97",
+    "title": "\u03c4SQWRL: A TSQL2-Like Query Language for Temporal Ontologies Generated from JSON Big Data",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/10097652",
+    "author": "Zouhaier Brahmia Fabio Grandi Rafik Bouaziz",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "EE",
+      "IR"
+    ],
+    "published": "2023-09-10 16:00:00 +0000",
+    "short_uuid": "9d555fb7"
+  },
+  {
+    "id": "679b6bf5-923c-41cb-9af7-8ac5556f7009",
+    "title": "Cloud-Based Intrusion Detection Approach Using Machine Learning Techniques",
+    "description": "",
+    "url": "http://ieeexplore.ieee.org/document/10097662",
+    "author": "Hanaa Attou Azidine Guezzaz Said Benkirane Mourade Azrour Yousef Farhaoui",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "EE",
+      "IR"
+    ],
+    "published": "2023-09-10 16:00:00 +0000",
+    "short_uuid": "50ba2e5"
+  },
+  {
+    "id": "8ce18694-e926-4935-a86b-857898517049",
+    "title": "Call for Papers: Special Issue on Intelligent Network Video Advances Based on Transformers",
+    "description": "",
+    "url": "https://ieeexplore.ieee.org/document/10097663",
+    "author": "ieee",
+    "image": "https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png",
+    "language": "en",
+    "category": [
+      "academia",
+      "EE",
+      "IR"
+    ],
+    "published": "2023-09-10 16:00:00 +0000",
+    "short_uuid": "9c7ccf09"
+  },
+  {
+    "id": "47b60d13-71be-493c-b438-7f2ea72140cc",
+    "title": "After G-20, Biden arrives in Vietnam to strengthen diplomatic ties",
+    "description": "Listen 10 min Share Comment on this story Comment\n\nHANOI \u2014 President Biden arrived in Vietnam on Sunday to an enthusiastic welcome, driving past Ho Chi Minh\u2019s expansive burial place and eventually int...",
+    "url": "https://www.washingtonpost.com/politics/2023/09/10/biden-g20-summit-india-vietnam/",
+    "author": "Matt Viser",
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U5UQFG2ACS6MI24UVRLYGZNIHY.jpg&w=1440",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-10 12:27:09 +0000",
+    "short_uuid": "221c053a"
   }
 ]
