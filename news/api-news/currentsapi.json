@@ -61195,5 +61195,427 @@
     ],
     "published": "2023-09-11 19:11:05 +0000",
     "short_uuid": "194b9fa0"
+  },
+  {
+    "id": "bdc8031b-3e7a-4594-9e18-89fe7bf9f3d8",
+    "title": "U.S. sets record for billion-dollar weather disasters in 1 year",
+    "description": "\u201cWe\u2019re seeing the fingerprints of climate change all over our nation,\u201d Smith said in an interview Monday. \u201cI would not expect things to slow down anytime soon.\u201d\n\nNOAA has been tracking billion-dollar ...",
+    "url": "https://www.politico.com/news/2023/09/11/billion-dollar-weather-disasters-00115160",
+    "author": "Associated Press",
+    "image": "https://static.politico.com/aa/09/6dfbab1e4da782c934bd99df8712/extreme-weather-rebuilding-vermont-40892.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-12 00:59:51 +0000",
+    "short_uuid": "f019c03"
+  },
+  {
+    "id": "218d9643-4a02-4bde-a12e-ac579eb33684",
+    "title": "Biden marks 9/11 in Alaska, calls on Americans 'to protect our democracy' | CNN Politics",
+    "description": "CNN \u2014\n\nPresident Joe Biden marked the 22nd anniversary of the September 11, 2001, terrorist attacks on Monday, telling servicemembers gathered in Anchorage, \u201cterrorism \u2013 including political and ideolo...",
+    "url": "https://www.cnn.com/2023/09/11/politics/biden-september-11-remarks/index.html",
+    "author": "Donald Judd",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230911171251-01-joe-biden-alaska-091123.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-12 00:56:37 +0000",
+    "short_uuid": "62ef1a92"
+  },
+  {
+    "id": "7d4a34f9-d972-4da4-8865-efc8c7fd3ce0",
+    "title": "House GOP push to launch Biden impeachment probe runs into Senate Republican skepticism | CNN Politics",
+    "description": "CNN \u2014\n\nHouse Republicans are not only facing resistance from within their own ranks to impeach President Joe Biden, they\u2019re also getting a cool reception from another key constituency: Senate Republic...",
+    "url": "https://www.cnn.com/2023/09/11/politics/senate-republican-skeptics-biden-impeachment/index.html",
+    "author": "Annie Grayer Manu Raju Melanie Zanona",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/180829105521-shelley-moore-capito.jpg?q=x_3,y_267,h_1684,w_2993,c_crop/w_800",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-12 00:56:37 +0000",
+    "short_uuid": "9c8ce91"
+  },
+  {
+    "id": "7408e67a-c5ce-4851-8823-595849363d03",
+    "title": "Biden expected to make final decision soon on sending long-range missiles to Ukraine | CNN Politics",
+    "description": "CNN \u2014\n\nPresident Joe Biden is expected to make a final decision soon on sending long-range missiles to Ukraine for the first time, a major step recommended by the State and Defense departments after m...",
+    "url": "https://www.cnn.com/2023/09/11/politics/biden-long-range-atacms-missiles-ukraine/index.html",
+    "author": "Natasha Bertrand Oren Liebermann Jennifer Hansler",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230911125654-army-tactical-missile-systems-file.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-12 00:56:37 +0000",
+    "short_uuid": "b8244a89"
+  },
+  {
+    "id": "9d5a3d37-4708-4fa1-a7d0-fa2742d34ac3",
+    "title": "Biden, out in the world, making deals to counter China | CNN Politics",
+    "description": "A version of this story appeared in CNN\u2019s What Matters newsletter. To get it in your inbox, sign up for free here.\n\nCNN \u2014\n\nJoe Biden has framed his presidency as a struggle of democracy versus autocra...",
+    "url": "https://www.cnn.com/2023/09/11/politics/biden-deals-what-matters/index.html",
+    "author": "Zachary B. Wolf",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230911161829-01-biden-deals-what-matters-091123.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-12 00:56:37 +0000",
+    "short_uuid": "34750bcb"
+  },
+  {
+    "id": "6bdb3ae2-a1c2-45bb-8f41-46708c59f908",
+    "title": "Biden admin takes step advancing deal to free Americans held in Iran by issuing waiver for transfer of restricted Iranian funds to Qatar | CNN Politics",
+    "description": "CNN \u2014\n\nThe Biden administration has issued a waiver to allow banks to transfer $6 billion in restricted Iranian funds to Qatar without fear of sanctions \u2013 a key step in a deal to free five Americans w...",
+    "url": "https://www.cnn.com/2023/09/11/politics/us-waiver-iran-funds/index.html",
+    "author": "Jennifer Hansler",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230804194941-antony-blinken-080123.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-12 00:56:37 +0000",
+    "short_uuid": "8108ef72"
+  },
+  {
+    "id": "4f1c8566-a726-4b86-ac2c-178391a7dacb",
+    "title": "Meadows urges federal appeals court to intervene in failed bid to move Fulton County criminal case to federal court | CNN Politics",
+    "description": "CNN \u2014\n\nFormer Trump White House chief of staff Mark Meadows on Monday urged a federal appeals court to intervene is his failed bid to move his Georgia criminal case to federal court.\n\nIn a filing to t...",
+    "url": "https://www.cnn.com/2023/09/11/politics/meadows-federal-appeals-court-intervention/index.html",
+    "author": "Devan Cole",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230814234745-mark-meadows-082220.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-12 00:56:37 +0000",
+    "short_uuid": "fb6e777"
+  },
+  {
+    "id": "d43733e9-3e14-42ef-b411-103614517576",
+    "title": "Trump asks Judge Tanya Chutkan to recuse herself from federal 2020 election subversion case | CNN Politics",
+    "description": "CNN \u2014\n\nFormer President Donald Trump is asking Judge Tanya Chutkan to recuse herself from the 2020 election subversion case against him brought by special counsel Jack Smith.\n\nTrump, in a new court fi...",
+    "url": "https://www.cnn.com/2023/09/11/politics/tanya-chutkan-trump-recusal-request/index.html",
+    "author": "Tierney Sneed Hannah Rabinowitz",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230811140751-12-trump-hearing-sketch-0811.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-12 00:56:37 +0000",
+    "short_uuid": "a0410082"
+  },
+  {
+    "id": "fe84c8c9-e48d-4773-9302-9b9efa2b5ee2",
+    "title": "Alabama asks Supreme Court to freeze lower court ruling blocking state's newly drawn congressional map | CNN Politics",
+    "description": "CNN \u2014\n\nAlabama asked the Supreme Court on Monday evening to freeze a lower court ruling that blocks the state\u2019s newly drawn congressional map, in a filing that critics say defies a Supreme Court opini...",
+    "url": "https://www.cnn.com/2023/09/11/politics/alabama-congressional-map-supreme-court/index.html",
+    "author": "Tierney Sneed Ariane De Vogue",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230911164633-supreme-court-file.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-12 00:56:37 +0000",
+    "short_uuid": "11e63164"
+  },
+  {
+    "id": "d3bc553c-c5f1-4c32-b994-e4c1d33f796b",
+    "title": "Trump asks judge to dismiss Georgia election subversion charges against him | CNN Politics",
+    "description": "CNN \u2014\n\nFormer President Donald Trump is asking a court to dismiss several criminal charges against him in the Georgia 2020 election interference case.\n\nHis filings on Monday are Trump\u2019s opening salvo ...",
+    "url": "https://www.cnn.com/2023/09/11/politics/trump-georgia-rico-request-to-dismiss/index.html",
+    "author": "Katelyn Polantz",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230901093100-donald-trump-0824.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-12 00:56:37 +0000",
+    "short_uuid": "4f3d05ba"
+  },
+  {
+    "id": "680716e9-601f-4a94-8808-b0c41372e2e3",
+    "title": "Police officer borrows a boy's small bicycle to chase a suspected burglar \u2014 and 'races off after wanted man'",
+    "description": "A police officer in the United Kingdom borrowed a schoolboy's small bicycle to chase a suspected burglar through a city \u2014 until she caught up with the suspect. Officer Harriett Taylor approached the youngster and asked, \"Please, can I borrow your bike? I will return it to you,\" as SWNS reported of t...",
+    "url": "https://www.foxnews.com/lifestyle/police-officer-borrows-boys-bike-chase-suspected-burglar-races-wanted-man",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/SWNS-Police-Bicycle_04.jpg",
+    "language": "en",
+    "category": [
+      "lifestyle"
+    ],
+    "published": "2023-09-12 00:50:01 +0000",
+    "short_uuid": "1d10c40a"
+  },
+  {
+    "id": "c0e61c18-0473-4996-820a-6c5daf4e1254",
+    "title": "Steve Forbes says the Fed's not going to cut rates soon",
+    "description": "Steve Forbes doesn't expect the Federal Reserve to raise rates in upcoming meetings, but the Forbes Media chairman doesn't see cuts in the near term either.\n\n\"I think the Federal Reserve is not going ...",
+    "url": "https://www.cnbc.com/2023/09/12/steve-forbes-says-the-feds-not-going-to-cut-rates-soon.html",
+    "author": "Lee Ying Shan",
+    "image": "https://image.cnbcfm.com/api/v1/image/103684584-RTX2F4EE.jpg?v=1694478978&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-09-12 00:36:18 +0000",
+    "short_uuid": "34fc6f49"
+  },
+  {
+    "id": "275048a8-d1a5-4114-a2fc-5287f070ba52",
+    "title": "How Luckin Coffee overtook Starbucks as the largest coffee chain in China",
+    "description": "SHENZHEN, CHINA - 2020/10/05: Chinese coffee shop chain Luckin Coffee logo seen at a store. (Photo by Alex Tai/SOPA Images/LightRocket via Getty Images) Sopa Images | Lightrocket | Getty Images\n\nChine...",
+    "url": "https://www.cnbc.com/2023/09/12/how-luckin-coffee-overtook-starbucks-in-china.html",
+    "author": "Sheila Chiang",
+    "image": "https://image.cnbcfm.com/api/v1/image/107295456-1693817356550-gettyimages-1228913752-a_tai_szx_201005_cocopark_7r306240.jpeg?v=1694478502&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-09-12 00:28:22 +0000",
+    "short_uuid": "1cd76b10"
+  },
+  {
+    "id": "0785854b-7134-41a4-a741-2cf82f7572f8",
+    "title": "Restaurants and Unions Agree to Raise Pay to $20 an Hour in California",
+    "description": "Labor groups and fast-food companies in California reached an agreement over worker regulations, paving the way for the minimum wage in the industry to increase to $20 per hour....",
+    "url": "https://www.nytimes.com/2023/09/11/business/california-restaurant-union-deal.html",
+    "author": "Santul Nerkar",
+    "image": "https://static01.nyt.com/images/2023/09/11/multimedia/11california-labor-gkfb/11california-labor-gkfb-facebookJumbo.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-12 00:22:30 +0000",
+    "short_uuid": "be7d6d51"
+  },
+  {
+    "id": "db64d22c-0017-47b5-8103-a098933d905f",
+    "title": "Here's what investors selling Oracle on the company's mixed quarter and lower guide are missing",
+    "description": "Oracle (ORCL) shares declined more than 9% on Monday evening after the enterprise software company reported a mixed fiscal 2024 first quarter that showed robust growth in cloud services, offset by luk...",
+    "url": "https://www.cnbc.com/2023/09/11/what-investors-selling-oracle-on-its-mixed-quarter-lower-guide-are-missing.html",
+    "author": "Jeff Marks",
+    "image": "https://image.cnbcfm.com/api/v1/image/107075209-1655160003727-gettyimages-1402735415-0j7a3774_dd7f0953-09e3-4e49-84eb-a08b68e5bf74.jpeg?v=1694477271&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-09-12 00:21:08 +0000",
+    "short_uuid": "705bbeb2"
+  },
+  {
+    "id": "3d1ba028-228e-4f51-8523-42923255cc4c",
+    "title": "Owner reunited with her dog that roamed the Atlanta airport for 3 weeks",
+    "description": "Owner reunited with her dog that roamed the Atlanta airport for 3 weeks\n\nEnlarge this image toggle caption @ATLairport/Twitter @ATLairport/Twitter\n\nMaia the dog was found exhausted but in good health ...",
+    "url": "https://www.npr.org/2023/09/11/1198814887/maia-dog-atlanta-airport-missing-3-weeks",
+    "author": "Dustin Jones",
+    "image": "https://media.npr.org/assets/img/2023/09/11/maia_wide-0707d408a929e5d741c6d929c8651a58e28ca775-s1400-c100.jpg",
+    "language": "en",
+    "category": [
+      "animals",
+      "lifestyle"
+    ],
+    "published": "2023-09-12 00:18:26 +0000",
+    "short_uuid": "8597c25"
+  },
+  {
+    "id": "c91ec388-396d-49ae-bdf7-f8581856d0d3",
+    "title": "Smucker CEO on merger with Hostess: 'We complement each other so well'",
+    "description": "Mark Smucker, CEO of food and beverage manufacturer J.M. Smucker, discussed his company's acquisition of Hostess Brands.",
+    "url": "https://www.cnbc.com/2023/09/11/smucker-ceo-on-hostess-merger-we-compliment-each-other-so-well.html",
+    "author": "cnbc",
+    "image": "https://image.cnbcfm.com/api/v1/image/104568946-GettyImages-450109704.jpg?v=1694475199&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-09-12 00:09:37 +0000",
+    "short_uuid": "1bd15631"
+  },
+  {
+    "id": "ab4e3e77-935b-4648-a3ba-ac7cce3b3d09",
+    "title": "Hail or Fail: Dominating defense helps Commanders overcome three turnovers",
+    "description": "Listen 5 min Share Comment on this story Comment\n\nA look at the good (Hail!) and bad (Fail!) from the Washington Commanders\u2019 20-16 win over the Arizona Cardinals on Sunday. Hail: A win is a win Never ...",
+    "url": "https://www.washingtonpost.com/sports/2023/09/11/commanders-cardinals-highlights-and-lowlights/",
+    "author": "Scott Allen",
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EI3TWDDSAW7JSK6BAQQKE24DEM_size-normalized.JPG&w=1440",
+    "language": "en",
+    "category": [
+      "sports"
+    ],
+    "published": "2023-09-12 00:08:00 +0000",
+    "short_uuid": "fd1b020c"
+  },
+  {
+    "id": "128c763f-9b61-441e-a072-787891b5b91e",
+    "title": "Analysis | What to know from NFL Week 1: Tua Tagovailoa is doing just fine, thanks",
+    "description": "Listen 12 min Share Comment on this story Comment\n\nThe first Sunday of the season started slow. Only one team in the 1 p.m. games reached 20 points by halftime. Rain pelted fields. Defenses smothered ...",
+    "url": "https://www.washingtonpost.com/sports/2023/09/11/nfl-week-1-tua-tagovailoa/",
+    "author": "Adam Kilgore",
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/V62OSDXNSZARRI3ZM7RK3P4ONE.jpg&w=1440",
+    "language": "en",
+    "category": [
+      "sports"
+    ],
+    "published": "2023-09-12 00:08:00 +0000",
+    "short_uuid": "c5d95849"
+  },
+  {
+    "id": "ee4e2699-2183-427f-b257-fba19f90f1b0",
+    "title": "Morocco\u2019s reluctance to accept quake aid baffles foreign governments",
+    "description": "Listen 4 min Share Comment on this story Comment\n\nGovernments far and wide have offered aid to Morocco following a 6.8-magnitude earthquake that has left more than 2,500 people dead and thousands inju...",
+    "url": "https://www.washingtonpost.com/world/2023/09/11/morocco-earthquake-foreign-aid/",
+    "author": "Loveday Morris",
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KVKX2UZHWGQ4HOJVEDDUGXNDZI.jpg&w=1440",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2023-09-12 00:04:31 +0000",
+    "short_uuid": "48f7b19b"
+  },
+  {
+    "id": "efefb144-3b6b-4bb3-8849-6d4d0722402a",
+    "title": "Trump demands recusal by Judge Chutkan in D.C. Jan. 6 trial",
+    "description": "Listen 6 min Share Comment on this story Comment\n\nAttorneys for Donald Trump on Monday asked U.S. District Judge Tanya S. Chutkan to disqualify herself from presiding over Trump\u2019s federal election obs...",
+    "url": "https://www.washingtonpost.com/dc-md-va/2023/09/11/trump-chutkan-recusal-jan-6-judge/",
+    "author": "Spencer S. Hsu",
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HXTTNHWQ2OOBQMKDTWHRIDLHCU_size-normalized.jpg&w=1440",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-12 00:02:52 +0000",
+    "short_uuid": "4d922403"
+  },
+  {
+    "id": "87b523b7-16ae-416b-81ea-ce9a56965976",
+    "title": "Gen. Milley: Putin has turned to North Korea with \"tin cup in hand\"",
+    "description": "Russian President Vladimir Putin has turned to North Korea \"with a tin cup in hand\" for aid in its war on Ukraine, the U.S. Joint Chiefs of Staff \u2026",
+    "url": "https://www.axios.com/2023/09/11/putin-russia-north-korea-us-general-milley",
+    "author": "Sareen Habeshian",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-11 23:57:40 +0000",
+    "short_uuid": "26ebfd2a"
+  },
+  {
+    "id": "bb723c25-2afc-4216-a072-e003922f41c3",
+    "title": "Ferid Murad, who won Nobel Prize for cardiovascular discovery, dies at 86",
+    "description": "Listen 5 min Share\n\nFerid Murad, a pharmacologist who shared a Nobel Prize in 1998 for discovering that nitric oxide, an air pollutant, plays a key role in relaxing blood vessels, a startling finding ...",
+    "url": "https://www.washingtonpost.com/obituaries/2023/09/11/ferid-murad-nobel-prize-winner-in-medicine-for-cardiovascular-discovery-of-nitroglycerin/",
+    "author": "Michael S. Rosenwald",
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6JZDDXKTI237MFX7NXFNGE2OUA.jpg&w=1440",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2023-09-11 23:57:35 +0000",
+    "short_uuid": "b7e5711e"
+  },
+  {
+    "id": "ef6c5ca8-41a0-4876-8c36-a47571cf8fce",
+    "title": "GOP senators: Next move to avert shutdown is on McCarthy",
+    "description": "Congressional leaders agree they\u2019ll need a stopgap bill to accomplish that, but House conservatives are already agitating to make passage of such a funding patch impossible without major concessions t...",
+    "url": "https://www.politico.com/news/2023/09/11/gop-senators-avert-shutdown-mccarthy-00115132",
+    "author": "Caitlin Emma, Ursula Perano,Jennifer Scholtes",
+    "image": "https://static.politico.com/19/1b/3286977c4f129e23a79c34ada0cf/kevin-mccarthy-13893.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-11 23:53:14 +0000",
+    "short_uuid": "6635c410"
+  },
+  {
+    "id": "00dbd852-7208-4908-b1e4-fed2451d5e5f",
+    "title": "U.S. advances deal with Iran to swap prisoners, free frozen oil funds",
+    "description": "Listen 5 min Share Comment on this story Comment\n\nThe Biden administration has issued a waiver for banks to transfer $6 billion in frozen Iranian oil funds without fear of U.S. sanctions \u2014 a key step ...",
+    "url": "https://www.washingtonpost.com/national-security/2023/09/11/us-iran-prisoner-exchange/",
+    "author": "John Hudson",
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NZA3UQW2SBXYBCKTRJAVOGIC3M.JPG&w=1440",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2023-09-11 23:51:38 +0000",
+    "short_uuid": "23195f97"
+  },
+  {
+    "id": "bfe3bc6b-d8f2-4585-a74e-3124bb84b6c6",
+    "title": "Kamala Harris' big-donor mission",
+    "description": "The Biden re-election campaign is deploying Vice President Kamala Harris to Chicago on Wednesday afternoon for a donor retreat, where she'll seek to \u2026",
+    "url": "https://www.axios.com/2023/09/11/biden-campaign-send-kamala-harris-chicago-donor-event",
+    "author": "Hans Nichols, Alex Thompson",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-11 23:49:06 +0000",
+    "short_uuid": "f42bdba5"
+  },
+  {
+    "id": "84bd20a7-c149-4ee7-85e5-369ef9060a2d",
+    "title": "Biden Falsely Claims He Visited Ground Zero the Day after 9/11 | National Review",
+    "description": "",
+    "url": "https://www.nationalreview.com/news/biden-falsely-claims-he-visited-ground-zero-the-day-after-9-11/",
+    "author": "Caroline Downey",
+    "image": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/09/joe-biden-alaska-2.jpg?fit=1200%2C700&ssl=1",
+    "language": "en",
+    "category": [
+      "opinion",
+      "politics"
+    ],
+    "published": "2023-09-11 23:40:05 +0000",
+    "short_uuid": "a0f2012c"
+  },
+  {
+    "id": "a029a702-ae76-475c-8518-fa761e1209ef",
+    "title": "McCarthy brushes off hardliner threats to oust him",
+    "description": "House Speaker Kevin McCarthy (R-Calif.) said Monday he is \"not at all\" worried about removal threats from his right flank. Why it matters: The comment \u2026",
+    "url": "https://www.axios.com/2023/09/11/mccarthy-motion-vacate-gaetz",
+    "author": "Andrew Solender",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-11 23:37:16 +0000",
+    "short_uuid": "60a7c70c"
+  },
+  {
+    "id": "2247e882-19c3-4d86-a879-f736a984c9a7",
+    "title": "Biden Marks 9/11 Anniversary With a Message of Unity",
+    "description": "President Biden marked the 22nd anniversary of the Sept. 11 terrorist attacks on Monday with a message of unity, saying Americans must protect democratic ideals.\n\nMr. Biden delivered remarks from a mi...",
+    "url": "https://www.nytimes.com/2023/09/11/us/politics/biden-9-11-anniversary.html",
+    "author": "Erica L. Green",
+    "image": "https://static01.nyt.com/images/2023/09/11/multimedia/11dc-biden-02-tvlz/11dc-biden-02-tvlz-facebookJumbo.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-11 23:34:02 +0000",
+    "short_uuid": "80f0234d"
+  },
+  {
+    "id": "5f7104f0-2775-4270-9e49-0b9641cb94e1",
+    "title": "Newsom\u2019s Senate caretaker plan is \u2018insulting\u2019 to Black women, Rep. Lee says",
+    "description": "Listen 4 min Share Comment on this story Comment\n\nAmid questions about the health of Sen. Dianne Feinstein (D-Calif.), California Gov. Gavin Newsom (D) outlined a plan to appoint a caretaker to fill h...",
+    "url": "https://www.washingtonpost.com/politics/2023/09/11/gavin-newsom-barbara-lee/",
+    "author": "Maegan Vazquez",
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/33EMADHYQ6TQNRLCNTAZXNI46M_size-normalized.jpg&w=1440",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-11 23:32:48 +0000",
+    "short_uuid": "a55eb868"
   }
 ]
