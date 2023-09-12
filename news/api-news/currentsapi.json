@@ -62757,5 +62757,34 @@
     ],
     "published": "2023-09-12 11:55:02 +0000",
     "short_uuid": "160eff3f"
+  },
+  {
+    "id": "1c51a92a-020b-42dc-8c20-59856a9dc4fd",
+    "title": "Google faces federal regulators in biggest antitrust trial in decades",
+    "description": "Google is set to square off Tuesday with the U.S. government in the most important antitrust case in a quarter century, a trial that could weaken the internet giant's grip on the search market.\n\nThe D...",
+    "url": "https://www.cbsnews.com/news/google-monopoly-trial-sundar-pichai-larry-page/",
+    "author": "cbsnews",
+    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/09/12/4aca4aab-5891-409f-b919-d6ed659e51c2/thumbnail/1200x630/8e8a95976a13883eced2682bdfe8fde1/screenshot-2023-09-12-at-8-38-15-am.png?v=4e5c11166f529429e37bbcbb597e9315",
+    "language": "en",
+    "category": [
+      "politics",
+      "world"
+    ],
+    "published": "2023-09-12 12:45:37 +0000",
+    "short_uuid": "d1f67b1d"
+  },
+  {
+    "id": "a3b24534-2602-408d-9da2-7a2c9bc87837",
+    "title": "Google trial set to begin in first major tech antitrust case in decades",
+    "description": "Listen 4 min Share Comment on this story Comment\n\n\u201cThis wheel has been turning for more than 12 years and it always turns to Google\u2019s advantage,\u201d Justice Department attorney Kenneth Dintzer said in hi...",
+    "url": "https://www.washingtonpost.com/technology/2023/09/12/doj-google-antitrust-case/",
+    "author": "Eva Dou",
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2TV6PCH5PUI6RIL6CYVXCLUPYI_size-normalized.jpg&w=1440",
+    "language": "en",
+    "category": [
+      "technology"
+    ],
+    "published": "2023-09-12 12:30:32 +0000",
+    "short_uuid": "81bc3a3"
   }
 ]
