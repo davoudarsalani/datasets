@@ -62786,5 +62786,19 @@
     ],
     "published": "2023-09-12 12:30:32 +0000",
     "short_uuid": "81bc3a3"
+  },
+  {
+    "id": "49cef27c-4be6-4e2a-8910-5b4c73a25cf5",
+    "title": "September 11, 2023 Russia-Ukraine news",
+    "description": "Residents of Kyiv have been reacting to the warning from President Volodymyr Zelensky that the war against Russia may go on for some time yet.\n\n\u201cI have to be ready, my team has to be ready for the lon...",
+    "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-09-11-23/index.html",
+    "author": "Kathleen Magramo Helen Regan Christian Edwards Aditi Sangal Elise Hammond",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230906214227-ukraine-frontlines-vpx.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-09-12 13:13:11 +0000",
+    "short_uuid": "817b0655"
   }
 ]
