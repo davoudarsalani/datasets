@@ -65272,5 +65272,33 @@
     ],
     "published": "2023-09-13 12:19:00 +0000",
     "short_uuid": "3fca7086"
+  },
+  {
+    "id": "137bb99c-ec2e-4278-8338-82bf2dc1733e",
+    "title": "Inflation nudged up again in August",
+    "description": "Listen 8 min Share Comment on this story Comment\n\nHigh gas and housing costs pushed inflation higher in August, muddling the Federal Reserve\u2019s ongoing fight to slow the economy and tame consumer price...",
+    "url": "https://www.washingtonpost.com/business/2023/09/13/cpi-inflation-august/",
+    "author": "Rachel Siegel",
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C7J47A2SXLZAUJH3XDJGOARYCU_size-normalized.jpg&w=1440",
+    "language": "en",
+    "category": [
+      "business"
+    ],
+    "published": "2023-09-13 12:32:41 +0000",
+    "short_uuid": "5df905dc"
+  },
+  {
+    "id": "a71960d0-b558-4a0b-b5aa-e1a3c42ebe9e",
+    "title": "Washington Nationals, GM Mike Rizzo agree to contract extension",
+    "description": "Listen 6 min Share Comment on this story Comment\n\nThe Washington Nationals have agreed to a multiyear contract extension with Mike Rizzo, the team announced Wednesday, keeping their longtime general m...",
+    "url": "https://www.washingtonpost.com/sports/2023/09/13/mike-rizzo-nationals-contract-extension/",
+    "author": "Andrew Golden",
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YYWLZCBBMJA445CIUOTR2GSZO4.jpg&w=1440",
+    "language": "en",
+    "category": [
+      "sports"
+    ],
+    "published": "2023-09-13 12:27:00 +0000",
+    "short_uuid": "c364d11b"
   }
 ]
