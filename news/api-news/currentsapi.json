@@ -66829,5 +66829,19 @@
     ],
     "published": "2023-09-14 04:00:08 +0000",
     "short_uuid": "2e6e97c3"
+  },
+  {
+    "id": "b04b52e3-f567-4c64-b11e-f1bd78a1ffd8",
+    "title": "Russia's war in Ukraine: live updates",
+    "description": "Video grab of a drone explosion at Yevpatoria military base, Crimea, on September 14. Anastasia Magazova/X\n\nUkraine launched an extensive assault on a Russian naval repair base in occupied Crimea earl...",
+    "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-09-14-23/index.html",
+    "author": "Tara Subramaniam",
+    "image": "https://cdn.cnn.com/cnnnext/dam/assets/230908163652-ukraine-counteroffensive-090823-super-tease.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-09-14 06:33:09 +0000",
+    "short_uuid": "146bd37d"
   }
 ]
