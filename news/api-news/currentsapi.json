@@ -66297,5 +66297,47 @@
     ],
     "published": "2023-09-14 00:31:25 +0000",
     "short_uuid": "b6b17e09"
+  },
+  {
+    "id": "4c5f7998-a9e8-4913-943c-729ef8ea9e3f",
+    "title": "Biden addresses impeachment for first time after McCarthy announces inquiry",
+    "description": "President Joe Biden on Wednesday made his first remarks on the Republican-led impeachment inquiry announced a day earlier by House Speaker Kevin McCarthy.\n\n\u201cI don\u2019t know quite why, but they just knew ...",
+    "url": "https://www.nbcnews.com/politics/joe-biden/biden-addresses-house-gop-impeachment-inquiry-first-time-rcna104981",
+    "author": "Zo\u00eb Richards",
+    "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-09/230913-joe-biden-ac-855p-d3220f.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-14 01:28:03 +0000",
+    "short_uuid": "32493974"
+  },
+  {
+    "id": "c5c4eb24-0f70-488a-b409-dd1101d3ac1c",
+    "title": "Howard Schultz, former Starbucks CEO, steps down from company's board",
+    "description": "His third stint as Starbucks\u2019 chief executive ended in March, as Laxman Narasimhan stepped into the role. Schultz spent 11 months back in the top job. During that time, he crafted a strategy to modern...",
+    "url": "https://www.nbcnews.com/business/business-news/howard-schultz-former-ceo-starbucks-steps-board-rcna104980",
+    "author": "Amelia Lucas",
+    "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-09/230913-Howard-Schultz-starbucks-2017-ac-904p-594ad6.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-14 01:14:58 +0000",
+    "short_uuid": "c82d4f8f"
+  },
+  {
+    "id": "d139c108-36b8-4b97-88b8-099647c69240",
+    "title": "Mitt Romney Bashes Donald Trump as He Declines to Run for Reelection",
+    "description": "Sen. Mitt Romney (R-UT) took a shot at former President Donald Trump and criticized him for his lack of \u201cleadership\u201d during his Wednesday announcement that he is not seeking reelection in 2024.\n\nRomne...",
+    "url": "https://www.breitbart.com/politics/2023/09/13/mitt-romney-bashes-donald-trump-declines-reelection/",
+    "author": "Jordan Dixon-Hamilton",
+    "image": "https://media.breitbart.com/media/2022/11/GettyImages-1421995342-1-640x335.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-14 00:32:45 +0000",
+    "short_uuid": "44185aa4"
   }
 ]
