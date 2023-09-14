@@ -66759,5 +66759,75 @@
     ],
     "published": "2023-09-14 03:00:55 +0000",
     "short_uuid": "fe3b99cd"
+  },
+  {
+    "id": "7b3a0c10-0d33-4a06-a0d3-5c1675b068ec",
+    "title": "DeSantis warns against Covid-19 boosters for people under 65 contradicting CDC guidance | CNN Politics",
+    "description": "CNN \u2014\n\nFlorida Gov. Ron DeSantis\u2019 administration is advising people under the age of 65 against getting the new Covid-19 booster shots from Pfizer/BioNTech and Moderna, contradicting federal health of...",
+    "url": "https://www.cnn.com/2023/09/13/politics/desantis-covid-booster-florida-2024/index.html",
+    "author": "Kit Maher Eric Bradner",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230913213239-ron-desantis-082323.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-14 07:26:07 +0000",
+    "short_uuid": "982d42f5"
+  },
+  {
+    "id": "9b25cd41-2921-43c0-9dae-175fb09a1b5b",
+    "title": "Turkey Slams European Parliament for Plea on Russia Sanctions",
+    "description": "Why did this happen?\n\nPlease make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie...",
+    "url": "https://www.bloomberg.com/news/articles/2023-09-14/turkey-slams-european-parliament-for-plea-on-russia-sanctions",
+    "author": "Selcan Hacaoglu",
+    "image": "",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-14 04:38:31 +0000",
+    "short_uuid": "a7cf2d8c"
+  },
+  {
+    "id": "7a6f0456-c1ae-48d1-8c43-c45d2510566d",
+    "title": "Australia to Toughen Limits on Ex-Personnel Who Train Foreign Militaries",
+    "description": "Why did this happen?\n\nPlease make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie...",
+    "url": "https://www.bloomberg.com/en/news/thp/2023-09-14/australia-to-toughen-restrictions-on-ex-service-personnel-who-would-train-foreign-militaries",
+    "author": "Associated Press",
+    "image": "",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-14 04:35:59 +0000",
+    "short_uuid": "c6ecf8d7"
+  },
+  {
+    "id": "2f289314-e0c4-47cc-a252-6f9e58df663a",
+    "title": "Foxconn Founder Taps Netflix Star as Running Mate in Taiwan Vote",
+    "description": "Why did this happen?\n\nPlease make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie...",
+    "url": "https://www.bloomberg.com/news/articles/2023-09-14/foxconn-founder-gou-picks-actress-as-running-mate-in-taiwan-election",
+    "author": "Chien-Hua Wan",
+    "image": "",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-14 04:32:45 +0000",
+    "short_uuid": "4688efad"
+  },
+  {
+    "id": "98287c76-4e11-438a-9578-41cf323b4e60",
+    "title": "China Paper Warns Europe of Retaliation After EV Subsidies Probe",
+    "description": "Why did this happen?\n\nPlease make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie...",
+    "url": "https://www.bloomberg.com/news/articles/2023-09-14/china-hits-back-at-european-probe-of-electric-car-subsidies",
+    "author": "Bloomberg News",
+    "image": "",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-14 04:00:08 +0000",
+    "short_uuid": "2e6e97c3"
   }
 ]
