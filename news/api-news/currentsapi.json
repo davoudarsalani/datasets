@@ -68861,5 +68861,19 @@
     ],
     "published": "2023-09-15 00:56:29 +0000",
     "short_uuid": "c31b4d08"
+  },
+  {
+    "id": "f5880efc-78af-49a2-91b1-7c316f2861ed",
+    "title": "UAW president says union will strike at three U.S. auto plants if no deal reached by midnight",
+    "description": "The selected plants produce highly profitable vehicles for the automakers that largely continue to be in high-demand. About 12,700 workers \u2013 5,800 at Stellantis, 3,600 at GM and 3,300 at Ford \u2013 will b...",
+    "url": "https://www.cnbc.com/2023/09/14/uaw-strikes-ford-gm-stellantis.html",
+    "author": "Michael Wayland",
+    "image": "https://image.cnbcfm.com/api/v1/image/107291710-1692904781275-IMG_7673.JPG?v=1694743946&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "national"
+    ],
+    "published": "2023-09-15 02:35:04 +0000",
+    "short_uuid": "3574dcbc"
   }
 ]
