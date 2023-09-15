@@ -70077,5 +70077,428 @@
     ],
     "published": "2023-09-15 12:01:00 +0000",
     "short_uuid": "b9e631f7"
+  },
+  {
+    "id": "e42faf4c-5022-4174-b4ab-5fa41e67acd6",
+    "title": "Trump and DeSantis to clash Friday as campaigns collide publicly in Washington and behind closed doors in Florida | CNN Politics",
+    "description": "CNN \u2014\n\nThe presidential campaigns of former President Donald Trump and Florida Gov. Ron DeSantis will clash out in the open and behind closed doors on Friday as their fight for the future of the GOP i...",
+    "url": "https://www.cnn.com/2023/09/15/politics/trump-desantis-washington-florida/index.html",
+    "author": "Steve Contorno",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230915102213-donald-trump-ron-desantis-split.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-15 19:57:59 +0000",
+    "short_uuid": "d49c0dff"
+  },
+  {
+    "id": "1d809cec-0401-4cb2-93dc-1697ecac38d1",
+    "title": "3 acquitted in final trial of Michigan Gov. Gretchen Whitmer kidnapping plot | CNN Politics",
+    "description": "CNN \u2014\n\nThree men were acquitted Friday on all charges against them in connection to allegations that they were involved in a 2020 plot to kidnap Michigan Gov. Gretchen Whitmer.\n\nEric Molitor, William ...",
+    "url": "https://www.cnn.com/2023/09/15/politics/gretchen-whitmer-michigan-kidnapping-plot/index.html",
+    "author": "Lauren Del Valle",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230915105919-01-gretchen-whitmer-012523-file.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-15 19:57:59 +0000",
+    "short_uuid": "2eebf953"
+  },
+  {
+    "id": "15b71f76-cd4a-450a-b08e-e84d6c1897b7",
+    "title": "Republican Dave McCormick expected to announce US Senate bid in Pennsylvania | CNN Politics",
+    "description": "CNN \u2014\n\nRepublican Dave McCormick, a former hedge fund executive and Gulf War veteran, is expected to launch a second bid for US Senate in Pennsylvania, according to two sources familiar with his plans...",
+    "url": "https://www.cnn.com/2023/09/15/politics/david-mccormick-senate-run/index.html",
+    "author": "Gregory Krieg Daniel Strauss Kristen Holmes",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230628100631-02b-dave-mccormick-lead-image.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-15 19:57:59 +0000",
+    "short_uuid": "7a524082"
+  },
+  {
+    "id": "5069c187-cfd3-45ad-823f-10e5dd01c844",
+    "title": "Lawmakers fear tumbling into a shutdown | CNN Politics",
+    "description": "CNN \u2014\n\nA chaotic week on Capitol Hill yielded no serious progress as Congress stares down a spending deadline at the end of the month with lawmakers acknowledging a government shutdown is not only pos...",
+    "url": "https://www.cnn.com/2023/09/15/politics/congress-government-shutdown-negotiations-latest/index.html",
+    "author": "Lauren Fox Morgan Rimmer Haley Talbot",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230915124544-debbie-wasserman-schultz-don-bacon-mary-gay-scanlon-split.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-15 19:57:59 +0000",
+    "short_uuid": "c790529f"
+  },
+  {
+    "id": "20ac8051-bf37-4018-8acc-76efc90544d4",
+    "title": "Justice Jackson implores Americans to 'own even the darkest parts of our past' in speech commemorating 60th anniversary of 16th Street Baptist Church bombing | CNN Politics",
+    "description": "CNN \u2014\n\nSupreme Court Justice Ketanji Brown Jackson on Friday implored Americans to \u201cown even the darkest parts of our past\u201d in a speech commemorating 60 years since the deadly 16th Street Baptist Chur...",
+    "url": "https://www.cnn.com/2023/09/15/politics/ketanji-brown-jackson-birmingham-church-bombing-anniversary/index.html",
+    "author": "Devan Cole",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230915131448-scotus-justice-brown-jackson-16th-street-baptist-church-screenshot.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-15 19:57:59 +0000",
+    "short_uuid": "98e4e8e3"
+  },
+  {
+    "id": "56050e90-5aa2-4220-9b89-3e4eafd5ad3f",
+    "title": "Texas Senate begins deliberations in impeachment trial for state AG Ken Paxton | CNN Politics",
+    "description": "CNN \u2014\n\nTexas Attorney General Ken Paxton\u2019s political fate is now in the hands of the state Senate, which began private deliberations in Paxton\u2019s impeachment trial just before noon Central time Friday ...",
+    "url": "https://www.cnn.com/2023/09/15/politics/ken-paxton-impeachment-texas-attorney-general/index.html",
+    "author": "Eric Bradner",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230915112019-01-ken-paxton-impeachment-091523.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-15 19:57:59 +0000",
+    "short_uuid": "e1de07bb"
+  },
+  {
+    "id": "c5fbd0ad-200f-4df4-8170-4140d10c83cd",
+    "title": "Twitter turned over at least 32 direct messages from Trump's account to special counsel | CNN Politics",
+    "description": "CNN \u2014\n\nTwitter turned over at least 32 direct messages from former President Donald Trump\u2019s account \u2013 @realDonaldTrump \u2013 to special counsel Jack Smith earlier this year as part of the federal election...",
+    "url": "https://www.cnn.com/2023/09/15/politics/trump-twitter-direct-messages/index.html",
+    "author": "Tierney Sneed Hannah Rabinowitz Katelyn Polantz",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230915122446-01-donald-trump-x-twitter-082523.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-15 19:57:59 +0000",
+    "short_uuid": "936a95b5"
+  },
+  {
+    "id": "956ae1e3-3fa7-48a7-8603-9d7f7878982e",
+    "title": "Fact check: Trump makes four false claims related to DeSantis | CNN Politics",
+    "description": "Washington CNN \u2014\n\nFormer President Donald Trump made false claims about a variety of people and subjects, notably including Florida governor and Republican presidential primary rival Ron DeSantis, in ...",
+    "url": "https://www.cnn.com/2023/09/15/politics/fact-check-trump-desantis-fauci-megyn-kelly/index.html",
+    "author": "Daniel Dale",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230915114832-01-donald-trump-megyn-kelly-interview-091523-screenshot.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-15 19:57:59 +0000",
+    "short_uuid": "9d8e4c44"
+  },
+  {
+    "id": "a5ded724-e716-4553-8225-12f0de8cf033",
+    "title": "Biden to meet with Netanyahu at UN General Assembly for first face-to-face meeting since Israeli PM returned to office | CNN Politics",
+    "description": "CNN \u2014\n\nPresident Joe Biden next week will hold his first face-to-face meeting with Israeli Prime Minister Benjamin Netanyahu since the Israeli leader came back into office.\n\nBiden will meet Netanyahu ...",
+    "url": "https://www.cnn.com/2023/09/15/politics/joe-biden-meeting-netanyau-zelensky-unga/index.html",
+    "author": "Donald Judd",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230717154325-joe-biden-benjamin-netanyahu-split.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-15 19:57:59 +0000",
+    "short_uuid": "86f0691"
+  },
+  {
+    "id": "07d42bb2-3b6d-4f15-8662-64e05c754b59",
+    "title": "White House says Biden is focused on his job in the wake of his son's indictment | CNN Politics",
+    "description": "CNN \u2014\n\nPresident Joe Biden remains focused on his job \u2013 including preparing for next week\u2019s United Nations meetings \u2013 after his son was indicted on gun charges, according to US national security advis...",
+    "url": "https://www.cnn.com/2023/09/15/politics/joe-biden-hunter-biden-indictment/index.html",
+    "author": "Kevin Liptak",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230907094106-joe-biden-hunter-biden-041023.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-15 19:57:59 +0000",
+    "short_uuid": "a607339a"
+  },
+  {
+    "id": "a0cdef7e-d974-422f-a5fc-4a4815ed75b2",
+    "title": "Biden admin imposes new sanctions on Iran for anniversary of Mahsa Amini's death | CNN Politics",
+    "description": "CNN \u2014\n\nThe Biden administration on Friday imposed sanctions on more than two dozen Iranian individuals and entities tied to the violent suppression of protests following the death of Mahsa Amini one y...",
+    "url": "https://www.cnn.com/2023/09/15/politics/mahsa-amini-anniversary-sanctions/index.html",
+    "author": "Jennifer Hansler",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230716212426-03-iran-morality-police-mahsa-amini-restricted.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-15 19:57:59 +0000",
+    "short_uuid": "f1f6a140"
+  },
+  {
+    "id": "fb8c25d9-f137-453b-a084-66eb22d25261",
+    "title": "U.A.W. Strike Hits 3 Plants as It Seeks Big Raises and Other Gains",
+    "description": "Autoworkers walked off the job on Friday at three factories that produce of some of the Detroit carmakers\u2019 most popular vehicles, the opening salvos in what could become a protracted strike that hurts...",
+    "url": "https://www.nytimes.com/2023/09/15/business/uaw-strike-gm-ford-stellantis.html",
+    "author": "Jack Ewing",
+    "image": "https://static01.nyt.com/images/2023/09/15/multimedia/15uaw-strike-bqtf/15uaw-strike-bqtf-facebookJumbo.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-15 19:45:52 +0000",
+    "short_uuid": "eb74f3a0"
+  },
+  {
+    "id": "27d66ece-6911-42d6-9b17-3fec42e95176",
+    "title": "Senators ask Pentagon for answers on SpaceX\u2019s Starlink service in Ukraine",
+    "description": "WASHINGTON \u2014 Three Democratic members of the Senate Committee on Armed Services have asked the Pentagon for information about SpaceX CEO Elon Musk, and whether he \"directed the unilateral disabling or...",
+    "url": "https://www.cnbc.com/2023/09/15/spacex-starlink-service-in-ukraine-subject-of-senate-letter.html",
+    "author": "Lora Kolodny Amanda Macias",
+    "image": "https://image.cnbcfm.com/api/v1/image/107300058-1694614982023-gettyimages-1662699019-AFP_33V72U3.jpeg?v=1694807344&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "technology"
+    ],
+    "published": "2023-09-15 19:39:52 +0000",
+    "short_uuid": "6d03398d"
+  },
+  {
+    "id": "94065d8b-97a0-465c-98db-ce106af83f15",
+    "title": "Come On in, Fusion, the Water\u2019s Fine | National Review",
+    "description": "",
+    "url": "https://www.nationalreview.com/corner/come-on-in-fusion-the-waters-fine/",
+    "author": "Jack Butler",
+    "image": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2022/07/statue-of-liberty-flag.jpg?fit=1200%2C700&ssl=1",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-15 19:39:04 +0000",
+    "short_uuid": "c3042bfa"
+  },
+  {
+    "id": "d75104be-8416-43fe-a699-7c1c5e0bebbd",
+    "title": "Biden\u2019s Bad Week: The President Faces Personal and Political Setbacks",
+    "description": "It says something about the way things have been going for President Biden lately that being targeted for impeachment was not the worst news of a tough week.\n\nTo be sure, it was not a highlight. But o...",
+    "url": "https://www.nytimes.com/2023/09/15/us/politics/bidens-bad-week.html",
+    "author": "Peter Baker",
+    "image": "https://static01.nyt.com/images/2023/09/15/multimedia/15dc-biden-01-qjcz/15dc-biden-01-qjcz-facebookJumbo.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-15 19:37:11 +0000",
+    "short_uuid": "f97b2c27"
+  },
+  {
+    "id": "251fe981-3c2c-4533-b0e3-b7ef0231edaa",
+    "title": "UAW strike brings blue-collar vs. billionaire battle to Detroit",
+    "description": "In this article STLA\n\nGM\n\nF Follow your favorite stocks CREATE FREE ACCOUNT\n\nUnited Auto Workers union President Shawn Fain joins UAW members who are on a strike, on the picket line at the Ford Michig...",
+    "url": "https://www.cnbc.com/2023/09/15/uaw-strike-brings-blue-collar-vs-billionaire-battle-bernie-sanders-to-detroit.html",
+    "author": "Michael Wayland",
+    "image": "https://image.cnbcfm.com/api/v1/image/107301801-1694807417282-fain.jpg?v=1694807501&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "national"
+    ],
+    "published": "2023-09-15 19:28:29 +0000",
+    "short_uuid": "836e8568"
+  },
+  {
+    "id": "c627e86c-851e-4bbe-b8f5-f8d972808c0c",
+    "title": "Delegation from Yemen\u2019s Houthi rebels flies into Saudi Arabia for peace talks",
+    "description": "DUBAI, United Arab Emirates (AP) \u2014 A delegation from Yemen\u2019s Houthi rebels has flown into Saudi Arabia for talks with the kingdom on potentially ending the yearslong war tearing at the Arab world\u2019s po...",
+    "url": "https://www.pbs.org/newshour/world/delegation-from-yemens-houthi-rebels-flies-into-saudi-arabia-for-peace-talks",
+    "author": "Jon Gambrell",
+    "image": "https://d3i6fh83elv35t.cloudfront.net/static/2021/02/2021-01-18T094840Z_936100673_RC29AL9HHWEQ_RTRMADP_3_YEMEN-SECURITY-RALLY-1024x683.jpg",
+    "language": "en",
+    "category": [
+      "politics",
+      "world"
+    ],
+    "published": "2023-09-15 19:27:20 +0000",
+    "short_uuid": "150939df"
+  },
+  {
+    "id": "3b415cd9-4a2e-488a-ba57-48dc3bcc5e8e",
+    "title": "Drew Barrymore posts tearful video about resuming show amid strike, says 'nothing I can do'",
+    "description": "Drew Barrymore weighed in on her controversial decision to resume production on \"The Drew Barrymore Show\" amid the ongoing writers strike.\n\n\u201cI know there\u2019s just nothing I can do that will make this ok...",
+    "url": "https://www.nbcnews.com/news/us-news/drew-barrymore-posts-tearful-video-resuming-show-strike-says-nothing-c-rcna105344",
+    "author": "Https",
+    "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-09/230915-Drew-Barrymore-show-ew-321p-a40806.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-15 19:24:24 +0000",
+    "short_uuid": "1a9c5fb3"
+  },
+  {
+    "id": "7e8d0d65-c365-4a9a-b9a1-d722c3833b5d",
+    "title": "Aaron Rodgers on chances of returning this season: 'Anything's possible'",
+    "description": "Immediately after Aaron Rodgers ruptured his Achilles Monday night, people wondered if his career was over. But he sounds confident he'll continue playing. In an Instagram post Wednesday, Rodgers said that he \"shall rise yet again\" while quoting Batman, and he echoed those sentiments Friday. Appeari...",
+    "url": "https://www.foxnews.com/sports/aaron-rodgers-chances-returning-this-season-anythings-possible",
+    "author": "foxnews",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/Aaron-Rodgers-1.jpg",
+    "language": "en",
+    "category": [
+      "sports"
+    ],
+    "published": "2023-09-15 19:23:21 +0000",
+    "short_uuid": "e90164bd"
+  },
+  {
+    "id": "8bc533c1-fc23-4e2c-beb9-b1414d7cffe7",
+    "title": "Rolling Stone\u2019s UVA Rape Story Was Anything but \u2018Bulletproof\u2019 | National Review",
+    "description": "",
+    "url": "https://www.nationalreview.com/corner/rolling-stones-uva-rape-story-was-anything-but-bulletproof/",
+    "author": "Charles C. W. Cooke",
+    "image": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2022/09/uva-2.jpg?fit=1200%2C700&ssl=1",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-15 19:19:21 +0000",
+    "short_uuid": "c1237b23"
+  },
+  {
+    "id": "8bbe1168-621a-4e64-82a9-485efc267465",
+    "title": "IRS to hire 3,700 new employees to audit the wealthy",
+    "description": "The IRS said Friday it has launched a nationwide search to recruit 3,700 new employees which the tax agency said it wants to use to expand audits on the country\u2019s wealthiest taxpayers.",
+    "url": "https://www.washingtontimes.com/news/2023/sep/15/irs-hire-3700-new-employees-audit-wealthy/",
+    "author": "Stephen Dinan",
+    "image": "https://twt-thumbs.washtimes.com/media/image/2023/04/17/BELTWAY_IRS_Free_File_35604.jpg-cf36b_c0-199-4773-2983_s1200x700.jpg?770d4423e5363983c4b1e4b9fc2f2113d23cd5d4",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-15 19:18:00 +0000",
+    "short_uuid": "d9d2ce56"
+  },
+  {
+    "id": "ce3a3b9b-8248-4996-ad87-348f4cd72702",
+    "title": "Texas Senate begins deliberations at Republican Attorney General Paxton's impeachment trial",
+    "description": "AUSTIN, Texas (AP) \u2014 The impeachment trial of Texas Attorney General Ken Paxton moved Friday into the hands of a Senate jury that was deciding whether the embattled Republican should be removed from o...",
+    "url": "https://www.pbs.org/newshour/politics/texas-senate-begins-deliberations-at-republican-attorney-general-paxtons-impeachment-trial",
+    "author": "Paul J. Weber",
+    "image": "https://d3i6fh83elv35t.cloudfront.net/static/2022/02/2021-11-01T182310Z_1948620526_RC2CLQ9MEW2R_RTRMADP_3_USA-COURT-ABORTION-1024x683.jpg",
+    "language": "en",
+    "category": [
+      "politics",
+      "world"
+    ],
+    "published": "2023-09-15 19:16:13 +0000",
+    "short_uuid": "cf3555bc"
+  },
+  {
+    "id": "1f622d7e-707c-4a92-9ba5-419a6c9c2289",
+    "title": "Americans aren't giving Biden much credit for his popular Medicare drug price negotiations, AP-NORC poll says",
+    "description": "WASHINGTON (AP) \u2014 President Joe Biden is trumpeting Medicare\u2019s new powers to negotiate directly with drugmakers on the cost of prescription medications \u2014 but a poll shows that any immediate political ...",
+    "url": "https://www.pbs.org/newshour/politics/americans-arent-giving-biden-much-credit-for-his-popular-medicare-drug-price-negotiations-ap-norc-poll-says",
+    "author": "Seung Min Kim",
+    "image": "https://d3i6fh83elv35t.cloudfront.net/static/2023/09/2023-02-09T195213Z_646887393_RC2U7Z97B1X4_RTRMADP_3_USA-BIDEN-1-1024x683.jpg",
+    "language": "en",
+    "category": [
+      "politics",
+      "world"
+    ],
+    "published": "2023-09-15 19:12:47 +0000",
+    "short_uuid": "9283994b"
+  },
+  {
+    "id": "d99084fc-625c-4566-8a2b-5cc832d395d6",
+    "title": "At the Capitol, Even the Attending Physician Can\u2019t Escape Politics",
+    "description": "When Senator Mitch McConnell of Kentucky, 81, wanted to quiet concerns about his health after two alarming on-camera episodes in which he appeared unable to speak or move, he turned to Dr. Brian P. Mo...",
+    "url": "https://www.nytimes.com/2023/09/15/us/politics/brian-monahan-capitol-attending-physician.html",
+    "author": "Kayla Guo",
+    "image": "https://static01.nyt.com/images/2023/09/15/multimedia/15dc-monahan-01-lvmg/15dc-monahan-01-lvmg-facebookJumbo.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-15 19:10:05 +0000",
+    "short_uuid": "abbe23d8"
+  },
+  {
+    "id": "1ad81694-48b3-4cb6-a36c-bb4135029d38",
+    "title": "Gun rights championed by conservatives could help Hunter Biden rebuff criminal charges",
+    "description": "The criminal indictment against Hunter Biden for illegal gun possession could run afoul of the new and broader 2nd Amendment interpretation that has been gaining traction in conservative courts.\n\nPres...",
+    "url": "https://www.latimes.com/politics/story/2023-09-15/hunter-biden-gun-charges-could-be-blocked-by-the-new-and-broader-2nd-amendmemt",
+    "author": "Staff Writer",
+    "image": "https://ca-times.brightspotcdn.com/dims4/default/421adaf/2147483647/strip/true/crop/2160x1134+0+153/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb1%2F3b%2Fe16f8d1644c6a7a0151c948e239e%2Fhunter-biden-30584.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-15 19:08:16 +0000",
+    "short_uuid": "18614941"
+  },
+  {
+    "id": "6b5aefd6-0611-49f5-a1cc-6eb247ea3074",
+    "title": "The U.N.\u2019s $3 Million Tent | National Review",
+    "description": "",
+    "url": "https://www.nationalreview.com/corner/the-u-n-s-3-million-tent/",
+    "author": "Jimmy Quinn",
+    "image": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/09/un.jpg?fit=1200%2C700&ssl=1",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-15 19:07:58 +0000",
+    "short_uuid": "5fe9eeb6"
+  },
+  {
+    "id": "75ddc7ae-8692-42f3-8b44-24682f540626",
+    "title": "Zelenskyy to visit Washington as Congress debates $24B in Ukraine aid",
+    "description": "Ukrainian President Volodymyr Zelenskyy will visit President Biden at the White House and lawmakers on Capitol Hill next week, national security advisor Jake Sullivan announced Friday.",
+    "url": "https://www.washingtontimes.com/news/2023/sep/15/ukrainian-president-volodymyr-zelenskyy-visit-wash/",
+    "author": "Jeff Mordock",
+    "image": "https://twt-thumbs.washtimes.com/media/image/2023/09/14/Russia_Ukraine_War_20590_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-15 19:01:19 +0000",
+    "short_uuid": "531a903b"
+  },
+  {
+    "id": "0566adb4-9f85-4466-b9c3-38fef4f0c777",
+    "title": "Trump bemoans high interest rates and indicates he might pressure Fed to lower",
+    "description": "Former President Donald Trump speaks with the press at the Iowa Pork Producers booth during the 2023 Iowa State Fair at the Iowa State Fairgrounds, Aug. 12, 2023. Demetrius Freeman | The Washington Po...",
+    "url": "https://www.cnbc.com/2023/09/15/trump-bemoans-high-interest-rates-and-indicates-he-might-pressure-fed-to-lower.html",
+    "author": "Jeff Cox",
+    "image": "https://image.cnbcfm.com/api/v1/image/107290005-1692708444078-gettyimages-1601917221-IOWASTATEFAIR2023.jpeg?v=1694807733&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "national"
+    ],
+    "published": "2023-09-15 19:00:19 +0000",
+    "short_uuid": "523f64e0"
+  },
+  {
+    "id": "8e4588fc-d9b4-4697-b0e5-8dd1a1e4cefd",
+    "title": "Texas Attorney General Ken Paxton's impeachment trial: Senate begins deliberations",
+    "description": "Austin, Texas \u2014 The Texas Senate on Friday morning began deliberating in the impeachment trial of state Attorney General Ken Paxton, who will be removed from office if he is convicted of any of the 16...",
+    "url": "https://www.cbsnews.com/news/texas-attorney-general-ken-paxton-impeachment-trial-senate-deliberations/",
+    "author": "Caroline Linton",
+    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/15/ad8110bf-fad3-4971-b4a3-44a70b74d34e/thumbnail/1200x630/88a5dfdae2d9d011e2ec6df265d50154/gettyimages-1663848433.jpg?v=6616762727d81e1cb010134e0c556e29",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-15 18:58:27 +0000",
+    "short_uuid": "6d0b8837"
+  },
+  {
+    "id": "087a0860-ae5b-4860-983b-77d6439ad701",
+    "title": "House GOP eyes adding border security to short-term spending deal",
+    "description": "House Republicans are working on a stopgap spending bill that includes border security measures, adding the sweetener to win support from arch-conservatives who are threatening to force a government shutdown.",
+    "url": "https://www.washingtontimes.com/news/2023/sep/15/house-gop-eyes-adding-border-security-short-term-s/",
+    "author": "Alex Miller",
+    "image": "https://twt-thumbs.washtimes.com/media/image/2023/09/15/House_Debt_Limit_82861_c0-0-6000-3500_s1200x700.jpg?d0cce8be4950beca0410149b2b60a47cc71c6403",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2023-09-15 18:51:52 +0000",
+    "short_uuid": "4afe2adf"
   }
 ]
