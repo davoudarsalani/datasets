@@ -69457,5 +69457,19 @@
     ],
     "published": "2023-09-15 03:08:34 +0000",
     "short_uuid": "b467ba02"
+  },
+  {
+    "id": "0d1bdfd3-1010-48d6-973d-6d7aa622dc10",
+    "title": "Live updates: Russia's war in Ukraine, Kim Jong Un and Vladimir Putin in Russia",
+    "description": "Russian-appointed authorities and Ukrainian officials shared conflicting accounts of a bombing incident Friday in Nova Kakhovka, in the occupied part of Kherson region, with each accusing the other of...",
+    "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-09-15-23/index.html",
+    "author": "Tara Subramaniam",
+    "image": "https://cdn.cnn.com/cnnnext/dam/assets/230910121012-01-ukr-soldier-mortar-090423-super-tease.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2023-09-15 07:34:40 +0000",
+    "short_uuid": "a66c04d9"
   }
 ]
