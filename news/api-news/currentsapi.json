@@ -70514,5 +70514,453 @@
     ],
     "published": "2023-09-15 19:07:58 +0000",
     "short_uuid": "a66f2ccc"
+  },
+  {
+    "id": "3f37dbfd-ddac-4730-b3c1-f85dc54cc7d4",
+    "title": "'Security Concerns' Caused Three-Day Internet Outage at the University of Michigan Last Week  (cbsnews.com)",
+    "description": "On August 30th the University of Michigan announced it had finally restored its internet connectivity and Wi-Fi network, according to the Ann Arbor News, \"after several days of outages caused by a 'significant security concern,' officials said.\"   The outage coincided with the first days of the new ...",
+    "url": "https://news.slashdot.org/story/23/09/09/069226/security-concerns-caused-three-day-internet-outage-at-the-university-of-michigan-last-week",
+    "author": "help",
+    "image": "https://a.fsdn.com/sd/topics/education_64.png",
+    "language": "en",
+    "category": [
+      "technology"
+    ],
+    "published": "2023-09-16 00:41:08 +0000",
+    "short_uuid": "aeb4afeb"
+  },
+  {
+    "id": "481330bd-b751-4264-a58b-4fe21d47e69b",
+    "title": "How a Breached  Microsoft Engineer Account Compromised the Email Accounts of US Officials  (yahoo.com)",
+    "description": "An anonymous reader shared this report from Bloomberg:\n\nChina-linked hackers breached the corporate account of a Microsoft engineer and are suspected of using that access to steal a valuable key that enabled the hack of senior U.S. officials' email accounts, the company said in a blog post. The hack...",
+    "url": "https://it.slashdot.org/story/23/09/11/0116237/how-a-breached-microsoft-engineer-account-compromised-the-email-accounts-of-us-officials",
+    "author": "help",
+    "image": "https://a.fsdn.com/sd/topics/security_64.png",
+    "language": "en",
+    "category": [
+      "technology"
+    ],
+    "published": "2023-09-16 00:41:08 +0000",
+    "short_uuid": "78b05056"
+  },
+  {
+    "id": "9cbf7227-a533-48ba-9fd8-248165620e68",
+    "title": "Microsoft To Kill Off Third-Party Printer Drivers in Windows  (theregister.com)",
+    "description": "Microsoft has made it clear: it will ax third-party printer drivers in Windows. From a report: The death rattle will be lengthy, as the timeline for the end of servicing stretches into 2027 -- although Microsoft noted that the dates will be subject to change. There is, after all, always that importa...",
+    "url": "https://hardware.slashdot.org/story/23/09/11/1828213/microsoft-to-kill-off-third-party-printer-drivers-in-windows",
+    "author": "help",
+    "image": "https://a.fsdn.com/sd/topics/microsoft_64100.png",
+    "language": "en",
+    "category": [
+      "technology"
+    ],
+    "published": "2023-09-16 00:41:08 +0000",
+    "short_uuid": "e25f7113"
+  },
+  {
+    "id": "fec5ae90-9534-4c8b-b869-13b30963f6f8",
+    "title": "Intel Unveils Thunderbolt 5 Standard for High-Speed Connectivity  (venturebeat.com)",
+    "description": "Intel has unveiled Thunderbolt 5, the latest iteration of its a standard aimed at enabling super-fast connectivity. From a report: With Thunderbolt 5, Intel promises a significant leap in connectivity speed and bandwidth, delivering enhanced performance for computer users. The unveiling of a prototy...",
+    "url": "https://it.slashdot.org/story/23/09/12/1359229/intel-unveils-thunderbolt-5-standard-for-high-speed-connectivity",
+    "author": "help",
+    "image": "https://a.fsdn.com/sd/topics/intel_64.png",
+    "language": "en",
+    "category": [
+      "technology"
+    ],
+    "published": "2023-09-16 00:41:08 +0000",
+    "short_uuid": "873075b0"
+  },
+  {
+    "id": "51bf3ffe-1f60-41e1-82c8-8556dae4d370",
+    "title": "Zara Finds Shoplifters Outsmarted Its New Security System  (bloomberg.com)",
+    "description": "Inditex is racing to iron bugs out of a new anti-shoplifting system for its Zara stores, slightly delaying its rollout partly because the security tags were easy to identify and remove in initial tests, Bloomberg reported Tuesday, citing people familiar with the matter. From the report: Chief Execut...",
+    "url": "https://it.slashdot.org/story/23/09/12/150213/zara-finds-shoplifters-outsmarted-its-new-security-system",
+    "author": "help",
+    "image": "https://a.fsdn.com/sd/topics/security_64.png",
+    "language": "en",
+    "category": [
+      "technology"
+    ],
+    "published": "2023-09-16 00:41:08 +0000",
+    "short_uuid": "8f9b378"
+  },
+  {
+    "id": "7110e3d3-b45c-44db-a535-593c46ab5911",
+    "title": "China Flags 'Security Incidents' With Apple's iPhones  (bloomberg.com)",
+    "description": "China flagged security problems with iPhones while saying it isn't barring purchases, the government's first comments on the topic after news reports that authorities are moving to restrict the use of Apple products in sensitive departments and state-owned companies. From a report: \"We noticed that ...",
+    "url": "https://apple.slashdot.org/story/23/09/13/1126228/china-flags-security-incidents-with-apples-iphones",
+    "author": "help",
+    "image": "https://a.fsdn.com/sd/topics/china_64.png",
+    "language": "en",
+    "category": [
+      "technology"
+    ],
+    "published": "2023-09-16 00:41:08 +0000",
+    "short_uuid": "a30ea5aa"
+  },
+  {
+    "id": "37b54b95-4558-4384-bd4e-60065cbbb33c",
+    "title": "Mozilla Patches Firefox, Thunderbird Against Zero-Day Exploited in Attacks  (bleepingcomputer.com)",
+    "description": "Mozilla has released emergency security updates to fix a critical zero-day vulnerability exploited in the wild, impacting its Firefox web browser and Thunderbird email client. From a report: Tracked as CVE-2023-4863, the security flaw is caused by a heap buffer overflow in the WebP code library (lib...",
+    "url": "https://tech.slashdot.org/story/23/09/13/1328236/mozilla-patches-firefox-thunderbird-against-zero-day-exploited-in-attacks",
+    "author": "help",
+    "image": "https://a.fsdn.com/sd/topics/mozilla_64.png",
+    "language": "en",
+    "category": [
+      "technology"
+    ],
+    "published": "2023-09-16 00:41:08 +0000",
+    "short_uuid": "1b785cf7"
+  },
+  {
+    "id": "8ef29acc-c4d0-48d0-a2bc-78acf4888dd0",
+    "title": "Password-Stealing Linux Malware Served For 3 Years and No One Noticed  (arstechnica.com)",
+    "description": "An anonymous reader quotes a report from Ars Technica: A download site surreptitiously served Linux users malware that stole passwords and other sensitive information for more than three years until it finally went quiet, researchers said on Tuesday. The site, freedownloadmanager[.]org, offered a be...",
+    "url": "https://yro.slashdot.org/story/23/09/13/2331208/password-stealing-linux-malware-served-for-3-years-and-no-one-noticed",
+    "author": "help",
+    "image": "https://a.fsdn.com/sd/topics/privacy_64.png",
+    "language": "en",
+    "category": [
+      "technology"
+    ],
+    "published": "2023-09-16 00:41:08 +0000",
+    "short_uuid": "2306521c"
+  },
+  {
+    "id": "6ec282f3-53e3-45dc-bcbf-2f03a885421f",
+    "title": "Hackers Claim It Only Took a 10-Minute Phone Call To Shut Down MGM Resorts  (engadget.com)",
+    "description": "An anonymous reader quotes a report from Engadget: The ALPHV/BlackCat ransomware group claimed responsibility for the MGM Resorts cyber outage on Tuesday, according to a post by malware archive vx-underground. The group claims to have used common social engineering tactics, or gaining trust from emp...",
+    "url": "https://it.slashdot.org/story/23/09/14/0120204/hackers-claim-it-only-took-a-10-minute-phone-call-to-shut-down-mgm-resorts",
+    "author": "help",
+    "image": "https://a.fsdn.com/sd/topics/security_64.png",
+    "language": "en",
+    "category": [
+      "technology"
+    ],
+    "published": "2023-09-16 00:41:08 +0000",
+    "short_uuid": "f60c154d"
+  },
+  {
+    "id": "52ac4fe1-e53a-44fa-bf59-af56954e7d7e",
+    "title": "Activist Investor To GoDaddy: Cut Costs and Improve Sales, or Sell",
+    "description": "GoDaddy needs to cut more jobs, reduce the tech budget, and address why it is falling short of financial targets outlined at its shareholder day in 2022, or the board should consider exploring a sale of the business. From a report: This is the view from activist investor Starboard Blue LLP, GoDaddy'...",
+    "url": "https://it.slashdot.org/story/23/09/14/1633215/activist-investor-to-godaddy-cut-costs-and-improve-sales-or-sell",
+    "author": "help",
+    "image": "https://a.fsdn.com/sd/topics/it_64.png",
+    "language": "en",
+    "category": [
+      "technology"
+    ],
+    "published": "2023-09-16 00:41:08 +0000",
+    "short_uuid": "971e497b"
+  },
+  {
+    "id": "94dbbbae-ff06-4cdf-8082-784e513b8aaa",
+    "title": "Google Won't Repair Cracked Pixel Watch Screens",
+    "description": "If you crack the screen on the Pixel Watch, getting it officially repaired by Google isn't on the cards. From a report: Several Pixel Watch owners have vented their frustrations about the inability to replace cracked screens, both on Reddit and in Google support forums. The Verge has also reviewed a...",
+    "url": "https://tech.slashdot.org/story/23/09/15/1410226/google-wont-repair-cracked-pixel-watch-screens",
+    "author": "help",
+    "image": "https://a.fsdn.com/sd/topics/topicgoogle_fb.gif",
+    "language": "en",
+    "category": [
+      "technology"
+    ],
+    "published": "2023-09-16 00:41:08 +0000",
+    "short_uuid": "52b6e6e8"
+  },
+  {
+    "id": "9c78d2cc-0677-40a1-8ad9-b07f57253bb3",
+    "title": "How Google Authenticator Made One Company's Network Breach Much, Much Worse  (arstechnica.com)",
+    "description": "A security company is calling out a feature in Google's authenticator app that it says made a recent internal network breach much worse. ArsTechnica: Retool, which helps customers secure their software development platforms, made the criticism on Wednesday in a post disclosing a compromise of its cu...",
+    "url": "https://tech.slashdot.org/story/23/09/15/1831219/how-google-authenticator-made-one-companys-network-breach-much-much-worse",
+    "author": "help",
+    "image": "https://a.fsdn.com/sd/topics/topicgoogle_fb.gif",
+    "language": "ca",
+    "category": [
+      "technology"
+    ],
+    "published": "2023-09-16 00:41:08 +0000",
+    "short_uuid": "f2dcbd86"
+  },
+  {
+    "id": "f5d97f4e-88ae-4e7f-96b4-34fbecff34b9",
+    "title": "Iranian Hackers Target Satellite and Defense Firms, Microsoft Says  (axios.com)",
+    "description": "Iranian hackers have hacked dozens of companies in the defense, satellite and pharmaceutical sectors this year using a fairly unsophisticated, blunt hacking technique, Microsoft warned in a new report. From a report: Many of these companies are based in the U.S., and the breaches come amid heavy U.S...",
+    "url": "https://it.slashdot.org/story/23/09/15/1818233/iranian-hackers-target-satellite-and-defense-firms-microsoft-says",
+    "author": "help",
+    "image": "https://a.fsdn.com/sd/topics/security_64.png",
+    "language": "en",
+    "category": [
+      "technology"
+    ],
+    "published": "2023-09-16 00:41:08 +0000",
+    "short_uuid": "f7503fb3"
+  },
+  {
+    "id": "19b3cde6-24fb-4ac8-a2b5-37d19196ab04",
+    "title": "Lina Khan Got Stuck in the Fallout of the MGM Hack at Las Vegas  (bloomberg.com)",
+    "description": "Among the hotel patrons snarled in the fallout of MGM Resorts' cyberattack was -- unfortunately for the company -- one very high-profile figure: Lina Khan, the chair of the US Federal Trade Commission. Bloomberg News: On Tuesday night, she was among the 45 people waiting to check in at the MGM Grand...",
+    "url": "https://it.slashdot.org/story/23/09/15/1840217/lina-khan-got-stuck-in-the-fallout-of-the-mgm-hack-at-las-vegas",
+    "author": "help",
+    "image": "https://a.fsdn.com/sd/topics/security_64.png",
+    "language": "en",
+    "category": [
+      "technology"
+    ],
+    "published": "2023-09-16 00:41:08 +0000",
+    "short_uuid": "b49af739"
+  },
+  {
+    "id": "2d6d4035-1738-4ca4-b592-eee25a3fd246",
+    "title": "Apple Will Update iPhone 12 in France After Regulators Said It Emitted Too Much Radiation  (apnews.com)",
+    "description": "Apple has agreed to install updates for the iPhone 12 in France after French regulators ordered the company to stop selling the model because it emits electromagnetic radiation levels that exceed European Union standards. From a report: The company, which just unveiled its newest generation of iPhon...",
+    "url": "https://apple.slashdot.org/story/23/09/15/1937201/apple-will-update-iphone-12-in-france-after-regulators-said-it-emitted-too-much-radiation",
+    "author": "help",
+    "image": "https://a.fsdn.com/sd/topics/software_64.png",
+    "language": "en",
+    "category": [
+      "technology"
+    ],
+    "published": "2023-09-16 00:41:08 +0000",
+    "short_uuid": "baa9bb9b"
+  },
+  {
+    "id": "8cac7727-d968-419a-b7e2-de77e9895051",
+    "title": "An Arkansas toddler dies of rare brain-eating amoeba infection likely contracted at splash pad | CNN",
+    "description": "An Arkansas toddler died of a rare brain-eating amoeba infection, which was likely contracted at a splash pad at a country club, according to health officials and the county coroner.",
+    "url": "https://www.cnn.com/2023/09/15/health/brain-eating-amoeba-arkansas-death/index.html",
+    "author": "cnn",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/230722113942-naegleria-fowleri-file.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "health"
+    ],
+    "published": "2023-09-16 00:38:17 +0000",
+    "short_uuid": "8b0642ca"
+  },
+  {
+    "id": "98362110-6bf2-4b96-9840-f5e0b71d2365",
+    "title": "Pleasant Valley volleyball opens league play with sweep of Red Bluff | Local roundup",
+    "description": "The Pleasant Valley volleyball team opened Eastern Athletic League play Thursday with a 3-0 sweep of Red Bluff. Report scores or results by emailing sports@chicoer.com. Results must be reported by \u2026",
+    "url": "https://www.chicoer.com/2023/09/15/pleasant-valley-volleyball-opens-league-play-with-sweep-of-red-bluff-local-roundup/",
+    "author": "Justin Couchot",
+    "image": "https://www.chicoer.com/wp-content/uploads/2023/09/ROUNDUP-01.jpg?w=640",
+    "language": "en",
+    "category": [
+      "regional",
+      "chico",
+      "california"
+    ],
+    "published": "2023-09-16 00:37:41 +0000",
+    "short_uuid": "e2661e"
+  },
+  {
+    "id": "abebdd80-6bb9-4451-9bd1-ee566dcf2938",
+    "title": "Adaptive KalmanNet: Data-Driven Kalman Filter with Fast Adaptation",
+    "description": "Combining the classical Kalman filter (KF) with a deep neural network (DNN)\nenables tracking in partially known state space (SS) models. A major limitation\nof current DNN-aided designs stems from the need to train them to filter data\noriginating from a specific distribution and underlying SS model. ...",
+    "url": "https://arxiv.org/abs/2309.07016",
+    "author": "Shlezinger, Nir",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "EE",
+      "SP"
+    ],
+    "published": "2023-09-16 00:34:47 +0000",
+    "short_uuid": "d8f3fcf4"
+  },
+  {
+    "id": "4b1fa28f-85c2-47b2-a234-98d8fa1b6fff",
+    "title": "A Wearable Ultra-Low-Power sEMG-Triggered Ultrasound System for Long-Term Muscle Activity Monitoring. (arXiv:2309.06851v2 [eess.SY] UPDATED)",
+    "description": "Surface electromyography (sEMG) is a well-established approach to monitor\nmuscular activity on wearable and resource-constrained devices. However, when\nmeasuring deeper muscles, its low signal-to-noise ratio (SNR), high signal\nattenuation, and crosstalk degrade sensing performance. Ultrasound (US)\nc...",
+    "url": "http://arxiv.org/abs/2309.06851",
+    "author": "<a href=\"http://arxiv.org/find/eess/1/au:+Frey_S/0/1/0/all/0/1\">Sebastian Frey</a>, <a href=\"http://arxiv.org/find/eess/1/au:+Kartsch_V/0/1/0/all/0/1\">Victor Kartsch</a>, <a href=\"http://arxiv.org/find/eess/1/au:+Leitner_C/0/1/0/all/0/1\">Christoph Leitner</a>, <a href=\"http://arxiv.org/find/eess/1/a",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "academic",
+      "EE",
+      "SP"
+    ],
+    "published": "2023-09-16 00:34:47 +0000",
+    "short_uuid": "9bd0ed83"
+  },
+  {
+    "id": "c9657b9d-656b-43e0-9889-e7061d4a19d1",
+    "title": "Quaternion MLP Neural Networks Based on the Maximum Correntropy Criterion",
+    "description": "We propose a gradient ascent algorithm for quaternion multilayer perceptron\n(MLP) networks based on the cost function of the maximum correntropy criterion\n(MCC). In the algorithm, we use the split quaternion activation function based\non the generalized Hamilton-real quaternion gradient. By introduci...",
+    "url": "https://arxiv.org/abs/2309.05208",
+    "author": "Zhang, Zuxuan",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "EE",
+      "SP"
+    ],
+    "published": "2023-09-16 00:34:47 +0000",
+    "short_uuid": "856ef4b7"
+  },
+  {
+    "id": "606dcd65-71b8-4f50-8766-cbf22a35348f",
+    "title": "Ubiquitous Indoor Fine-Grained Positioning and Tracking: A Channel Response Perspective",
+    "description": "The future of location-aided applications is shaped by the ubiquity of\nInternet-of-Things devices. As an increasing amount of commercial off-the-shelf\nradio devices support channel response collection, it is possible to achieve\nfine-grained position estimation at a relatively low cost. In this paper...",
+    "url": "https://arxiv.org/abs/2209.12158",
+    "author": "Joseph, Wout",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "EE",
+      "SP"
+    ],
+    "published": "2023-09-16 00:34:47 +0000",
+    "short_uuid": "88fc208"
+  },
+  {
+    "id": "419474d7-7ebe-43c1-a8af-7ddb1bcf3656",
+    "title": "On Distributed and Asynchronous Sampling of Gaussian Processes for Sequential Binary Hypothesis Testing. (arXiv:2309.07855v1 [eess.SP])",
+    "description": "In this work, we consider a binary sequential hypothesis testing problem with\ndistributed and asynchronous measurements. The aim is to analyze the effect of\nsampling times of jointly textit{wide-sense stationary} (WSS) Gaussian\nobservation processes at distributed sensors on the expected stopping ti...",
+    "url": "http://arxiv.org/abs/2309.07855",
+    "author": "<a href=\"http://arxiv.org/find/eess/1/au:+Sriranga_N/0/1/0/all/0/1\">Nandan Sriranga</a>, <a href=\"http://arxiv.org/find/eess/1/au:+Bulusu_S/0/1/0/all/0/1\">Saikiran Bulusu</a>, <a href=\"http://arxiv.org/find/eess/1/au:+Geng_B/0/1/0/all/0/1\">Baocheng Geng</a>, <a href=\"http://arxiv.org/find/eess/1/au:",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "academic",
+      "EE",
+      "SP"
+    ],
+    "published": "2023-09-16 00:34:47 +0000",
+    "short_uuid": "19e8c507"
+  },
+  {
+    "id": "6f9cf39a-b571-47d8-97c1-5b92112a48dc",
+    "title": "EMOCONV-DIFF: Diffusion-based Speech Emotion Conversion for Non-parallel and In-the-wild Data. (arXiv:2309.07828v1 [eess.AS])",
+    "description": "Speech emotion conversion is the task of converting the expressed emotion of\na spoken utterance to a target emotion while preserving the lexical content and\nspeaker identity. While most existing works in speech emotion conversion rely\non acted-out datasets and parallel data samples, in this work we ...",
+    "url": "http://arxiv.org/abs/2309.07828",
+    "author": "<a href=\"http://arxiv.org/find/eess/1/au:+Prabhu_N/0/1/0/all/0/1\">Navin Raj Prabhu</a>, <a href=\"http://arxiv.org/find/eess/1/au:+Lay_B/0/1/0/all/0/1\">Bunlong Lay</a>, <a href=\"http://arxiv.org/find/eess/1/au:+Welker_S/0/1/0/all/0/1\">Simon Welker</a>, <a href=\"http://arxiv.org/find/eess/1/au:+Lehman",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "academic",
+      "EE",
+      "SP"
+    ],
+    "published": "2023-09-16 00:34:47 +0000",
+    "short_uuid": "3bee16c0"
+  },
+  {
+    "id": "d1c24801-8414-4350-ac43-137a10bdec40",
+    "title": "Kullback-Leibler Divergence-Guided Copula Statistics-Based Blind Source Separation of Dependent Signals",
+    "description": "In this paper, we propose a blind source separation of a linear mixture of\ndependent sources based on copula statistics that measure the non-linear\ndependence between source component signals structured as copula density\nfunctions. The source signals are assumed to be stationary. The method\nminimize...",
+    "url": "https://arxiv.org/abs/2309.07814",
+    "author": "Hassine, Mohsen Ben",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "EE",
+      "SP"
+    ],
+    "published": "2023-09-16 00:34:47 +0000",
+    "short_uuid": "ef76a41b"
+  },
+  {
+    "id": "477b8321-9050-44d4-bc87-cff260154c87",
+    "title": "Enhancing Performance, Calibration Time and Efficiency in Brain-Machine Interfaces through Transfer Learning and Wearable EEG Technology. (arXiv:2309.07798v1 [eess.SP])",
+    "description": "Brain-machine interfaces (BMIs) have emerged as a transformative force in\nassistive technologies, empowering individuals with motor impairments by\nenabling device control and facilitating functional recovery. However, the\npersistent challenge of inter-session variability poses a significant hurdle,\n...",
+    "url": "http://arxiv.org/abs/2309.07798",
+    "author": "<a href=\"http://arxiv.org/find/eess/1/au:+Wang_X/0/1/0/all/0/1\">Xiaying Wang</a>, <a href=\"http://arxiv.org/find/eess/1/au:+Mei_L/0/1/0/all/0/1\">Lan Mei</a>, <a href=\"http://arxiv.org/find/eess/1/au:+Kartsch_V/0/1/0/all/0/1\">Victor Kartsch</a>, <a href=\"http://arxiv.org/find/eess/1/au:+Cossettini_A/",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "academic",
+      "EE",
+      "SP"
+    ],
+    "published": "2023-09-16 00:34:47 +0000",
+    "short_uuid": "1fa905c6"
+  },
+  {
+    "id": "b5320649-90c1-4b13-8b42-30dfd915b233",
+    "title": "Stochastic Phased Array Performance Indicators for Quality-of-Service-Enhanced Massive MIMO",
+    "description": "In this paper, we show that the signal-to-interference-plus-noise ratio\n(SINR) at a base station (BS) equipped with an arbitrary physical array antenna\ncan be expressed as a function of two fundamental figures-of-merit (FoMs): (I)\nthe instantaneous effective gain (IEG), and (II) the beamforming-chan...",
+    "url": "https://arxiv.org/abs/2309.07740",
+    "author": "Glazunov, Andr\u00e9s Alay\u00f3n",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "EE",
+      "SP"
+    ],
+    "published": "2023-09-16 00:34:47 +0000",
+    "short_uuid": "e8861a67"
+  },
+  {
+    "id": "ab8571eb-3ae5-42f9-b39c-ba322b2be202",
+    "title": "Performance Analysis of RIS/STAR-IOS-aided V2V NOMA/OMA Communications over Composite Fading Channels. (arXiv:2309.07738v1 [cs.IT])",
+    "description": "This paper investigates the performance of vehicleto-vehicle (V2V)\ncommunications assisted by a reconfigurable intelligent surface (RIS) and a\nsimultaneous transmitting and reflecting intelligent omni-surface (STAR-IOS)\nunder nonorthogonal multiple access (NOMA) and orthogonal multiple access (OMA)\n...",
+    "url": "http://arxiv.org/abs/2309.07738",
+    "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Ghadi_F/0/1/0/all/0/1\">Farshad Rostami Ghadi</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Kaveh_M/0/1/0/all/0/1\">Masoud Kaveh</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Martin_D/0/1/0/all/0/1\">Diego Martin</a>",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "academic",
+      "EE",
+      "SP"
+    ],
+    "published": "2023-09-16 00:34:47 +0000",
+    "short_uuid": "164cdad4"
+  },
+  {
+    "id": "2f905606-fccc-42e3-8dd0-d4608d8b0597",
+    "title": "RIS-Assisted Physical Layer Authentication for 6G Endogenous Security. (arXiv:2309.07736v1 [cs.CR])",
+    "description": "The physical layer authentication (PLA) is a promising technology which can\nenhance the access security of a massive number of devices in the near future.\nIn this paper, we propose a reconfigurable intelligent surface (RIS)-assisted\nPLA system, in which the legitimate transmitter can customize the c...",
+    "url": "http://arxiv.org/abs/2309.07736",
+    "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Gao_N/0/1/0/all/0/1\">Ning Gao</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Li_C/0/1/0/all/0/1\">Cen Li</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Meng_S/0/1/0/all/0/1\">Shengguo Meng</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Tang_W/0/1/0/all/0/1\">Wankai Tan",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "academic",
+      "EE",
+      "SP"
+    ],
+    "published": "2023-09-16 00:34:47 +0000",
+    "short_uuid": "476c1e20"
+  },
+  {
+    "id": "1bd4479e-acbb-402f-80a5-59e6a766ec24",
+    "title": "Semantic reconstruction of continuous language from MEG signals. (arXiv:2309.07701v1 [cs.HC])",
+    "description": "Decoding language from neural signals holds considerable theoretical and\npractical importance. Previous research has indicated the feasibility of\ndecoding text or speech from invasive neural signals. However, when using\nnon-invasive neural signals, significant challenges are encountered due to\ntheir...",
+    "url": "http://arxiv.org/abs/2309.07701",
+    "author": "<a href=\"http://arxiv.org/find/cs/1/au:+Wang_B/0/1/0/all/0/1\">Bo Wang</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Xu_X/0/1/0/all/0/1\">Xiran Xu</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Zhang_L/0/1/0/all/0/1\">Longxiang Zhang</a>, <a href=\"http://arxiv.org/find/cs/1/au:+Xiao_B/0/1/0/all/0/1\">Boda ",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "academic",
+      "EE",
+      "SP"
+    ],
+    "published": "2023-09-16 00:34:47 +0000",
+    "short_uuid": "96780377"
+  },
+  {
+    "id": "89117303-27ff-4a10-b833-a1d8968a72a8",
+    "title": "A DenseNet-based method for decoding auditory spatial attention with EEG. (arXiv:2309.07690v1 [eess.SP])",
+    "description": "Auditory spatial attention detection (ASAD) aims to decode the attended\nspatial location with EEG in a multiple-speaker setting. ASAD methods are\ninspired by the brain lateralization of cortical neural responses during the\nprocessing of auditory spatial attention, and show promising performance for\n...",
+    "url": "http://arxiv.org/abs/2309.07690",
+    "author": "<a href=\"http://arxiv.org/find/eess/1/au:+Xu_X/0/1/0/all/0/1\">Xiran Xu</a>, <a href=\"http://arxiv.org/find/eess/1/au:+Wang_B/0/1/0/all/0/1\">Bo Wang</a>, <a href=\"http://arxiv.org/find/eess/1/au:+Yan_Y/0/1/0/all/0/1\">Yujie Yan</a>, <a href=\"http://arxiv.org/find/eess/1/au:+Wu_X/0/1/0/all/0/1\">Xihong ",
+    "image": "None",
+    "language": "en",
+    "category": [
+      "academic",
+      "EE",
+      "SP"
+    ],
+    "published": "2023-09-16 00:34:47 +0000",
+    "short_uuid": "cab34fcc"
   }
 ]
