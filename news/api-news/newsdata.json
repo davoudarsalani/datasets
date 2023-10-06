@@ -1605,5 +1605,91 @@
     ],
     "language": "english",
     "short_uuid": "ff6512e8"
+  },
+  {
+    "article_id": "0d8258b82e3e05435a2c2459a6468892",
+    "title": "Man charged in killing of 5-year-old Kansas girl, could face death penalty",
+    "link": "https://www.cbsnews.com/news/mickel-cherry-charged-rape-killing-5-year-old-zoey-felix-kansas/",
+    "keywords": null,
+    "creator": null,
+    "video_url": null,
+    "description": "Mickel Cherry faces one count of capital murder and one count each of first-degree murder and rape in the death of Zoey Felix.",
+    "content": "A 25-year-old man was charged Thursday in the rape and killing of a 5-year-old Kansas girl who died despite firefighters' efforts to save her life in a gas station parking lot. Mickel Cherry faces one count of capital murder - which would allow prosecutors to seek the death penalty - and one count each of first-degree murder and rape in the on Monday. He was jailed in Topeka on a $2 million bond, and his next court appearance has not yet been determined. Shawnee County District Attorney Michael Kagay told reporters that a decision about seeking a death sentence won't be made until after a preliminary hearing to determine whether Cherry stands trial. That is standard in capital cases. Mark Manna, of the Kansas Death Penalty Defense Unit, said his office would represent Cherry, but that he had no further comment. Cherry's family didn't respond to messages. Authorities have released no details about the cause of Zoey's death, but former neighbors of the girl and her family believe she, her father and Cherry had lived the past few weeks in a grove of trees on a wooded lot near the gas station, just blocks from the home where her mother lived. They believed she was carried from the wooded lot to the gas station, but police have not confirmed any of those details. Kagay said in a news release that Topeka police rushed to a gas station where fire crews were attempting to save Zoey's life. She was later pronounced dead. A medical examination at the hospital revealed injuries consistent with sexual assault. \"I think the investigation into the murder and rape of this 5-year-old girl is fairly complete,\" Kagay told reporters during a brief news conference. Asked about potentially charging other people, Kagay said, \"I'm willing to consider any actionable investigations brought to me,\" but when he was asked whether he is aware of any other investigations, he said, \"I'm not.\" Timothy Phelps, deputy director of the Shawnee County Department of Corrections, confirmed that Cherry used to live at the same address as Zoey, but at the time of his arrest, Cherry was homeless. Cherry has no criminal record in Kansas, but he does have a misdemeanor criminal trespass conviction in Amarillo, Texas. Neighbors said they had raised concerns that Zoey's family home had no electricity and that they called the police and child welfare. \"She just had a good spirit to her. Honestly, very outgoing, smart. She was curious about everything. She'd ask you a 1,001 questions, and she demanded answers for those too,\" said Shaniqua Bradley, a neighbor. Neighbor Desiree Myles that Zoey was a \"loving girl.\" \"Love the children, all the kids play with her,\" she told the station. \"They all looked out for everybody, looked out for Zoey. She was a Curious George with nowhere to go. Nowhere to go.\" Topeka police confirmed Thursday that they made three visits to the home in September: one on Sept. 5 for a welfare check following a report that the home had no electricity; and two domestic disturbance calls in the afternoon and evening of Sept. 19, a little more than an hour apart. Police did not provide details about those two calls. City spokeswoman Gretchen Spiker said in an email that during the first call officers confirmed there was no electricity and that they were told the child wasn't staying there. Police met with the child, saw she was in \"good spirits\" but still made a report to child welfare and property officials, Spiker said. Kansas Department of Children and Families leaders for their lack of intervention following reports from police, WIBW reported. The city moved to condemn the house but backed off when the utilities were turned back on. Neighbors said that everyone but the mother had moved out by then. One tent and a tarp were set up in the woods a few blocks away from the home, in an area about a football field away from the pumps at a Dillons grocery store where fire crews tried to resuscitate Zoey. Her dad worked at the gas station; a coworker said Wednesday that he was taking time off and the company hasn't responded to an email from The Associated Press. A makeshift memorial of flowers, balloons and toys sat nearby. A held a candlelight vigil on Wednesday night to support survivors of sexual assault, WIBW reported.",
+    "pubDate": "2023-10-06 11:01:00",
+    "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/10/06/b952cd4c-0be0-47ba-aff2-abde88f88817/thumbnail/60x60/571175bf282a3f810018272a8150ccaa/ap23278803534492.jpg?v=f334c339940ae79342a8ce7757900604",
+    "source_id": "dfwcbslocal",
+    "source_priority": 237564,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "top"
+    ],
+    "language": "english",
+    "short_uuid": "9ce4a2ae"
+  },
+  {
+    "article_id": "0f56a869b97e746dff9b72af627f47d4",
+    "title": "Wok Your Way to the Center of the Galaxy",
+    "link": "https://hackaday.com/2023/10/06/wok-your-way-to-the-center-of-the-galaxy/",
+    "keywords": [
+      "Radio Hacks",
+      "1420.4058 MHz",
+      "dipole",
+      "hydrogen line",
+      "LNA",
+      "parabolic",
+      "Radio Astronomy",
+      "RTL-SDR",
+      "saw",
+      "spherical",
+      "wok"
+    ],
+    "creator": [
+      "Dan Maloney"
+    ],
+    "video_url": null,
+    "description": "The round bottom of a proper wok is the key to a decent stir fry, but it also makes it hard to use on traditional Western stoves. That\u2019s why many \u2026read more",
+    "content": "The round bottom of a proper wok is the key to a decent stir fry, but it also makes it hard to use on traditional Western stoves. That\u2019s why many woks end up in a dark kitchen cabinet, unused and unloved. But wait; it turns out that the round bottom of a wok is \u2014 radio waves, specifically the 21-cm neutral hydrogen emissions coming from the heart of our galaxy. Turning a wok into an entry-level radio telescope doesn\u2019t appear to be all that hard, at least judging by what [Leo W.H. Fung] detail in (PDF) on \u201cWTH\u201d or \u201cWok the Hydrogen.\u201d Aside from the wok, which serves as the main reflector, you\u2019ll need a bit of coaxial cable and some stiff copper wire to fashion a small dipole antenna and balun, plus some plastic tubing to support it at the focal point of the reflector. Measuring the wok\u2019s shape and size, which in turn determines its focal point, is probably the hardest part of the build; luckily, the paper includes tips on doing just that. The authors address the controversy of parabolic versus spherical reflectors and arrive at the conclusion that for a radio telescope fashioned from a wok, it just doesn\u2019t matter. As for the signal processing chain, WTH holds few surprises. A Nooelec Sawbird+ H1 acts as preamp and filter for the 1420-MHz hydrogen line signal, which feeds into an RTL-SDR dongle. Careful attention is paid to proper grounding and shielding to keep the noise floor as low as possible. Mounting the antenna is a decidedly ad hoc affair, and aiming is as simple as eyeballing various stars near the center of the galactic plane \u2014 no need to complicate things. Performance is pretty good: WTH measured the recession velocity of neutral hydrogen to within 20 km/s, which isn\u2019t bad for something cobbled together from scrap. We\u2019ve seen plenty of before, but WTH probably wins the \u201cget on the air tonight\u201d award. Thanks to [Heinz-Bernd Eggenstein] for the tip.",
+    "pubDate": "2023-10-06 11:00:32",
+    "image_url": "https://hackaday.com/wp-content/uploads/2023/10/WTH.png",
+    "source_id": "hackaday",
+    "source_priority": 20997,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "top"
+    ],
+    "language": "english",
+    "short_uuid": "6983b342"
+  },
+  {
+    "article_id": "a33f7ba44e4f9e4454c8cca2793dd146",
+    "title": "Thermal test shows that Apple fixed the iPhone 15 Pro overheating problem",
+    "link": "https://bgr.com/tech/thermal-test-shows-the-iphone-15-pro-overheating-fix-is-working/",
+    "keywords": [
+      "Apps & Software",
+      "Apple",
+      "iPhone"
+    ],
+    "creator": [
+      "Chris Smith"
+    ],
+    "video_url": null,
+    "description": "Apple rolled out iOS 17.0.3 earlier this week, a release that brings over fixes for the overheating problems that some iPhone 15 Pro and 15 \u2026 The post Thermal test shows that Apple fixed the iPhone 15 Pro overheating problem appeared first on BGR.",
+    "content": "Apple rolled out iOS 17.0.3 earlier this week, a release that brings over fixes for the overheating problems that some iPhone 15 Pro and 15 Pro Max users reported since the handsets were released. The software patch doesn\u2019t reduce the performance of the powerful A17 Pro, just like said. We already saw that prove that. Sign up for the most interesting tech & entertainment news out there. By signing up, I agree to the and have reviewed the But does the software fix actually solve the overheating issue? Thermal testing performed before and after the iOS 17.0.3 shows the iPhone 15 Pros aren\u2019t getting hot after the fix. That\u2019s exactly the kind of news we\u2019ve been expecting. iPhone 15 Pro users who ran into overheating issues described various scenarios where the handset would overheat. One concerns the A17 Pro chip running high-end games. The new Pros also overheated while the battery was charging. Or while owners used them as the phones were connected to a charger. Like other reviewers, ran into an overheating issue involving fast charging. The blog used a thermal camera to measure the temperature. It recorded a 107.1\u00baF temperature when the handset charged with a 35W charging brick. The iPhone 15 officially supports 20W fast charging, but unofficially it can approach 30W speeds. You can recharge the iPhone with any USB-C charger that exceeds 20W power to take advantage of even faster charging. also found the handset to overheat while jumping between camera apps while shooting content outdoors on an 82\u00baF day. Apple explained that an iOS 17 bug and issues with certain third-party apps could lead to overheating. The company said the titanium frame and the USB-C port were not responsible for the extra heat. After applying the iOS 17.0.3 update, retested the iPhone 15 Pro models. They used the same parameters and equipment, as well as the same location as earlier tests. This time, the did not exceed 93.8\u00baF while charging with the same 35W charger. also notes that other iPhone and Android phones reach temperatures between 85\u00baF and 95\u00baF when fast charging. The Galaxy Fold 5 was the hottest, with a temperature of 98.7\u00baF. This is just one test involving a thermal camera, but it seems the iOS 17.0.3 patch fixed the iPhone 15 Pro overheating issues. Like before, I\u2019ll warn you that you might experience overheating during intensive gaming sessions. But that\u2019s normal behavior for any smartphone. What\u2019s important here is for the iPhone to continue to be comfortable to use even during long gaming sessions.",
+    "pubDate": "2023-10-06 10:50:00",
+    "image_url": "https://bgr.com/wp-content/uploads/2023/09/iPhone-15-Pro-7.jpg?quality=82&strip=all",
+    "source_id": "bgr_com",
+    "source_priority": 20761,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "technology"
+    ],
+    "language": "english",
+    "short_uuid": "ed961dc9"
   }
 ]
