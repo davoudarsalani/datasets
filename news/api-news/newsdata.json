@@ -5236,5 +5236,131 @@
     ],
     "language": "english",
     "short_uuid": "6168c2c9"
+  },
+  {
+    "article_id": "0c2c91e4de05db89d76907a84109f0ea",
+    "title": "Polish Up Your Product With Graphic Overlays",
+    "link": "https://hackaday.com/2023/10/08/polish-up-your-product-with-graphic-overlays/",
+    "keywords": [
+      "how-to",
+      "acrylic panel",
+      "custom printing",
+      "desktop manufacturing",
+      "enclosure",
+      "graphic overlay",
+      "label"
+    ],
+    "creator": [
+      "Donald Papp"
+    ],
+    "video_url": null,
+    "description": "[Kevin Hunckler] recently did some in-house manufacturing for a product and shared his experiences in adding high-quality custom graphic overlays or acrylic panels to give the finished units a professional \u2026read more",
+    "content": "[Kevin Hunckler] recently did some in-house manufacturing for a product and shared his experiences in to give the finished units a professional look. The results look great and were easy to apply, making his product more attractive without needing much assembly work. Sadly, when doing initial research he was disappointed to find very little information on the whole process. While in the end it isn\u2019t terribly complex, it still involved a lot of trial and error before he zeroed in on what the suppliers in the industry expect. Fortunately, everything can be done with tools most hackers probably already have access to. The process seems to us somewhat reminiscent of having PCBs manufactured. One defines the product housing, outlines the overlay, creates the artwork, defines an adhesive layer, and makes a design document explaining each layer and important feature. [Kevin] provides examples of his work, one of which fits an off-the-shelf Hammond enclosure. Professionally-made acrylic panels or graphic overlays is something worth keeping in mind for hobbyists and those who might engage in desktop manufacturing, as long as the costs are acceptable. Rather like PCBs, costs go down as quantities go up. [Kevin]\u2019s 50 mm x 50 mm overlay cost about 1 USD each in quantity 200, but only 0.50 USD each when buying 500. These may be great for low or middling quantities, but that doesn\u2019t mean one is out of options for prototypes or micro quantities. We have seen , and even using a 3D printer to .",
+    "pubDate": "2023-10-08 08:00:51",
+    "image_url": "https://hackaday.com/wp-content/uploads/2023/10/Custom-graphic-overlays-1.jpg",
+    "source_id": "hackaday",
+    "source_priority": 20997,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "top"
+    ],
+    "language": "english",
+    "short_uuid": "31e3f604"
+  },
+  {
+    "article_id": "64a49936efcd775226037c14761c952f",
+    "title": "Marriage is back, it seems, but it\u2019s still OK to say \u2018I don\u2019t\u2019 | Eva Wiseman",
+    "link": "https://www.theguardian.com/lifeandstyle/2023/oct/08/marriage-is-back-it-seems-but-its-still-ok-to-say-i-dont",
+    "keywords": [
+      "Marriage",
+      "Family",
+      "Life and style"
+    ],
+    "creator": [
+      "Eva Wiseman"
+    ],
+    "video_url": null,
+    "description": "Increasing pressure to marry is political \u2013 so if it looks inviting, ask yourself whether what you really want is a big dressEvery few years the concept of marriage becomes a subject of debate and every time I find myself once again reeling. Reeling as I realise that we are still performing marriage in the same way we have for hundreds of years, despite its purpose fundamentally shifting \u2013 a bicycle has become a satsuma, a pan has become a palace. We no longer need to marry, for instance, in order to have sex, or create alliances between families, or acquire land, or produce heirs, or validate a pregnancy, or even have a wife we can take to business lunches to present ourselves as normal. We marry now for love and for parties, and also to legitimise our choices, and because it\u2019s what our parents did, and to make a statement about commitment, and to fix something, and to create safety, and to draw a line, and find a feeling of belonging, and to claim adulthood, and any number of quiet other reasons that ferment in anxiety, romance or nostalgia.Author Rebecca Traister, discussing a series of stories in the US press, recently described the moment we\u2019re in as a \u201cperiod of marital revivalism\u201d. An example of one such story appeared late-September in the Washington Post, about a new book called The Two-Parent Privilege. \u201cThe evidence is overwhelming,\u201d writes Megan McArdle, \u201cthat the decline of marriage over the past few decades has been very bad for children and, by extension, society. For various reasons, however, this truth is too often left unsaid.\u201d I would argue, in fact, that it is not only \u201csaid\u201d, it is screamed, loudly and often. In 2019, a magazine launched for \u201ctradwives\u201d (housewives who eschew feminist values in favour of traditional domestic pursuits) and those aspiring to be one \u2013 the Peter Thiel-linked Evie Magazine has been described as \u201ca Gen Z Cosmo for the far right\u201d and a recent article listed the benefits of no sex before marriage. Another asked, \u201cShould your husband be your boss?\u201d Scrolling through their site I had an uneasy feeling, as if the bus was rolling backwards. Continue reading...",
+    "content": "E very few years the concept of marriage becomes a subject of debate and every time I find myself once again reeling. Reeling as I realise that we are still performing marriage in the same way we have for hundreds of years, despite its purpose fundamentally shifting \u2013 a bicycle has become a satsuma, a pan has become a palace. We no longer need to marry, for instance, in order to have sex, or create alliances between families, or acquire land, or produce heirs, or validate a pregnancy, or even have a wife we can take to business lunches to present ourselves as normal. We marry now for love and for parties, and also to legitimise our choices, and because it\u2019s what our parents did, and to make a statement about commitment, and to fix something, and to create safety, and to draw a line, and find a feeling of belonging, and to claim adulthood, and any number of quiet other reasons that ferment in anxiety, romance or nostalgia. Author Rebecca Traister, discussing a series of stories in the US press, recently described the moment we\u2019re in as a \u201cperiod of marital revivalism\u201d. An example of one such story appeared late-September in the Washington Post , about a new book called The Two-Parent Privilege . \u201cThe evidence is overwhelming,\u201d writes Megan McArdle, \u201cthat the decline of marriage over the past few decades has been very bad for children and, by extension, society. For various reasons, however, this truth is too often left unsaid.\u201d I would argue, in fact, that it is not only \u201csaid\u201d, it is screamed, loudly and often. In 2019, a magazine launched for \u201ctradwives\u201d (housewives who eschew feminist values in favour of traditional domestic pursuits) and those aspiring to be one \u2013 the Peter Thiel-linked Evie Magazine has been described as \u201ca Gen Z Cosmo for the far right\u201d and a recent article listed the benefits of no sex before marriage. Another asked, \u201cShould your husband be your boss?\u201d Scrolling through their site I had an uneasy feeling, as if the bus was rolling backwards. The vapour trails of tradition are long and cold The UK press is catching up with the US \u2013 the mood translates. In the Spectator , Cristina Odone argued, \u201cthe key to improving children\u2019s lives is marriage, an institution few dare defend,\u201d calling for the government to change the tax system, boosting the Marriage Allowance so couples share all their personal tax allowance to, \u201csend out the message that tying the knot is worth their while\u201d. The right wing, Traister explains, is prescribing \u201cthe marriage cure\u201d for whatever ails us, be it inequity, dissatisfaction or loneliness, while at the same time removing policies, like legal abortion or no-fault divorce, that have allowed women to survive independently. There is increasing pressure to get married today, a political tactic that diverts attention on to the individual and away from the prospect of designing and supporting legislation around things such as housing and childcare that make the lives of single parents and people living alone easier. Doesn\u2019t it all make you want to organise a mass divorce in Parliament Square? Doesn\u2019t it make you want to burn a white dress? Marriage is one of those sticky problems for many of us, where the thing we want to do is loudly at odds with the politics we want to live. Getting married is a nice excuse to have cake, but it\u2019s also a blunt tool of the state. People can, and do, screw with the institution, reshaping it to their needs, acknowledging it\u2019s a structure that has traditionally embraced such horrors as homophobia, colonialism and capitalism before sighing and asking how it could look, and what, perhaps, it could do for them. But the vapour trails of tradition are long and cold, and the process of moving forward is often trickier than it appears. Discussing her new novel about a 40-something queer woman finding herself in a heterosexual marriage and a nuclear family (an experience that has parallels to her own life), Miranda July said yes, marriage, \u201cabsolutely can be made according to your specific circumstances and desires. But depending on where you sit in the culture and who your parents were, or are, that is either more or less available to you.\u201d If you\u2019re like her, \u201creinventing what a marriage might consist of\u2026 is kind of like painting over the Mona Lisa. It\u2019s not that hard, it\u2019s kind of exhilarating, but you think you might go to jail for it? Every second, I feel like the guards are coming.\u201d There is something particularly upsetting, I think, about the ways the state attempts to legislate love, or manipulate us into relationships that can be more easily controlled. At times it is tempting to twist the politics to suit our romance and get married at least partly so that we can grab the small securities our government offers. For those who are single though, or feeling pressure to conform, this \u201cperiod of marital revivalism\u201d provides an opportunity to think about what we might really be searching for in marriage, whether legitimacy, a big dress or a sense of belonging, and see where else it might be found. And if it\u2019s simply a party, it\u2019s worth remembering that all you really need for that is a decent speaker and an Iceland prawn ring. Email Eva at e.wiseman@observer.co.uk or follow her on Twitter @EvaWiseman",
+    "pubDate": "2023-10-08 07:02:34",
+    "image_url": "https://i.guim.co.uk/img/media/a0cbc29d25958ca9f2172d980911d2f9f77c6c69/0_114_5300_3180/master/5300.jpg?width=460&quality=85&auto=format&fit=max&s=22792f5c16f8b0e3b8066540c6f52c29",
+    "source_id": "theguardian",
+    "source_priority": 106,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "entertainment"
+    ],
+    "language": "english",
+    "short_uuid": "e08a7def"
+  },
+  {
+    "article_id": "64a19b90deb537e04c3374a8e1e4de07",
+    "title": "Walters: California\u2019s new Delta plan faces the same political conflicts over water",
+    "link": "https://www.mercurynews.com/2023/10/08/walters-californias-new-delta-plan-faces-the-same-political-conflicts-over-water/",
+    "keywords": [
+      "California Politics",
+      "Environment",
+      "Latest Headlines",
+      "News",
+      "Opinion",
+      "Opinion Columnists",
+      "Politics",
+      "Dan Walters",
+      "Gavin Newsom",
+      "Jerry Brown",
+      "Sacramento-San Joaquin River Delta",
+      "Water"
+    ],
+    "creator": [
+      "Dan Walters"
+    ],
+    "video_url": null,
+    "description": "State Water Resources Control Board calls for sharp reductions in diversions from Sacramento River and its tributaries.",
+    "content": "California\u2019s water warriors have a new arena for their perpetual conflict over the allocation of the state\u2019s ever-evolving supply \u2013 a nearly 6,000-word proposal from the state Water Resources Control Board. The draft essentially calls for sharp reductions in diversions from the Sacramento River and its tributaries to allow more water to flow through the environmentally troubled Sacramento-San Joaquin Delta. \u201cIt is a consequential effort,\u201d Eric Oppenheimer, chief deputy director of the board, said during a media briefing on what is technically an update of the agency\u2019s management plan for the Delta and San Francisco Bay. \u201cIt reflects years of scientific analysis that we\u2019ve undertaken and years of public input.\u201d The board had previously issued a similar policy paper for the San Joaquin River and its tributaries. The two rivers merge to form the Delta, a vast maze of islands and channels that is the West Coast\u2019s largest estuary. In addition to upstream diversions to irrigate fields and orchards and serve municipal users, federal and state projects pump water from the Delta\u2019s southern edge into aqueducts for transfer to San Joaquin Valley farms and homes as far south as San Diego. The reduction of natural flows through the Delta have, scientists say, increased its salinity and otherwise made it unable to adequately support salmon and other wildlife. The battle over the Delta has raged for decades with environmental groups, lately joined by American Indian tribes, pressing the water board to impose reductions on diversions, and water users seeking to protect their supplies. There are, in the macro sense, two conflicts: how much additional flows are needed to restore the Delta and how any reduction in diversions would be framed and enforced. The water board\u2019s new draft provides some additional focus on both, but doesn\u2019t provide any solid direction. For the better part of a decade, two governors, Jerry Brown and Gavin Newsom, have promoted the concept of \u201cvoluntary agreements\u201d to reduce diversions, hoping to avoid a head-on political and legal collision. \u201cWe want to thank Gov. Newsom for his continued leadership and commitment to using collaborative voluntary agreements between water users and public agencies to support water quality and fish populations throughout the Sacramento-San Joaquin Delta,\u201d Farm Bureau president Jamie Johansson said in response to the new plan. However, the water agencies have offered, in the main, much smaller reductions than the water board says are necessary to improve habitat. The environmental coalitions demanding larger reductions see the voluntary agreements as subterfuges to maintain the status quo and have pressed the board to simply set reduction numbers and enforce them by decree. \u201cVoluntary agreements serve as backroom deals that continue to leave tribes, environmental justice communities, conservation groups, fishing communities, and other vital stakeholders out of the government-led planning process,\u201d the Restore the Delta coalition responded. Imposing reductions would touch off a legal battle that Brown and Newsom have wanted to avoid because it would hinge on water rights, some of which date back to the late 19th century. Environmentalists contend that those rights are anachronisms in the 21st century and should be set aside to give authorities the ability to allocate water rationally, particularly since climate change is affecting precipitation and thus the overall water supply. However, when the water board tested its authority vis-\u00e0-vis ordering diversion reductions from senior water rights holders, it lost in court. Moreover, legislation that would have provided such authority didn\u2019t make it through the Legislature this year, thanks to stiff opposition from farmers and other rights holders. The water board\u2019s new draft may provide more grist for debate, but it does not resolve the fundamental conflicts.",
+    "pubDate": "2023-10-08 07:01:08",
+    "image_url": "https://www.mercurynews.com/wp-content/uploads/2022/12/SJM-Z-WALTERS-OPED-1222.jpg?w=1400px&strip=all",
+    "source_id": "mercurynews",
+    "source_priority": 2968,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "sports"
+    ],
+    "language": "english",
+    "short_uuid": "b9d8658c"
+  },
+  {
+    "article_id": "9e94f29adecaa49880af08f3e9f004be",
+    "title": "Sunday with Jo Brand: \u2018\u2018I love telly. I\u2019m slightly obsessed because my mum was a bit puritanical about it\u2019",
+    "link": "https://www.theguardian.com/lifeandstyle/2023/oct/08/sunday-with-jo-brand-i-love-telly-im-slightly-obsessed-because-my-mum-was-a-bit-puritanical-about-it",
+    "keywords": [
+      "Sunday with\u2026",
+      "Life and style",
+      "Jo Brand",
+      "Culture"
+    ],
+    "creator": [
+      "Katherine Hassell"
+    ],
+    "video_url": null,
+    "description": "The comedian and writer enjoys a short walk in the park followed by several hours in the cafe then listens to classical musicEarly riser? Not a willing one. I wake about 5.30am. I\u2019m constantly operating on four hours\u2019 sleep.First thing? Telly in bed. I watch Totally Bonkers Guinness World Records. It\u2019s hilarious and ridiculous \u2013 things like the farthest tightrope walk in high heels. I\u2019ve always wanted a go. Continue reading...",
+    "content": "Early riser? Not a willing one. I wake about 5.30am. I\u2019m constantly operating on four hours\u2019 sleep. First thing? Telly in bed. I watch Totally Bonkers Guinness World Records . It\u2019s hilarious and ridiculous \u2013 things like the farthest tightrope walk in high heels. I\u2019ve always wanted a go. Breakfast? Nothing except a coffee\u2026 despite what dieticians say. The earlier I eat, the more calories I can ram in. If I had breakfast, I\u2019d be the size of my house. What\u2019s next? A walk with mates. We walk through the park for half an hour and go to a cafe for three hours. We used to do Saturdays, but there\u2019s a parkrun and we got in the way. There was huffing and puffing and \u2018Oh, for God\u2019s sake\u2026\u2019 behind us. Lunch? Carrot shavings and linseeds. A salad(ish). I\u2019d rather eat later in the day. How do you relax? The Sunday papers. I\u2019ll intersperse them with a book. I loved I\u2019m Sorry You Feel That Way by Rebecca Wait. I love telly. I\u2019m slightly obsessed, because my mum was a bit puritanical about it and only let us watch documentaries on scaffolding and stuff like that. Sunday wardrobe? Same as every day: something black that looks like a sack. Sunday soundtrack? My mum and dad used to listen to classical music on Sunday. I\u2019ve got into that habit. I dip into Elaine Paige on Sunday, too. And my daughters introduced me to Lorde and Keaton Henson. In the evening? It could be midnight when I put out the light or half two. I\u2019ll start watching gruesome medical shows at one in the morning. Worst Sunday? My best friend\u2019s dad was the local vicar. I was expected to go to church with her and managed to swerve that by becoming a bellringer. If you don\u2019t catch the sally, that furry bit, when it comes down, it whips around the bell tower. And if you don\u2019t let go, you go up with it. I went up with the bell rope once. I was at least 12ft in the air by the time I remembered to let go. I was only 11 at the time. It was quite a landing. The Great British Bake Off: an Extra Slice is on Channel 4 on Thursdays at 8pm",
+    "pubDate": "2023-10-08 05:47:32",
+    "image_url": "https://i.guim.co.uk/img/media/7db7399498d7cd7e6be5f0bf4b7e8b8ae054569e/0_172_2802_1681/master/2802.jpg?width=460&quality=85&auto=format&fit=max&s=ba6c3e3df58824ac471a3f2d3e847699",
+    "source_id": "theguardian",
+    "source_priority": 106,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "entertainment"
+    ],
+    "language": "english",
+    "short_uuid": "734207b7"
   }
 ]
