@@ -5627,5 +5627,136 @@
     ],
     "language": "english",
     "short_uuid": "d0e083b6"
+  },
+  {
+    "article_id": "b4e28354e6b4c671c4076c634e3debea",
+    "title": "Can You Take Great Landscape Photos at Any Location?",
+    "link": "https://fstoppers.com/landscapes/can-take-great-landscape-photos-any-location-642485?utm_source=FS_RSS&utm_medium=RSS&utm_campaign=Main_RSS",
+    "keywords": [
+      "Landscapes",
+      "Education"
+    ],
+    "creator": [
+      "Alex Cooke"
+    ],
+    "video_url": null,
+    "description": "If you look at a lot of the most popular landscape photography on something like Instagram, you will probably notice that many of the images that come up tend to be from a few popular locations. Does that mean you can only create worthwhile photos only at those well-known images? This great video tutorial features an experienced landscape photographer discussing the issue and showing you some of the potential even ordinary places have. [ Read More ]",
+    "content": "If you look at a lot of the most popular landscape photography on something like Instagram, you will probably notice that many of the images that come up tend to be from a few popular locations. Does that mean you can only create worthwhile photos only at those well-known images? This great video tutorial features an experienced landscape photographer discussing the issue and showing you some of the potential even ordinary places have. Coming to you from , this awesome video tutorial discusses the issue of creating landscape images in common locations. I think this is something really important. It can be easy to focus on finding the most epic locations, but these have drawbacks. First, they are so overly photographed that it can be difficult to distinguish your work there. On top of that, by working with locations where the images are not as obvious, you will do a lot more good for developing your creative eye, making you a far more versatile photographer. Check out the video above for the full rundown from Irmler. And if you really want to dive into landscape photography, check out our latest tutorial, \" !\" Alex Cooke is a Cleveland-based portrait, events, and landscape photographer. He holds an M.S. in Applied Mathematics and a doctorate in Music Composition. He is also an avid equestrian.",
+    "pubDate": "2023-10-08 14:03:01",
+    "image_url": "https://fstoppers.com/feed?_=1484972447",
+    "source_id": "fstoppers",
+    "source_priority": 50156,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "top"
+    ],
+    "language": "english",
+    "short_uuid": "95f14c92"
+  },
+  {
+    "article_id": "213f3abe29c5e1439b6692881988b832",
+    "title": "I can\u2019t get excited about AMD\u2019s next version of FSR anymore",
+    "link": "https://www.digitaltrends.com/computing/cant-get-excited-about-amd-fsr-3/",
+    "keywords": [
+      "Computing",
+      "Features",
+      "AMD",
+      "FSR 3",
+      "PC Gaming",
+      "ReSpec"
+    ],
+    "creator": [
+      "Jacob Roach"
+    ],
+    "video_url": null,
+    "description": "Nearly a year after it was announced, AMD's FSR 3 is here. But it feels like yet another promise for what the feature could be in the future.",
+    "content": "Square Enix This story is part of Jacob Roach's ReSpec series, covering the world of PC gaming and hardware. AMD\u2019s FidelityFX Super Resolution 3 is available after nearly a year of waiting. The company announced the feature around November of last year, in a swift response to Nvidia\u2019s, at the time, new Deep Learning Super Sampling 3 ( DLSS 3 ). AMD\u2019s pitch was simple. The company was going to deliver the same performance-multiplying feature that generates frames instead of rendering them, and it would work with any graphics card. Contents Where are the games? The compromise Hurry up and wait Now it\u2019s here, and on paper, FSR 3 does exactly what AMD claimed. It\u2019s clear AMD has a lot more work to do to make FSR 3 work properly, though. And after almost a year of waiting for the feature to arrive, it\u2019s hard betting on promises for what FSR 3 could be in the future. Recommended Videos Where are the games? EA There are so many great games for FSR 3 to debut in. AMD launched the feature in two games that were released this year: Forspoken and Immortals of Aveum. Both launched to a critical and commercial \u201cmeh\u201d from the gaming community. Forspoken saw some attention at launch, in an otherwise dull time of the year, while Immortals of Aveum never reached above a peak player count of 1,000 on Steam. Related AMD might still have some next-gen GPUs left in the tank \u2014 but I don\u2019t buy it Where in the world are all of AMD\u2019s next-gen laptop GPUs? AMD\u2019s new laptop CPU is the fastest I\u2019ve seen, but you shouldn\u2019t buy it yet Regardless of what you think of these games, they are not good candidates to launch some new, game-changing tech. Contrast that with DLSS 3.5 with Ray Reconstruction , which not only launched in Cyberpunk 2077 but alongside the game\u2019s hotly anticipated 2.0 update. That\u2019s how you debut a feature that gamers will get excited about. Nvidia certainly has a dominant position in the GPU market, so it\u2019s able to do things like timing the release of a new feature alongside a major game expansion. AMD, being far from the market leader, may not have that same amount of sway with developers. Regardless, AMD has put its stamp on some of the biggest game releases this year, all of which lack FSR 3. AMD\u2019s badge shows up in Resident Evil 4, Star Wars Jedi: Survivor, The Last of Us Part One, and most recently, Lies of P. Easily the biggest miss is Starfield , especially after AMD hyped up being the \u201cPC exclusive partner\u201d for the game. All of these games are absent from AMD\u2019s list of upcoming FSR 3 games, too. The biggest title on the list is Cyberpunk 2077, but we still don\u2019t know when FSR 3 will arrive in that game. I have no doubt that FSR 3 will start showing up in more games throughout the rest of the year and into the next. That\u2019s how these rollouts work. Launching FSR 3 with Forspoken and Immortals of Aveum isn\u2019t AMD putting its best foot forward, though, especially with heavy hitters like Starfield and Star Wars Jedi: Survivor sitting on the back burner. The compromise AMD The compromise for FSR 3\u2019s lackluster support at launch seems to be AMD Fluid Motion Frames. This is not FSR 3 (at least not in name). Fluid Motion Frames is a driver-level feature available to RX 7000 and RX 6000 graphics cards that adds frame interpolation to DirectX 11 and DirectX 12 games. Both Fluid Motion Frames and FSR 3 offer frame interpolation, but FSR 3 is built into games while Fluid Motion Frames happens at the driver level. That is a very important distinction. FSR 3, built into the game engine, is part of the rendering process. Fluid Motion Frames sits on top through the driver. FSR 3 can access information in the game engine, such as motion vectors and overlays, to present a cleaner final image. Fluid Motion Frames can\u2019t. AMD has made it clear that Fluid Motion Frames is still in its early days. It\u2019s only available through a preview (beta) driver and with some strict stipulations. It makes sense that AMD took this approach because Fluid Motion Frames needs a lot of work. For starters, it doesn\u2019t always work. I\u2019d suggest watching the breakdown from Daniel Owens below for an in-depth look in Cyberpunk 2077. Essentially, Fluid Motion Frames compares two sequential frames and uses them to guess what a frame in between would look like. It just doesn\u2019t always work. As you can see in the breakdown, Fluid Motion Frames will give up if there\u2019s too large of a difference between two frames and shut itself off temporarily. This is, according to AMD\u2019s most recent patch notes, part of the design. This is NOT FSR 3. It's better! But also worse! AMD Fluid Motion Frames If you\u2019re walking in a straight line or moving around slowly, you\u2019ll see the smoothness boost Fluid Motion Frames boasts. If you\u2019re in any sort of fast motion, where you want extra smoothness the most, the feature does essentially nothing. I\u2019d argue it leads to a worse gameplay experience, too, as you\u2019re jumping between a very high and relatively low frame rate whenever you\u2019re in motion. A locked 60 frames per second (fps) looks and feels better than a frame rate constantly jumping up to 120 fps and down to 60 fps. There are other problems that AMD didn\u2019t draw attention to when it announced Fluid Motion Frames, too. For instance, Fluid Motion Frames will still attempt to interpolate frames, even when you\u2019re in menus, leading to fine text and menu selection fields spinning out into a mess of artifacts. The dealbreaker for me is the base frame rate requirements, though. AMD says you should have a base frame rate of at least 55 fps for a 1080p display, and at least 70 fps for a 1440p display for Fluid Motion Frames to work properly. What happens if you drop below that? Below, you can see Hogwarts Legacy at 4K with ray tracing turned on. Fluid Motion Frames causes this low frame rate to fall apart into a smearing mess that looks like you\u2019re playing the game in slow motion. This video is fed through Twitter\u2019s atrocious compression, but that\u2019s doing the gameplay experience a favor here if anything. Oof, AMD Fluid Motion Frames not looking so hot on the 7900 XT pic.twitter.com/Ytw49uRnMJ \u2014 Jake Roach (@ManowarElves) October 4, 2023 This is outside of what AMD recommends for the tech, but it\u2019s a good demonstration of the limitations of Fluid Motion Frames. It functions as a way to boost already high frame rates, and in a way that isn\u2019t at all consistent. It\u2019s particularly disappointing because this feature is something you can\u2019t find with an Nvidia graphics card, and it would be one of the reasons to just ship to a GPU like AMD\u2019s RX 7800 XT . As with FSR 3, I\u2019m sure AMD will continue to iterate on Fluid Motion Frames. This is still in a preview state for now, so some issues are to be expected. That\u2019s my main problem with FSR 3 and Fluid Motion Frames, though. We\u2019ve waited long enough. Hurry up and wait AMD AMD\u2019s rollout of FSR 3 reminds me of how Intel handled its first-gen Arc GPUs: the A750 and A770 . They were announced prematurely, leading to a wave of speculation, rumors of cancellation, and a build-up of lofty expectations. When the GPUs finally arrived, it was clear Intel still had a lot of work to do on its drivers, which is why we\u2019ve so commonly seen stories of Intel delivering double the performance in certain games with a driver update. The accelerated announcement led to products that arrived in a half-finished state. FSR 3 feels similar. AMD announced the feature alongside its RX 7900 XTX and RX 7900 XT , setting up a narrative that FSR 3 would be a key feature of this next generation. Nearly a year on, we have FSR 3, but it\u2019s nothing close to a key feature for AMD\u2019s current generation. We will see FSR 3 in more games, and I\u2019m hopeful Fluid Motion Frames will mature into something that\u2019s useful for AMD users. That\u2019s what we\u2019ve seen in the past with some of AMD\u2019s other software features. Even now, though, far separated from the original announcement, FSR 3 still feels like a promise more than a feature. There\u2019s a lot of potential here for FSR 3. I\u2019ve been forward about the fact that Nvidia is increasingly selling DLSS over the raw power of its GPUs, and AMD could do something similar with FSR 3. That requires careful execution with game support and features that make sense for a wide swath of gamers. Currently, FSR 3 and Fluid Motion Frames don\u2019t deliver on those fronts. I\u2019m hopeful FSR 3 and Fluid Motion Frames will get better. But my excitement for the features that started in November of last year has all but disappeared. Editors' Recommendations This \u2018Swiss Army Knife\u2019 app transformed how I play PC games The success of AMD\u2019s FSR 3 hinges on this one feature AMD isn\u2019t just copying Nvidia\u2019s homework with FSR 3 Why I leave Nvidia\u2019s game-changing tech off in most games It\u2019s time to stop trying to play games without an SSD",
+    "pubDate": "2023-10-08 13:30:26",
+    "image_url": "https://www.digitaltrends.com/wp-content/uploads/2023/10/forspoken-respec-featured.jpg?resize=440%2C292&p=1",
+    "source_id": "digitaltrends",
+    "source_priority": 287,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "technology"
+    ],
+    "language": "english",
+    "short_uuid": "cb2cf517"
+  },
+  {
+    "article_id": "e00df2d353a9600f533dce690a5a254f",
+    "title": "D.C. police: Two teen boys arrested in armed carjacking in Northeast",
+    "link": "https://www.washingtontimes.com/news/2023/oct/8/dc-police-two-teen-boys-arrested-armed-carjacking-/?utm_source=RSS_Feed&utm_medium=RSS",
+    "keywords": null,
+    "creator": [
+      "Matt Delaney"
+    ],
+    "video_url": null,
+    "description": "D.C. police said they arrested two teenage boys Friday and charged them with armed carjacking shortly after they stole a victim's vehicle at gunpoint in Northeast.",
+    "content": "Back Print By Matt Delaney - The Washington Times - Sunday, October 8, 2023 D.C. police said they arrested two teenage boys Friday and charged them with armed carjacking shortly after they stole a victim\u2019s vehicle at gunpoint in Northeast. Metropolitan Police said a 14-year-old boy from Southeast and a 15-year-old boy from Capitol Heights carjacked a driver in the 1200 block of 42nd Street NE just before 11:30 p.m. Police arrested both teens soon after they commandeered the vehicle and recovered the stolen car. The teens\u2019 quick arrest was due to the Metropolitan Police Department\u2019s initiative targeting robberies and carjackings in specific areas around the city, police said. \u2022 Matt Delaney can be reached at mdelaney@washingtontimes.com . Copyright \u00a9 2023 The Washington Times, LLC. Click here for reprint permission . Please read our comment policy before commenting. Click to Read More and View Comments Click to Hide",
+    "pubDate": "2023-10-08 13:21:47",
+    "image_url": "https://twt-thumbs.washtimes.com/media/image/2020/03/22/Virus_Outbreak_Washington_Daily_Life_40624.jpg-eef70.dup~0LMw6o_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+    "source_id": "washingtontimes",
+    "source_priority": 9784,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "top"
+    ],
+    "language": "english",
+    "short_uuid": "6b622bb4"
+  },
+  {
+    "article_id": "3f4f1d72e9e5124ae6540a34b7fb752b",
+    "title": "U.K. Supreme Court weighs if it's lawful for Britain to send asylum-seekers to Rwanda",
+    "link": "https://www.washingtontimes.com/news/2023/oct/8/uk-supreme-court-weighs-if-its-lawful-for-britain-/?utm_source=RSS_Feed&utm_medium=RSS",
+    "keywords": null,
+    "creator": [
+      "Brian Melley"
+    ],
+    "video_url": null,
+    "description": "The British government's contentious policy to stem the flow of migrants faces one of its toughest challenges this week as the U.K. Supreme Court weighs whether it's lawful to send asylum-seekers to Rwanda.",
+    "content": "Back Print By Brian Melley - Associated Press - Sunday, October 8, 2023 LONDON \u2014 The British government\u2019s contentious policy to stem the flow of migrants faces one of its toughest challenges this week as the U.K. Supreme Court weighs whether it\u2019s lawful to send asylum-seekers to Rwanda. The Conservative government is challenging a Court of Appeal ruling in June that said the policy intended to deter immigrants from risking their lives crossing the English Channel in small boats is unlawful because the East African country is not a safe place to send them. Three days of arguments are scheduled to begin Monday with the government arguing its policy is safe and lawyers for migrants from Vietnam, Syria, Iraq, Iran and Sudan contending it\u2019s unlawful and inhumane. The hearing comes as much of Europe and the U.S. struggle with how best to cope with migrants seeking refuge from war, violence, oppression and a warming planet that has brought devastating drought and floods. Prime Minister Rishi Sunak has vowed to \u201cstop the boats\u201d as a top priority to curb unauthorized immigration. More than 25,000 people are estimated to have arrived in the U.K. by boat as of Oct. 2, which is down nearly 25% from the 33,000 that had made the crossing at the same time last year. The policy is intended to put a stop to the criminal gangs that ferry migrants across one of the world\u2019s busiest shipping lanes by making Britain an unattractive destination because of the likelihood of being given a one-way ticket to Rwanda. Consequences of the crossing have been deadly. In August, six migrants died and about 50 had to be rescued when their boat capsized after leaving the northern coast of France. In November 2021, 27 people died after their boat sank. The government claims the policy is a fair way to deal with an influx of people who arrive on U.K. shores without authorization and that Rwanda is a safe \u201cthird country\u201d \u2014 meaning it\u2019s not where they are seeking asylum from. The U.K. and Rwandan governments reached a deal more than a year ago that would send asylum-seekers to the East African country and allow them to stay there if granted asylum. So far, not a single person has been sent there as the policy has been fought over in the courts. Human rights groups have argued its inhumane to deport people more than 4,000 miles to a place they don\u2019t want to live. They have also cited Rwanda\u2019s poor human rights record, including allegations of torture and killings of government opponents. A High Court judge initially upheld the policy, saying it didn\u2019t breach Britain\u2019s obligations under the U.N. Refugee Convention or other international agreements. But that ruling was reversed by a 2-1 decision in the Court of Appeal that found that while it was not unlawful to send asylum-seekers to a safe third country, Rwanda could not be deemed safe. The government argues the Court of Appeal had no right to interfere with the lower court decision and got it wrong by concluding deportees would be endangered in Rwanda and could face the prospect of being sent back to their home country where they could face persecution. The U.K. also says that the court should have respected the government\u2019s analysis that determined Rwanda is safe and and that its government would abide by the terms of the agreement to protect migrants\u2019 rights. Attorneys for the migrants argue that there is a real risk their clients could be tortured, punished, or face inhumane and degrading treatment in violation of the European Convention on Human Rights and they cite Rwanda\u2019s history of abusing refugees for dissent. The second flank of their argument is that the home secretary did not thoroughly investigate how Rwanda determines the status of refugees. One of the claimants asserts that the U.K. must still abide by European Union asylum procedures despite its Brexit split from the EU that became final in 2020. EU policies only allow asylum-seekers to be sent to a safe third country if they have a connection to it. Even if the courts allow the policy to proceed, it\u2019s unclear how many people will be flown to Rwanda at a cost estimated to be $206,000 per person. And there\u2019s a chance it wouldn\u2019t be in place for long. The leader of the opposition Labour Party, Keir Starmer, said Sunday that he would scrap the policy if elected prime minister. Polls show Labour has an advantage in an election that must be called by the end of next year. \u201cI think it\u2019s the wrong policy, it\u2019s hugely expensive,\u201d Starmer told the BBC. The court is not expected to rule immediately after the hearing. Copyright \u00a9 2023 The Washington Times, LLC. Please read our comment policy before commenting. Click to Read More and View Comments Click to Hide",
+    "pubDate": "2023-10-08 12:50:58",
+    "image_url": "https://twt-thumbs.washtimes.com/media/image/2023/10/08/Migration_Britain_Rwanda_40866_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+    "source_id": "washingtontimes",
+    "source_priority": 9784,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "top"
+    ],
+    "language": "english",
+    "short_uuid": "a2999c2"
+  },
+  {
+    "article_id": "41544eec3dc2acbbdb8a52985c117412",
+    "title": "Von Miller active for Bills against Jaguars but DE Shaq Lawson and CB Christian Braswell out",
+    "link": "https://www.washingtontimes.com/news/2023/oct/8/von-miller-active-for-bills-against-jaguars-but-de/?utm_source=RSS_Feed&utm_medium=RSS",
+    "keywords": null,
+    "creator": null,
+    "video_url": null,
+    "description": "Bills edge-rusher Von Miller is active for Buffalo's game Sunday against the Jacksonville Jaguars but defensive end Shaq Lawson is out with a toe injury.",
+    "content": "Back Print By Associated Press - Sunday, October 8, 2023 LONDON \u2014 Bills edge-rusher Von Miller is active for Buffalo\u2019s game Sunday against the Jacksonville Jaguars but defensive end Shaq Lawson is out with a toe injury. The Bills activated Miller, the NFL\u2019s all-time active sacks leader, from the reserve-physically unable-to-perform list on Saturday. He hasn\u2019t played since injuring his knee last November. Starting defensive end Greg Rousseau (foot) is also out. Christian Benford (shoulder) is inactive, meaning Buffalo will be without its two starting cornerbacks. Tre\u2019Davious White tore his right Achilles tendon last week. Damar Hamlin is inactive a week after the safety played in his first regular-season game some nine months since having a near-death experience on the field at Cincinnati. For the Jaguars, LT Cam Robinson (suspension), WR Zay Jones (knee), and return specialist Jamal Agnew (quad) are all active as expected. Jacksonville\u2019s inactives are WR Elijah Cooks, CB Christian Braswell, LB Devin Lloyd and OL Cole Van Lanen. Jags\u2019 WR Parker Washington (knee) was placed on the reserve/injured list Saturday. Veteran edge rusher Dawuane Smoot, who returned to practice this week, remains on the physically unable to perform list. He sustained a torn Achilles tendon last December. Copyright \u00a9 2023 The Washington Times, LLC. Please read our comment policy before commenting. Click to Read More and View Comments Click to Hide",
+    "pubDate": "2023-10-08 12:22:14",
+    "image_url": "https://twt-thumbs.washtimes.com/media/image/2023/10/06/Britain_Bills_Football_92889_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+    "source_id": "washingtontimes",
+    "source_priority": 9784,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "entertainment",
+      "environment",
+      "health",
+      "technology"
+    ],
+    "language": "english",
+    "short_uuid": "8cb3137b"
   }
 ]
