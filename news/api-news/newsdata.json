@@ -4633,5 +4633,132 @@
     ],
     "language": "english",
     "short_uuid": "89a605f3"
+  },
+  {
+    "article_id": "99f5d457485b132a60d5671c46756c4d",
+    "title": "How to unsend or edit an iMessage on iOS, iPadOS, and macOS",
+    "link": "https://www.xda-developers.com/how-to-unsend-edit-imessage/",
+    "keywords": [
+      "Computing",
+      "apple",
+      "iOS 16",
+      "macOS Ventura",
+      "Apple iMessage"
+    ],
+    "creator": [
+      "Rich Woods",
+      "Mahmoud Itani"
+    ],
+    "video_url": null,
+    "description": "One of the key features for Messages in iOS 16, macOS Ventura, and newer versions is the ability to unsend and edit iMessages. Here's how to do it.",
+    "content": "Typos and other errors are pretty common during our everyday texting sessions. For a very long time, though, iMessage users had no way to amend these mistakes. That was until iOS 16 and macOS Ventura debuted in 2022, along with the ability to edit or unsend iMessages. Whether you're on , , , or their 2022 predecessors, all you have to do is follow the steps we've listed below. Prerequisites First of all, there are some limitations. Obviously, you won't be able to edit or unsend SMS messages, which are the ones that show up in green bubbles. Another key limitation is that you can unsend or edit an iMessage for a period of time, but if the recipient is running an older version of iOS, iPadOS, or macOS, they'll still see the original message. The Messages app is going to warn you of this. It will tell you that the message has been unsent or edited, and that the recipient may still see it because they're running an older version of iOS (yes, it still calls out iOS specifically even if you're using macOS). The same goes for group texts, as the app will specifically mention the people in the group who are running the older version. Additionally, you have no more than 2 minutes to unsend and 15 minutes to edit a message. And do note that the recipient will still be able to see your edit history anyway. Finally, early builds of watchOS 9 didn't support editing or unsending iMessages. While it's unclear when this feature was implemented exactly, and later versions now support it. So you can fix these errors right from your wrist if you're up to date. How to unsend or edit an iMessage The method of unsending or editing a message is pretty straightforward across , iPads, Apple Watches, and Macs. Long-press on an you sent on iOS, iPadOS, or watchOS, or + on the message if you're using macOS. Select or . A message will pop up informing you that some recipients might still be able to see unsent messages. If you're editing, adjust the message as needed and hit the . Do note that your message will then have an label under it, and recipients will be able to view the edit history. That's it. The message will either be unsent or changed based on what you just did, assuming that the recipient is on iOS 16, iPadOS 16, macOS Ventura, and/or a newer OS version. This makes iMessage a more practical instant messaging service for those who don't always proofread or double-check their messages when texting. After all, accidents happen, and knowing that there is an undo button available encourages people to adopt the platform instead of relying on a third-party alternative.",
+    "pubDate": "2023-10-08 00:00:30",
+    "image_url": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/09/iphone-15-pro-max-xda-13406493-1.jpg",
+    "source_id": "xda_developers",
+    "source_priority": 2528,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "top"
+    ],
+    "language": "english",
+    "short_uuid": "481426c5"
+  },
+  {
+    "article_id": "5d4a601686afd96103689b99863bc921",
+    "title": "Warriors notebook: Draymond Green\u2019s status, coaching changes and more",
+    "link": "https://www.mercurynews.com/2023/10/07/warriors-notebook-draymond-greens-status-coaching-changes-and-more/",
+    "keywords": [
+      "Golden State Warriors",
+      "Latest Headlines",
+      "NBA",
+      "Sports",
+      "Basketball",
+      "Inside Sports"
+    ],
+    "creator": [
+      "Shayna Rubin"
+    ],
+    "video_url": null,
+    "description": "Notes before Golden State Warriors' first preseason game against Los Angeles Lakers",
+    "content": "SAN FRANCISCO \u2014 Draymond Green will be out for the Warriors\u2019 first three pre-season games, at least. But he\u2019s still making his voice heard at practices. Green has been throwing out plenty of trash talk and motivations during Golden State\u2019s first week of training camp from the sideline as he nurses a sprained left ankle. \u201cDraymond, his energy dominates a room,\u201d head coach Steve Kerr said on Friday. \u201cFirst couple of days of scrimmages he\u2019s on the sideline talking trash to both teams and pumping guys up and right in the middle of it all. He\u2019s really excited for the season and he\u2019s progressing well.\u201d Green will be re-evaluated on Monday with the potential to play the final two pre-season games. The hope is he\u2019ll be ready to play in some capacity for the Warriors\u2019 opener on Oct. 24 against the Phoenix Suns. Free agent signing Cory Joseph and training camp invite Rodney McGruder will also be sidelined for Saturday\u2019s game against the Lakers. Joseph, 32, is recovering from a lower back lumbar strain and will also be re-evaluated on Monday. \u201cI called Gregg Popovich about him this summer when we were thinking about signing him and Pop said he was one of the best human beings I\u2019ve ever coached. And that\u2019s high praise coming from Pop. That\u2019s what you want, you want to fill your roster with good leaders, teammates. And he\u2019s a really good player. We\u2019re lucky to have him.\u201d McGruder, 32, was inactive on Saturday in concussion protocol. Former assistant coach Jama Mahlalela left the Warriors in the offseason for his hometown Toronto Raptors. With his departure, the Warriors lost their director of player development who also crafted substitution patterns and drew up special teams plays. The Warriors promoted longtime assistant and player development coach Kris Weems to the front of the bench as an assistant, and Kerr says he will be organizing sub patterns. Assistant coach Seth Cooper will also be at the front of the bench in Mahlalela\u2019s player development role. He and former Santa Cruz Warriors GM David Fatoki were hired as co-directors of player development in the offseason. Golden State also shook up their coaching staff operations. \u201cWe\u2019ve structured things differently,\u201d Kerr said. \u201cWe have pods where coaches are grouped together for scouting purposes, defending on who we\u2019re playing, then offense and defense as well.\u201d",
+    "pubDate": "2023-10-07 23:55:52",
+    "image_url": "https://www.mercurynews.com/wp-content/uploads/2023/06/202306241514TMS_____MNGTRPUB_SPORTS-TOP-10-PLAYERS-AVAILABLE-ON-NBAS-2-NY5-1.jpg?w=1400px&strip=all",
+    "source_id": "mercurynews",
+    "source_priority": 2968,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "sports"
+    ],
+    "language": "english",
+    "short_uuid": "17c34d91"
+  },
+  {
+    "article_id": "40770eaae82749d4bf4160b88cf765c2",
+    "title": "Warriors notebook: Draymond Green\u2019s status, coaching changes and more",
+    "link": "https://www.eastbaytimes.com/2023/10/07/warriors-notebook-draymond-greens-status-coaching-changes-and-more/",
+    "keywords": [
+      "Golden State Warriors",
+      "Latest Headlines",
+      "NBA",
+      "Sports",
+      "Basketball",
+      "Inside Sports"
+    ],
+    "creator": [
+      "Shayna Rubin"
+    ],
+    "video_url": null,
+    "description": "Notes before Golden State Warriors' first preseason game against Los Angeles Lakers",
+    "content": "SAN FRANCISCO \u2014 Draymond Green will be out for the Warriors\u2019 first three pre-season games, at least. But he\u2019s still making his voice heard at practices. Green has been throwing out plenty of trash talk and motivations during Golden State\u2019s first week of training camp from the sideline as he nurses a sprained left ankle. \u201cDraymond, his energy dominates a room,\u201d head coach Steve Kerr said on Friday. \u201cFirst couple of days of scrimmages he\u2019s on the sideline talking trash to both teams and pumping guys up and right in the middle of it all. He\u2019s really excited for the season and he\u2019s progressing well.\u201d Green will be re-evaluated on Monday with the potential to play the final two pre-season games. The hope is he\u2019ll be ready to play in some capacity for the Warriors\u2019 opener on Oct. 24 against the Phoenix Suns. Free agent signing Cory Joseph and training camp invite Rodney McGruder will also be sidelined for Saturday\u2019s game against the Lakers. Joseph, 32, is recovering from a lower back lumbar strain and will also be re-evaluated on Monday. \u201cI called Gregg Popovich about him this summer when we were thinking about signing him and Pop said he was one of the best human beings I\u2019ve ever coached. And that\u2019s high praise coming from Pop. That\u2019s what you want, you want to fill your roster with good leaders, teammates. And he\u2019s a really good player. We\u2019re lucky to have him.\u201d McGruder, 32, was inactive on Saturday in concussion protocol. Former assistant coach Jama Mahlalela left the Warriors in the offseason for his hometown Toronto Raptors. With his departure, the Warriors lost their director of player development who also crafted substitution patterns and drew up special teams plays. Related Articles The Warriors promoted longtime assistant and player development coach Kris Weems to the front of the bench as an assistant, and Kerr says he will be organizing sub patterns. Assistant coach Seth Cooper will also be at the front of the bench in Mahlalela\u2019s player development role. He and former Santa Cruz Warriors GM David Fatoki were hired as co-directors of player development in the offseason. Golden State also shook up their coaching staff operations. \u201cWe\u2019ve structured things differently,\u201d Kerr said. \u201cWe have pods where coaches are grouped together for scouting purposes, defending on who we\u2019re playing, then offense and defense as well.\u201d",
+    "pubDate": "2023-10-07 23:55:52",
+    "image_url": "https://www.eastbaytimes.com/wp-content/uploads/2023/10/202306241514TMS_____MNGTRPUB_SPORTS-TOP-10-PLAYERS-AVAILABLE-ON-NBAS-2-NY5-1.jpg?w=1400px&strip=all",
+    "source_id": "eastbaytimes",
+    "source_priority": 17164,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "sports"
+    ],
+    "language": "english",
+    "short_uuid": "94babae0"
+  },
+  {
+    "article_id": "2302dde8b4565a45cb4ad8bbe493dfc2",
+    "title": "Long Beach\u2019s Empty Lupe\u2019s De La Mar Space Just Landed a Bigtime Tenant",
+    "link": "https://whatnowlosangeles.com/long-beachs-empty-lupes-de-la-mar-space-just-landed-a-bigtime-tenant/",
+    "keywords": [
+      "restaurants",
+      "DTLB",
+      "Kay Krymis",
+      "Long Beach",
+      "los angeles",
+      "Lupe's De La Mar",
+      "Mezcalero",
+      "Michel Verdi",
+      "Padre"
+    ],
+    "creator": [
+      "Amanda Peukert"
+    ],
+    "video_url": null,
+    "description": "The peeps behind soon-to-close Padre and Mezcalero will open a mystery concept at The Promenade",
+    "content": "It\u2019s official: Husband and wife Jay Krymis and Michel Verdi of Padre and Mezcalero have acquired the shuttered Lupe\u2019s De La Mar space at 301 The Promenade North. Lupe\u2019s closed its doors at the start of the year before its neighbor Portuguese Bend Distilling followed suit. This takeover comes after news that the Padre/Mezcalero building at 525 E. Broadway will eventually be demolished to make way for a residential development. However, this doesn\u2019t necessarily mean that Padre and Mezcalero will deputize Lupe\u2019s. Instead, Krymis and Verdi, who formerly ran WeHo\u2019s FUBAR and presently operate Schmitty\u2019s in the same neighborhood, are debating whether or not to maintain Padre\u2019s presence in Long Beach or debut a from-scratch concept. Per Brian Addison\u2019s , Krymis explains, \u201cMe and the team are kinda divided on what we plan on doing\u2026Padre is a strong name in Long Beach and it would make sense for us to simply move it for brand recognition. But the space at Lupe\u2019s itself is entirely different and we definitely want to alter the feel\u2026 We want the space to feel a bit more lived-in, a bit more warm, a bit more casual.\u201d For the F&B duo, this means bringing to the somewhat desolate Downtown area a place \u201cthat has pitchers, that has shareables, that has an extensive happy hour \u2014 that\u2019s a hangout more than an elevated space that is held off for special occasions.\u201d Whatever the space becomes, it will be here by the end of the year and we\u2019ll be eagerly waiting. Related Posts \u00a9 What Now Media Group 2023. All rights reserved.",
+    "pubDate": "2023-10-07 23:54:15",
+    "image_url": "https://whatnowlosangeles.com/wp-content/uploads/sites/3/2023/10/Long-Beachs-Empty-Lupes-De-La-Mar-Space-Just-Landed-a-Bigtime-Tenant-300x300.jpg",
+    "source_id": "whatnowlosangeles",
+    "source_priority": 190639,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "top"
+    ],
+    "language": "english",
+    "short_uuid": "e60b93b3"
   }
 ]
