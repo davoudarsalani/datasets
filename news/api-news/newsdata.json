@@ -23696,5 +23696,220 @@
     ],
     "language": "english",
     "short_uuid": "32b6021"
+  },
+  {
+    "article_id": "248e60b1246a24340e03da041f4e38a4",
+    "title": "WinRAR has a major security vulnerability, manually update now",
+    "link": "https://www.xda-developers.com/winrar-security-vulnerability-update/",
+    "keywords": [
+      "Computing",
+      "google",
+      "Security",
+      "Cybersecurity"
+    ],
+    "creator": [
+      "Usama Jawad"
+    ],
+    "video_url": null,
+    "description": "A WinRAR vulnerability is being widely exploited because the archiving utility does not allow automatically updating to a patched version.",
+    "content": "WinRAR's popularity is being threatened by Windows 11's native support for compression formats, but users should update the software due to a security vulnerability being exploited by state-sponsored actors. The vulnerability allowed threat actors to execute malicious code when users opened seemingly harmless files within ZIP archives. The exploitation of the vulnerability highlights the importance of keeping software up to date and the need for vendors to offer easier ways to update software. is one of the most used compression utilities out there, although with native support for 7Z, RAR, and TAR.GZ formats. However, those who leverage WinRAR may want to update the software as soon as possible as a security vulnerability is reportedly being exploited by certain state-sponsored actors. In a penned by Google, the company says that its Threat Analysis Group (TAG) has identified multiple instances of hacking groups utilizing a now-patched vulnerability in WinRAR. Apparently, the archiving software hosted a security bug that caused \"extraneous temporary file expansion when processing crafted archives, combined with a quirk in the implementation of Windows' ShellExecute when attempting to open a file with an extension containing spaces.\" This meant that a threat actor could execute malicious code if a user opened a seemingly safe file within a ZIP archive. Although the security hole was plugged by WinRAR developer RARLabs in August 2023, multiple hacking groups like FROZENBARENTS, FROZENLAKE, and ISLANDDREAMS have been leveraging the issue in unpatched software to run malicious campaigns in several countries like Ukraine and Papua New Guinea. The key reason behind the widespread exploitation is that WinRAR does not automatically update, which means that customers who are running an older version of the software are vulnerable to exploitation. As of now, WinRAR version 6.23 and 6.24 contain the security fix in question. Google has noted that the spread of this exploit does not only emphasize the importance of users keeping their software up to date, but also the need for vendors to offer easier ways to update software. If you're curious about how the vulnerability is exploited or want to know about the associated indicators of compromise (IOCs), make sure to check out the company's .",
+    "pubDate": "2023-10-18 17:27:24",
+    "image_url": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/10/capture.PNG",
+    "source_id": "xda_developers",
+    "source_priority": 2528,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "top"
+    ],
+    "language": "english",
+    "short_uuid": "7f5e2fdf"
+  },
+  {
+    "article_id": "078b96b2f1d10a2fa26e322f45e58fc7",
+    "title": "FDA Approves Pilocarpine Hydrochloride Ophthalmic Solution to Treat Presbyopia",
+    "link": "https://www.pharmacytimes.com/view/fda-approves-pilocarpine-hydrochloride-ophthalmic-solution-to-treat-presbyopia",
+    "keywords": [
+      "us"
+    ],
+    "creator": null,
+    "video_url": null,
+    "description": "Pilocarpine improves near visual acuity by pupil modulation, leading to an increased ability to focus on nearby objects.",
+    "content": "Pilocarpine hydrochloride ophthalmic solution 0.4% (Qlosi, Orasis Pharmaceuticals) has been granted FDA approval for the treatment of presbyopia in adult individuals. Presbyopia is the loss of ability to focus on nearby objects and is caused by the natural aging process. A press release from Orasis noted that 128 million individuals in the US are impacted by the condition. Presbyopia is reported to occur in individuals after the age of 40, resulting in blurred daily vision. The condition cannot be prevented or reversed, and other available treatment options could be invasive. Image credit: dragonstock - stock.adobe.com Pilocarpine hydrochloride ophthalmic solution is a prescription, preservative-free, low-dose eye drop. The formula has met efficacy, safety, and comfort outcomes. The drop should be administrated daily or twice daily as needed and provides relief within 20 minutes. The effects were reported to last up to 8 hours and improve near vision for individuals by day 15 of treatment without impacting distance or night vision. The role of pilocarpine is to improve the near visual acuity by pupil modulation, leading to an increased ability to focus on nearby objects. \"The FDA approval of Qlosi marks a tremendous milestone for Orasis as we continue our mission to provide a flexible treatment option for the millions of people in the US living with presbyopia, or blurry near vision,\" Elad Kedar, Chief Executive Officer of Orasis Pharmaceuticals said, in a press release. \"I am grateful to the Orasis team, our strategic partners, clinical investigators, and patients who participated in our clinical trials, all of whom made this achievement possible.\" The approval was based on results from the phase 3 NEAR-1 and NEAR-2 clinical trials. The press release noted that researchers included 600 individuals and assessed the efficacy and safety of pilocarpine hydrochloride ophthalmic solution. The primary and secondary endpoints were met. The researchers noted that the most common treatment-related adverse events from the trial included headache and site pain in 6.8% and 5.8% of individuals, respectively. Other events were mild. Sheri Rowen, MD, FACS, FWCRS, PCEO, Medical Director at NVision Eye Centers, said in a press release that the promising results and approval created excitement among providers looking to support their patients with presbyopia. \"Patients will be delighted to have the option to customize their use of low-dose pilocarpine for their personal visual needs. Based on the statistically significant efficacy and tolerability demonstrated in the 2 pivotal clinical trials with such a minimum effective dose, QLOSI's results reinforce the important role of formulation in reimagining a new approach to treating these patients,\" said Rowen, in a press release. Orasis Pharmaceuticals Announces FDA Approval of QLOSI\u2122 (pilocarpine hydrochloride ophthalmic solution) 0.4% for the Treatment of Presbyopia. Cision. News release. October 18, 2023. Accessed October 18, 2023. .",
+    "pubDate": "2023-10-18 17:23:41",
+    "image_url": "https://www.pharmacytimes.com/rss",
+    "source_id": "pharmacytimes",
+    "source_priority": 9945,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "top"
+    ],
+    "language": "english",
+    "short_uuid": "c6f29198"
+  },
+  {
+    "article_id": "8ec836a67b1b55fd35f39b7aa0a62714",
+    "title": "One Bay Area neighborhood makes Time Out\u2019s \u2018world\u2019s coolest\u2019 for 2023",
+    "link": "https://www.eastbaytimes.com/2023/10/18/one-bay-area-neighborhood-makes-time-outs-worlds-coolest-for-2023/",
+    "keywords": [
+      "California News",
+      "Home and Garden",
+      "Housing",
+      "Latest Headlines",
+      "Lifestyle",
+      "News",
+      "Things To Do",
+      "World News",
+      "Home Column",
+      "Morning Wire"
+    ],
+    "creator": [
+      "Cnn Com Wire Service"
+    ],
+    "video_url": null,
+    "description": "Every year, Time Out polls its staffers and contributors from around the globe to assemble a list of the 40 most fun, interesting and fashionable \u2018hoods.",
+    "content": "An artsy quarter of Madrid, a sustainable pocket of Melbourne, and an up-and-coming zone in Medellin \u2013 what do these places have in common? They\u2019re among the coolest neighborhoods in the world, according to global publisher Time Out. Every year, Time Out polls its staffers and contributors from around the globe to assemble a list of the 40 most fun, interesting and fashionable \u2018hoods. Topping the 2023 list is Laureles, in Colombia\u2019s bustling city of Medellin, which is the hometown of musicians J Balvin and Karol G. Related Articles According to Time Out, up-and-coming Laureles has a \u201cpretty laid-back reputation\u201d despite being home to the Estadio Atanasio Girardot soccer stadium and famed nightlife street La 70. Still, though, it has thus far resisted the gentrification other Medellin neighborhoods have experienced, with Time Out\u2018s Luis Gomez noting that traditional fruit vendors still push their carts through the streets in Laureles. Five of the top 10 coolest nabes are in Europe, with waterfront Havnen in Copenhagen and the historic Smithfield section of Dublin both appearing on the list for the first time. In Asia, Hong Kong\u2019s buzzy Sheung Wan neighborhood gets the nod, and the best showing for a neighborhood in the US is Mid-City, home to some of the best food \u2013 and that\u2019s saying a lot, considering the whole city is known for great food \u2013 in New Orleans. Time Out\u2019s 40 Coolest Neighborhoods for 2023 : Medellin, Colombia : Dublin, Ireland : Madrid, Spain : Copenhagen, Denmark : Hong Kong : Melbourne, Australia , New Orleans : Milan, Italy : Amsterdam, Netherlands : Tokyo, Japan Los Angeles, USA See the full list of 40 neighborhoods . The-CNN-Wire\u2122 & \u00a9 2023 Cable News Network, Inc., a Warner Bros. Discovery Company. All rights reserved.",
+    "pubDate": "2023-10-18 17:08:32",
+    "image_url": "https://www.eastbaytimes.com/wp-content/uploads/2023/10/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbG50dWR0cGYwMDA1M2I2aXQ2bTFnNDFm-L19wYWdlcy9jbG50cTk3M20wMDFtNjdwZGZ1YnQ0Mzk4.jpg?w=1400px&strip=all",
+    "source_id": "eastbaytimes",
+    "source_priority": 17164,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "entertainment"
+    ],
+    "language": "english",
+    "short_uuid": "e432c786"
+  },
+  {
+    "article_id": "b18a6bfffe6ef21addad183384c0e0e2",
+    "title": "Macy\u2019s Eyes the Metaverse of Fashion with Mstylelab",
+    "link": "https://www.nftgators.com/macys-eyes-the-metaverse-of-fashion-with-mstylelab/",
+    "keywords": [
+      "Metaverse News"
+    ],
+    "creator": [
+      "Nicholas Kitonyi"
+    ],
+    "video_url": null,
+    "description": "The fashion retailer wants to create new immersive experiences blending both the physical and digital worlds of shopping. The post Macy\u2019s Eyes the Metaverse of Fashion with Mstylelab appeared first on NFTgators .",
+    "content": "Quick take: Macy\u2019s has launched Mstylelab, a new digital platform that leverages of fashion to bring immersive experiences to its customers. The new platform blends digital and physical environments allowing users to explore various immersive experiences through discovery, self-expression, and connectivity. The platform is accessible on any device, using any browser and is open to the public to join, the community, create their usernames, collect a personalized digital item, and engage with the first activation. Mstylelab is built on the fashion-centric metaverse technology platform Journee. Commenting on the announcement, Dave Torres, vice president of Interactive Marketing at Macy\u2019s said: \u201cWe are excited to launch Mstylelab, the next evolution of our web3 digital strategy, creating a hub for style inspiration and discovery at the intersection of fashion and technology.\u201d \u201cAs we grow and evolve the Mstylelab digital platform and community, new activations and experiences will be brought to life creating immersive storytelling focused on fashion and style, in a fun and shoppable environment,\u201d Torres added. This is not Macy\u2019s first foray into the metaverse, the US fashion and accessories retailer has been actively using the 3D virtual world to promote major shopping seasons including last year\u2019s Thanksgiving celebrations, which saw it launch a . Mstylelab, however, will focus on the company\u2019s newest brand On 34 in a larger-than-life surrealist recreation of New York, which also marks the first activation with Journee, Macy\u2019s wrote in the . Erika Lang, Head of Americas at Journee thinks this partnership will bring the future of fashion retail to a broader audience. \u201cConsumers are seeking multiple touch points on multiple platforms to seamlessly integrate immersive virtual experiences into their customer journey. This innovative technology will propel the fashion industry \u2013 as well as many others \u2013 into its next phase. Reaching consumers where they are and providing new ways for them to shop and interact with one another is vital in order to deepen their relationships with brands,\u201d said Lang. Fans can easily access the new experience by using their profiles at Macy.com profiles or creating a new one, which allows them to choose a Mstylelab username. Stay up to date:",
+    "pubDate": "2023-10-18 17:04:16",
+    "image_url": "https://www.nftgators.com/wp-content/uploads/2023/10/Macys-Mstylelab-150x150.jpg",
+    "source_id": "nftgators",
+    "source_priority": 518010,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "top"
+    ],
+    "language": "english",
+    "short_uuid": "1ea6a3af"
+  },
+  {
+    "article_id": "11f4f433cfc2b11816ec5cff92f97371",
+    "title": "Maine man born with no eyes, misplaced heart can keep emotional support chickens",
+    "link": "https://nypost.com/2023/10/18/maine-man-born-with-no-eyes-can-keep-emotional-support-chickens/",
+    "keywords": null,
+    "creator": [
+      "Yaron Steinbuch"
+    ],
+    "video_url": null,
+    "description": "The Bangor, Maine, man's doctor provided an emotional support animal prescription -- but the family ran into a snag over an ordinance against keeping fowl in the city.",
+    "content": "A Maine man born without eyes and parts of his brain and right lung \u2014 and whose heart is on the wrong side of the body \u2014 has won a legal battle to keep six emotional support chickens. C-Jay Martin, 25, of Bangor, was born blind with a bilateral cleft palate and lip, missing a third of his brain and half of his right lung and with his heart on the right side of his chest, the Bangor Daily News reported . Martin, who also has autism, epilepsy and ADHD, began developing anxiety and depression around the time of the COVID-19 pandemic, according to the outlet. His mom, Amy Martin, this year decided to get him six backyard chickens from a Facebook group to help him cope with his emotional problems. \u201cDuring COVID, C-Jay started struggling because he\u2019s very social and we lost all our activities and no one came over,\u201d Martin told the news outlet. \u201cFor the past two years, he wasn\u2019t talking to anyone and was very withdrawn.\u201d She found out that chickens were popular emotional support animals during the pandemic \u2014 and that their \u201cchatter\u201d could provide C-Jay with comforting background noise, the Washington Post reported . She also learned that chickens are gentle creatures who pose no danger to her son. \u201cSome are really cuddly,\u201d Martin told the newspaper. So she got C-Jay\u2019s doctor to provide an emotional support animal prescription \u2014 but the family ran into a snag because Bangor has an ordinance against keeping fowl in the city. Their only option was to get an exception, but that proved to be no easy task. Officials at the Department of Housing and Urban Development told her to submit an application to the Bangor Board of Appeals. \u201cI wasn\u2019t looking to file an appeal,\u201d she told the Washington Post. \u201cWe\u2019re not getting chickens so we can sell eggs. This is to accommodate a disability, so the process should be different.\u201d Meanwhile, her son bonded with his feathered friends. He named them Stella, Salty, Popcorn, Cheeks and Pepper. He is still deciding what to name the sixth, according to the outlet. \u201cHe fell in love with them,\u201d Martin said, adding C-Jay now volunteers at a local church, a food bank and Ronald McDonald House. \u201cHe has more of a reason to go outside. He gets very excited.\u201d She then decided to file a complaint with the Maine Human Rights Commission, claiming the city was discriminating against her son by not giving him an exemption to the no-chicken rule. But the commission found no evidence of discrimination, so Martin filed a request with the Bangor Board of Appeals. Seven people spoke during a recent hearing, including five who urged the board to allow the family to keep the chickens. \u201cAs a parent, I know how fiercely Amy takes care of C-Jay and this is a great way for him to feel socially and emotionally supported,\u201d Imke Jandreau said, the Bangor Daily news reported. \u201cThey\u2019re not a nuisance, we don\u2019t hear them, we don\u2019t see them, and we as neighbors would have never known there were chickens in the backyard,\u201d the neighbor added. The two people who opposed the request said they worried that allowing chickens in Bangor would bring rats into the neighborhood or encourage others people to also get chickens. Jeff Wallace, Bangor\u2019s code enforcement director, said the city had not received any complaints about the chickens of Sept. 25. He said he doesn\u2019t believe the birds attracted the rats in their neighborhood because rodents have been found in other areas where there are no chickens. Eventually, the five-member board voted to approve Martin\u2019s request. \u201cIt was a resounding support,\u201d Wallace told The Washington Post, adding that he believed media coverage and the community\u2019s support played a role in the outcome. The elated mother expressed her gratitude to her neighbors and hopes her family\u2019s story will make it easier for others in a similar situation have an easier time with the bureaucracy. \u201cWhen we fight for something, we fight for everyone,\u201d Martin told the paper, adding that two days after the hearing, \u201cwe got our first egg.\u201d",
+    "pubDate": "2023-10-18 16:53:14",
+    "image_url": "https://nypost.com/wp-content/uploads/sites/2/2023/10/NYPICHPDPICT000061796724.jpg?quality=90&strip=all",
+    "source_id": "nypost",
+    "source_priority": 109,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "top"
+    ],
+    "language": "english",
+    "short_uuid": "6d38e61c"
+  },
+  {
+    "article_id": "8bd32737fb1291a914f16b6dde2f9b20",
+    "title": "Financial influencer reveals luxury Facebook hack that will save you a fortune",
+    "link": "https://nypost.com/2023/10/18/financial-influencer-reveals-luxury-facebook-hack-that-will-save-you-a-fortune/",
+    "keywords": null,
+    "creator": [
+      "Brooke Steinberg"
+    ],
+    "video_url": null,
+    "description": "The best things in life are free \u2014 and here\u2019s how to get them. Simran Kaur, founder of @girlsthatinvest who aims to help women with financial advice, told her followers that she gets free, high-end items for free. The 26-year-old from Australia suggested that people \u201cjoin your local rich neighborhood Facebook group.\u201d \u201cThey\u2019re always making...",
+    "content": "The best things in life are free \u2014 and here\u2019s how to get them. Simran Kaur , founder of @girlsthatinvest who aims to help women with financial advice, told her followers that she gets free, high-end items for free. The 26-year-old from Australia suggested that people \u201cjoin your local rich neighborhood Facebook group.\u201d \u201cThey\u2019re always making posts like, \u2018I have a Nespresso coffee machine & Dyson vacuum I don\u2019t use anymore, free to a good home,'\u201d she wrote over the video . She added in the caption, \u201cI once got a Nespresso coffee machine this way when I was a new grad.\u201d Kaur, who has been featured on the Forbes 30 Under 30 list, no longer needs to use the life hack since she runs a seven-figure company, but wanted to let her followers in on the secret \u2014 and it certainly sparked interest. \u201cSo do you just Facebook search \u201crich people group in [City Name]\u201d or\u2026.Serious question,\u201d one person asked. Some users were already in the know and were more than happy to help clarify. \u201cIt\u2019s called a Buy Nothing group if you\u2019re interested! You search Buy Nothing [city] and it\u2019ll pop up. However, they typically ask you to confirm your address to ensure you live in that area,\u201d they explained. \u201cDo they have a free house they\u2019re not using anymore with marble countertops?\u201d someone quipped. One person even suggested another way to get freebies from rich people that doesn\u2019t require the internet or Facebook. \u201cWe love driving around the rich neighborhoods on trash day and see all the amazing things people \u201cthrow away,\u201d they wrote. Others haven\u2019t had great luck with the trick. \u201cI tried that but all they did was complain about local politics,\u201d one said. \u201cI\u2019m In these groups and all I see are missing pets and complaints,\u201d another wrote. \u201chad to leave them because I felt so distressed constantly seeing lost and deceased pets.\u201d",
+    "pubDate": "2023-10-18 16:52:10",
+    "image_url": "https://nypost.com/wp-content/uploads/sites/2/2023/10/NYPICHPDPICT000061801259.jpg?quality=90&strip=all",
+    "source_id": "nypost",
+    "source_priority": 109,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "top"
+    ],
+    "language": "english",
+    "short_uuid": "8403fa00"
+  },
+  {
+    "article_id": "101b27087a3e2883b93b4e4fb5f8e6ef",
+    "title": "Phenomenal deal knocks 86% off Microsoft Office 2-pack license bundle for Windows and Mac",
+    "link": "https://www.xda-developers.com/microsoft-office-2021-pro-bundle-deal/",
+    "keywords": [
+      "Computing",
+      "Microsoft",
+      "Microsoft Office 2021",
+      "Deals"
+    ],
+    "creator": [
+      "Timi Cantisano"
+    ],
+    "video_url": null,
+    "description": "This deal is perfect for those who need to use Office on two computers.",
+    "content": "There are a lot of great out there, but you can't beat the original when it comes to features. The only problem with Office is the price, which comes in well ahead of its competitors. While you can go for a subscription service like Microsoft 365, you'll perpetually be paying for the service as long as you use it. With that said, if you're looking for a one time purchase that's going to provide the most complete experience, you're going to want to go with Office 2021 Professional. The software suite includes everything you need to be productive and get work done with apps like Word, Excel, PowerPoint, Outlook, Teams, and OneNote. While this bundle typically costs $440, you can now take advantage of this deal that drops the price down to just $60 and includes two lifetime licenses. While there are two codes in this bundle, you're going to want to purchase the one that fits your needs. Stack Social has provided two, one for Windows and another for Mac. Regardless of which one you choose, you'll get two codes that can be used to gain full access to Microsoft's powerful software suite. You'll also want to make sure you have a compatible computer to run this software. Mac users will need to be running at least macOS Monterey and PC users will need to at least be running Windows 10. For the most part, you really can't go wrong with this deal. You're getting access to one of the best productivity software suites available at a severely reduced price. So if you've been looking to grab a couple Office licenses for your home or office, this is going to be the deal for you.",
+    "pubDate": "2023-10-18 16:45:44",
+    "image_url": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/08/exclusive-member-deals-1-1.png",
+    "source_id": "xda_developers",
+    "source_priority": 2528,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "top"
+    ],
+    "language": "english",
+    "short_uuid": "8be0dbcb"
+  },
+  {
+    "article_id": "c201c7a67bb2e8791dc4af1bef1e83a5",
+    "title": "Pastor\u2019s 3-year-old son accidentally shoots 2-year-old brother with dad\u2019s gun outside church",
+    "link": "https://nypost.com/2023/10/18/pastors-3-year-old-son-shoots-tot-brother-with-dads-gun/",
+    "keywords": null,
+    "creator": [
+      "Snejana Farberov"
+    ],
+    "video_url": null,
+    "description": "Two-year-old Daniel Vines survived because the bullet did not go through his brain.",
+    "content": "The 3-year-old son of a North Carolina pastor accidentally shot his 2-year-old brother in the head with their father\u2019s gun in a church parking lot \u2014 and is miraculously expected to make a full recovery. The incident occurred around 8:30 p.m. Sunday outside River Valley Baptist Church in Morganton \u2014 a city about 75 miles northwest of Charlotte. The pastor of the church, Rev. Adam Vines, told WBTV that his older son had gotten hold of a gun in the side door of the family\u2019s parked van and accidentally fired the weapon, injuring his younger brother, Daniel Vines. The Vines family were attending an evening church service at the time of the shooting. Vines said luckily the bullet did not pierce his son\u2019s brain, and he was able to talk and move. \u201cIt did go in behind his ear, but it went across the corner of the lower side, instead of going through the brain,\u201d the father-of-five pastor said. Daniel was airlifted by helicopter to the Carolinas Medical Center in Charlotte, where he underwent emergency surgery and was listed in stable condition Monday, according to his dad. \u201cWe\u2019re lucky it wasn\u2019t as bad of a damage as first thought,\u201d Vines said, adding that Daniel is expected to make a full recovery but will require therapy. The pastor also said that his older son who fired the gun was \u201cin shock.\u201d Burke County Sheriff Robert Hinceman told WSOC-TV that his deputies have confiscated the pastor\u2019s handgun as part of the ongoing investigation. It will be up to the district attorney to decide if charges should be filed in connection with the shooting.",
+    "pubDate": "2023-10-18 16:40:37",
+    "image_url": "https://nypost.com/wp-content/uploads/sites/2/2023/10/newspress-collage-u4vjy1qau-1697647937440.jpg?quality=90&strip=all&1697633575",
+    "source_id": "nypost",
+    "source_priority": 109,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "top"
+    ],
+    "language": "english",
+    "short_uuid": "77efc2ec"
   }
 ]
