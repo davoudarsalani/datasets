@@ -10,7 +10,7 @@ from urllib.request import urlopen
 from uuid import uuid4
 
 
-invalid_img_urls = ['', 'null', 'None', None]
+INVALID_IMG_URLS = ['', 'null', 'None', None]
 
 def normalize(text) -> str:
     ## mormalizing borrowed from download.py script:
@@ -114,7 +114,7 @@ def main() -> None:
                           nn.get('urlToImage')
                 # img_url = re.sub(r'\?.*', '', img_url)
 
-                if img_url in invalid_img_urls:
+                if img_url in INVALID_IMG_URLS:
                     continue
 
                 if nn not in already_1__trimmed and \
