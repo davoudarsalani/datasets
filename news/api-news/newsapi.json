@@ -502,5 +502,229 @@
     "publishedAt": "2024-03-11T18:28:15Z",
     "content": "Webbs view in mid-infrared wavelengths also illustrates a new perspective into the diverse and dynamic activity of this region. In the MIRI view of NGC 604, there are noticeably fewer stars. This is \u2026 [+456 chars]",
     "short_uuid": "60832374"
+  },
+  {
+    "source": {
+      "id": "espn",
+      "name": "ESPN"
+    },
+    "author": null,
+    "title": "Sources: Vikings agree to deal with QB Darnold - ESPN",
+    "description": "The Vikings have agreed on a one-year deal with QB Sam Darnold, sources told ESPN, confirming an NFL Network report.",
+    "url": "https://www.espn.com/nfl/story/_/id/39712987/vikings-agree-1-year-deal-qb-sam-darnold",
+    "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0918%2Fr1226462_1296x729_16%2D9.jpg",
+    "publishedAt": "2024-03-12T10:22:00Z",
+    "content": "Mar 12, 2024, 05:22 AM ET\r\nThe Minnesota Vikings have agreed to a one-year deal with quarterback Sam Darnold, sources confirmed to ESPN.\r\nThe Vikings have an opening at quarterback after longtime fra\u2026 [+1071 chars]",
+    "short_uuid": "59ba0a4b"
+  },
+  {
+    "source": {
+      "id": "newsweek",
+      "name": "Newsweek"
+    },
+    "author": "Kate Plummer",
+    "title": "RNC Has Become 'Trump's Toilet,' Republican Complains - Newsweek",
+    "description": "Adam Kinzinger warned that Trump's reported changes to the GOP governing body will damage the Republican Party in upcoming elections.",
+    "url": "https://www.newsweek.com/donald-trump-republican-national-committee-toilet-adam-kinzinger-lara-trump-1878238",
+    "urlToImage": "https://d.newsweek.com/en/full/2360733/trump-employee-5-cnn.jpg",
+    "publishedAt": "2024-03-12T09:52:10Z",
+    "content": "The Republican National Committee has become \"Trump's toilet,\" a former Republican congressman said.\r\nAdam Kinzinger, a former Illinois representative and a vocal critic of Donald Trump, said reporte\u2026 [+3915 chars]",
+    "short_uuid": "ca785c2a"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Ariel Henry: Haiti's prime minister resigns as law and order collapses - BBC.com",
+    "description": "Ariel Henry agrees to resign after Caribbean leaders held talks in Jamaica.",
+    "url": "https://www.bbc.com/news/world-latin-america-68541349",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1852D/production/_132892699_arielhenry.png",
+    "publishedAt": "2024-03-12T09:50:25Z",
+    "content": null,
+    "short_uuid": "7a6f4803"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Andrew Tate and brother Tristan detained in Romania over UK arrest warrant - BBC.com",
+    "description": "Andrew Tate and his brother \"categorically reject\" the sexual offence charges they are accused of.",
+    "url": "https://www.bbc.com/news/uk-68542187",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FBD1/production/_132256446_andrew_tate_getty.jpg",
+    "publishedAt": "2024-03-12T09:45:46Z",
+    "content": null,
+    "short_uuid": "32fd7561"
+  },
+  {
+    "source": {
+      "id": "usa-today",
+      "name": "USA Today"
+    },
+    "author": "Eve Chen",
+    "title": "You can see the total solar eclipse from national parks, but their skies offer much more - USA TODAY",
+    "description": "Travelers will be able to see the total solar eclipse from 27 National Park Service units, but there are many more parks with stunning skies all year.",
+    "url": "https://www.usatoday.com/story/travel/experience/national-parks/2024/03/11/national-parks-solar-eclipse-dark-sky-astronomy/72786580007/",
+    "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/03/08/USAT/72901477007-b-832-f-0-cd-4-de-648478-d-95-fbc-4864957-b-3-hi-res-proxy.jpg?crop=1998,1123,x0,y61&width=1998&height=1123&format=pjpg&auto=webp",
+    "publishedAt": "2024-03-12T09:36:39Z",
+    "content": "A large swath of the country will have a chance to witness a rare total solar eclipse next month.\u00a0\r\nFor a few minutes on April 8, the moon will perfectly align with the sun, darkening skies along a p\u2026 [+4603 chars]",
+    "short_uuid": "17f392e4"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "All By Myself songwriter Eric Carmen dies aged 74 - BBC.com",
+    "description": "The singer-songwriter's hits also included Hungry Eyes, which featured in the Dirty Dancing movie.",
+    "url": "https://www.bbc.com/news/entertainment-arts-68541053",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D8E9/production/_132892555_ericcarmen.png",
+    "publishedAt": "2024-03-12T07:19:55Z",
+    "content": null,
+    "short_uuid": "fba47d57"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Daily Beast"
+    },
+    "author": "Jennifer M. Wood",
+    "title": "Jon Stewart Nails the Real Problem With Katie Britt's SOTU Response - The Daily Beast",
+    "description": "\u201cThe Daily Show\u201d host has got some questions for Britt, like \u201cwho smiles when they say the line \u2018steeped in the blood of patriots\u2019?\u201d",
+    "url": "https://www.thedailybeast.com/jon-stewart-nails-the-real-problem-with-katie-britts-sotu-response",
+    "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_935,w_1662,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1710219105/TDS-Jon_Stewart_3-11-2024_uows6p",
+    "publishedAt": "2024-03-12T05:42:44Z",
+    "content": "Its been four days since Joe Biden delivered his rousing State of the Union address, and people are still talking about one thing: Alabama Sen. Katie Britts unhinged GOP response, which, according to\u2026 [+2807 chars]",
+    "short_uuid": "2c7e1f9"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Gao Yuan",
+    "title": "Xiaomi Surges Most in Year After Setting Up Showdown With Tesla - Yahoo Finance",
+    "description": "(Bloomberg) -- Xiaomi Corp.\u2019s shares had their biggest intraday jump in more than a year after the company announced it will start selling its long-awaited...",
+    "url": "https://finance.yahoo.com/news/xiaomi-surges-setting-sales-date-021839314.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/u1qk.ZHijbQdqFoItscYFQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_technology_68/715689dda3894478f724550c70d4e1dd",
+    "publishedAt": "2024-03-12T04:06:00Z",
+    "content": "(Bloomberg) -- Xiaomi Corp.s shares had their biggest intraday jump in more than a year after the company announced it will start selling its long-awaited electric vehicles this month.\r\nMost Read fro\u2026 [+2178 chars]",
+    "short_uuid": "9199b9ed"
+  },
+  {
+    "source": {
+      "id": "bloomberg",
+      "name": "Bloomberg"
+    },
+    "author": "Christopher Condon",
+    "title": "US CPI Won't Inspire Fed to Cut Rates, Bloomberg Economics Says - Bloomberg",
+    "description": "A monthly report on US consumer prices due Tuesday won\u2019t convince Federal Reserve officials it\u2019s safe to begin lowering interest rates, according to Bloomberg Economics.",
+    "url": "https://www.bloomberg.com/news/articles/2024-03-12/us-cpi-won-t-inspire-fed-to-cut-rates-bloomberg-economics-says",
+    "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ip76TMu47v9M/v0/1200x800.jpg",
+    "publishedAt": "2024-03-12T04:00:00Z",
+    "content": "A monthly report on US consumer prices due Tuesday wont convince Federal Reserve officials its safe to begin lowering interest rates, according to Bloomberg Economics.\r\nThe core consumer price index,\u2026 [+262 chars]",
+    "short_uuid": "30c97ff5"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "YouTube"
+    },
+    "author": null,
+    "title": "Jimmy Kimmel on Hosting the 2024 Oscars, Trump\u2019s Review of Him & Guest Host Justin Timberlake?! - Jimmy Kimmel Live",
+    "description": "Musical Guest Justin Timberlake comes out as \u201cguest host\u201d after assuming Jimmy would be too tired after hosting the Oscars, Jimmy recaps all of the moments f...",
+    "url": "https://www.youtube.com/watch?v=RnDbLm-ypI4",
+    "urlToImage": "https://i.ytimg.com/vi/RnDbLm-ypI4/maxresdefault.jpg",
+    "publishedAt": "2024-03-12T03:47:11Z",
+    "content": null,
+    "short_uuid": "9b58f3f7"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Deadline"
+    },
+    "author": "Bruce Haring",
+    "title": "Johnny Depp Sends Warm Instagram Message To Robert Downey Jr. For His First Oscar Win - Deadline",
+    "description": "Johnny Depp posted an Instagram salute to Robert Downey Jr. for the latter's Oscar win.",
+    "url": "http://deadline.com/2024/03/johnny-depp-sends-warm-instagram-message-robert-downey-jr-1235855638/",
+    "urlToImage": "https://deadline.com/wp-content/uploads/2024/03/GettyImages-138408768-e1710212594949.jpg?w=1022",
+    "publishedAt": "2024-03-12T03:03:00Z",
+    "content": "Johnny Depp is celebrating Robert Downey Jr.\u2018s win at the 96th Oscars.\r\nDowney took home his first Academy Award at the ceremony, prompting Depp to share two photos of him and Downey at the Golden Gl\u2026 [+1184 chars]",
+    "short_uuid": "df0fb0c2"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Athletic"
+    },
+    "author": "Vic Tafur",
+    "title": "Tafur: Raiders land difference-maker in Christian Wilkins, lose 'heartbeat' in Josh Jacobs - The Athletic",
+    "description": "Wilkins boosts a Raiders' defense that was the team's strength last season, but the Raiders were outbid by the Packers for Jacobs.",
+    "url": "https://theathletic.com/5334612/2024/03/11/raiders-christian-wilkins-josh-jacobs-free-agency/",
+    "urlToImage": "https://cdn.theathletic.com/app/uploads/2024/03/11214842/AP23326191458456-scaled-e1710208268825.jpg",
+    "publishedAt": "2024-03-12T02:31:40Z",
+    "content": "The Las Vegas Raiders dont always make a big splash on the first day of free agency and when they do, like with Trent Brown and Chandler Jones, fans usually wind up soaking wet and shivering. But Mon\u2026 [+7135 chars]",
+    "short_uuid": "64727cf"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Sports Illustrated"
+    },
+    "author": "Karl Rasmussen",
+    "title": "Saquon Barkley Claps Back at Giants Great After Agreeing to Sign With Eagles - Sports Illustrated",
+    "description": "Barkley had a response for Tiki Barber, who made some critical comments about the running back\u2019s free agency decision.",
+    "url": "https://www.si.com/nfl/2024/03/12/giants-saquon-barkley-response-tiki-barber-after-eagles-signing",
+    "urlToImage": "https://www.si.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjA0OTUzODg5NzE4NDEzMDUy/saquonbarkley.jpg",
+    "publishedAt": "2024-03-12T01:46:12Z",
+    "content": "New York Giants\u00a0running back\u00a0Saquon Barkley\u00a0is set to join the\u00a0Philadelphia Eagles\u00a0when the new league year begins and free agency officially begins.\r\nAfter failing to agree to a new deal with the Gi\u2026 [+1313 chars]",
+    "short_uuid": "f3bcfa18"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": "Elizabeth Stanton",
+    "title": "Kate Middleton 'humiliated' but 'quite happy' to accept blame in photo edit scandal: royal expert - Fox News",
+    "description": "Kate Middleton's edited family photo has caused a continued stir about her health and lack of public appearances, as royal expert Neil Sean breaks down why she took the brunt of the scrutiny.",
+    "url": "https://www.foxnews.com/entertainment/kate-middleton-humiliated-quite-happy-accept-blame-photo-edit-scandal-royal-expert",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/03/KateMiddleton3.jpg",
+    "publishedAt": "2024-03-12T01:28:00Z",
+    "content": "Kate Middletons response to her edited family photo has appeared to only cause more confusion.\r\nAfter her Mothers Day photo shared on social media was pulled from news agencies amid allegations of ma\u2026 [+8297 chars]",
+    "short_uuid": "86e824ed"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "9to5Mac"
+    },
+    "author": "Benjamin Mayo",
+    "title": "Report: Apple testing AI-powered ads platform - 9to5Mac",
+    "description": "Apple is said to be testing an AI-powered ads platform with a select group of partners, via Business Insider. The...",
+    "url": "https://9to5mac.com/2024/03/11/report-apple-testing-ai-powered-ads-platform/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/03/app-store-search-ad.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-03-11T19:10:00Z",
+    "content": "Apple is said to be testing an AI-powered ads platform with a select group of partners, via Business Insider. \r\nThe AI tool chooses where to place ads in the various App Store promoted ad placement s\u2026 [+1354 chars]",
+    "short_uuid": "6dc2584c"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "KOAT New Mexico"
+    },
+    "author": "Nick Catlin",
+    "title": "New Mexico reports first human plague death in 4 years - KOAT New Mexico",
+    "description": "New Mexico Department of Health is doing outreach and an environmental assessment amid its first human plague death in four years.",
+    "url": "https://www.koat.com/article/new-mexico-plague-death/60165678",
+    "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/plague-65ef4c02a2bb7.jpg?crop=1.00xw:0.846xh;0,0.0807xh&resize=1200:*",
+    "publishedAt": "2024-03-11T18:58:00Z",
+    "content": "LINCOLN COUNTY, N.M. \u2014New Mexico saw its first fatal human case of the plague since 2020 this March. The state health department announced the death on Friday, March 8.\r\nWhat happened?\r\nA man in New \u2026 [+2440 chars]",
+    "short_uuid": "adde0178"
   }
 ]
