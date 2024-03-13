@@ -1,1 +1,268 @@
-[]
+[
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Haiti's Prime Minister Ariel Henry resigns as law and order collapse - BBC.com",
+    "description": "Ariel Henry agrees to resign after Caribbean leaders held talks in Jamaica.",
+    "url": "https://www.bbc.com/news/world-latin-america-68541349",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1852D/production/_132892699_arielhenry.png",
+    "publishedAt": "2024-03-12T06:02:37Z",
+    "content": null,
+    "short_uuid": "8fba85f9"
+  },
+  {
+    "source": {
+      "id": "business-insider",
+      "name": "Business Insider"
+    },
+    "author": "Katherine Tangalakis-Lippert",
+    "title": "Trump suggests Medicare and Social Security benefit cuts on CNBC - Business Insider",
+    "description": "Trump may have handed Biden campaign gold by suggesting cuts to entitlement programs like Medicare during a call-in to CNBC's \"Squawk Box\" on Monday.",
+    "url": "https://www.businessinsider.com/trump-cutting-medicare-social-security-benefits-2024-3",
+    "urlToImage": "https://i.insider.com/65efbd086080194819fee293?width=1200&format=jpeg",
+    "publishedAt": "2024-03-12T03:35:00Z",
+    "content": "Donald Trump on Monday unintentionally handed President Joe Biden a gift while speaking to CNBC.\r\nWhen asked how the country could cut discretionary spending and his outlook on handling entitlements \u2026 [+1644 chars]",
+    "short_uuid": "4025cef1"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Jen Christensen",
+    "title": "CDC team to help Chicago officials with response to measles outbreak - CNN",
+    "description": "A team of experts from the US Centers for Disease Control and Prevention is expected to arrive in Chicago on Tuesday to help local public health officials manage a measles outbreak there.",
+    "url": "https://www.cnn.com/2024/03/11/health/cdc-chicago-measles/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/3168.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-03-12T03:07:00Z",
+    "content": "A team of experts from the US Centers for Disease Control and Prevention is expected to arrive in Chicago on Tuesday to help local public health officials manage a measles outbreak there.\r\nThe Chicag\u2026 [+5996 chars]",
+    "short_uuid": "d8048573"
+  },
+  {
+    "source": {
+      "id": "the-washington-post",
+      "name": "The Washington Post"
+    },
+    "author": "Shayna Jacobs",
+    "title": "Trump seeks delay in N.Y. trial pending Supreme Court hearing on immunity - The Washington Post",
+    "description": "The Supreme Court in April is set to hear arguments on whether he is immune from criminal prosecution.",
+    "url": "https://www.washingtonpost.com/politics/2024/03/11/trump-new-york-criminal-trial-scotus-immunity/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PTGXFBW4E3NV2FMVDRKFX545K4.jpg&w=1440",
+    "publishedAt": "2024-03-12T03:04:00Z",
+    "content": "NEW YORK Donald Trump on Monday sought to delay his New York criminal trial, scheduled to start March 25, with claims related to presidential immunity, which several legal experts described as an att\u2026 [+7060 chars]",
+    "short_uuid": "c771f55b"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Detroit Free Press"
+    },
+    "author": "Tanya Wildt",
+    "title": "Powerball winning numbers for Monday, March 11, 2024 - Detroit Free Press",
+    "description": "Powerball numbers are in for the Monday, March 11, 2024 drawing as the jackpot climbs to an estimated $532 million.",
+    "url": "https://www.freep.com/story/news/local/michigan/2024/03/11/powerball-numbers-monday-march-11-2024/72928679007/",
+    "urlToImage": "https://www.freep.com/gcdn/authoring/authoring-images/2023/10/07/PDTF/71101115007-powerball.jpg?crop=3021,1699,x0,y227&width=3021&height=1699&format=pjpg&auto=webp",
+    "publishedAt": "2024-03-12T03:00:31Z",
+    "content": "The Powerball winning numbers are in for the Monday, March 11 drawing with a jackpot that reached an estimated $532 million ($260.1 million cash value).\r\nThe jackpot is the 17th largest in the game's\u2026 [+2731 chars]",
+    "short_uuid": "d29d02e8"
+  },
+  {
+    "source": {
+      "id": "espn",
+      "name": "ESPN"
+    },
+    "author": null,
+    "title": "Bueckers helps UConn rout G'town for 22nd Big East tourney title - ESPN",
+    "description": "Paige Bueckers scored 27 points and had five blocks to help No. 10 UConn beat Georgetown 78-42 on Monday night to win its 22nd Big East Tournament title.",
+    "url": "https://www.espn.com/womens-college-basketball/story/_/id/39711680/bueckers-helps-uconn-dominate-gtown-22nd-big-east-tourney-title",
+    "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0122%2Fr1280698_2_1296x729_16%2D9.jpg",
+    "publishedAt": "2024-03-12T02:30:00Z",
+    "content": "Mar 11, 2024, 09:30 PM ET\r\nUNCASVILE, Conn. -- A year after missing out because of an injury, Paige Bueckers returned to make sure the UConn Huskies ended another Big East Tournament with a trophy in\u2026 [+3599 chars]",
+    "short_uuid": "d6f212f7"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "NBCSports.com"
+    },
+    "author": "Mike Florio",
+    "title": "Bengals will release RB Joe Mixon after seven seasons - NBC Sports",
+    "description": "Cincinnati moves on after seven years with Mixon.",
+    "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-will-release-rb-joe-mixon-after-seven-seasons",
+    "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/4ee4237/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F69%2F68%2F2c68d1014761b3ab9f09d45d2a55%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D22242761",
+    "publishedAt": "2024-03-12T02:20:45Z",
+    "content": "After seven seasons in Cincinnati, Joe Mixons time with the Bengals is ending.\r\nThe Bengals will release Mixon, PFT has confirmed.\r\nMixon was a second-round pick in 2017. He had four 1,000-yard rushi\u2026 [+650 chars]",
+    "short_uuid": "835d4496"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "VentureBeat"
+    },
+    "author": "Carl Franzen",
+    "title": "Midjourney debuts feature for generating consistent characters across multiple gen AI images - VentureBeat",
+    "description": "As the feature progresses and is refined, it could take Midjourney further from being a cool toy or ideation source into more of a professional tool.",
+    "url": "https://venturebeat.com/ai/midjourney-debuts-feature-for-generating-consistent-characters-across-multiple-gen-ai-images/",
+    "urlToImage": "https://venturebeat.com/wp-content/uploads/2024/03/Untitled-design-5.png?w=1200&strip=all",
+    "publishedAt": "2024-03-12T02:10:00Z",
+    "content": "Join leaders in Boston on March 27 for an exclusive night of networking, insights, and conversation. Request an invite here.\r\nThe popular AI image generating service Midjourney has deployed one of it\u2026 [+1301 chars]",
+    "short_uuid": "9c9e4273"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Sheila Chiang",
+    "title": "U.S. curbs on China to rise as 'decoupling is really in full force,' expert warns, amid possible TikTok ban - CNBC",
+    "description": "The U.S. has been ramping up pressure on Chinese companies in recent years, especially in the semiconductor, EV and biotech sectors.",
+    "url": "https://www.cnbc.com/2024/03/12/-us-curbs-on-china-to-rise-with-decoupling-in-full-force-expert-warns.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107385370-1710139501930-gettyimages-1039282538-ake00026.jpeg?v=1710139534&w=1920&h=1080",
+    "publishedAt": "2024-03-12T01:42:00Z",
+    "content": "USA and China trade relations, cooperation strategy. US America and China flags on chess king on a chessboard.\r\nThe U.S. is likely to impose more curbs to check competition from China as \"the decoupl\u2026 [+2862 chars]",
+    "short_uuid": "f1f17462"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Jeremy Herb",
+    "title": "\u2018This is not a witch hunt\u2019: Takeaways from CNN\u2019s sit-down with ex-Trump employee who unwittingly moved classified docs - CNN",
+    "description": "Brian Butler,\u00a0a\u00a0former Mar-a-Lago worker referenced as \u201cTrump Employee Number 5\u201d in the classified documents indictment of\u00a0Donald Trump, spoke exclusively with CNN on Monday about what he saw at\u00a0the former president\u2019s private\u00a0club and the subsequent fallout a\u2026",
+    "url": "https://www.cnn.com/2024/03/11/politics/takeaways-cnn-exclusive-interview-trump-employee-5-mar-a-lago/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/still-20453789-4109076-333-still.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-03-12T01:33:00Z",
+    "content": "Brian Butler,\u00a0a\u00a0former Mar-a-Lago worker referenced as Trump Employee Number 5 in the classified documents indictment of\u00a0Donald Trump, spoke exclusively with CNN on Monday about what he saw at\u00a0the fo\u2026 [+7302 chars]",
+    "short_uuid": "68052e12"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Florida settles lawsuit over LGBT education bill - BBC.com",
+    "description": "A new settlement clarifies the scope of Florida's parental rights bill, dubbed by critics as \"Don't Say Gay\".",
+    "url": "https://www.bbc.com/news/world-us-canada-68541059",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13E15/production/_132892418_gettyimages-1239175549.jpg",
+    "publishedAt": "2024-03-12T00:58:49Z",
+    "content": null,
+    "short_uuid": "59e80ee3"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "Christian Arnold",
+    "title": "Saquon Barkley fires back at 'hater' Tiki Barber after 'dead to me' jab - New York Post ",
+    "description": "The over-the-top comments quickly spread on social media and made their way back to Barkley, who, after agreeing to a three-year deal with Philadelphia",
+    "url": "https://nypost.com/2024/03/11/sports/saquon-barkley-fires-back-at-hater-tiki-barber-after-dead-to-me-jab/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/newspress-collage-447shthay-1710202258925.jpg?quality=75&strip=all&1710187889&w=1024",
+    "publishedAt": "2024-03-12T00:42:09Z",
+    "content": "Saquon Barkey didnt take Tiki Barbers jabs at him lying down.\r\nThe WFAN afternoon host tore into the now-Eagles running back for the decision to sign with rival Philadelphia, saying that the former s\u2026 [+3165 chars]",
+    "short_uuid": "31fd1ec"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Amy Capetta",
+    "title": "Masks work, telehealth is here to stay \u2014 and other health lessons we've learned since the pandemic started 4 years ago - Yahoo Life",
+    "description": "It\u2019s been four years since the beginning of the COVID-19 pandemic in the U.S. Here are six important lessons we\u2019ve learned.",
+    "url": "https://www.yahoo.com/lifestyle/masks-work-telehealth-is-here-to-stay--and-other-health-lessons-weve-learned-since-the-pandemic-started-4-years-ago-001440922.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/uLUoWx6wV5L_brTPWfp5mQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/c9b09460-dfed-11ee-bf5f-903a6a6b6285",
+    "publishedAt": "2024-03-12T00:14:00Z",
+    "content": "This month marks the four-year anniversary of the beginning of the COVID-19 pandemic in the U.S. During the months on lockdown, millions of Americans were grappling with uncertainty, with worries ran\u2026 [+8358 chars]",
+    "short_uuid": "d40474a"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Hollywood Reporter"
+    },
+    "author": "Zoe G Phillips",
+    "title": "Oscars 2024: Four Couples Who Made Their Red Carpet Debut - Hollywood Reporter",
+    "description": "Hollywood's biggest night was full of firsts.",
+    "url": "http://www.hollywoodreporter.com/lifestyle/lifestyle-news/oscars-2024-couples-red-carpet-debut-1235849865/",
+    "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/03/ChrisEvansAlbaBaptistaGettyImages-2075750272.jpg?w=1024",
+    "publishedAt": "2024-03-11T23:17:10Z",
+    "content": "Step aside, Instagram: Hollywood has a new place for stars to hard launch their relationships.\r\nCelebrity couples made a splash at the 2024 Oscars, many of them for the first time. Though some establ\u2026 [+2337 chars]",
+    "short_uuid": "771750df"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Reuters",
+    "title": "JPMorgan's Dimon urges US Fed to wait past June before cutting rates - CNBC",
+    "description": "JPMorgan CEO Jamie Dimon said on Tuesday he sees a little bit of a bubble in equity markets right now.",
+    "url": "https://www.cnbc.com/2024/03/11/jpmorgans-dimon-says-he-sees-a-little-bit-of-a-bubble-in-equity-markets-right-now.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107344145-1701890204798-gettyimages-1835546589-wm_10606_h5dildwd.jpeg?v=1701890233&w=1920&h=1080",
+    "publishedAt": "2024-03-11T22:21:41Z",
+    "content": "JPMorgan CEO\u00a0Jamie\u00a0Dimon\u00a0on Tuesday urged the Federal Reserve to wait past June before cutting interest rates, arguing the central bank needs to shore up its inflation-fighting credibility.\r\n\"I think\u2026 [+1677 chars]",
+    "short_uuid": "97ddb2ae"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Space.com"
+    },
+    "author": "Mike Wall",
+    "title": "Watch SpaceX's Crew-7 astronaut mission for NASA return to Earth March 12 in this free livestream - Space.com",
+    "description": "The quartet is expected to splash down around 5:50 a.m. EDT on Tuesday (March 12).",
+    "url": "https://www.space.com/nasa-spacex-crew-7-astronauts-return-to-earth",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/sfhXRRDtPNFgoM3iZhqgoA-1200-80.jpg",
+    "publishedAt": "2024-03-11T22:00:45Z",
+    "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n\u00a9\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036.",
+    "short_uuid": "a02b2137"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": "Julia Johnson",
+    "title": "Senate Republicans hammer Biden's $7.3 trillion budget request as 'liberal wish list' - Fox News",
+    "description": "Senate Republicans trashed President Biden's latest budget request for fiscal year 2025 on Monday, calling it \"reckless\" in light of skyrocketing national debt.",
+    "url": "https://www.foxnews.com/politics/senate-republicans-hammer-bidens-7-3-trillion-budget-request-liberal-wish-list",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/03/Biden-press-conference.jpg",
+    "publishedAt": "2024-03-11T21:59:00Z",
+    "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nPlease enter a valid email address.\r\nBy entering your e\u2026 [+4299 chars]",
+    "short_uuid": "875d3f18"
+  },
+  {
+    "source": {
+      "id": "ars-technica",
+      "name": "Ars Technica"
+    },
+    "author": "Benj Edwards",
+    "title": "Image-scraping Midjourney bans rival AI firm for scraping images - Ars Technica",
+    "description": "Midjourney pins blame for 24-hour outage on \"bot-net like\" activity from Stability AI employee.",
+    "url": "https://arstechnica.com/information-technology/2024/03/in-ironic-twist-midjourney-bans-rival-ai-firm-employees-for-scraping-its-image-data/",
+    "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/file_theft_1-760x380.jpg",
+    "publishedAt": "2024-03-11T21:42:17Z",
+    "content": "Enlarge/ A burglar with a flashlight and papers in a business officeexactly like scraping files from Discord.\r\n39\r\nOn Wednesday, Midjourney banned all employees from image synthesis rival Stability A\u2026 [+3604 chars]",
+    "short_uuid": "5e85528"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Marianne Garvey",
+    "title": "Al Pacino\u2019s best picture presentation at the Oscars left some viewers confused - CNN",
+    "description": "There was no envelop mix up at the Oscars on Sunday, but there was some confusion in the audience when Al Pacino casually announced \u201cOppenheimer\u201d had won best picture.",
+    "url": "https://www.cnn.com/2024/03/11/entertainment/al-pacino-oscars-best-picture/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24071085118750.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-03-11T15:11:00Z",
+    "content": "There was no envelop mix up at the Oscars on Sunday, but there was some confusion in the audience when Al Pacino casually announced Oppenheimer had won best picture.\r\nThe Godfather star began to reve\u2026 [+1166 chars]",
+    "short_uuid": "77758fed"
+  }
+]
