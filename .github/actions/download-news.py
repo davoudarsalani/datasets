@@ -49,6 +49,7 @@ def main() -> None:
 
     main_file     = f'./news/api-news/{source}.json'
     main_file_2   = f'./news/api-news/{source}-2.json'
+    main_file_3   = f'./news/api-news/{source}-3.json'
     dl_successful = False
     dl_try        = 1
 
@@ -88,6 +89,21 @@ def main() -> None:
                 already_2_uuids    = []
                 already_2__trimmed = []
 
+            if path.exists(main_file_3):
+                print('reading previous news')
+                with open(main_file_3) as opened:
+                    already_3 = load(opened)
+                    already_3_uuids = [_.get('short_uuid', '') for _ in already_3]
+
+                already_3__trimmed = deepcopy(already_3)
+                for dict_ in already_3__trimmed:
+                    if dict_.get('short_uuid'):
+                        del dict_['short_uuid']
+            else:
+                already_3          = []
+                already_3_uuids    = []
+                already_3__trimmed = []
+
             ######################################
 
             print('downloading news with urlopen')
@@ -118,7 +134,8 @@ def main() -> None:
                     continue
 
                 if nn not in already_1__trimmed and \
-                   nn not in already_2__trimmed:
+                   nn not in already_2__trimmed and \
+                   nn not in already_3__trimmed:
 
                     ## add short_uuid
                     new_uuid_is_dupl = True
@@ -126,6 +143,7 @@ def main() -> None:
                         new_uuid = hex(int(uuid4().time_low))[2:10]
                         if  new_uuid not in already_1_uuids and \
                             new_uuid not in already_2_uuids and \
+                            new_uuid not in already_3_uuids and \
                             new_uuid not in new_uuids:
                             new_uuid_is_dupl = False
 
