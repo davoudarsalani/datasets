@@ -3302,5 +3302,271 @@
     "publishedAt": "2024-03-12T18:30:00Z",
     "content": "Haitis de facto president, Ariel Henry, announced his resignation Tuesday the culmination of a political crisis at least two weeks in the making, but really three years or more. \r\nHenry issued his re\u2026 [+12436 chars]",
     "short_uuid": "1c704569"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Darya Tarasova, Tara John",
+    "title": "Navalny\u2019s former chief of staff Leonid Volkov attacked with hammer in Lithuania - CNN",
+    "description": "Russian opposition activist Leonid Volkov, who is the former chief of staff of Russian opposition leader Alexey Navalny, was attacked Tuesday outside his house in Vilnius, Lithuania, according to Navalny\u2019s spokesperson Kira Yarmysh.",
+    "url": "https://www.cnn.com/2024/03/12/europe/leonid-volkov-hammer-attack-lithuania-intl/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2022-09-06t080055z-897818177-rc2vaw9ri2ig-rtrmadp-3-ukraine-crisis-navalny-volkov.JPG?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-03-13T12:26:00Z",
+    "content": "Russian opposition activist Leonid Volkov, who is the former chief of staff of the late Russian opposition leader Alexey Navalny, was attacked Tuesday outside his house in the Lithuanian capital of V\u2026 [+2860 chars]",
+    "short_uuid": "af7309e4"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Clare Foran, Brian Fung",
+    "title": "House expected to vote on bill that could ban TikTok amid Trump resistance - CNN",
+    "description": "The House is expected to vote Wednesday on a bill that could lead to a nationwide ban against TikTok, a major challenge to one of the world\u2019s most popular social media apps that comes as former President Donald Trump has signaled opposition to a ban.",
+    "url": "https://www.cnn.com/2024/03/13/politics/house-vote-tiktok-ban-bill/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2079164956.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-03-13T12:11:00Z",
+    "content": "The House is expected to vote Wednesday on a bill that could lead to a nationwide ban against TikTok, a major challenge to one of the worlds most popular social media apps.\r\nThe\u00a0bill\u00a0would prohibit T\u2026 [+4731 chars]",
+    "short_uuid": "79518a1a"
+  },
+  {
+    "source": {
+      "id": "the-verge",
+      "name": "The Verge"
+    },
+    "author": "Andrew J. Hawkins",
+    "title": "The Polestar 3 isn't out yet, and it's already getting a big price cut - The Verge",
+    "description": "Polestar is adjusting the price for its upcoming Polestar 3 electric SUV, bringing the starting price as low as $74,800 for the base model.",
+    "url": "https://www.theverge.com/2024/3/13/24098731/polestar-3-price-cut-variants-specs-ev-suv-production",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/Z-mMI-t4LJC_L0ed1lMagtPEyw8=/0x0:5000x3333/1200x628/filters:focal(2500x1667:2501x1668)/cdn.vox-cdn.com/uploads/chorus_asset/file/25332429/681584_20240227_Polestar_3_production.jpg",
+    "publishedAt": "2024-03-13T12:00:00Z",
+    "content": "The Polestar 3 isnt out yet, and its already getting a big price cut\r\nThe Polestar 3 isnt out yet, and its already getting a big price cut\r\n / The Swedish EV company is slashing the starting price fo\u2026 [+2918 chars]",
+    "short_uuid": "6fef839d"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Fox Business"
+    },
+    "author": "Daniella Genovese",
+    "title": "Dollar Tree to close nearly 1K stores - Fox Business",
+    "description": "Dollar Tree announced on Wednesday that it plans to close nearly 1,000 U.S. Family Dollar stores after reporting quarterly results that missed Wall Street expectations.",
+    "url": "https://www.foxbusiness.com/lifestyle/dollar-tree-to-close-nearly-1k-stores",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/03/0/0/Family-Dollar-store.jpg?ve=1&tl=1",
+    "publishedAt": "2024-03-13T11:53:00Z",
+    "content": "Dollar Tree announced on Wednesday that it plans to close nearly 1,000 U.S. stores in its portfolio after suffering a significant quarterly loss.\u00a0\r\nAs part of its portfolio optimization, initially an\u2026 [+1277 chars]",
+    "short_uuid": "179205c8"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": "Greg Norman",
+    "title": "US deploys Marine anti-terrorism unit to Haiti to protect embassy - Fox News",
+    "description": "A Marine anti-terrorism team has been deployed to protect the U.S. embassy in Haiti as the country is suffering from gang violence and political turmoil.",
+    "url": "https://www.foxnews.com/world/us-deploys-marine-anti-terrorism-unit-haiti-protect-embassy",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/03/US-embassy-Haiti.jpg",
+    "publishedAt": "2024-03-13T11:20:00Z",
+    "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nPlease enter a valid email address.\r\nBy entering your e\u2026 [+2972 chars]",
+    "short_uuid": "50930f0a"
+  },
+  {
+    "source": {
+      "id": "espn",
+      "name": "ESPN"
+    },
+    "author": "David Newton",
+    "title": "What are the Panthers doing?! Carolina resets in free agency - ESPN",
+    "description": "Carolina is turning the page after trading Brian Burns and shoring up its O-line early in free agency.",
+    "url": "https://www.espn.com/nfl/story/_/id/39716176/what-panthers-doing-carolina-free-agency-brian-burns-luke-combs-robert-hunt-damien-lewis",
+    "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0312%2Fr1303937_1296x729_16%2D9.jpg",
+    "publishedAt": "2024-03-13T11:00:00Z",
+    "content": "CHARLOTTE, N.C. -- Country music star Luke Combs is a huge fan of the Carolina Panthers. The native of nearby Huntersville isn't shy about wearing their colors onstage and off. He went so far as to j\u2026 [+6405 chars]",
+    "short_uuid": "920d12e7"
+  },
+  {
+    "source": {
+      "id": "usa-today",
+      "name": "USA Today"
+    },
+    "author": "Doyle Rice",
+    "title": "Denver, Colorado snow forecast says over a foot possible - USA TODAY",
+    "description": "Colorado this week could see its biggest snowstorm of the season with over a foot possible in the Denver metro area, forecasters said.",
+    "url": "https://www.usatoday.com/story/news/weather/2024/03/12/denver-colorado-snow-forecast-says-up-to-a-foot-in-mid-march/72943026007/",
+    "urlToImage": "https://www.usatoday.com/gcdn/-mm-/0d400dfc832457633ee9024d51281442b17e256f/c=0-180-3126-1946/local/-/media/2016/03/23/USATODAY/USATODAY/635943433431711142-denver-snow-hughes.JPG?width=3126&height=1766&fit=crop&format=pjpg&auto=webp",
+    "publishedAt": "2024-03-13T10:56:25Z",
+    "content": "Colorado this week could see its biggest snowstorm of the season with over a foot possible in the Denver metro area, forecasters said.\r\nSnow will begin in Utah late Tuesday, before spreading south an\u2026 [+1964 chars]",
+    "short_uuid": "bc84a6a9"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Gregory Krieg",
+    "title": "Biden and Trump clinch nominations, heading to another general election rematch - CNN",
+    "description": "Donald Trump has clinched the Republican nomination for president, CNN projects, setting up a rematch with Joe Biden, the incumbent president who secured the Democratic nomination earlier Tuesday night.",
+    "url": "https://www.cnn.com/2024/03/12/politics/biden-trump-presidential-nominees/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20240312-donald-trump-joe-biden-split-240312.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-03-13T10:37:00Z",
+    "content": "Donald Trump has clinched the Republican nomination for president, CNN projects, setting up a rematch with Joe Biden, the incumbent president who secured the Democratic nomination earlier Tuesday nig\u2026 [+8499 chars]",
+    "short_uuid": "6130bdf5"
+  },
+  {
+    "source": {
+      "id": "cbs-news",
+      "name": "CBS News"
+    },
+    "author": null,
+    "title": "Suburban Seattle woman suspected of being kidnapped found dead in Mexico; suspect arrested - CBS News",
+    "description": "Police said that friends told officers they last heard from Reyna Hernandez on Feb. 26.",
+    "url": "https://www.cbsnews.com/news/reyna-hernandez-missing-washington-found-dead-mexico-suspect-arrested/",
+    "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/03/13/8a97cd67-0b0c-4524-a5e1-bede5b8fe8fb/thumbnail/1200x630/843ed67021ce81cecf8bb2b0a03b9ad6/hernandez-431765777-808618931304942-6201044954593129594-n.jpg?v=20ef31957aa1eda7a0d36f36b8c0b1fc",
+    "publishedAt": "2024-03-13T10:28:00Z",
+    "content": "A 54-year-old suburban Seattle woman who had been missing for two weeks was found dead in Mexico, and a man described as a suspect was arrested by Mexican police on unrelated charges, police said.\r\nP\u2026 [+2086 chars]",
+    "short_uuid": "c87930d2"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "WCVB Boston"
+    },
+    "author": "Jamy Pombo Sesselman",
+    "title": "$1 million Mega Millions prize won in Massachusetts - WCVB Boston",
+    "description": "It was one of two $1 million second-tier prizes.",
+    "url": "https://www.wcvb.com/article/dollar1-million-mega-millions-prize-won-in-massachusetts/60184355",
+    "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/kam-man-food-65f181dac8521.png?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+    "publishedAt": "2024-03-13T10:10:00Z",
+    "content": "QUINCY, Mass. \u2014No one won Tuesday's Mega Millions jackpot, but a ticket sold in Quincy, Massachusetts, is worth $1 million. \r\nThe $1 million winning ticket was sold at Kam Man Food at 219 Quincy Ave.\u2026 [+803 chars]",
+    "short_uuid": "f0da34e3"
+  },
+  {
+    "source": {
+      "id": "usa-today",
+      "name": "USA Today"
+    },
+    "author": "Cybele Mayes-Osterman",
+    "title": "Which eclipse glasses are safe? How to spot scams, fakes - USA TODAY",
+    "description": "Are eclipse glasses sold on Amazon and other online platforms safe? Here's what experts say.",
+    "url": "https://www.usatoday.com/story/news/nation/2024/03/13/eclipse-glasses-scams-april-8/72683260007/",
+    "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/10/14/USAT/71185836007-usatsi-21646346.jpg?crop=5586,3143,x0,y405&width=3200&height=1801&format=pjpg&auto=webp",
+    "publishedAt": "2024-03-13T09:12:27Z",
+    "content": "As the rush to grab a pair of eclipse viewing glasses before they sell out ahead of the April 8 total solar eclipse heats up, experts so far have welcome news for those worried about potential glasse\u2026 [+6462 chars]",
+    "short_uuid": "3d37e2a0"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Kairos: Japan rocket explodes seconds after launch - BBC.com",
+    "description": "Space One\u2019s \u2018Kairos\u2019 rocket burst into flames shortly after lift-off on Wednesday morning.",
+    "url": "https://www.bbc.com/news/av/world-asia-68551401",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/565E/production/_132901122_p0hj7p5d.jpg",
+    "publishedAt": "2024-03-13T09:11:37Z",
+    "content": "Space Ones Kairos rocket burst into flames shortly after lift-off in western Japan on Wednesday. The explosion left a large plume of smoke in the air and sent fiery debris flying near the launchpad. \u2026 [+98 chars]",
+    "short_uuid": "2064309"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "How the US military plans to construct a pier and get food into Gaza - BBC.com",
+    "description": "Building a floating dock poses logistical and security challenges - how might it actually work?",
+    "url": "https://www.bbc.com/news/world-us-canada-68534370",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E915/production/_132896695_dock_976.jpg",
+    "publishedAt": "2024-03-13T08:20:13Z",
+    "content": null,
+    "short_uuid": "25d006c6"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Internet"
+    },
+    "author": "https://www.facebook.com/thehackernews",
+    "title": "Microsoft's March Updates Fix 61 Vulnerabilities, Including Critical Hyper-V Flaws - The Hacker News",
+    "description": "Microsoft releases Patch Tuesday updates to patch 61 new vulnerabilities, including privilege escalation flaws in Azure, Windows, & Authenticator.",
+    "url": "https://thehackernews.com/2024/03/microsofts-march-updates-fix-61.html",
+    "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV4dtxv_xf98HfrgOKyRpA5VE76JiEIJiKcSMWFBAntGSEoYdgOsEgwPWcCEaAVYIgwCalL1y53rt2U1aA0B-CeWmfk63BX-2gLnNHnKOuFxg6lhyjaHcCnuANJ-1VKJqatPfuTRxAD-oRm9PlgF1uwrhtYxUjiMwVpizUMt0GGHexIplzl_RHjRiFcBqU/s728-rw-e365/windows.jpg",
+    "publishedAt": "2024-03-13T05:38:00Z",
+    "content": "Microsoft on Tuesday released its monthly security update, addressing 61 different security flaws spanning its software, including two critical issues impacting Windows Hyper-V that could lead to den\u2026 [+3731 chars]",
+    "short_uuid": "44c5f2b1"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Sports Illustrated"
+    },
+    "author": "Tom Dierberger",
+    "title": "NFL Network Host Dropped Savage One-Liner on Jets' Aaron Rodgers After RFK VP Report - Sports Illustrated",
+    "description": "The insiders were discussing Robert F. Kennedy Jr. approaching the quarterback to be his running mate.",
+    "url": "https://www.si.com/nfl/2024/03/13/nfl-network-jets-aaron-rodgers-robert-kennedy-jr",
+    "urlToImage": "https://www.si.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjA0OTc5Nzg0MDc2MjQwNTE2/nfl-network.jpg",
+    "publishedAt": "2024-03-13T02:36:13Z",
+    "content": "Aaron Rodgers\u00a0is apparently pondering a future in politics.\r\nThe New York Times reported Tuesday that Robert F. Kennedy Jr. had approached the\u00a0New York Jets\u00a0quarterback to potentially be his running \u2026 [+768 chars]",
+    "short_uuid": "d14bfbc"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Chicago Tribune"
+    },
+    "author": "Alice Yin, Nell Salzman, Jake Sheridan",
+    "title": "Aldermen brought in to help with shelter measles outbreak - Chicago Tribune",
+    "description": "Seven cases have been reported at the shelter. Meanwhile, a team from the U.S. Centers for Disease Control and Prevention touched down in Chicago to assist with the response.",
+    "url": "http://www.chicagotribune.com/2024/03/12/aldermen-shelter-measles-outbreak/",
+    "urlToImage": "https://www.chicagotribune.com/wp-content/uploads/2024/03/ctc-l-measles-migrant-shelter-13-cropped-01.jpg?w=1024&h=683",
+    "publishedAt": "2024-03-13T02:03:03Z",
+    "content": "Ald. Julia Ramirez stood late Sunday evening on the top level of a Lower West Side migrant shelter, megaphone in hand as she helped deliver the news that another child had contracted measles.\r\nThree \u2026 [+7725 chars]",
+    "short_uuid": "8fbc6590"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Pittsburgh Post-Gazette"
+    },
+    "author": null,
+    "title": "WATCH: Reacting to the Steelers' trade of Diontae Johnson to Carolina for Donte Jackson - Pittsburgh Post-Gazette",
+    "description": "False",
+    "url": "https://www.post-gazette.com/sports/steelers/2024/03/12/nfl-trade-news-rumors-free-agency-diontae-johnson-donte-jackson/stories/202403120132",
+    "urlToImage": "https://9b16f79ca967fd0708d1-2713572fef44aa49ec323e813b06d2d9.ssl.cf2.rackcdn.com/1140x_a10-7_cTC/Pittsburgh-Steelers-v-Baltimore-Ravens-11-3-1710289734.jpg",
+    "publishedAt": "2024-03-13T00:28:25Z",
+    "content": "MENU",
+    "short_uuid": "72f23e11"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Ashley Strickland",
+    "title": "NASA\u2019s Europa Clipper mission will carry its own \u2018golden record\u2019 to Jupiter\u2019s icy ocean moon - CNN",
+    "description": "NASA\u2019s Europa Clipper, aiming to lift off for Jupiter\u2019s icy moon in October, will carry names, poetry and other symbols of humanity\u2019s search for life beyond Earth.",
+    "url": "https://www.cnn.com/2024/03/12/world/nasa-europa-clipper-symbolic-artwork-scn/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/pia26062.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-03-12T23:37:00Z",
+    "content": "Sign up for CNNs Wonder Theory science newsletter.\u00a0Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nWhen NASAs Europa Clipper aims to launch on its highly\u2026 [+4781 chars]",
+    "short_uuid": "d439cd4f"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Hollywood Reporter"
+    },
+    "author": "Carly Thomas",
+    "title": "Johnny Depp Deletes Photoshopped Picture With Robert Downey Jr. After Oscars - Hollywood Reporter",
+    "description": "The actor was attempting to congratulate his friend, who won an Academy Award for his role in 'Oppenheimer.'",
+    "url": "http://www.hollywoodreporter.com/movies/movie-news/johnny-depp-deletes-photoshopped-picture-robert-downey-jr-2024-oscars-1235850919/",
+    "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/03/Johnny-Depp-Robert-Downey-Jr.-getty-H-2024.jpg?w=1024",
+    "publishedAt": "2024-03-12T22:54:06Z",
+    "content": "Johnny Depp wanted to congratulate his friend Robert Downey Jr. for his Oscar win Sunday night, but it didn\u2019t necessarily go as planned.\r\nThe Pirates of the Caribbean actor initially took to his Inst\u2026 [+1531 chars]",
+    "short_uuid": "f489dc88"
   }
 ]
