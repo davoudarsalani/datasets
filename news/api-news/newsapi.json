@@ -2434,5 +2434,299 @@
     "publishedAt": "2024-03-11T18:50:58Z",
     "content": "The statue outside Crypto.com Arena honoring the late Lakers legend Kobe Bryant is full of typos.\u00a0\r\nPhotos posted to X, formerly Twitter, by German NBA journalist Andr\u00e9 Dr\u00e9 Voigt show the misspelling\u2026 [+798 chars]",
     "short_uuid": "d5a4d68b"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Athletic"
+    },
+    "author": "Mike Jones",
+    "title": "Grading the good, bad and ugly of every major NFL free agency 2024 deal - The Athletic",
+    "description": "Which deals make sense? Which are puzzling? We grade the agreements with the biggest free agents and the teams that paid up.",
+    "url": "https://theathletic.com/5332081/2024/03/12/nfl-2024-free-agency-grades/",
+    "urlToImage": "https://cdn.theathletic.com/app/uploads/2024/03/12184926/GettyImages-1790757617-scaled.jpg",
+    "publishedAt": "2024-03-13T04:16:45Z",
+    "content": "This years NFL free agency began with a bang late Sunday night, when quarterback Russell Wilson announced on social media he would join the Pittsburgh Steelers. League sources said its a one-year dea\u2026 [+39257 chars]",
+    "short_uuid": "4c62bd1c"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Gregory Krieg",
+    "title": "Biden and Trump clinch nominations, heading to another general election rematch - CNN",
+    "description": "Donald Trump has clinched the Republican nomination for president, CNN projects, setting up a rematch with Joe Biden, the incumbent president who secured the Democratic nomination earlier Tuesday night.",
+    "url": "https://www.cnn.com/2024/03/12/politics/biden-trump-presidential-nominees/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20240312-donald-trump-joe-biden-split-240312.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-03-13T04:01:00Z",
+    "content": "Donald Trump has clinched the Republican nomination for president, CNN projects, setting up a rematch with Joe Biden, the incumbent president who secured the Democratic nomination earlier Tuesday nig\u2026 [+8440 chars]",
+    "short_uuid": "54e24658"
+  },
+  {
+    "source": {
+      "id": "abc-news",
+      "name": "ABC News"
+    },
+    "author": "Jenny Wagnon Courts, Hannah Prince, Ismael Estrada, Josh Margolin",
+    "title": "Uvalde police chief announces his resignation in wake of independent investigation - ABC News",
+    "description": "Uvalde Police Chief Daniel Rodriguez's resignation will take effect on April 6.",
+    "url": "https://abcnews.go.com/US/uvalde-police-chief-announces-resignation-after-independent-investigation/story?id=108054609",
+    "urlToImage": "https://i.abcnewsfe.com/a/fd7936fb-6a36-42e1-81d6-861dde0e8318/uvalde-file-gty-ml-240312_1710268154709_hpMain_16x9.jpg?w=1600",
+    "publishedAt": "2024-03-13T03:06:38Z",
+    "content": "Daniel Rodriguez, the police chief of Uvalde, Texas, announced his resignation on Tuesday and said it will take effect on April 6.\r\n\"I believe it is time for me to embrace a new chapter in my career,\u2026 [+2750 chars]",
+    "short_uuid": "415d9f6b"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "SciTechDaily"
+    },
+    "author": null,
+    "title": "Splashdown! NASA's SpaceX Crew-7 Returns to Earth After 199 Days in Orbit - SciTechDaily",
+    "description": "The Crew-7 mission, part of NASA's Commercial Crew Program, safely returned after 199 days in space, marking significant accomplishments for its international crew and contributing to various scientific experiments. NASA\u2019s SpaceX Crew-7 completed the agency\u2019s\u2026",
+    "url": "https://scitechdaily.com/splashdown-nasas-spacex-crew-7-returns-to-earth-after-199-days-in-orbit/",
+    "urlToImage": "https://scitechdaily.com/images/NASA-SpaceX-Crew-7-After-Recovery-scaled.jpg",
+    "publishedAt": "2024-03-13T02:24:48Z",
+    "content": "Roscosmos cosmonaut Konstantin Borisov, left, ESA (European Space Agency) astronaut Andreas Mogensen, NASA astronaut Jasmin Moghbeli, and Japan Aerospace Exploration Agency (JAXA) astronaut Satoshi F\u2026 [+4081 chars]",
+    "short_uuid": "8cbc40ac"
+  },
+  {
+    "source": {
+      "id": "the-washington-post",
+      "name": "The Washington Post"
+    },
+    "author": "Ian Duncan, Lori Aratani",
+    "title": "Boeing whistleblower death compounds bad news for the company - The Washington Post",
+    "description": "A drumbeat of critiques and bad headlines have followed the storied American company for years.",
+    "url": "https://www.washingtonpost.com/business/2024/03/12/boeing-whistleblower-death-plane-issues/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UQKAOGLYF7UYATWTAL2LVAEEBM_size-normalized.jpg&w=1440",
+    "publishedAt": "2024-03-13T02:18:59Z",
+    "content": "The death of a former Boeing employee who had raised concerns about lapses at a South Carolina factory has renewed attention on the aerospace giants long history of facing allegations, from inside th\u2026 [+9064 chars]",
+    "short_uuid": "9bd08205"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "How the US military plans to construct a pier and get food into Gaza - BBC.com",
+    "description": "The US has tapped a little-known private firm, Fogbow, to help manage distribution on the ground in Gaza.",
+    "url": "https://www.bbc.com/news/world-us-canada-68534370",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E915/production/_132896695_dock_976.jpg",
+    "publishedAt": "2024-03-13T02:16:54Z",
+    "content": null,
+    "short_uuid": "c643effd"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "Allie Griffin",
+    "title": "California lawmaker introduces bill to ban artificial dyes in school cafeterias -- with some kids' favorites making list - New York Post ",
+    "description": "The bill specifically targets six dyes \u2014 Red 40, Yellow 5, Yellow 6, Blue 1, Blue 2, and Green 3 \u2014 as well as titanium dioxide, a brightening agent",
+    "url": "https://nypost.com/2024/03/12/us-news/california-lawmaker-introduces-bill-to-ban-artificial-dyes-in-school-cafeterias/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/www-ewg-org-foodscores-products-78273323.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2024-03-13T02:14:00Z",
+    "content": "A California state lawmaker introduced new legislation Tuesday that seeks to ban artificial dyes in food items sold in school cafeterias \u2014 and kid favorites like Lucky Charms, Gatorade, Skittles and \u2026 [+2780 chars]",
+    "short_uuid": "d4482aff"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Giant redwoods: World\u2019s largest trees 'thriving in UK' - BBC.com",
+    "description": "A survey of giant redwoods growing in the UK reveals the trees are doing well - and growing fast.",
+    "url": "https://www.bbc.com/news/science-environment-68518623",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EE81/production/_132875016_screenshot2024-03-08at21.20.39.png",
+    "publishedAt": "2024-03-13T01:34:33Z",
+    "content": null,
+    "short_uuid": "f22c23f9"
+  },
+  {
+    "source": {
+      "id": "the-washington-post",
+      "name": "The Washington Post"
+    },
+    "author": "Tobi Raji, Ann E. Marimow",
+    "title": "U.S. courts require random judge assignments to avoid 'judge shopping' - The Washington Post",
+    "description": "New policy requires assigning judges at random in civil cases that have statewide or national implications, an effort to address concerns about \u201cjudge shopping.\u201d",
+    "url": "https://www.washingtonpost.com/politics/2024/03/12/judge-shopping-random-federal-courts/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EN4377FAEA3JHS5OIKUEGEXLII_size-normalized.jpg&w=1440",
+    "publishedAt": "2024-03-13T01:33:06Z",
+    "content": "Federal judiciary leaders on Tuesday announced a policy that requires assigning judges at random in civil cases that have statewide or national implications,an effort to address widespread concerns a\u2026 [+4506 chars]",
+    "short_uuid": "5c2b17c4"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Deadline"
+    },
+    "author": "Patrick Hipes",
+    "title": "SXSW Responds To Texas Governor\u2019s \u201cDon\u2019t Come Back\u201d Comment After Musicians Drop Out Of Fest Protesting Military Ties - Deadline",
+    "description": "Texas Gov. Greg Abbott and SXSW traded jabs on Twitter after as many as 60 bands pulled out of Austin-based festival over the fest's military ties.",
+    "url": "http://deadline.com/2024/03/sxsw-bands-military-boycott-texas-governor-response-1235856794/",
+    "urlToImage": "https://deadline.com/wp-content/uploads/2024/03/Greg-Abbott-SXSW.jpg?w=1000",
+    "publishedAt": "2024-03-13T01:29:00Z",
+    "content": "Texas Gov. Greg Abbott and SXSW on Tuesday traded jabs on social media in response to a group of as many as 60 bands who have pulled out of Austin-based festival to protest its sponsor ties to the U.\u2026 [+4294 chars]",
+    "short_uuid": "a4182c8b"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CBS Sports"
+    },
+    "author": "",
+    "title": "Trade grades: Steelers dealing WR Diontae Johnson to Panthers for starting CB Donte Jackson, higher draft pick - CBS Sports",
+    "description": "Both teams make out well as Pittsburgh's former Pro Bowl wideout heads to Carolina",
+    "url": "https://www.cbssports.com/nfl/news/trade-grades-steelers-dealing-wr-diontae-johnson-to-panthers-for-starting-cb-donte-jackson-higher-draft-pick/",
+    "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/03/12/25c2f27a-e5d4-4720-9580-b04d5e5e079f/thumbnail/1200x675/8b914445164c3812166be93d76624e22/diontae-johnson-g.jpg",
+    "publishedAt": "2024-03-13T00:38:00Z",
+    "content": "After weeks of speculation, the Pittsburgh Steelers\u00a0traded wide receiver\u00a0Diontae Johnson. Pittsburgh is dealing the veteran playmaker to the Carolina Panthers in exchange for cornerback Donte Jackson\u2026 [+2770 chars]",
+    "short_uuid": "974e4c5d"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Darya Tarasova, Tara John",
+    "title": "Navalny\u2019s former chief of staff Leonid Volkov attacked with hammer in Lithuania - CNN",
+    "description": "Russian opposition activist Leonid Volkov, who is the former chief of staff of Russian opposition leader Alexey Navalny, was attacked Tuesday outside his house in Vilnius, Lithuania, according to Navalny\u2019s spokesperson Kira Yarmysh.",
+    "url": "https://www.cnn.com/2024/03/12/europe/leonid-volkov-hammer-attack-lithuania-intl/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2022-09-06t080055z-897818177-rc2vaw9ri2ig-rtrmadp-3-ukraine-crisis-navalny-volkov.JPG?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-03-13T00:06:00Z",
+    "content": "Russian opposition activist Leonid Volkov, who is the former chief of staff of the late Russian opposition leader Alexey Navalny, was attacked Tuesday outside his house in the Lithuanian capital of V\u2026 [+2266 chars]",
+    "short_uuid": "7c97ed7f"
+  },
+  {
+    "source": {
+      "id": "the-wall-street-journal",
+      "name": "The Wall Street Journal"
+    },
+    "author": "Sune Engel Rasmussen",
+    "title": "Israel and Hezbollah Exchange Fire as Tensions Flare on Lebanon Border - The Wall Street Journal",
+    "description": "Latest strikes come after Biden envoy visited Beirut in bid to reduce conflict",
+    "url": "https://www.wsj.com/world/middle-east/israel-and-hezbollah-exchange-fire-as-tensions-flare-on-lebanon-border-5b3e3f2c",
+    "urlToImage": "https://images.wsj.net/im-936586/social",
+    "publishedAt": "2024-03-12T23:20:00Z",
+    "content": null,
+    "short_uuid": "35907f80"
+  },
+  {
+    "source": {
+      "id": "espn",
+      "name": "ESPN"
+    },
+    "author": "Jamison Hensley",
+    "title": "What addition of Derrick Henry means for Ravens, Lamar Jackson - ESPN",
+    "description": "By adding the ex-Tennessee Titans running back, the Ravens bolster their run game with the addition of the NFL's active leading rusher.",
+    "url": "https://www.espn.com/nfl/story/_/id/39716107/derrick-henry-ravens-lamar-jackson-free-agency",
+    "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0312%2Fr1303913_1296x729_16%2D9.jpg",
+    "publishedAt": "2024-03-12T23:12:00Z",
+    "content": "OWINGS MILLS, Md. -- A day after the Baltimore Ravens' loss to the Kansas City Chiefs in the AFC Championship Game, safety Kyle Hamilton summed up the criticism directed at quarterback Lamar Jackson:\u2026 [+5186 chars]",
+    "short_uuid": "4a422423"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "Josh Christenson",
+    "title": "Special counsel Robert Hur confirms White House asked him to \u2018revise\u2019 descriptions of Biden memory lapses - New York Post ",
+    "description": "White House attorneys asked former special counsel Robert Hur to \u201crevise\u201d descriptions of President Biden\u2019s memory lapses before the release last month of Hur\u2019s report defending his decision \u2026",
+    "url": "https://nypost.com/2024/03/12/us-news/hur-confirms-white-house-asked-him-to-revise-descriptions-of-biden-memory-lapses/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/robert-k-hur-special-counsel-78263011.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2024-03-12T23:01:00Z",
+    "content": "White House attorneys asked former special counsel Robert Hur to revise descriptions of President Bidens memory lapses before the release last month of Hur\u2019s report defending his decision to not brin\u2026 [+4507 chars]",
+    "short_uuid": "e59acc0d"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Page Six"
+    },
+    "author": "Sara Nathan",
+    "title": "Kate Middleton 'looked like sad Princess Diana' during Photoshop crisis: royal insiders - Page Six",
+    "description": "Palace insiders fear the photoshop scandal is taking a toll on Kate Middleton\u2019s recovery \u2013 as she appeared in photos reminiscent of Princess Diana.",
+    "url": "https://pagesix.com/2024/03/12/royal-family/photoshop-crisis-kate-middleton-looked-like-princess-diana/",
+    "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/03/kate-and-diana-2.jpg?quality=75&strip=all&1710263506&w=1024",
+    "publishedAt": "2024-03-12T22:43:12Z",
+    "content": "Royal insiders fear Kate Middleton\u2019s Photoshop scandal is taking a toll on her recovery from the abdominal surgery which has sidelined her from royal duties and made her health the focus of intense s\u2026 [+3768 chars]",
+    "short_uuid": "17be1834"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Bleeding Green Nation"
+    },
+    "author": "Brandon Lee Gowton",
+    "title": "Justin Fields trade rumors: Eagles linked to Bears quarterback - Bleeding Green Nation",
+    "description": "New addition to The QB Factory?!",
+    "url": "https://www.bleedinggreennation.com/2024/3/12/24098943/justin-fields-trade-rumors-eagles-bears-quarterback-qb-nfl-free-agency-chicago-jalen-hurts",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/bvEpJpKqxYJ1l8cc0EQX3lNBD-o=/0x80:2959x1629/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25332832/1450375028.jpg",
+    "publishedAt": "2024-03-12T21:22:25Z",
+    "content": "Multiple NFL insiders have now suggested that the Philadelphia Eagles could be the team that trades for Chicago Bears quarterback Justin Fields.\r\nNot as a starter, obviously. But as a backup to Jalen\u2026 [+2098 chars]",
+    "short_uuid": "9750504f"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "Jennie Taer",
+    "title": "Florida border agents placed on high alert for refugees following breakdown of order in Haiti - New York Post ",
+    "description": "\u201cWith the breakdown of the government in Haiti repatriating Haitians may not be happening for the foreseeable future,\u201d an email to border agents read.",
+    "url": "https://nypost.com/2024/03/12/us-news/florida-border-agents-on-high-alert-for-haitian-refugees/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/border-agents-miami-told-prepare-78259768.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2024-03-12T21:05:00Z",
+    "content": "Border agents in Miami have been told to prepare for a wave of migration from Haiti following the takeover of the country by bloodthirsty gangs, The Post has learned.\r\nAn internal agency email leaked\u2026 [+3425 chars]",
+    "short_uuid": "6442621a"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Alexandra Canal",
+    "title": "Stock market today: US stocks march higher after CPI surprise - Yahoo Finance",
+    "description": "Investors are bracing against a potential surprise in the crucial CPI inflation print, a key input into the Fed's policy deliberations.",
+    "url": "https://finance.yahoo.com/news/stock-market-today-sp-500-hits-new-record-high-as-investors-shrug-off-sticky-inflation-data-200200583.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/hPbqrJhc920HyaWtEoFyAA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-08/ecc100e0-4bcb-11ee-abf7-674c1fd2b5b5",
+    "publishedAt": "2024-03-12T18:56:00Z",
+    "content": "A hotter-than-expected February inflation print was largely driven by two components: shelter and gas.\r\nThe shelter index rose 5.7% on an unadjusted annual basis and 0.4% month over month, a decelera\u2026 [+2038 chars]",
+    "short_uuid": "336e38e0"
+  },
+  {
+    "source": {
+      "id": "engadget",
+      "name": "Engadget"
+    },
+    "author": "Lawrence Bonk",
+    "title": "Discord will soon offer more games and apps inside its chats - Engadget",
+    "description": "Discord just announced that it's releasing a development SDK for people to make games and apps that are directly embedded in chats. The software tool rolls...",
+    "url": "https://www.engadget.com/discord-will-soon-offer-more-games-and-apps-inside-its-chats-182540566.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/7n6ERswYCzy3Nt8f9f9COA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzE-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/044dff70-e09a-11ee-b8bf-2bc726da3fa9",
+    "publishedAt": "2024-03-12T18:25:40Z",
+    "content": "Discord has been experimenting with embedding apps and games directly in chats for a while, via the Activities feature. Now the company is set to launch a dedicated SDK\r\n for developers to join the c\u2026 [+1715 chars]",
+    "short_uuid": "1447416b"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "IndieWire"
+    },
+    "author": "Anne Thompson",
+    "title": "Oscars 2024: Who Came Out Ahead, from Oppenheimer to Jimmy Kimmel - IndieWire",
+    "description": "Who came out ahead at the 2024 Oscars? Jimmy Kimmel, Ryan Gosling, and \"Oppenheimer\" for sure.",
+    "url": "https://www.indiewire.com/awards/industry/oscars-2024-who-came-out-ahead-oppenheimer-jimmy-kimmel-ryan-gosling-1234963438/",
+    "urlToImage": "https://www.indiewire.com/wp-content/uploads/2024/03/Ryan-Gosling-Oscars-performance-Barbie-e1710192558329.jpg?w=650",
+    "publishedAt": "2024-03-11T21:29:53Z",
+    "content": "Freedom and independence fueled many of this year\u2019s Oscar wins, from \u201cOppenheimer\u201d and \u201cAmerican Fiction\u201d to \u201cPoor Things\u201d and \u201cAnatomy of a Fall.\u201d Creative choices and thinking outside the box paid \u2026 [+10953 chars]",
+    "short_uuid": "78c52b52"
   }
 ]
