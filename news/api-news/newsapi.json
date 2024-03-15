@@ -6396,5 +6396,341 @@
     "publishedAt": "2024-03-13T14:00:00Z",
     "content": "SIMA takes one step further and shows stronger generalization to new games, he says. The number of environments is still very small, but I think SIMA is on the right track.\r\nSIMA shows DeepMind putti\u2026 [+2537 chars]",
     "short_uuid": "1eced00f"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Josh Schafer",
+    "title": "Retail sales rebound in February in sign of consumer spending resilience - Yahoo Finance",
+    "description": "The February retail sales report comes as economic data has largely surprised to the upside.",
+    "url": "https://finance.yahoo.com/news/retail-sales-rebound-in-february-in-sign-of-consumer-spending-resilience-124309447.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/MfzP8BjkjuOy9.JuJUqs5A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/0f70c140-e1fc-11ee-af3f-ac105ce2a7a9",
+    "publishedAt": "2024-03-14T14:10:40Z",
+    "content": "Retail sales rebounded in February after seeing their steepest decline in nearly a year during the month prior.\r\nRetail sales rose 0.6% in February from the previous month, according to Census Bureau\u2026 [+2109 chars]",
+    "short_uuid": "c7030286"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Space.com"
+    },
+    "author": "Josh Dinner",
+    "title": "SpaceX launches giant Starship rocket into space on epic 3rd test flight (video) - Space.com",
+    "description": "SpaceX's megarocket reached orbital speed with a space test flight under its belt.",
+    "url": "https://www.space.com/spacex-starship-third-test-flight-launch",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/o7Q9K6SFz5PBBGry3f47XM-1200-80.jpg",
+    "publishedAt": "2024-03-14T13:55:41Z",
+    "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n\u00a9\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036.",
+    "short_uuid": "5edcac26"
+  },
+  {
+    "source": {
+      "id": "polygon",
+      "name": "Polygon"
+    },
+    "author": "Nicole Carpenter",
+    "title": "Strong Museum\u2019s Video Game Hall of Fame nominees announced - Polygon",
+    "description": "Twelve video games were nominated for the World Video Game Hall of Fame in 2024, including Asteroids, Guitar Hero, Metroid, SimCity, Myst, Tony Hawk\u2019s Pro Skater, and Neopets.",
+    "url": "https://www.polygon.com/24099556/simcity-metroid-neopets-video-game-hall-of-fame-strong-museum",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/Khktgj9d5h1VO3C0hjS5jNUZozI=/0x249:2894x1764/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25333921/Group.jpg",
+    "publishedAt": "2024-03-14T13:30:00Z",
+    "content": "The Strong National Museum of Play has announced the 12 games nominated in 2024 for the World Video Game Hall of Fame: Asteroids, Elite, Guitar Hero, Metroid, Myst, Neopets, Resident Evil, Tokimeki M\u2026 [+7787 chars]",
+    "short_uuid": "9158f62"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CBS Sports"
+    },
+    "author": "",
+    "title": "NFL free agency 2024: Top 10 free agents available for Day 4 include Tyron Smith, Chase Young - CBS Sports",
+    "description": "A look at which players are still without a deal as the official start of free agency kicks off",
+    "url": "https://www.cbssports.com/nfl/news/nfl-free-agency-2024-top-10-free-agents-available-for-day-4-include-tyron-smith-chase-young/",
+    "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/01/19/0b40f483-3920-451c-b945-151ca03d85eb/thumbnail/1200x675/9b0efc690f0dee4c9ff40c3b1b3ae4d9/getty-chase-young-49ers.jpg",
+    "publishedAt": "2024-03-14T13:26:00Z",
+    "content": "The first three days of NFL free agency didn't disappoint, as several big names went off the board in one of the busiest starts in recent memory. Some of the biggest moves include\u00a0Kirk Cousins\u00a0signin\u2026 [+2921 chars]",
+    "short_uuid": "62c8917d"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Diane Abbott: MP denied chance to speak during Commons race debate - BBC.com",
+    "description": "She repeatedly tried to speak during a PMQs dominated by discussion of comments about her.",
+    "url": "https://www.bbc.com/news/uk-politics-68556911",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FCEE/production/_132905746_p0hjbdjh.jpg",
+    "publishedAt": "2024-03-14T13:19:41Z",
+    "content": null,
+    "short_uuid": "45f85726"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Investor's Business Daily"
+    },
+    "author": "Investor's Business Daily",
+    "title": "Exact Sciences Stock, A Cathie Wood Holding, Rises After Cologuard 2.0 Outperforms In A Four-Year Test - Investor's Business Daily",
+    "description": "Exact Sciences is hoping to launch an next-generation version of Cologuard in 2025.",
+    "url": "https://www.investors.com/news/technology/exact-sciences-stock-cathie-wood-ark-invest-cologuard-colorectal-cancer-screening/",
+    "urlToImage": "https://www.investors.com/wp-content/uploads/2018/02/stock-ExactSciences-02-company.jpg",
+    "publishedAt": "2024-03-14T13:07:50Z",
+    "content": "Shares of Guardant Health (GH) and Exact Sciences (EXAS) skidded early Thursday after the companies unveiled updated test results for their colon cancer screening tools.\r\nXBoth companies published th\u2026 [+6451 chars]",
+    "short_uuid": "86c8238e"
+  },
+  {
+    "source": {
+      "id": "the-verge",
+      "name": "The Verge"
+    },
+    "author": "Jennifer Pattison Tuohy",
+    "title": "Blink Mini 2 review: a good, cheap wired camera that now works outdoors - The Verge",
+    "description": "The Blink Mini 2 smart security camera is a small, inexpensive indoor / outdoor camera with plenty of flexibility.",
+    "url": "https://www.theverge.com/24100149/blink-mini-2-review",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/8PJMEu2laTULDIobxcPxT9xsuAo=/0x0:5760x3840/1200x628/filters:focal(2880x1920:2881x1921)/cdn.vox-cdn.com/uploads/chorus_asset/file/25334980/8A0A0898.jpeg",
+    "publishedAt": "2024-03-14T13:00:00Z",
+    "content": "Mini but mighty: Blinks tiny, inexpensive camera can now go outdoors\r\nMini but mighty: Blinks tiny, inexpensive camera can now go outdoors\r\n / The new Blink Mini 2 wired security camera is a worthwhi\u2026 [+10101 chars]",
+    "short_uuid": "bce37163"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Boston Globe"
+    },
+    "author": null,
+    "title": "New treatment shrinks brain tumors in small clinical trial at Mass General - The Boston Globe",
+    "description": "The treatment involved a new form of CAR-T cell therapy, which extracts and reprograms a patient\u2019s immune cells to help fight the disease.",
+    "url": "https://www.bostonglobe.com/2024/03/14/business/brain-tumors-glioblastoma-mass-general-clinical-trial/",
+    "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/3TvFrvURJdz8wiNyn6YKbm0BE4Y=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/JTTSXYCQHFC2TAGYJFK4WFO4FU.jpg",
+    "publishedAt": "2024-03-14T12:41:12Z",
+    "content": "Three patients with the most aggressive form of brain cancer had their tumors shrink dramatically after a single infusion of a new form of CAR-T cell therapy, which extracts and reprograms a patients\u2026 [+3065 chars]",
+    "short_uuid": "9f2348e6"
+  },
+  {
+    "source": {
+      "id": "associated-press",
+      "name": "Associated Press"
+    },
+    "author": null,
+    "title": "Major snowstorm hits Colorado, closing schools, government offices and highways - The Associated Press",
+    "description": "A major snowstorm is dumping heavy snow in Colorado, with some spots outside of Denver getting double-digit amounts. More snow was expected to snow throughout Thursday into Friday. Travel was difficult to nearly impossible. The storm began Wednesday night. Th\u2026",
+    "url": "https://apnews.com/article/denver-snowstorm-colorado-0a1d0ccb98147b5fe1ceab2105b2e051",
+    "urlToImage": "https://dims.apnews.com/dims4/default/f213148/2147483647/strip/true/crop/1920x1080+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0c%2F6d%2Fc956a6bdeefbe3878b7cc742ffd6%2F09214934327347f990ff99b02179b8a0",
+    "publishedAt": "2024-03-14T12:33:00Z",
+    "content": "DENVER (AP) A major storm dumped heavy snow in Colorado overnight Thursday forcing flight cancellations and shutting down a highway that connects Denver to Colorado ski resorts.\r\nOur city hasnt seen \u2026 [+1733 chars]",
+    "short_uuid": "e399d632"
+  },
+  {
+    "source": {
+      "id": "associated-press",
+      "name": "Associated Press"
+    },
+    "author": "JOSH BOAK",
+    "title": "Biden opposes Nippon Steel's US Steel takeover plans - The Associated Press",
+    "description": "President Joe Biden is opposing the planned sale of U.S. Steel to Nippon Steel of Japan. Biden says in a statement obtained by The Associated Press the U.S. needs \"strong American steel companies powered by American steel workers.\u201d The announcement expected T\u2026",
+    "url": "https://apnews.com/article/biden-steel-nippon-kishida-merger-purchase-201b3d5719bcf77067cb81d181442afb",
+    "urlToImage": "https://dims.apnews.com/dims4/default/0531851/2147483647/strip/true/crop/6104x3434+0+317/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc5%2F02%2Febbda95b7e2d8e59409b338991dd%2Fc3642403936249278788562388fb3917",
+    "publishedAt": "2024-03-14T11:52:00Z",
+    "content": "WASHINGTON (AP) President Joe Biden is coming out in opposition to the planned sale of U.S. Steel to Nippon Steel of Japan, saying in a statement to be released Thursday that the U.S. needs to mainta\u2026 [+3695 chars]",
+    "short_uuid": "f48dac80"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "New extremism definition unveiled by government - BBC.com",
+    "description": "Groups falling under the new definition will be barred from government funding and meeting officials.",
+    "url": "https://www.bbc.com/news/uk-politics-68556914",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1446/production/_132909150_8cc3aad195a05edd82082508147f15e4caa7aae0.jpg",
+    "publishedAt": "2024-03-14T11:38:07Z",
+    "content": null,
+    "short_uuid": "fd5e49a4"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "Dan Martin",
+    "title": "Gerrit Cole not only pitcher to face woes a year after winning Cy Young - New York Post ",
+    "description": "Gerrit Cole, who will miss at least the first one or two months of the season with an elbow injury, is just the latest reigning American League Cy Young award-winner to run into trouble the followi\u2026",
+    "url": "https://nypost.com/2024/03/14/sports/gerrit-cole-not-only-pitcher-to-face-woes-a-year-after-winning-cy-young/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/newspress-collage-kofvjglol-1710403274026.jpg?quality=75&strip=all&1710388996&w=1024",
+    "publishedAt": "2024-03-14T11:30:00Z",
+    "content": "Gerrit Cole, who will miss at least the first one or two months of the season with an elbow injury, is just the latest reigning American League Cy Young award-winner to run into trouble the following\u2026 [+1922 chars]",
+    "short_uuid": "24c3189d"
+  },
+  {
+    "source": {
+      "id": "bleacher-report",
+      "name": "Bleacher Report"
+    },
+    "author": "Zachary D. Rymer",
+    "title": "Winners and Losers from the Blockbuster Dylan Cease Trade to Padres - Bleacher Report",
+    "description": "Breaking down the winners and losers of the Dylan Cease trade.",
+    "url": "https://bleacherreport.com/articles/10112926-winners-and-losers-from-the-blockbuster-dylan-cease-trade-to-padres",
+    "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1710374716/e8hpfmurjkvdkkqdexwc.jpg",
+    "publishedAt": "2024-03-14T11:00:43Z",
+    "content": "Pedro GrifolNuccio DiNuzzo/Getty Images\r\nAs to that other black-and-white team that occasionally wears pinstripes, the White Sox can walk away from the Cease trade feeling like they accomplished thei\u2026 [+1323 chars]",
+    "short_uuid": "86333bae"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Topeka Capital-Journal"
+    },
+    "author": "Tim Hrenchir",
+    "title": "Officials: Wabaunsee County saw at least six tornadoes late Wednesday - The Topeka Capital-Journal",
+    "description": "Tornadoes were separately reported to have touched down late Wednesday in Wabaunsee, Shawnee and Jackson counties in northeast Kansas.",
+    "url": "https://www.cjonline.com/story/news/state/2024/03/13/big-tornado-reported-on-ground-in-wabaunsee-county-in-northeast-kansas/72965155007/",
+    "urlToImage": "https://www.cjonline.com/gcdn/authoring/authoring-images/2024/03/14/NSBT/72968999007-wab-co-1.jpg?crop=1079,607,x0,y0&width=1079&height=607&format=pjpg&auto=webp",
+    "publishedAt": "2024-03-14T09:29:36Z",
+    "content": "Spotters reported tornadoes touched down late Wednesday in rural areas in Wabaunsee, Shawnee and Jackson counties in northeast Kansas, according to the National Weather Service's Topeka office.\r\nNo i\u2026 [+2311 chars]",
+    "short_uuid": "9dbce059"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "TOI Lifestyle Desk",
+    "title": "Astronomy's big event: Rare solar eclipse to occur in April 2024 after 126 years - The Times of India",
+    "description": "The April 8, 2024 total solar eclipse over North America is not just a stunning spectacle but also a rare scientific opportunity. With its path of totality stretching from Mexico to Canada, it promises longer duration and darker skies than previous eclipses. \u2026",
+    "url": "https://timesofindia.indiatimes.com/etimes/trending/astronomys-big-event-rare-solar-eclipse-to-occur-in-april-2024-after-126-years/articleshow/108490352.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-108490420,width-1070,height-580,imgsize-76904,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+    "publishedAt": "2024-03-14T09:08:00Z",
+    "content": null,
+    "short_uuid": "29fbc15f"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Live Science"
+    },
+    "author": "Harry Baker",
+    "title": "Pi Day 2024: Why NASA uses only 16 of the 62 trillion digits of pi we know - Livescience.com",
+    "description": "On Pi Day (March 14), NASA reminds us why we need only a small slice of the irrational number's infinite decimal places to explain most of the known universe.",
+    "url": "https://www.livescience.com/physics-mathematics/mathematics/pi-day-2024-why-nasa-uses-only-16-of-the-62-trillion-digits-of-pi-we-know",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/3g9aihkMoFrWgXjeRBe2Lg-1200-80.jpg",
+    "publishedAt": "2024-03-14T09:00:00Z",
+    "content": "Pi is an irrational number, meaning it has an infinite number of nonrepeating decimal places. But it turns out, NASA scientists need only a small slice of pi \u2014 the first 15 decimal places \u2014 to solve \u2026 [+3201 chars]",
+    "short_uuid": "8149fbc2"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "FRANCE 24 English"
+    },
+    "author": "Bahar MAKOOI",
+    "title": "How charity ship Open Arms is delivering humanitarian aid to Gaza - FRANCE 24 English",
+    "description": "The ship Opens Arms left Cyprus for the Gaza coast on October 12 with 200 tonnes of food supplies, the first ship to sail as part of a maritime aid corridor initiated by Cyprus, with the support of the European Union, the UK and the US. Given the humanitarian\u2026",
+    "url": "https://www.france24.com/en/middle-east/20240314-how-charity-ship-open-arms-delivering-humanitarian-aid-gaza",
+    "urlToImage": "https://s.france24.com/media/display/070842f0-e0b0-11ee-9cfb-005056a90284/w:1280/p:16x9/000_34LD4BJ.jpg",
+    "publishedAt": "2024-03-14T06:30:07Z",
+    "content": "The ship Opens Arms left Cyprus for the Gaza coast on October 12 with 200 tonnes of food supplies, the first ship to sail as part of a maritime aid corridor initiated by Cyprus, with the support of t\u2026 [+6301 chars]",
+    "short_uuid": "3413e600"
+  },
+  {
+    "source": {
+      "id": "associated-press",
+      "name": "Associated Press"
+    },
+    "author": "JOEY CAPPELLETTI",
+    "title": "Biden heads to the Michigan county emerging as the swing state's top bellwether - The Associated Press",
+    "description": "President Joe Biden will travel to Michigan's premier bellwether county of Saginaw as he looks to shore up support in the key battleground state ahead of November. Biden will be looking to energize Black and union-affiliated voters in his trip Thursday as his\u2026",
+    "url": "https://apnews.com/article/biden-michigan-bellwether-trump-fc3e077e7faac7d6fe785527303cef3e",
+    "urlToImage": "https://dims.apnews.com/dims4/default/22cd8d1/2147483647/strip/true/crop/4000x2250+0+375/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7b%2F97%2F92d1c04ae4efaacd2ceb03f6ec3c%2Fe3c31268fa1d4509949c1e558d3f4f78",
+    "publishedAt": "2024-03-14T04:15:00Z",
+    "content": "SAGINAW, Mich. (AP) Hurley Coleman Jr.'s parents were drawn to Michigan from the South by the promise of middle-class jobs in the booming automotive industry, an origin story shared by many African A\u2026 [+7300 chars]",
+    "short_uuid": "b3aee772"
+  },
+  {
+    "source": {
+      "id": "entertainment-weekly",
+      "name": "Entertainment Weekly"
+    },
+    "author": "https://www.facebook.com/entertainmentweekly",
+    "title": "15 biggest bombshells revealed during 'Love Is Blind' season 6 reunion - Entertainment Weekly News",
+    "description": "Here are the biggest bombshells revealed during the 'Love Is Blind' season 6 reunion.",
+    "url": "https://ew.com/love-is-blind-season-6-reunion-recap-biggest-bombshells-revealed-8608945",
+    "urlToImage": "https://ew.com/thmb/q5gCXEZjJ71NFPPBhmlSsEKEGsA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Sarah-Ann-Bick-Jeramey-Lutinski-Jessica-Vestal-love-is-blind-reunion-030724-25cdb3ebe5f348249ddf9e546507e329.jpg",
+    "publishedAt": "2024-03-14T03:58:33Z",
+    "content": "Warning: This article contains spoilers about the\u00a0Love Is Blind\u00a0season 6 reunion.\r\nThe finale only came out last week, but it's been almost a full year since the Love Is Blind season 6 couples walked\u2026 [+8021 chars]",
+    "short_uuid": "36a4f45f"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Seattle Times"
+    },
+    "author": "Dominic Gates",
+    "title": "NTSB: Boeing employees who installed MAX door plug still unidentified - The Seattle Times",
+    "description": "The federal agency investigating the Jan. 5 midair blowout on an Alaska Airlines 737 MAX says Boeing has yet to tell it who exactly mis-installed the fuselage piece.",
+    "url": "https://www.seattletimes.com/business/boeing-aerospace/ntsb-boeing-employees-who-installed-max-door-plug-still-unidentified/",
+    "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2024/03/03132024_tzr_tzr_180729.jpg?d=1200x630",
+    "publishedAt": "2024-03-14T02:27:01Z",
+    "content": "The federal agency investigating the Jan. 5 midair blowout on an Alaska Airlines 737 MAX on Wednesday laid out the timeline of its requests for information from Boeing and emphasized the company\u2019s co\u2026 [+5277 chars]",
+    "short_uuid": "f2dd1987"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "9to5Mac"
+    },
+    "author": "Filipe Esp\u00f3sito",
+    "title": "visionOS code hints at Vision Pro coming soon to more countries - 9to5Mac",
+    "description": "Apple Vision Pro is currently available exclusively in the US. Although Apple has already said that the headset will come...",
+    "url": "https://9to5mac.com/2024/03/13/visionos-apple-vision-pro-more-countries/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/Vision-Pro-latency.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-03-14T01:30:00Z",
+    "content": "Apple Vision Pro is currently available exclusively in the US. Although Apple has already said that the headset will come to more countries by the end of 2024, there are no details about which countr\u2026 [+1750 chars]",
+    "short_uuid": "be6f538d"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "TMZ"
+    },
+    "author": "TMZ Staff",
+    "title": "'General Hospital' Star Robyn Bernard Dead at 64 - TMZ",
+    "description": "Robyn Bernard -- famous for her work on \"General Hospital\" -- is dead ... TMZ has learned.",
+    "url": "https://www.tmz.com/2024/03/13/general-hospital-robyn-bernard-dead-dies/",
+    "urlToImage": "https://imagez.tmz.com/image/f7/16by9/2024/03/12/f75d2e451a374abe96507e7a427a0413_xl.jpg",
+    "publishedAt": "2024-03-13T22:00:00Z",
+    "content": "Robyn Bernard -- famous for her work on \"General Hospital\" -- is dead ... TMZ has learned.\r\nRiverside County Coroner tells TMZ they identified the actress' body using her fingerprints after deputies \u2026 [+891 chars]",
+    "short_uuid": "bd3af580"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "pgatour.com"
+    },
+    "author": "Brady Kannon",
+    "title": "Prop Farm: Las Vegas sharps, oddsmakers weigh in with top bets for THE PLAYERS - PGA TOUR - PGA TOUR",
+    "description": "It is the third stop, and the biggest stop yet, this week on the Florida Swing as a loaded field makes its way to TPC Sawgrass for the 50th anniversary of THE P",
+    "url": "https://www.pgatour.com/article/news/betting-dfs/2024/03/13/prop-farm-las-vegas-sharps-oddsmakers-weigh-in-with-top-bets-for-the-players",
+    "urlToImage": "https://res.cloudinary.com/pgatour-prod/w_1200,h_628,c_fill,f_auto,q_auto/pgatour/news/editorial/2024/03/13/hideki-matsuyama-players-prop-farm.jpg",
+    "publishedAt": "2024-03-13T20:00:24Z",
+    "content": "It is the third stop, and the biggest stop yet, this week on the Florida Swing as a loaded field makes its way to TPC Sawgrass for the 50th anniversary of THE PLAYERS Championship in Ponta Vedra Beac\u2026 [+7644 chars]",
+    "short_uuid": "952327ca"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Hollywood Reporter"
+    },
+    "author": "Christy Pi\u00f1a",
+    "title": "Olivia Munn Reveals Breast Cancer Diagnosis - Hollywood Reporter",
+    "description": "The actress said she hoped that sharing her diagnosis would help others find comfort, inspiration and support on their journey.",
+    "url": "http://www.hollywoodreporter.com/lifestyle/lifestyle-news/olivia-munn-breast-cancer-diagnosis-1235851459/",
+    "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/03/Olivia-Munn-Governors-Awards-Carpet-GettyImages-1921044931-H-2024.jpg?w=1024",
+    "publishedAt": "2024-03-13T16:54:10Z",
+    "content": "Olivia Munn has revealed she was diagnosed with breast cancer. \r\nThe actress shared in an Instagram post that she hoped that sharing her diagnosis would help others find comfort, inspiration and supp\u2026 [+3122 chars]",
+    "short_uuid": "c677efac"
   }
 ]
