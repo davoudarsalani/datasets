@@ -8636,5 +8636,159 @@
     "publishedAt": "2024-03-14T15:24:44Z",
     "content": "(Bloomberg) -- Steven Mnuchin is targeting a purchase of TikTok from its Chinese parent company, a day after House lawmakers passed a bipartisan bill that would ban the wildly popular social media ap\u2026 [+4483 chars]",
     "short_uuid": "5a626fff"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Elizabeth Wolfe, Robert Shackelford, Amanda Jackson",
+    "title": "Severe storms \u2013 with reports of strong tornadoes \u2013 destroy buildings and knock out power in Indiana and Ohio - CNN",
+    "description": "Strong storms that likely included tornadoes swept through eastern Indiana and western Ohio on Thursday evening, leaving at least two people dead, destroying parts of some towns, knocking out power for thousands, and prompting search and rescue efforts in at \u2026",
+    "url": "https://www.cnn.com/2024/03/15/weather/indiana-ohio-storm-tornado-damage-friday/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/431993172-820181386811513-8-1.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-03-15T08:24:00Z",
+    "content": "Strong storms that likely included tornadoes swept through eastern Indiana and western Ohio on Thursday evening, leaving at least two people dead, destroying parts of some towns, knocking out power f\u2026 [+5092 chars]",
+    "short_uuid": "efc2ecb6"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ScienceAlert"
+    },
+    "author": "Mike McRae",
+    "title": "Breakthrough Therapy Obliterates Deadly Brain Tumor in Days - ScienceAlert",
+    "description": "Brain scans of a 72-year-old man diagnosed with a highly aggressive form of cancer known as a glioblastoma have revealed a remarkable regression in his tumor's size within days of receiving an infusion of an innovative new treatment.",
+    "url": "https://www.sciencealert.com/breakthrough-therapy-obliterates-deadly-brain-tumor-in-days",
+    "urlToImage": "https://www.sciencealert.com/images/2024/03/patient_2_glioblastoma.jpg",
+    "publishedAt": "2024-03-15T05:19:00Z",
+    "content": "Brain scans of a 72-year-old man diagnosed with a highly aggressive form of cancer known as a glioblastoma have revealed a remarkable regression in his tumor's size within days of receiving an infusi\u2026 [+3870 chars]",
+    "short_uuid": "14be2d12"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Lim Hui Jie, Shreyashi Sanyal",
+    "title": "Hong Kong leads losses in Asia after hot U.S. inflation report; first estimates from Japan's wage negotiations expected - CNBC",
+    "description": "Japan is expected to see the first estimates from its spring wage negotiations on Friday, ahead of the Bank of Japan's monetary policy meeting on March 18-19.",
+    "url": "https://www.cnbc.com/2024/03/15/asia-markets.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107289188-1692598524364-gettyimages-1557426353-vcg111446209712.jpeg?v=1692599898&w=1920&h=1080",
+    "publishedAt": "2024-03-15T05:15:00Z",
+    "content": "Shares of Taiwanese multinational electronics contract manufacturer\u00a0Foxconn surged over 8% following the release of its fourth-quarter and full-year results.\r\nFoxconn, which is traded in Taiwan as Ho\u2026 [+729 chars]",
+    "short_uuid": "13040b89"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Deadline"
+    },
+    "author": "Anthony D'Alessandro",
+    "title": "\u2018Civil War\u2019 World Premiere Leaves SXSW Audiences With Ears Ringing & Hearts Racing - Deadline",
+    "description": "A24's Civil War made its grand splash Thursday night at SXSW, marking it as one the most anticipated movies in a contentious U.S. election year.",
+    "url": "http://deadline.com/2024/03/sxsw-civil-war-premiere-1235859532/",
+    "urlToImage": "https://deadline.com/wp-content/uploads/2024/03/GettyImages-2076712571-e1710472834562.jpg?w=1024",
+    "publishedAt": "2024-03-15T04:04:00Z",
+    "content": "One of the most anticipated movies in a contentious Red vs. Blue election year, A24\u2018s Civil Warmade its grand splash Thursday night in the Texas democratic stronghold of Austin \u2014 and the media, on wh\u2026 [+3165 chars]",
+    "short_uuid": "e2638970"
+  },
+  {
+    "source": {
+      "id": "espn",
+      "name": "ESPN"
+    },
+    "author": "Courtney Cronin",
+    "title": "Bears acquire WR Keenan Allen from Chargers for 4th-round pick - ESPN",
+    "description": "The Bears acquired six-time Pro Bowl receiver Keenan Allen from the Chargers for a fourth-round draft pick, it was announced Thursday.",
+    "url": "https://www.espn.com/nfl/story/_/id/39735083/chargers-trading-wr-keenan-allen-bears-4th-rounder",
+    "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F1114%2Fr1253214_1296x729_16%2D9.jpg",
+    "publishedAt": "2024-03-15T03:25:00Z",
+    "content": "CHICAGO -- The Chicago Bears made their biggest splash in free agency Thursday night, sending a fourth-round pick to the Los Angeles Chargers in exchange for wide receiver Keenan Allen, the teams ann\u2026 [+5464 chars]",
+    "short_uuid": "4202852a"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Shohei Ohtani: Baseball star shares first photo with new wife Mamiko Tanaka - BBC.com",
+    "description": "Shohei Ohtani shares a photo with Mamiko Tanaka for the first time as his team heads to South Korea.",
+    "url": "https://www.bbc.com/news/world-asia-68571877",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8B08/production/_132929553_ohtani.png",
+    "publishedAt": "2024-03-15T03:12:33Z",
+    "content": null,
+    "short_uuid": "55867091"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Texas Tribune"
+    },
+    "author": "William Melhado",
+    "title": "Pornhub disabled in Texas over age-verification requirements - The Texas Tribune",
+    "description": "Legal experts say a 5th Circuit decision to uphold part of a Texas law regulating adult entertainment websites conflicts with U.S. Supreme Court precedent regarding minors\u2019 access to obscene material online",
+    "url": "https://www.texastribune.org/2024/03/14/texas-pornhub-5th-circuit-age-verification-paxton/",
+    "urlToImage": "https://thumbnails.texastribune.org/ui6q6mbL142DKZdC8XifgcxWkPo=/1200x630/filters:quality(95):focal(3x413:5468x3359)/static.texastribune.org/media/files/a1784e25cb611c242be5bb18ffd0591f/0205%20Woodfill%20Paxton%20AM%2004.jpg",
+    "publishedAt": "2024-03-15T02:24:32Z",
+    "content": "Sign up for The Brief, The Texas Tribunes daily newsletter that keeps readers up to speed on the most essential Texas news.\r\nIn the latest installment of the dispute between adult content websites an\u2026 [+8270 chars]",
+    "short_uuid": "5501e5f5"
+  },
+  {
+    "source": {
+      "id": "nbc-news",
+      "name": "NBC News"
+    },
+    "author": "Allie Raffa, Monica Alba, Jillian Frankel",
+    "title": "Michigan Arab and Muslim leaders fuming after second Biden visit this year with no meeting - NBC News",
+    "description": "For the second time this year, President Joe Biden visited Michigan without any in-person meetings with members of its Arab American or Muslim communities.",
+    "url": "https://www.nbcnews.com/politics/2024-election/michigans-arab-muslim-community-fuming-second-biden-visit-year-no-meet-rcna143510",
+    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-03/240314-michigan-joe-biden-umbrellas-ac-732p-13aa07.jpg",
+    "publishedAt": "2024-03-15T01:35:00Z",
+    "content": "SAGINAW, Mich. For the second time this year, President Joe Biden visited Michigan without any in-person meetings with members of its Arab American or Muslim communities as he faces protests at campa\u2026 [+6201 chars]",
+    "short_uuid": "5ef63a28"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Hindustan Times"
+    },
+    "author": "Neeraj Dhankher",
+    "title": "Career Horoscope Today for March 14, 2024: Astro tips for better possibilities at work - Hindustan Times",
+    "description": "Daily Horoscope Today, March 15, 2024: Get daily career astrological predictions that will help you prosper at your workplace. | Horoscope",
+    "url": "https://www.hindustantimes.com/astrology/horoscope/career-horoscope-today-for-march-14-2024-astro-tips-for-better-possibilities-at-work-101710454934299.html",
+    "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/03/14/1600x900/career_1669806146489_1710454953429.jpg",
+    "publishedAt": "2024-03-14T22:40:47Z",
+    "content": "Aries: If you are looking for a new job, try attending a job fair or an industry conference near you. Networking at such events can lead to surprise job offers and valuable connections. Those working\u2026 [+5181 chars]",
+    "short_uuid": "58f19ffb"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Ashley Strickland",
+    "title": "Voyager 1 sends back surprising response after \u2018poke\u2019 from NASA - CNN",
+    "description": "A \u201cpoke\u201d sent to the Voyager 1 probe received a response that could help NASA restore reliable communication with the aging spacecraft 15 billion miles away.",
+    "url": "https://www.cnn.com/2024/03/14/world/voyager-1-communication-issue-poke-scn/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/171202144108-03-voyager-spacecraft-concept-art.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-03-14T22:29:00Z",
+    "content": "Sign up for CNNs Wonder Theory science newsletter.\u00a0Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nEngineers have sent a poke to the Voyager 1 probe and \u2026 [+5015 chars]",
+    "short_uuid": "31c290eb"
+  },
+  {
+    "source": {
+      "id": "the-washington-post",
+      "name": "The Washington Post"
+    },
+    "author": "Dylan Moriarty, Kevin Schaul",
+    "title": "Follow a mile-by-mile map of the total solar eclipse - The Washington Post",
+    "description": "Scroll through a map of the April 8 total solar eclipse\u2019s path of totality.",
+    "url": "https://www.washingtonpost.com/science/interactive/2024/map-totality-solar-eclipse-locations/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LDTO2YGB7FFILLC2XBJV7JNWSU.jpg&w=1200",
+    "publishedAt": "2024-03-13T20:10:11Z",
+    "content": "On April 8, the sun, moon and Earth will enter the precise alignment of a total solar eclipse. The moon will block the sun, casting a shadow across a strip of North America from the Pacific Ocean wes\u2026 [+242 chars]",
+    "short_uuid": "6d6baf62"
   }
 ]
