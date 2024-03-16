@@ -11669,5 +11669,360 @@
     "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
     "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
     "short_uuid": "768bd062"
+  },
+  {
+    "article_id": "4c16c00bca6c92be298cc57e64282189",
+    "title": "Uzbekistan showcases at global travel events to boost tourism",
+    "link": "https://www.travelandtourworld.com/news/article/uzbekistan-showcases-at-global-travel-events-to-boost-tourism/",
+    "keywords": [
+      "news pick",
+      "travel event news",
+      "ttw app news",
+      "uzbekistan travel news",
+      "adventure tourism",
+      "cultural heritage",
+      "destination weddings",
+      "global travel events",
+      "international exhibitions",
+      "international tourism",
+      "mice events",
+      "silk road",
+      "tashkent mountain tourism",
+      "tourism infrastructure",
+      "travel industry",
+      "unesco world heritage",
+      "uzbekistan tourism"
+    ],
+    "creator": null,
+    "video_url": null,
+    "description": "Uzbekistan Tourism participates in several prominent travel and tourism exhibitions across the globe to boost travel and tourism. Uzbekistan expects record arrival of tourists from Asia, Europe and America. The post Uzbekistan showcases at global travel events to boost tourism appeared first on Travel And Tour World.",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "pubDate": "2024-03-15 18:29:00",
+    "image_url": "https://www.travelandtourworld.com/wp-content/uploads/2024/03/Uzbekistan.jpg",
+    "source_id": "travelandtourworld",
+    "source_url": "https://www.travelandtourworld.com",
+    "source_icon": "https://i.bytvi.com/domain_icons/travelandtourworld.png",
+    "source_priority": 702160,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "tourism"
+    ],
+    "language": "english",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "short_uuid": "e23de9a3"
+  },
+  {
+    "article_id": "41e79d2bd9de893ba24c615148e0f3ed",
+    "title": "How to recover unsaved Word documents on a Mac",
+    "link": "https://www.macworld.com/article/672463/how-to-recover-unsaved-word-documents.html",
+    "keywords": null,
+    "creator": null,
+    "video_url": null,
+    "description": "Macworld Few computer-related disasters can quickly drain the color from your face quicker than losing a document you\u2019ve been busily working on. Whether your Mac crashed or froze, you forgot to save, or you accidentally clicked on delete, all might not be lost. We\u2019ll show you how you can recover that vanished Word document. If everything is working as it should then it\u2019s quite hard to lose a file in Word. Word has an autosave feature that means that in the event of an accident, you should still have the bulk of your work, except for the last ten minutes. Our top tip would be to save a document as soon as you start working on it to ensure that it autosaves regularly. But that\u2019s not why you\u2019re here. If you\u2019ve opened Word and can\u2019t find that document you were working on don\u2019t panic! There is a good chance that you can get your document back. In this article, we\u2019ll run through the various ways you can recover an unsaved or deleted Word document. How to recover an unsaved Word doc We\u2019ll run through a few scenarios that you might have been confronted with to recover that Word document for you. As we said above, the good news is that Word for Mac has a built-in autosave feature called AutoRecover. This means that Word is quietly saving the document you are working on without you needing to manually tell the software to do so. For this feature to function properly, however, you\u2019ll need to initially save the document with a name, and then Word will make incremental saves every ten minutes. However, even if you haven\u2019t done this Word will still save your document and you should be able to find a version of it in the AutoRecover folder. Below we will run through how to get to the AutoRecover folder and some other steps you can take to recover your document. Scenario 1: You are working on a Word document and you have to restart your Mac without a chance to save first Solution: Open Word again to see an autosaved version of your document. The good news is that if you are using an up-to-date version of Word then just opening up Word again should recover the document\u2014or at least a very recent version of it. This is because Word autosaves your document \u2013 even if you haven\u2019t saved it yet. This is even though at the top of the Window you will see an AutoSave button, which may be off. (Switch that button on and you\u2019ll see a request to save your document.) Scenario 2: Opening Word doesn\u2019t load up the document you were working on Solution: Find it in the AutoRecovery folder. Open the Finder. Click on Go in the menu. Click on Go To Folder. Paste in the following: ~/Library/Containers/com.microsoft.Word/Data/Library/Preferences/AutoRecovery This will open your AutoRecovery folder where you will find the AutoRecovery versions of your documents even though you didn\u2019t save them. Having found the document you may not be able to open it, in which case you may need to try the steps in the next scenario\u2026 Scenario 3: Word won\u2019t open the AutoRecovery version of your document Solution: Drag the file into a different text editor app When you try to open the AutoRecovery file (either by clicking on it or trying to drag it onto the Word icon in the Dock) you may see a message claiming that Word experienced an error trying to open the file. One of the suggestions may be to open the Text Recovery Converter. Here\u2019s what we did: Open TextEdit. Drag the file onto the TextEdit icon in the Dock. Copy the text into a new file in Word. Scenario 4: In a moment of madness you clicked on Don\u2019t Save or Delete Solution: Find the most recent version in the AutoRecovery folder The great news is that even if you didn\u2019t save your Word document \u2013 even the best of us have clicked Don\u2019t Save by accident when we were closing documents \u2013 you can recover it from the AutoRecovery folder. However, it is really difficult to locate as it is locked away in a hidden Library folder. Luckily there is a simple way to view that folder. Just click on Go > Go To Folder in the Finder\u2019s Go menu and paste the following: ~/Library/Containers/com.microsoft.Word/Data/Library/Preferences/AutoRecovery This will open your AutoRecovery folder where you will find the AutoRecovery versions of your documents even though you didn\u2019t save. If you are thinking you might be able to locate that folder directly in the Finder, notice that the ~ symbol means that it is a hidden folder, so it\u2019s easier to cut and paste the above address. Scenario 5: You made a mistake and want to go back to an older version Solution: Browser through recent versions It\u2019s not always the case that you lose the whole document. Sometimes you might lose some of the work you have done, which can be just as traumatic if you\u2019ve spent a lot of time on it. As long as you have made an initial save of the document you should be able to browse the version history: With the Word document open click on File. Select Browse Version History. In the right-hand column, you\u2019ll see the version history. Locate a version of the document from before you made the mistakes you wish to correct. Click on Open Version. This will open a second copy of your document. Either click on Restore (to go back to this version of the document) or Compare (if you don\u2019t want to recover the whole document and just want to copy and paste the bit you need). Other ways to recover a lost Word document If the above doesn\u2019t work, or your version of Word is older than the current one, try the steps we outline below. Check the Trash In some cases, your file might be missing because you deleted it. It\u2019s easily done when you are trying to make room on your Mac and you remove a load of old files only to realize that one of them was crucial. Luckily this isn\u2019t as disastrous as it sounds. The document might still be found in the Trash. Click on the Trash can icon in the Dock to open it. You\u2019ll now see the contents of the Trash. Look for your file. If you click on a file and press Space Bar you may be able to see a preview of it. If you don\u2019t see your file look for a \u2018Recovered Items\u2019 folder in the Trash. It\u2019s possible that your file is located in that. If it\u2019s there you\u2019ll need to right-click on it and choose Put Back. This will place the file back in the folder where it was originally saved and you can continue to work on it. Try data recovery software There are third-party apps that may be able to help you recover your document if the above advice doesn\u2019t help. Disk Drill Disk Drill will scan your storage for free and show you the files that can be recovered using the tool (so you don\u2019t have to pay before you know if it will be able to find your file). To recover the file you\u2019ll need to pay for the full version of Disk Drill here (\u00a383.28/$89). EaseUS EaseUS Data Recovery Wizard will scan the drive or volume where you lost the files. Once the scan is complete you can view Unsaved Documents. Double-click to see a preview of the file and click Recover to recover it. There is a free version that has a 2GB recovery limit, which may well be enough for your needs. Get it here. (Full version costs $69.95 a month, cancel at any time, or $99.95 a year) For details of some other apps that might help you recover your files, check out our round up of the best data recovery apps, which also includes Stellar Data Recovery, RecoverIt, Data Rescue. Find AutoRecovery for older versions of Word Since you might not have the latest bersion of Word we\u2019ll detail the steps below for you to follow to locate that Word AutoRecovery folder. How to find the AutoRecovery folder in Word 2016 Here\u2019s how to find AutoRecover in Word 2016: In Word 2016, the AutoRecovery folder is buried deep in the system and requires your Mac to display hidden files, so the first step is to reveal these secret folders, to do so we recommend following our advice at the link below, although the key combination to use is cmd + shift + . (full stop). Read: How to show hidden files and folders on a Mac. With this done you\u2019ll need to open Finder then click on the Home icon in the left-hand column (it\u2019s usually your name). Now navigate to the following folder: Library/Containers/com.microsoft.Word/Data/Library/Preferences/AutoRecovery/ If you have any AutoRecovery files then they will be in here. One thing to remember is that AutoRecovery files are temporary and only exist if they think that Word shut down unexpectedly. So, if you clicked Don\u2019t Save rather than Save when you were closing the document there won\u2019t be an AutoRecovery file for it. How to find the AutoRecovery folder in Word 2011 If you are using Word 2011 it\u2019s easy to locate the AutoRecovery folder: Click on the File option in the Menu bar then search for Autorecover. If you use Word often then there might be a few different Autorecover files, so check the date to see which one matches your missing item. Once you\u2019ve found the document just click on it to open it up, then remember to save it again under a new name. Even if you don\u2019t find your document in the AutoRecovery folder, it may not be the case that it isn\u2019t there. Files in the AutoRecover folder don\u2019t always show up. We have first-hand experience of this. In the past, our Mac has \u2018helpfully\u2019 saved a Word document in the Office 2011 AutoRecovery folder. This would not be an issue, except for the fact that when we then accessed the folder (just a quick search in Spotlight for Office 2011 AutoRecovery) the files were nowhere to be seen. As you can see from this screen grab, the most recent file in our AutoRecovery folder was from 5 March, but we know that there are more recent files saved there. The problem with the AutoRecovery file is that it is located in a Library folder that isn\u2019t visible by default, and that will have some impact on whether your files are visible or not. Fortunately, there is a way to locate the file. How to view files in Office 2011 AutoRecovery folder Go to the Finder, and press Alt (or Option) while selecting Go from the menu at the top of the page. This will make the Library folder visible (if you don\u2019t press Alt you won\u2019t see it \u2013 and you have to keep Alt pressed or it will vanish). Click on Library to open the Libray folder. Locate the following folder: Application Support > Microsoft > Office > Office 2011 AutoRecovery. When you see the Office 2011 in this view you should be able to locate your file. Recover old versions of documents via Time Machine While Word has its own Version History that only works if you have saved the file at some point. Plus, if you have subsequently deleted the document by accident you can\u2019t open it to open an older version. In that case, you could try Time Machine. If you have a Time Machine backup on an external drive you can roll back to a time when a deleted or corrupted file was still on your system. Go to the folder where you\u2019d hope to see your file, or an earlier version of your file. Open Time machine and flick back through the day, weeks or months to see if your file is there. We\u2019ll keep our fingers crossed for you. Follow our Complete guide to Time Machine for instructions on how to recover your files. If you are unfortunate enough not to have a backup routine then we suggest beginning one immediately. Macs are very reliable machines, but there is always a risk of something going wrong, so it\u2019s best to protect yourself against potential disaster. Try looking at our How to back up a Mac feature that highlights several solutions for this essential practice. What if you never saved your file \u2013 if in a moment of madness, you clicked on Don\u2019t Save rather than Save? It happens! Can you retrieve your file? Recover lost docs from the Temporary folder Your Mac also has a folder where it might temporarily keep files. The Temporary folder isn\u2019t easy to find though. To find the Temporary folder, use Terminal (find it in Applications > Utilities > Terminal, or Spotlight search for Terminal by pressing Command + Space. Open Terminal Type: open $TMPDIR Press Enter. Inside this TMP folder, you should find a folder called Temporaryitems. It\u2019s possible that your document might be inside. Tips to avoid lost Word files Avoid this nightmare happening again \u2013 follow the tips below. Save first, save often It goes without saying that you should save frequently especially if your Mac can be a bit unreliable. You may be able to rely on Word autosaving for you, but remember that you have to save the file first to really benefit from Autosave. Change the autosave frequency A helpful thing to know is that you can reduce the gaps between autosaves on Word for Mac. By default they are set at ten minute intervals, but it\u2019s easy to make them more frequent. In Word go up to the Menu bar at the top of the screen and click on Word. From the dropdown menu select Preferences and then in the Output and Sharing section you\u2019ll see a disk icon named Save. Click this and you\u2019ll now be able to adjust the time between saves by entering a value into the \u2018Save every X minutes\u2019 box at the bottom. While it might be tempting to set it as low as possible, bear in mind that Word\u2019s performance could be be hampered slightly if it\u2019s saving every minute, especially if you are working on a large file. Experiment to see what setting works best for you. You may also find one of these articles helpful: How to recover deleted files. Want to get to know Word better? Read our Top tips for Word for Mac. Cleaning and Data Recovery Software, Mac, MacOS, Personal Software",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "pubDate": "2024-03-15 18:28:51",
+    "image_url": "https://images.macworld.co.uk/cmsdata/features/3655085/autosave_thumb.jpg",
+    "source_id": "macworld",
+    "source_url": "https://www.macworld.com",
+    "source_icon": "https://i.bytvi.com/domain_icons/macworld.png",
+    "source_priority": 2653,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "top"
+    ],
+    "language": "english",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "short_uuid": "3119e58a"
+  },
+  {
+    "article_id": "272a1c0f8c1aa685061ee08504d95657",
+    "title": "Real Estate Revolution: NAR Shakes Up Industry with $418 Million Settlement",
+    "link": "https://www.webpronews.com/real-estate-revolution-nar-shakes-up-industry-with-418-million-settlement/",
+    "keywords": [
+      "webprobusiness",
+      "nar"
+    ],
+    "creator": [
+      "Staff"
+    ],
+    "video_url": null,
+    "description": "WebProNews Real Estate Revolution: NAR Shakes Up Industry with $418 Million Settlement In a seismic shift for the real estate world, the National Association of Realtors (NAR) has inked a groundbreaking $418 million settlement to address claims .of industry collusion and high agent commissions. This landmark agreement promises to reshape how Americans buy and sell homes Real Estate Revolution: NAR Shakes Up Industry with $418 Million Settlement Staff",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "pubDate": "2024-03-15 18:28:50",
+    "image_url": "https://i0.wp.com/www.webpronews.com/wp-content/uploads/2024/03/Screenshot-2024-03-15-at-2.26.24-PM.jpg?fit=950%2C534&ssl=1",
+    "source_id": "webpronews",
+    "source_url": "https://www.webpronews.com",
+    "source_icon": null,
+    "source_priority": 624707,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "top"
+    ],
+    "language": "english",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "short_uuid": "dec3bc04"
+  },
+  {
+    "article_id": "203fdaeb4bbe9ff6a0c2ab44c8497e78",
+    "title": "Coaching Hotboard Volume 1: Candidate Tiers",
+    "link": "https://umhoops.com/2024/03/15/coaching-hotboard-volume-1-candidate-tiers/",
+    "keywords": [
+      "2023-24 season",
+      "coaching search 2024",
+      "subscribers"
+    ],
+    "creator": [
+      "Dylan Burkhardt"
+    ],
+    "video_url": null,
+    "description": "The last time I put one of these lists together was May 2019. I was in Barcelona on the beach enjoying the afternoon when my phone buzzed that John Beilein took the Cavaliers job. I spent most of the remainder of the (engagement) trip finding places (a hotel basement) to cobble together thoughts on a [\u2026] The post Coaching Hotboard Volume 1: Candidate Tiers appeared first on UM Hoops.com.",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "pubDate": "2024-03-15 18:28:50",
+    "image_url": "https://cdn.umhoops.com/wp-content/uploads/2024/02/22120358/Villanova-79-Michigan-62-3-150x150.jpg",
+    "source_id": "umhoops",
+    "source_url": "https://umhoops.com",
+    "source_icon": "https://i.bytvi.com/domain_icons/umhoops.png",
+    "source_priority": 92127,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "sports"
+    ],
+    "language": "english",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "short_uuid": "2b0b0770"
+  },
+  {
+    "article_id": "e2a82de0e5114815202c02b1e4f20769",
+    "title": "Ryan Serhant Says \u201cShouting It From the Mountains\u201d Is Key to Success in Any Business",
+    "link": "https://www.hollywoodreporter.com/lifestyle/real-estate/ryan-serhant-interview-book-return-television-1235853454/",
+    "keywords": [
+      "lifestyle",
+      "real estate",
+      "books",
+      "million dollar listing"
+    ],
+    "creator": [
+      "Degen Pener"
+    ],
+    "video_url": null,
+    "description": "There are people who stay on message \u2014 and then there\u2019s Ryan Serhant. The celebrity real estate broker, who gained global fame for his appearances on Million Dollar Listing New York, is hyper-focused, direct and as polished as the gleaming surfaces of the mega-penthouses he sells in Manhattan. Not a bad look when you\u2019ve just [\u2026]",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "pubDate": "2024-03-15 18:28:50",
+    "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2024/03/Ryan-Serhant-Portrait-and-Book-Split-Publicity-H-2024.jpg?w=1296&h=730&crop=1",
+    "source_id": "hollywoodreporter",
+    "source_url": "https://www.hollywoodreporter.com",
+    "source_icon": null,
+    "source_priority": 436,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "business"
+    ],
+    "language": "english",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "short_uuid": "3de34e56"
+  },
+  {
+    "article_id": "addde200ab5e087f1012826d1fa17d99",
+    "title": "Public officials can block haters\u2014but only sometimes, SCOTUS rules",
+    "link": "https://arstechnica.com/?p=2010572",
+    "keywords": [
+      "policy",
+      "facebook",
+      "scotus",
+      "social media",
+      "twitter",
+      "x"
+    ],
+    "creator": [
+      "Ashley Belanger"
+    ],
+    "video_url": null,
+    "description": "SCOTUS declined to set a clear standard for when blocking followers is OK.",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "pubDate": "2024-03-15 18:28:44",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1500767786-800x451.jpg",
+    "source_id": "arstechnica",
+    "source_url": "https://arstechnica.com",
+    "source_icon": "https://i.bytvi.com/domain_icons/arstechnica.png",
+    "source_priority": 3886,
+    "country": [
+      "canada",
+      "united states of america",
+      "india"
+    ],
+    "category": [
+      "technology"
+    ],
+    "language": "english",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "short_uuid": "4a0ff90c"
+  },
+  {
+    "article_id": "5d32c48b4e1ace27098279e1a46b32b3",
+    "title": "The Supreme Court won't intervene in a dispute over drag shows at a public university in Texas",
+    "link": "https://www.nwahomepage.com/news/national/ap-the-supreme-court-wont-intervene-in-a-dispute-over-drag-shows-at-a-public-university-in-texas/",
+    "keywords": [
+      "national",
+      "ap u.s. news"
+    ],
+    "creator": [
+      "AP"
+    ],
+    "video_url": null,
+    "description": "WASHINGTON (AP) \u2014 The Supreme Court on Friday rejected an emergency appeal from a student group that has been blocked from staging a drag show at a public university in Texas. The justices did not comment Friday in refusing to issue an order that would have allowed Spectrum WT \u2014 a group for LGBTQ+ students [...]",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "pubDate": "2024-03-15 18:28:42",
+    "image_url": "https://www.nwahomepage.com/wp-content/uploads/sites/90/2024/03/65f493dd72c3e1.28268006.jpeg?w=900",
+    "source_id": "nwahomepage",
+    "source_url": "https://www.nwahomepage.com",
+    "source_icon": "https://i.bytvi.com/domain_icons/nwahomepage.jpg",
+    "source_priority": 21820,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "top"
+    ],
+    "language": "english",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "short_uuid": "4fd6288"
+  },
+  {
+    "article_id": "c16ea9e50a05bf3064082b446caed625",
+    "title": "The Supreme Court won't intervene in a dispute over drag shows at a public university in Texas",
+    "link": "https://www.abc4.com/news/national/ap-the-supreme-court-wont-intervene-in-a-dispute-over-drag-shows-at-a-public-university-in-texas/",
+    "keywords": [
+      "national",
+      "ap u.s. news"
+    ],
+    "creator": [
+      "AP"
+    ],
+    "video_url": null,
+    "description": "WASHINGTON (AP) \u2014 The Supreme Court on Friday rejected an emergency appeal from a student group that has been blocked from staging a drag show at a public university in Texas. The justices did not comment Friday in refusing to issue an order that would have allowed Spectrum WT \u2014 a group for LGBTQ+ students [...]",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "pubDate": "2024-03-15 18:28:42",
+    "image_url": "https://www.abc4.com/wp-content/uploads/sites/4/2024/03/65f493e5677f59.39971241.jpeg?w=900",
+    "source_id": "abc4",
+    "source_url": "https://www.abc4.com",
+    "source_icon": "https://i.bytvi.com/domain_icons/abc4.png",
+    "source_priority": 9171,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "top"
+    ],
+    "language": "english",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "short_uuid": "78b8bc0a"
+  },
+  {
+    "article_id": "58b74ba729a0067e75869a14b0ade1e3",
+    "title": "The Supreme Court won't intervene in a dispute over drag shows at a public university in Texas",
+    "link": "https://www.cbs17.com/news/ap-the-supreme-court-wont-intervene-in-a-dispute-over-drag-shows-at-a-public-university-in-texas/",
+    "keywords": [
+      "news",
+      "ap u.s. news"
+    ],
+    "creator": [
+      "AP"
+    ],
+    "video_url": null,
+    "description": "WASHINGTON (AP) \u2014 The Supreme Court on Friday rejected an emergency appeal from a student group that has been blocked from staging a drag show at a public university in Texas. The justices did not comment Friday in refusing to issue an order that would have allowed Spectrum WT \u2014 a group for LGBTQ+ students [...]",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "pubDate": "2024-03-15 18:28:42",
+    "image_url": "https://www.cbs17.com/wp-content/uploads/sites/29/2024/03/65f493e1152098.14093707.jpeg?w=900",
+    "source_id": "cbs17",
+    "source_url": "https://www.cbs17.com",
+    "source_icon": "https://i.bytvi.com/domain_icons/cbs17.jpg",
+    "source_priority": 12160,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "top"
+    ],
+    "language": "english",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "short_uuid": "772737e4"
+  },
+  {
+    "article_id": "b3f8cbdcee4e48906c79cb914c3609cd",
+    "title": "Lola Glaudini says Johnny Depp \"reamed\" her while filming Blow",
+    "link": "https://www.avclub.com/lola-glaudini-blow-johnny-depp-shouted-ted-demme-1851340042",
+    "keywords": [
+      "johnny depp",
+      "lola glaudini",
+      "blow",
+      "ted demme",
+      "entertainment culture",
+      "amber heard",
+      "american people of german descent",
+      "bitch",
+      "human interest",
+      "fuck"
+    ],
+    "creator": [
+      "Mary Kate Carr"
+    ],
+    "video_url": null,
+    "description": "Criminal Minds alum Lola Glaudini shared a new story about Johnny Depp from the set of the 2001 film Blow on an episode of the Powerful Truth Angels podcast in January. In a clip resurfaced on Twitter, Glaudini recalled a \u201cfucked up\u201d situation that she had never shared publicly before, involving Depp shouting at her\u2026Read more...",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "pubDate": "2024-03-15 18:28:41",
+    "image_url": "https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/1a9400c9fd26dd42d2856233e6c3b5c6.jpg",
+    "source_id": "avclub",
+    "source_url": "https://news.avclub.com",
+    "source_icon": "https://i.bytvi.com/domain_icons/avclub.png",
+    "source_priority": 1771,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "entertainment"
+    ],
+    "language": "english",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "short_uuid": "fa2600b3"
   }
 ]
