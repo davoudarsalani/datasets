@@ -9644,5 +9644,285 @@
     "publishedAt": "2024-03-14T12:08:00Z",
     "content": "Get inspired by a weekly roundup on living well, made simple.\u00a0Sign up for CNNs Life, But Better newsletter for information and tools designed to improve your well-being.\r\nMeasles cases are increasing\u2026 [+6034 chars]",
     "short_uuid": "8f21635"
+  },
+  {
+    "source": {
+      "id": "abc-news",
+      "name": "ABC News"
+    },
+    "author": "Ivan Pereira, Mark Crudele, Aaron Katersky, Emily Shapiro",
+    "title": "Extended video reveals details in New York City subway shooting that left 1 critically hurt: Police - ABC News",
+    "description": "The 32-year-old shooting suspect is in custody. Charges haven't been filed.",
+    "url": "https://abcnews.go.com/US/1-shot-new-york-city-subway-scuffle-man/story?id=108134540",
+    "urlToImage": "https://i.abcnewsfe.com/a/89d33a48-9a9b-47e7-9d33-82febc43960d/brooklyn-subway-shooting-ht-jt-240314_1710454700757_hpMain_16x9.jpg?w=1600",
+    "publishedAt": "2024-03-15T16:30:00Z",
+    "content": "A woman stabbed a 36-year-old man at the start of a New York City subway dispute that culminated with the man getting shot and critically hurt, cellphone video from a fellow rider revealed, according\u2026 [+3696 chars]",
+    "short_uuid": "aa8bca5f"
+  },
+  {
+    "source": {
+      "id": "nbc-news",
+      "name": "NBC News"
+    },
+    "author": "Lawrence Hurley",
+    "title": "In shadow of Trump tweets, Supreme Court outlines when officials can be sued for social media use - NBC News",
+    "description": "Supreme Court outlines when officials can be sued for blocking people on social media",
+    "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-outlines-officials-can-sued-blocking-people-social-media-rcna135128",
+    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-02/240208-scotus-block-lr-6e27b5.jpg",
+    "publishedAt": "2024-03-15T16:22:07Z",
+    "content": "WASHINGTON The Supreme Court ruled Friday that members of the public in some circumstances can sue public officials for blocking them on social media platforms, deciding a pair of cases against the b\u2026 [+5049 chars]",
+    "short_uuid": "c57f9f5f"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Olesya Dmitracova, Anna Cooban, Juliana Liu, Michael Nam",
+    "title": "McDonald\u2019s stores hit by global IT failure - CNN",
+    "description": "McDonald\u2019s was hit by a system failure Friday that closed restaurants and disrupted online and app orders around the world, including in the United States, Australia, Japan, Hong Kong, and the United Kingdom.",
+    "url": "https://www.cnn.com/2024/03/15/business/mcdonalds-systems-failure/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1195534265.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-03-15T15:43:05Z",
+    "content": "London/Hong Kong/New YorkCNN\r\n \u00a0\u2014\u00a0\r\nMcDonalds was hit by a system failure Friday that closed restaurants and disrupted online and app orders around the world, including in the United States, Australi\u2026 [+2750 chars]",
+    "short_uuid": "6d6397a0"
+  },
+  {
+    "source": {
+      "id": "espn",
+      "name": "ESPN"
+    },
+    "author": "Kevin Seifert",
+    "title": "Vikings acquire second 1st-round pick in trade - ESPN",
+    "description": "The Vikings acquired the Texans' first-round draft pick Friday morning in a trade that could be a precursor to moving further up the round to select a quarterback.",
+    "url": "https://www.espn.com/nfl/story/_/id/39737620/source-vikings-get-2nd-1st-round-pick-trade-texans",
+    "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2019%2F0111%2Fr487552_1296x729_16%2D9.jpg",
+    "publishedAt": "2024-03-15T15:04:00Z",
+    "content": "The Minnesota Vikings acquired the Houston Texans' first-round draft pick Friday morning in a trade that could be a precursor to moving further up in the round to select a quarterback to replace depa\u2026 [+1776 chars]",
+    "short_uuid": "fc536a75"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Jason Morris, Nick Valencia, Devan Cole",
+    "title": "Fulton County judge says district attorney Fani Willis can continue to prosecute the 2020 election interference case - CNN",
+    "description": "Fulton County District Attorney Fani Willis can stay on and prosecute the Georgia 2020 election interference racketeering case against former President Donald Trump and 14 of his co-defendants, Judge Scott McAfee ruled Friday.",
+    "url": "https://www.cnn.com/2024/03/15/politics/fani-willis-fulton-county-donald-trump-election-subversion-scott-mcafee/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2043988818.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-03-15T13:51:00Z",
+    "content": "Fulton County District Attorney Fani Willis can stay on and prosecute the Georgia 2020 election interference racketeering case against former President Donald Trump and 14 of his co-defendants, Judge\u2026 [+7309 chars]",
+    "short_uuid": "fbbf3459"
+  },
+  {
+    "source": {
+      "id": "associated-press",
+      "name": "Associated Press"
+    },
+    "author": "DASHA LITVINOVA, JIM HEINTZ",
+    "title": "Russia elections: Voting begins in polls that Putin is all but certain to win - The Associated Press",
+    "description": "Russia has begun three days of voting in a presidential election that is all but certain to extend President Vladimir Putin\u2019s rule for six more years after he stifled dissent. The vote takes place against the backdrop of a ruthless crackdown that has crippled\u2026",
+    "url": "https://apnews.com/article/russia-election-2024-updates-227e65cb2a3f2c4cfdb58a9525fbe884",
+    "urlToImage": "https://dims.apnews.com/dims4/default/f51839d/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F99%2F73%2F80ea2c4feb7a834287be091432e2%2F816123b8e9684063a0356ea398d32de9",
+    "publishedAt": "2024-03-15T13:40:00Z",
+    "content": "Russia began three days of voting Friday in a presidential election that is all but certain to extend President Vladimir Putins rule for six more years after he stifled dissent.\r\nAt least half a doze\u2026 [+6674 chars]",
+    "short_uuid": "a4150913"
+  },
+  {
+    "source": {
+      "id": "nbc-news",
+      "name": "NBC News"
+    },
+    "author": "Phil Helsel, Josh Cradduck, Kathryn Prociv, Minyvonne Burke",
+    "title": "At least 2 dead in Ohio, severe damage in Indiana as suspected tornadoes hit Midwest - NBC News",
+    "description": "At least three people were killed after a possible tornado hit Logan County, Ohio, and significant injuries and flattened buildings were reported in an Indiana town as severe weather struck several states Thursday, officials said.",
+    "url": "https://www.nbcnews.com/news/weather/three-dead-severe-weather-hits-indiana-trailer-park-rcna143521",
+    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-03/240314-satellite-view-usa-map-ac-1025p-0ae9b5.gif",
+    "publishedAt": "2024-03-15T13:20:00Z",
+    "content": "At least three people were killed after a possible tornado hit Logan County, Ohio, and significant injuries and flattened buildings were reported in an Indiana town as severe weather struck several s\u2026 [+6105 chars]",
+    "short_uuid": "f6abb35a"
+  },
+  {
+    "source": {
+      "id": "usa-today",
+      "name": "USA Today"
+    },
+    "author": "Gabe Hauari",
+    "title": "Uber, Lyft will leave Minneapolis due to dispute over driver wages - USA TODAY",
+    "description": "Rideshare companies Uber and Lyft have both said they would be ceasing operations in Minneapolis on May 1 due to a dispute over driver wages.",
+    "url": "https://www.usatoday.com/story/money/2024/03/15/uber-lyft-drivers-minneapolis-city-council/72983727007/",
+    "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/03/15/USAT/72984360007-431387274-1364702597519317-4947743396216879204-n.jpg?crop=1797,1011,x0,y327&width=1797&height=1011&format=pjpg&auto=webp",
+    "publishedAt": "2024-03-15T13:05:02Z",
+    "content": "Uber and Lyft said they will be ceasing operations on May 1 after the Minneapolis city council voted Thursday to override a mayoral veto and require the ride-sharing services to enact a pay raise for\u2026 [+2934 chars]",
+    "short_uuid": "cc6bb4f6"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Jack Baer",
+    "title": "Gerrit Cole will go with rest and rehab rather than Tommy John surgery, reportedly facing 10-12 week timetable - Yahoo Sports",
+    "description": "The Yankees ace avoided a worst-case scenario.",
+    "url": "https://sports.yahoo.com/gerrit-cole-will-go-with-rest-and-rehab-rather-than-tommy-john-surgery-reportedly-facing-10-12-week-timetable-025211460.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/9MAD059nIPpMZEWqPb_6eg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/b5e196f0-e277-11ee-bffb-a1c820d46bec",
+    "publishedAt": "2024-03-15T12:27:57Z",
+    "content": "Did Gerrit Cole avoid surgery or delay it? (AP Photo/Charlie Neibergall)\r\nGerrit Cole and the New York Yankees appear to have avoided a worst-case scenario.\r\nThe Yankees' ace and reigning Cy Young wi\u2026 [+1541 chars]",
+    "short_uuid": "b4b2f8de"
+  },
+  {
+    "source": {
+      "id": "usa-today",
+      "name": "USA Today"
+    },
+    "author": "Nate Davis, Michael Middlehurst-Schwartz",
+    "title": "2024 NFL free agency tracker: Friday's rumors, biggest news - USA TODAY",
+    "description": "NFL free agency's peak has passed, but there are still notable deals rolling in. Keep track of all the latest news with USA TODAY Sports.",
+    "url": "https://www.usatoday.com/story/sports/nfl/2024/03/15/nfl-free-agency-tracker-2024-rumors-news-contracts/72982659007/",
+    "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/03/15/USAT/72982686007-gty-1880539166.jpg?crop=4937,2778,x2,y0&width=3200&height=1801&format=pjpg&auto=webp",
+    "publishedAt": "2024-03-15T12:22:30Z",
+    "content": "NFL free agency might be ramping down from its early week peak, but the action has hardly stopped.\r\nAfter a flurry of action on\u00a0Day 1,\u00a0Day 2\u00a0and\u00a0Day 3\u00a0of the pre-free agency negotiating window, Thurs\u2026 [+5970 chars]",
+    "short_uuid": "d6c82ed4"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": "Lindsay Kornick",
+    "title": "Schumer trashed for 'disgusting' speech calling on Israel to dump Netanyahu: 'Outrageously inappropriate' - Fox News",
+    "description": "New York Democratic Sen. Chuck Schumer was attacked online for appearing to call for new elections in Israel to oust Prime Minister Benjamin \"Bibi\" Netanyahu.",
+    "url": "https://www.foxnews.com/media/schumer-trashed-disgusting-speech-calling-israel-dump-netanyahu-outrageously-inappropriate",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/03/AP24074496726669.jpg",
+    "publishedAt": "2024-03-15T10:00:00Z",
+    "content": "Senate Majority Leader Chuck Schumer, D-N.Y., faced online backlash on Thursday after he said Israel should change its leadership amid the country's war with Hamas.\r\nIn what was billed as a major spe\u2026 [+3679 chars]",
+    "short_uuid": "f372d7c1"
+  },
+  {
+    "source": {
+      "id": "financial-times",
+      "name": "Financial Times"
+    },
+    "author": "Kana Inagaki",
+    "title": "Honda and Nissan to join forces to survive electric vehicle race - Financial Times",
+    "description": "Japan\u2019s two biggest carmakers forge partnership in face of competition from China\u2019s low-cost manufacturers",
+    "url": "https://www.ft.com/content/ba9d43aa-b1ab-4244-82b2-7bd12d3799ac",
+    "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fa8dfab74-d572-4e24-b691-bc4f2d14e31d.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
+    "publishedAt": "2024-03-15T09:52:35Z",
+    "content": "Honda and Nissan will team up to develop electric cars, days after Volkswagen said it may collaborate with Renault, as traditional carmakers combine forces in the face of the threat from Chinese EVs.\u2026 [+3712 chars]",
+    "short_uuid": "5fcc3f2a"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": "Nicole Saphier",
+    "title": "How to protect yourself from a forgotten disease now coming across the border - Fox News",
+    "description": "An infectious disease we thought we had beaten has come back with a vengeance. A combination of vaccine hesitancy and unvaccinated migrants make it easier for illness to spread.",
+    "url": "https://www.foxnews.com/opinion/how-protect-yourself-forgotten-disease-coming-across-border",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/12/eaglepass.jpg",
+    "publishedAt": "2024-03-15T09:00:00Z",
+    "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nPlease enter a valid email address.\r\nBy entering your e\u2026 [+6298 chars]",
+    "short_uuid": "6f3b2099"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Bees force Carlos Alcaraz and Alexander Zverev off court at Indian Wells - BBC.com",
+    "description": "Carlos Alcaraz and Alexander Zverev's quarter-final was suspended for nearly two hours, after bees descended on Indian Wells.",
+    "url": "https://www.bbc.com/news/av/world-us-canada-68573819",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1029B/production/_132930266_976gettyimages-2084724149.jpg",
+    "publishedAt": "2024-03-15T07:56:07Z",
+    "content": "Carlos Alcaraz and Alexander Zverev were forced off court for one hour and 40 minutes on Thursday, as a swarm of bees descended on their Indian Wells quarter-final.\r\nAlcaraz was stung on the forehead\u2026 [+220 chars]",
+    "short_uuid": "c1faf9b6"
+  },
+  {
+    "source": {
+      "id": "usa-today",
+      "name": "USA Today"
+    },
+    "author": "Kathleen Wong",
+    "title": "Eclipse 2024 events near me: A list of public festivities on April 8 - USA TODAY",
+    "description": "From Texas to Maine, towns and cities across the nation are gearing up for the total solar eclipse with numerous events and viewing parties.",
+    "url": "https://www.usatoday.com/story/travel/news/2024/03/15/solar-eclipse-2024-events-near-me/72949281007/",
+    "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/03/02/USAT/72813901007-usatsi-22622749.jpg?crop=4656,2620,x0,y242&width=3200&height=1801&format=pjpg&auto=webp",
+    "publishedAt": "2024-03-15T07:02:45Z",
+    "content": "On April 8, the moon will obscure the entire face of the sun, resulting in a few minutes-long sudden transformation of day into night. Over a dozen lucky U.S. states are located in the eclipses path \u2026 [+13955 chars]",
+    "short_uuid": "c0879858"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Ousmane Sonko and Bassirou Diomaye Faye: Senegal opposition leaders freed days before election - BBC.com",
+    "description": "Despite spending months in prison, Bassirou Diomaye Faye is one of the favourites in this month's election.",
+    "url": "https://www.bbc.com/news/world-africa-68562465",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/07C8/production/_132929910_gettyimages-2076720346.jpg",
+    "publishedAt": "2024-03-15T05:02:05Z",
+    "content": null,
+    "short_uuid": "3d93c749"
+  },
+  {
+    "source": {
+      "id": "the-hill",
+      "name": "The Hill"
+    },
+    "author": "Joe Jacquez",
+    "title": "FDA approves first drug for serious liver disease - The Hill",
+    "description": "The U.S. Food and Drug Administration (FDA) has approved the first drug to treat serious liver disease, the agency announced in a release Thursday. The FDA approved Rezdiffra (resmetirom) for the treatment of adults with a common form of liver inflammation ca\u2026",
+    "url": "https://thehill.com/homenews/4533640-fda-approves-first-drug-for-serious-liver-disease/",
+    "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/11/655682f0702fd8.96257010-e1705002437591.jpeg?w=1280",
+    "publishedAt": "2024-03-15T03:24:00Z",
+    "content": "Skip to content\r\nFILE \u2013 A sign for the U.S. Food and Drug Administration is displayed outside their offices in Silver Spring, Md., Dec. 10, 2020. The Indian manufacturer of more than two dozen variet\u2026 [+2282 chars]",
+    "short_uuid": "e00cfcff"
+  },
+  {
+    "source": {
+      "id": "usa-today",
+      "name": "USA Today"
+    },
+    "author": "KiMi Robinson, USA TODAY",
+    "title": "Pierce Brosnan pleads guilty to Yellowstone National Park violation, ordered to pay $1,500 - Yahoo Entertainment",
+    "description": "Pierce Brosnan's legal troubles are coming to an end, with the \"James Bond\" actor facing a fine for walking off a trail in Yellowstone National Park.",
+    "url": "https://www.usatoday.com/story/entertainment/celebrities/2024/03/14/pierce-brosnan-pleads-guilty-yellowstone-national-park-walking-violation/72976730007/",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/JIn1Gz3K5YjTEM2jOFE64A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xODAw/https://media.zenfs.com/en/usa_today_entertainment_893/e730d975537e8922bec97e2580723016",
+    "publishedAt": "2024-03-14T23:57:23Z",
+    "content": "Pierce Brosnan's legal troubles in Wyoming are coming to an end.\r\nOn Thursday, the \"James Bond\" star, 70, entered a guilty plea for walking off the designated path in one of Yellowstone National Park\u2026 [+2778 chars]",
+    "short_uuid": "6382f512"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "WXYZ"
+    },
+    "author": "Dr. Partha Nandi",
+    "title": "A blood test for colon cancer is on the horizon. Here's what we know ... - WXYZ 7 Action News Detroit",
+    "description": "The first blood test for colon cancer is on the horizon.\u00a0 A study published Wednesday showed it detected the disease in more than 8 in 10 people.",
+    "url": "https://www.wxyz.com/news/a-blood-test-for-colon-cancer-is-on-the-horizon-heres-what-we-know-about-shield",
+    "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/7eccaba/2147483647/strip/true/crop/640x336+0+72/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsharing.wxyz.com%2Fsharescnn%2Fphoto%2F2017%2F02%2F27%2FGettyImages-460492806%20_OP_1_CP__1488215062312_55981966_ver1.0_640_480.jpg",
+    "publishedAt": "2024-03-14T19:51:59Z",
+    "content": "(WXYZ) The first blood test for colon cancer is on the horizon.\u00a0 A study published Wednesday showed it detected the disease in more than 8 in 10 people.\u00a0\r\nI do diagnose and care for patients with col\u2026 [+3239 chars]",
+    "short_uuid": "57b6215f"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "SamMobile"
+    },
+    "author": "SamMobile, Abhijeet Mishra",
+    "title": "Galaxy A35 and Galaxy A55 price for India officially revealed - SamMobile - Samsung news",
+    "description": "Samsung has officially revealed the prices for its latest mid-range phones in India. As expected, the Galaxy A55 comes with ...",
+    "url": "https://www.sammobile.com/news/galaxy-a35-a55-india-price-release-date/",
+    "urlToImage": "https://www.sammobile.com/wp-content/uploads/2024/03/Galaxy-A55-front-display-720x405.jpg",
+    "publishedAt": "2024-03-13T21:01:00Z",
+    "content": "Samsung has officially revealed the prices for its latest mid-range phones in India. As expected, the Galaxy A55 comes with a bigger price tag than the Galaxy A54 while the Galaxy A35 starts at the s\u2026 [+1095 chars]",
+    "short_uuid": "bf5c965d"
   }
 ]
