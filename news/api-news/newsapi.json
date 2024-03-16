@@ -9350,5 +9350,299 @@
     "publishedAt": "2024-03-13T13:26:55Z",
     "content": "Doctors have witnessed a spike in colon cancer cases among younger populations in India. A 2023 study by the Delhi State Cancer Institute (DSCI) found that the occurrence of colon cancer is shifting \u2026 [+3654 chars]",
     "short_uuid": "72eff7f2"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "By <a href=\"/profiles/paul-leblanc\">Paul LeBlanc</a> and <a href=\"/profiles/matt-meyer\">Matt Meyer</a>, CNN",
+    "title": "Live updates: Judge rules Fani Willis can stay on Trump's Georgia election case - CNN",
+    "description": "A judge has ruled whether Fulton County District Attorney Fani Willis should be removed from the Georgia election subversion case she brought against Donald Trump. Follow here for the latest live news updates.",
+    "url": "https://www.cnn.com/politics/live-news/fani-willis-georgia-ruling-03-15-24/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/240314103524-donald-trump-fani-willis-split-super-tease.jpg",
+    "publishedAt": "2024-03-15T13:59:09Z",
+    "content": "Judge Scott McAfee said that while Fulton County District Attorney Fani Willis kept no records of the payments she says she made to her lead prosecutor to reimburse him for vacation travel the two to\u2026 [+1298 chars]",
+    "short_uuid": "2e4f8159"
+  },
+  {
+    "source": {
+      "id": "the-verge",
+      "name": "The Verge"
+    },
+    "author": "Victoria Song",
+    "title": "The wedge-shaped M1 MacBook Air lives on \u2014 at Walmart, for $699 - The Verge",
+    "description": "Walmart says that for the first time, it\u2019ll directly sell Apple\u2019s M1 MacBook Air laptop with 8GB of RAM and 256GB of storage for $699.",
+    "url": "https://www.theverge.com/2024/3/15/24101727/apple-m1-macbook-air-laptop-walmart",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/sWuJ4vBJsLrFg3ICWFclHF2hXfg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/22046475/vpavic_4291_20201113_0380.0.jpg",
+    "publishedAt": "2024-03-15T13:58:02Z",
+    "content": "The wedge-shaped M1 MacBook Air lives on at Walmart, for $699\r\nThe wedge-shaped M1 MacBook Air lives on at Walmart, for $699\r\n / The first Mac available from Walmart is the one Apple just stopped sel\u2026 [+1790 chars]",
+    "short_uuid": "5b571c46"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Ruxandra Iordache",
+    "title": "Macron doubles down on possible NATO deployment in Ukraine ahead of talks to bridge rift with Germany - CNBC",
+    "description": "France's Emmanuel Macron doubled down on a possible Western deployment in Ukraine, a day before a key summit with Germany.",
+    "url": "https://www.cnbc.com/2024/03/15/macron-doubles-down-on-nato-deployment-in-ukraine.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107226469-1681756613179-gettyimages-1251923196-AFP_33DD6HH.jpeg?v=1681756637&w=1920&h=1080",
+    "publishedAt": "2024-03-15T13:18:56Z",
+    "content": "French President Emmanuel Macron has doubled down on the possibility of sending troops into Ukraine, a day before a key summit with Germany, which is staunchly opposed to the idea.\r\n\"We cannot exclud\u2026 [+3530 chars]",
+    "short_uuid": "fbca1e85"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Fox Business"
+    },
+    "author": "Daniella Genovese",
+    "title": "McDonald\u2019s hit by worldwide tech outage affecting restaurants, app - Fox Business",
+    "description": "McDonald's says its in the process of fixing a \"technology outage\" at its restaurants nationwide. Some locations were forced to temporarily stop operations.",
+    "url": "https://www.foxbusiness.com/lifestyle/mcdonalds-hit-by-worldwide-tech-outage-affecting-restaurants-app",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/12/0/0/McDonalds-Malaysia-2.jpg?ve=1&tl=1",
+    "publishedAt": "2024-03-15T12:44:00Z",
+    "content": "McDonald's is working to fix a \"technology outage\" on Friday morning that's impacting its restaurants worldwide, even forcing some to temporarily close.\r\n\"We are aware of a technology outage, which i\u2026 [+1827 chars]",
+    "short_uuid": "f6638ef8"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "James Crumbley: Father of Michigan school gunman convicted of manslaughter - BBC.com",
+    "description": "For the first time parents are convicted of manslaughter over their child's role in a shooting in the US.",
+    "url": "https://www.bbc.com/news/world-us-canada-68572112",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14CD3/production/_132930258_f2ather-index-getty.jpg",
+    "publishedAt": "2024-03-15T12:42:37Z",
+    "content": null,
+    "short_uuid": "8bf9a25a"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Kstp.com"
+    },
+    "author": "Morgan Reddekopp",
+    "title": "Businesses, rideshare drivers look to the future as Uber, Lyft plan to pull out of Minneapolis - KSTP",
+    "description": "Some in the business community wonder how people will get around, with big summer events like Red, White, and Boom, a Taste of Minnesota, and the Basilica Block Party, right around the corner.",
+    "url": "https://kstp.com/kstp-news/top-news/businesses-rideshare-drivers-look-to-the-future-as-uber-lyft-plan-to-pull-out-of-minneapolis/",
+    "urlToImage": "https://kstp.com/wp-content/uploads/2022/06/uber-lyft-mgn-04-19-2022.jpg",
+    "publishedAt": "2024-03-15T12:37:13Z",
+    "content": "Wheels of change are now set in motion for the future of ridesharing in Minneapolis.\r\nAs reported by 5 EYEWITNESS NEWS on Thursday, the City Council overrode Mayor Jacob Freys veto of an ordinance se\u2026 [+3847 chars]",
+    "short_uuid": "42d28bbb"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "WABC-TV"
+    },
+    "author": null,
+    "title": "Man shot on NYC subway in Brooklyn, video shows woman stabbed victim before shooting, NYPD says - WABC-TV",
+    "description": "NYPD officials say cellphone video reveals a woman was also involved in the chaos on the Brooklyn subway train.",
+    "url": "https://abc7ny.com/brooklyn-subway-shooting-nyc-man-shot-on-train/14527185/",
+    "urlToImage": "https://cdn.abcotvs.com/dip/images/14527924_031524-wabc-subway-raw-1-img.jpg?w=1600",
+    "publishedAt": "2024-03-15T12:05:31Z",
+    "content": "BROOKLYN, New York (WABC) -- Charges are pending against a 32-year-old man who shot another man during a dispute on a Brooklyn subway train.\r\nPolice say chaos unfolded on the A train at around 4:45 p\u2026 [+3063 chars]",
+    "short_uuid": "e43bfd67"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "FOX 31 Denver"
+    },
+    "author": "Liz McGiffin",
+    "title": "Historic Denver March snowfalls: Did 2024 make the record books? - FOX 31 Denver",
+    "description": "The heavy snow that fell on Thursday, March 14 made some big impacts across the metro and Front Range, but it wasn\u2019t on track to set records in Denver.",
+    "url": "https://kdvr.com/weather/wx-news/historic-denver-march-snowfalls-did-2024-make-the-record-books/",
+    "urlToImage": "https://kdvr.com/wp-content/uploads/sites/11/2024/03/AP24074601563503.jpg?w=1280",
+    "publishedAt": "2024-03-15T11:57:03Z",
+    "content": "DENVER (KDVR) The heavy snow that fell on Thursday, March 14 made some big impacts across the metro and Front Range, but it wasn\u2019t on track to set records in Denver. \r\nOn the same exact dates, March \u2026 [+1337 chars]",
+    "short_uuid": "9075bab7"
+  },
+  {
+    "source": {
+      "id": "ign",
+      "name": "IGN"
+    },
+    "author": "Wesley Yin-Poole",
+    "title": "Star Wars: Battlefront Classic Collection \u2018A Terrible Gut Punch\u2019, Veteran Modder Says - IGN",
+    "description": "Modders have already set out to fix Star Wars: Battlefront Classic Collection's disastrous launch.",
+    "url": "https://www.ign.com/articles/star-wars-battlefront-classic-collection-a-terrible-gut-punch-veteran-modder-says",
+    "urlToImage": "https://assets-prd.ignimgs.com/2024/03/15/star-wars-main-1710501872226.jpg?width=1280",
+    "publishedAt": "2024-03-15T11:42:15Z",
+    "content": "With Star Wars: Battlefront Classic Collections disastrous launch resulting in a backlash from players, particularly on Steam, modders have already set out to fix the game.\r\nBattlefront Classic Colle\u2026 [+5525 chars]",
+    "short_uuid": "fc2b51f7"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": "Michael Dorgan",
+    "title": "Giant volcano 'hidden in plain sight' discovered on Mars, scientists say - Fox News",
+    "description": "A giant volcano hidden in plain sight has been discovered on Mars and scientists say it is 280 miles wide and nearly 30,000 feet high.",
+    "url": "https://www.foxnews.com/science/giant-volcano-hidden-plain-sight-discovered-mars-scientists",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/03/NoctisVolcano-NewsRelease-Pic1-FINAL-3500px-scaled.jpg",
+    "publishedAt": "2024-03-15T11:17:00Z",
+    "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nPlease enter a valid email address.\r\nBy entering your e\u2026 [+4646 chars]",
+    "short_uuid": "c98552af"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Daniele Lepido and Paula Doenecke",
+    "title": "Vodafone Wraps Up Overhaul With \u20ac8 Billion Italy Deal, Buyback - Yahoo Finance",
+    "description": "(Bloomberg) -- Vodafone Group Plc struck an \u20ac8 billion ($8.7 billion) deal to sell its Italian business to Swisscom AG, bringing to a close a years-long...",
+    "url": "https://finance.yahoo.com/news/vodafone-sells-italian-business-swisscom-075628581.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/fYHinODrlWx9mgkkmoxW5g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_technology_68/bbb84b450d4e0b12532c47523c853464",
+    "publishedAt": "2024-03-15T11:09:52Z",
+    "content": "(Bloomberg) -- Vodafone Group Plc struck an 8 billion ($8.7 billion) deal to sell its Italian business to Swisscom AG, bringing to a close a years-long divestment effort and setting the stage for a s\u2026 [+3686 chars]",
+    "short_uuid": "8f62ebb1"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Variety"
+    },
+    "author": "K.J. Yossman",
+    "title": "\u2018Zone of Interest\u2019 Executive Producer Danny Cohen Refutes Director Jonathan Glazer\u2019s Oscar Speech: \u2018I Just Fundamentally Disagree\u2019 - Variety",
+    "description": "'The Zone of Interest' executive producer Danny Cohen is the first member of the filmmaking team to break his silence over Jonathan Glazer's speech.",
+    "url": "https://variety.com/2024/film/global/zone-of-interest-producer-jonathan-glazer-israel-1235942734/",
+    "urlToImage": "https://variety.com/wp-content/uploads/2024/03/Zone-of-Interest-Jonathan-Glazer-James-Wilson-Len-Blavatnik.jpg?w=1000&h=563&crop=1",
+    "publishedAt": "2024-03-15T10:59:00Z",
+    "content": "\u201cThe Zone of Interest\u201d executive producer Danny Cohen has become the first member of the film\u2019s production team to publicly address director Jonathan Glazer\u2019s Oscars speech, saying \u201cI just fundamenta\u2026 [+4989 chars]",
+    "short_uuid": "6608f0a3"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "Nika Shakhnazarova",
+    "title": "Prince Harry jokes with winners at Diana Legacy Awards -- after William gives speech and leaves - New York Post ",
+    "description": "The Duke of Sussex, 39, was in a playful mood whilst chatting to the young recipients of the Diana Legacy Award Thursday night.",
+    "url": "https://nypost.com/2024/03/15/entertainment/prince-harry-jokes-with-award-winners-at-diana-legacy-awards-after-william-leaves/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/harry-jokes-diana-awards-recipients-comp-3.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2024-03-15T10:33:00Z",
+    "content": "Prince Harry was in a playful mood while chatting with the recipients of the Diana Legacy Award Thursday night and after his estranged brother William left the building.\r\nThe Duke of Sussex made a br\u2026 [+3273 chars]",
+    "short_uuid": "a5f3f024"
+  },
+  {
+    "source": {
+      "id": "bloomberg",
+      "name": "Bloomberg"
+    },
+    "author": "Steve Matthews, Kyungjin Yoo",
+    "title": "Fed Seen Sticking With Three 2024 Cuts Despite Higher Inflation - Bloomberg",
+    "description": "A recent pickup in inflation isn\u2019t likely to shift Federal Reserve policymakers\u2019 forecasts for three interest-rate cuts this year and four in 2025, according to economists surveyed by Bloomberg News.",
+    "url": "https://www.bloomberg.com/news/articles/2024-03-15/fed-seen-sticking-with-three-2024-cuts-despite-higher-inflation",
+    "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itQTXwknOVmg/v0/1200x800.jpg",
+    "publishedAt": "2024-03-15T10:00:00Z",
+    "content": "A recent pickup in inflation isnt likely to shift Federal Reserve policymakers forecasts for three interest-rate cuts this year and four in 2025, according to economists surveyed by Bloomberg News.\r\n\u2026 [+345 chars]",
+    "short_uuid": "1b6b34c3"
+  },
+  {
+    "source": {
+      "id": "usa-today",
+      "name": "USA Today"
+    },
+    "author": "Medora Lee",
+    "title": "Credit card rewards not worth debt for many Americans, experts warn - USA TODAY",
+    "description": "Two out of three Americans with credit card debt chase rewards in hopes of earning a freebie. Here's why financial experts say it's \"a big mistake.\"",
+    "url": "https://www.usatoday.com/story/money/personalfinance/2024/03/15/credit-card-rewards-not-worth-extra-spending/72975335007/",
+    "urlToImage": "https://www.usatoday.com/gcdn/presto/2022/08/09/USAT/defa64b0-c2df-4e74-8fe6-fbbe7975707f-XXX_IMG_AP_CREDIT_CARDS_SECU_3_1_JBJQ0AM5.JPG?crop=1798,1012,x0,y125&width=1798&height=1012&format=pjpg&auto=webp",
+    "publishedAt": "2024-03-15T09:17:36Z",
+    "content": "Everyone feels like theyre getting a freebie when they cash in those credit card rewards, but those freebies may actually be costing you more than you realize, a new study shows.\r\nTwo-thirds of Ameri\u2026 [+3225 chars]",
+    "short_uuid": "325ecc67"
+  },
+  {
+    "source": {
+      "id": "cbs-news",
+      "name": "CBS News"
+    },
+    "author": null,
+    "title": "Bees swarm Indian Wells tennis tournament, prompting almost two-hour delay - CBS News",
+    "description": "A swarm of bees forced a nearly two-hour disruption of a quarterfinal match at the BNP Paribas Open in Indian Wells, Calif. as billionaires Larry Ellison and Bill Gates looked on.",
+    "url": "https://www.cbsnews.com/news/bees-swarm-indian-wells-tennis-tournament-prompting-almost-two-hour-delay/",
+    "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/03/15/348faf64-4d69-4a04-81a7-9ff60c9a319d/thumbnail/1200x630/6fcee138824b4e9adb64feffd7a6657e/ap24074846985473.jpg?v=d1d78866939020fc1f2607ef7298e4ec",
+    "publishedAt": "2024-03-15T08:30:00Z",
+    "content": "Indian Wells, Calif. \u2014 A swarm of bees forced a nearly two-hour disruption to the quarterfinal match between Carlos Alcaraz and Alexander Zverev at the BNP Paribas Open on Thursday.\r\nAlcaraz swatted \u2026 [+1617 chars]",
+    "short_uuid": "69cbcb3d"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Jason Owens",
+    "title": "4 NCAA tournament opponents your team should hope to avoid on Selection Sunday - Yahoo Sports",
+    "description": "St. John's is on a tear since Rick Pitino's February tirade and is one of this year's teams to avoid in the early rounds.",
+    "url": "https://sports.yahoo.com/4-ncaa-tournament-opponents-your-team-should-hope-to-avoid-on-selection-sunday-034231755.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/BveVnc5JsD9vQmJBjy94hw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/4c255150-e24c-11ee-af7d-a57001903dd7",
+    "publishedAt": "2024-03-15T03:54:00Z",
+    "content": "Each year, the NCAA tournament committee spends months painstakingly evaluating college basketball to ensure that every team is in its right place come Selection Sunday.\r\nThen, just hours into each t\u2026 [+7205 chars]",
+    "short_uuid": "47c60918"
+  },
+  {
+    "source": {
+      "id": "the-hill",
+      "name": "The Hill"
+    },
+    "author": "Lauren Irwin",
+    "title": "Sanders gets heated in exchange with Fox Business reporter over proposed 32-hour workweek - The Hill",
+    "description": "Sen. Bernie Sanders (I-Vt.) became angry when a reporter with Fox Business questioned him on his proposed legislation that would create a 32-hour workweek. \u201cCan I talk to you about the 32-hour workweek?\u201d Fox Business reporter Hillary Vaughn asked Sanders, whi\u2026",
+    "url": "https://thehill.com/homenews/senate/4533373-sanders-gets-heated-in-exchange-with-fox-business-reporter-over-proposed-32-hour-workweek/",
+    "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/01/GettyImages-1807991797.jpg?w=1280",
+    "publishedAt": "2024-03-15T00:47:00Z",
+    "content": "Skip to content\r\nSen. Bernie Sanders (I-Vt.) became angry when a reporter with Fox Business questioned him on his proposed legislation that would create a 32-hour workweek.\r\n\u201cCan I talk to you about \u2026 [+2346 chars]",
+    "short_uuid": "f85f8c1e"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Pierce Brosnan pleads guilty to hiking off trail in Yellowstone thermal area - BBC.com",
+    "description": "The James Bond star admitted to entering Yellowstone National Park's off-limits acidic hot springs.",
+    "url": "https://www.bbc.com/news/world-us-canada-68571362",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C97E/production/_132928515_gettyimages-2067333468.jpg",
+    "publishedAt": "2024-03-14T20:23:33Z",
+    "content": null,
+    "short_uuid": "32b3d2c7"
+  },
+  {
+    "source": {
+      "id": "business-insider",
+      "name": "Business Insider"
+    },
+    "author": "Hugh Langley",
+    "title": "Google Employees Will Get Smaller Pay Bumps This Year - Business Insider",
+    "description": "Googlers are getting smaller pay bumps this year, and in some cases, they're seeing their total compensation drop.",
+    "url": "https://www.businessinsider.com/google-employees-compensation-pay-salary-refreshers-equity-stock-2024-3",
+    "urlToImage": "https://i.insider.com/65e2308f90413ab8e1d877dd?width=1200&format=jpeg",
+    "publishedAt": "2024-03-14T16:18:00Z",
+    "content": null,
+    "short_uuid": "15ea9646"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Katia Hetter",
+    "title": "How worried should people be about the measles? An expert explains - CNN",
+    "description": "Measles cases are rising in the US, according to the CDC. Dr. Leana Wen explains how measles spreads, its symptoms and why it\u2019s considered a dangerous disease.",
+    "url": "https://www.cnn.com/2024/03/14/health/measles-vaccine-virus-infection-quarantine-wellness/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240122095142-measles-vaccine-04262019.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-03-14T12:08:00Z",
+    "content": "Get inspired by a weekly roundup on living well, made simple.\u00a0Sign up for CNNs Life, But Better newsletter for information and tools designed to improve your well-being.\r\nMeasles cases are increasing\u2026 [+6034 chars]",
+    "short_uuid": "8f21635"
   }
 ]
