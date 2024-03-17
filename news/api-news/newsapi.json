@@ -12416,5 +12416,229 @@
     "publishedAt": "2024-03-11T12:13:37Z",
     "content": "\u00a92024 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.",
     "short_uuid": "b2e5f6ab"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "By <a href=\"/profiles/adrienne-vogt\">Adrienne Vogt</a> and <a href=\"/profiles/matt-meyer\">Matt Meyer</a>, CNN",
+    "title": "Live updates: 3 killed in Pennsylvania shooting, suspect barricaded in New Jersey with hostages, officials say - CNN",
+    "description": "At least three people are dead after two shootings in Falls Township, Pennsylvania, Saturday morning, officials say. The gunman has since taken hostages at a location in Trenton, New Jersey. Follow live updates.",
+    "url": "https://www.cnn.com/us/live-news/falls-township-shootings-pennsylvania-03-16-24/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/240316132434-03-pa-shooting-0316-super-tease.jpg",
+    "publishedAt": "2024-03-16T18:10:00Z",
+    "content": "Pennsylvania law enforcement officials have named 26-year-old Andre Gordon as a suspect in connection to fatal shootings that occurred in Falls Township on Saturday.\r\nFalls Township Police say office\u2026 [+1346 chars]",
+    "short_uuid": "2aac1d22"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Rebekah Riess",
+    "title": "New Mexico State Police officer fatally shot \u2018in cold blood\u2019 by driver he tried to help, police say - CNN",
+    "description": "A New Mexico State Police officer was fatally shot \u201cin cold blood\u201d early Friday when he offered to help the driver of a disabled vehicle, who responded by shooting the officer twice and driving off with his patrol car, authorities said.",
+    "url": "https://www.cnn.com/2024/03/16/us/new-mexico-police-officer-killed/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/jaremy-smith.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-03-16T18:01:00Z",
+    "content": "A New Mexico State Police officer was fatally shot in cold blood early Friday when he offered to help the driver of a disabled vehicle, who responded by shooting the officer twice and driving off wit\u2026 [+3196 chars]",
+    "short_uuid": "a8df50c2"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "Samantha Ibrahim",
+    "title": "'They're alive!' Moment Cara Delevingne's two cats are pulled from her burning LA home by firefighters - New York Post ",
+    "description": "\u201cThank you to the firefighters,\u201d Delevingne declared.",
+    "url": "https://nypost.com/2024/03/16/entertainment/moment-cara-delevingnes-two-cats-are-pulled-from-her-burning-la-home-by-firefighters/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/cara-delevingne-continues-post-social-78479751.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2024-03-16T17:23:00Z",
+    "content": "Cara Delevingne\u2019s cats are feline fine after being rescued from her burning home on Friday. \r\nThe supermodel\u2019s $7 million Los Angeles mansion went up in flames early yesterday morning, with her paren\u2026 [+2704 chars]",
+    "short_uuid": "e6a46989"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Athletic"
+    },
+    "author": "Mike Jones",
+    "title": "Grading the good, bad and ugly of every major NFL free agency 2024 deal - The Athletic",
+    "description": "Which deals make sense? Which are puzzling? We grade the agreements with the biggest free agents and the teams that paid up.",
+    "url": "https://theathletic.com/5332081/2024/03/16/nfl-2024-free-agency-grades/",
+    "urlToImage": "https://cdn.theathletic.com/app/uploads/2024/03/16092455/GettyImages-1940049744-scaled.jpg",
+    "publishedAt": "2024-03-16T16:57:11Z",
+    "content": "The 2024 NFL year officially started on Wednesday, and thanks to the legal tampering window for free agency that opened Monday, it has been a frenzied week.\r\nMarquee free agents at every position and\u2026 [+51085 chars]",
+    "short_uuid": "b4e61c6"
+  },
+  {
+    "source": {
+      "id": "cbs-news",
+      "name": "CBS News"
+    },
+    "author": "Cara Tabachnick",
+    "title": "Blind 750-pound alligator seized from New York home, setting up showdown as owner vows to \"fight them to get him back\" - CBS News",
+    "description": "Self-proclaimed owner Tony Cavallaro said he treated his pet alligator Albert \"than most people take care of their kids.\"",
+    "url": "https://www.cbsnews.com/news/hamburg-alligator-seized-albert-blind-new-york-home/",
+    "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/03/16/87415521-598d-47fa-b3dd-d1fe66795112/thumbnail/1200x630/9b70aad2e4fcfd6db96a211eab15f22a/gettyimages-2068654597-1.jpg?v=d1d78866939020fc1f2607ef7298e4ec",
+    "publishedAt": "2024-03-16T15:49:59Z",
+    "content": "A 750-pound, 11-foot-long alligator named Albert was seized from a New York home this week, setting the stage for a confrontation between the state's Department of Environmental Conservation and the \u2026 [+2165 chars]",
+    "short_uuid": "e28ed5b3"
+  },
+  {
+    "source": {
+      "id": "associated-press",
+      "name": "Associated Press"
+    },
+    "author": "AAMER MADHANI",
+    "title": "Schumer's rebuke of Netanyahu shows the long, fragile line the US and allies walk on interference - The Associated Press",
+    "description": "Republicans and Israeli officials were quick to express outrage after Senate Majority Leader Chuck Schumer lashed out at Prime Benjamin Netanyahu\u2019s handling of the war in Gaza and called for Israel to hold new elections. They accused the Democratic leader of \u2026",
+    "url": "https://apnews.com/article/schumer-netanyahu-israel-poland-hamas-3c86e541396fda36b0ef05b2d36c28e5",
+    "urlToImage": "https://dims.apnews.com/dims4/default/a8d29f9/2147483647/strip/true/crop/4200x2363+0+218/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0a%2Ff6%2F1ae16b7206a54f6628b0dee19675%2F660d58f90527493597a63b20eb331b82",
+    "publishedAt": "2024-03-16T15:09:00Z",
+    "content": "WASHINGTON (AP) Republicans and Israeli officials were quick to express outrage after Senate Majority Leader Chuck Schumer sharply criticized Prime Minister Benjamin Netanyahus handling of the war in\u2026 [+6804 chars]",
+    "short_uuid": "d64d9e82"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "PhiladelphiaEagles.com"
+    },
+    "author": null,
+    "title": "Eagles acquire Kenny Pickett in a trade with the Steelers - PhiladelphiaEagles.com",
+    "description": "The first quarterback selected in the 2022 NFL Draft provides valuable depth behind entrenched starter Jalen Hurts.",
+    "url": "https://www.philadelphiaeagles.com/news/eagles-kenny-pickett-trade-steelers",
+    "urlToImage": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/eagles/rsvwig5yjoad0vkdktww",
+    "publishedAt": "2024-03-16T15:01:39Z",
+    "content": "He finished his college career as Pitt's all-time leader in wins (32), passing yards (12,303), pass completions (1,045), total offense (13,112), TD responsibility (102), and passing TDs (81).\r\nThe so\u2026 [+1539 chars]",
+    "short_uuid": "6abdea63"
+  },
+  {
+    "source": {
+      "id": "associated-press",
+      "name": "Associated Press"
+    },
+    "author": "STAN CHOE, CHRISTOPHER RUGABER",
+    "title": "Mnuchin's interest in TikTok and distressed NY bank echoes his pre-Trump investment playbook - The Associated Press",
+    "description": "Steven Mnuchin is a former U.S. Treasury secretary who said this week that he is interested in buying TikTok, just days after his investment firm led a $1 billion deal to inject life into a beaten-down bank. It all sounds like a wacky Hollywood script, but it\u2026",
+    "url": "https://apnews.com/article/mnuchin-tiktok-nycb-indymac-lego-movie-5527566c81a6f3d9b288bba232f55684",
+    "urlToImage": "https://dims.apnews.com/dims4/default/08db369/2147483647/strip/true/crop/5472x3078+0+285/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1d%2Ff0%2Fae8b7e7e10cea8f8312c2078c066%2F7c5b00c65afa4153a84bace70db474b1",
+    "publishedAt": "2024-03-16T14:53:00Z",
+    "content": "NEW YORK (AP) It seems like a bizarre mishmash: A former Trump cabinet official is saying he wants to buy TikTok just days after leading a group that pumped $1 billion into a beaten-down bank. But it\u2026 [+5810 chars]",
+    "short_uuid": "10369f"
+  },
+  {
+    "source": {
+      "id": "usa-today",
+      "name": "USA Today"
+    },
+    "author": "Ahjane\u0301 Forbes",
+    "title": "Walmart stores closing: California, Maryland the latest, reports say - USA TODAY",
+    "description": "Walmart is another low-price retailer that has announced store closures this week, with a handful of closures coming on the heels of Dollar Trees.",
+    "url": "https://www.usatoday.com/story/money/retail/2024/03/16/walmart-stores-closing/72993015007/",
+    "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/02/20/USAT/72668979007-ap-walmart-care-expansion.jpg?crop=2999,1687,x0,y156&width=2999&height=1687&format=pjpg&auto=webp",
+    "publishedAt": "2024-03-16T14:48:39Z",
+    "content": "Walmart is the latest low-price retailer to announce store closures, according to reports.\r\nTwo stores in California and one store in Maryland is closing, according to the Business Insider. The media\u2026 [+3152 chars]",
+    "short_uuid": "98df1c48"
+  },
+  {
+    "source": {
+      "id": "newsweek",
+      "name": "Newsweek"
+    },
+    "author": "James Bickerton",
+    "title": "Rudy Giuliani Rages at Judge Over Fani Willis Ruling - Newsweek",
+    "description": "Giuliani called Judge McAfee a \"sissy boy\" after he ruled that DA Fani Willis can still prosecute him and Donald Trump.",
+    "url": "https://www.newsweek.com/rudy-giuliani-rages-judge-over-fani-willis-ruling-1879942",
+    "urlToImage": "https://d.newsweek.com/en/full/2363135/rudy-giuliani.jpg",
+    "publishedAt": "2024-03-16T11:31:24Z",
+    "content": "Rudy Giuliani has attacked Judge Scott McAfee who on Friday ruled that Fulton County District Attorney Fani Willis can continue prosecuting Donald Trump and other defendants, including the former New\u2026 [+4592 chars]",
+    "short_uuid": "54c82a77"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": "Michael Dorgan",
+    "title": "Chicago to start evicting illegal migrants from shelters Saturday - Fox News",
+    "description": "Chicago plans to start evicting waves of illegal immigrants from the city\u2019s shelter system this weekend as his 60-day rule kicks, Mayor Brandon Johnson has announced.",
+    "url": "https://www.foxnews.com/politics/chicago-start-evicting-illegal-migrants-shelters-saturday",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/10/Migrants_Brandon-Johnson.jpg",
+    "publishedAt": "2024-03-16T11:30:00Z",
+    "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nPlease enter a valid email address.\r\nBy entering your e\u2026 [+3176 chars]",
+    "short_uuid": "d05414fe"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "POLITICO.eu"
+    },
+    "author": "Alessandro Ford",
+    "title": "First Gaza aid ship unloads food, water and supplies at besieged enclave - POLITICO Europe",
+    "description": "A second vessel is being loaded in Cyprus to follow on the new humanitarian\u00a0sea corridor.",
+    "url": "https://www.politico.eu/article/first-aid-ship-arrives-cyprus-gaza-war-israel/",
+    "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/03/16/GettyImages-2067615925-scaled.jpg",
+    "publishedAt": "2024-03-16T11:19:00Z",
+    "content": "The drop off marks an initial success for the new maritime corridor, which the WCK and Spanish NGO Open Arms opened this week with the support of various EU and Arab governments.\u00a0\r\nThis was a test, w\u2026 [+1116 chars]",
+    "short_uuid": "d2711f6"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Gang Green Nation"
+    },
+    "author": "MacGregor Wells",
+    "title": "New York Jets News: Jets sign tackle Tyron Smith - Gang Green Nation",
+    "description": "Bringing your daily links to the NFL\u2019s New York Jets",
+    "url": "https://www.ganggreennation.com/2024/3/16/24102828/new-york-jets-joe-douglas-tyron-smith-solomon-thomas-nfl-tyrod-taylor-aaron-rodgers-corey-davis",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/-HXjhgzXDveLoKqvsRhcUUboMu8=/0x215:3000x1786/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25339297/1888252708.jpg",
+    "publishedAt": "2024-03-16T11:00:00Z",
+    "content": "Good morning Gang Green Nation! Big news for the New York Jets came down late last night as the Jets announced they were signing former Dallas Cowboys star left tackle Tyron Smith. When healthy Smith\u2026 [+4159 chars]",
+    "short_uuid": "64d700ee"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Hindustan Times"
+    },
+    "author": "Aditi Srivastava",
+    "title": "Meghan Markle \u2018concerned\u2019 over Kate Middleton's photo scandal because she knows\u2026 - Hindustan Times",
+    "description": "Royal experts weigh in on Meghan Markle's feelings amid Palace drama; Kate Middleton's Photoshop scandal stirs controversy.",
+    "url": "https://www.hindustantimes.com/world-news/us-news/meghan-markle-concerned-over-kate-middletons-photo-scandal-because-she-knows-101710550048062.html",
+    "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/03/16/1600x900/BRITAIN-ROYALS-QUEEN-DEATH-117_1662871602069_1662871602069_1710550268895.jpg",
+    "publishedAt": "2024-03-16T00:54:17Z",
+    "content": "The Duchess of Sussex may have secured a legal victory against her half-sister, Samantha Markle, but according to royal experts, she is highly 'conflicted' about what is happening inside the Palace. \u2026 [+3133 chars]",
+    "short_uuid": "e6339d5c"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Entertainment Tonight"
+    },
+    "author": "Meredith B. Kile",
+    "title": "'Civil War': Everything to Know About the Kirsten Dunst Movie Causing a Big Stir - Entertainment Tonight",
+    "description": "The movie, starring Kirsten Dunst, Cailee Spaeny, Nick Offerman, Wagner Moura and more is in theaters April 12.",
+    "url": "https://www.etonline.com/civil-war-everything-to-know-about-the-kirsten-dunst-movie-causing-a-big-stir-221757",
+    "urlToImage": "https://www.etonline.com/sites/default/files/styles/1280x720/public/images/2024-03/https___cdn.sanity.io_images_xq1bjtf4_production_3ceb27297b34ba92f758b3bc6bebe019ed3e41a4-6000x4000.jpg?h=790be497",
+    "publishedAt": "2024-03-15T21:51:06Z",
+    "content": "A politically charged new thriller, Civil War is an upcoming film that's been courting some controversy since its South by Southwest premiere in March 2024.\r\nFrom writer-director Alex Garland, known \u2026 [+4832 chars]",
+    "short_uuid": "4aceb24b"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "Fox News",
+    "title": "Scientists discovers giant volcano on Mars: 'Hidden in plain sight' - New York Post ",
+    "description": "Scientists say they have discovered a giant volcano hidden in plain sight\u00a0on Mars.",
+    "url": "https://nypost.com/2024/03/15/us-news/scientists-discovers-giant-volcano-on-mars-hidden-in-plain-sight/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/78436014.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2024-03-15T18:26:00Z",
+    "content": "Scientists say they have discovered a giant volcano hidden in plain sight\u00a0on Mars.\r\nThe volcano, temporarily named the Noctis, measures 280 miles wide and was discovered alongside a buried ice glacie\u2026 [+4508 chars]",
+    "short_uuid": "200cccae"
   }
 ]
