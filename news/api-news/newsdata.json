@@ -21081,5 +21081,334 @@
     "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
     "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
     "short_uuid": "8036b65b"
+  },
+  {
+    "article_id": "b5c42bec203737ff77250dc1508f115c",
+    "title": "Qualcomm\u2019s new 8S Gen 3 targets not-quite flagship phones",
+    "link": "https://www.theverge.com/2024/3/18/24101903/qualcomm-snapdragon-8s-gen-3-chipset-on-device-ai",
+    "keywords": null,
+    "creator": [
+      "Allison Johnson"
+    ],
+    "video_url": null,
+    "description": null,
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "pubDate": "2024-03-18 06:30:00",
+    "image_url": "https://cdn.vox-cdn.com/thumbor/swKNNhDZSxlr8JElDzSATjYRQZM=/8x0:1993x1323/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73214505/Snapdragon_8s_Gen_3___Key_Visual.0.jpg",
+    "source_id": "theverge",
+    "source_url": "https://www.theverge.com",
+    "source_icon": "https://i.bytvi.com/domain_icons/theverge.png",
+    "source_priority": 635,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "top"
+    ],
+    "language": "english",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "short_uuid": "7f52de71"
+  },
+  {
+    "article_id": "5ea0e11b2bcd8f3d7fb1238dbb245ff8",
+    "title": "Sony Pauses PlayStation VR 2 Manufacturing Due to Backlogs of Unsold Units",
+    "link": "https://www.itechpost.com/articles/121554/20240318/sony-pauses-playstation-vr-2-manufacturing-due-backlogs-unsold-units.htm",
+    "keywords": [
+      "tech"
+    ],
+    "creator": null,
+    "video_url": null,
+    "description": "Sony is halting the production of its PlayStation VR 2 after a huge amount of its original batch remains unsold even after a year.",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "pubDate": "2024-03-18 06:30:00",
+    "image_url": "https://1401700980.rsc.cdn77.org/data/images/full/118416/sony-pauses-playstation-vr-2-manufacturing-due-to-backlogs-of-unsold-units.jpg",
+    "source_id": "itechpost",
+    "source_url": "https://www.itechpost.com",
+    "source_icon": "https://i.bytvi.com/domain_icons/itechpost.png",
+    "source_priority": 162931,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "top"
+    ],
+    "language": "english",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "short_uuid": "6dc6cb1"
+  },
+  {
+    "article_id": "dfb28b293ec7fb6afc811728d2c79250",
+    "title": "Qualcomm unveils Snapdragon 8s Gen 3 for enhanced AI and gaming",
+    "link": "https://venturebeat.com/gaming-business/qualcomm-unveils-snapdragon-8s-gen-3-for-enhanced-ai-and-gaming/",
+    "keywords": [
+      "gamesbeat",
+      "gaming business",
+      "gaming hardware",
+      "category-/computers & electronics/consumer electronics",
+      "category-/internet & telecom/mobile & wireless/mobile phones"
+    ],
+    "creator": [
+      "Dean Takahashi",
+      "Qualcomm unveils Snapdragon 8s Gen 3 for enhanced AI and gaming"
+    ],
+    "video_url": null,
+    "description": "Qualcomm unveiled the Snapdragon 8s Gen 3 mobile platform for enhanced generative AI, photography and gaming experiences.",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "pubDate": "2024-03-18 06:30:00",
+    "image_url": "https://venturebeat.com/wp-content/uploads/2024/03/qualcomm-gdc.jpg?fit=750%2C490&strip=all",
+    "source_id": "venturebeat",
+    "source_url": "https://venturebeat.com",
+    "source_icon": null,
+    "source_priority": 11316,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "science",
+      "technology"
+    ],
+    "language": "english",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "short_uuid": "4ec97a53"
+  },
+  {
+    "article_id": "d85dcd095b8a692e975a7ca76438fec1",
+    "title": "Qualcomm announces Snapdragon 8s Gen 3 with on-device AI",
+    "link": "https://9to5google.com/2024/03/17/snapdragon-8s-gen-3/",
+    "keywords": [
+      "news"
+    ],
+    "creator": [
+      "Abner Li"
+    ],
+    "video_url": null,
+    "description": "Qualcomm today revealed the Snapdragon 8s Gen 3 as a smartphone chip with some flagship-level features that comes in below the 8 Gen 3. more\u2026",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "pubDate": "2024-03-18 06:30:00",
+    "image_url": "https://9to5google.com/wp-content/uploads/sites/4/2024/03/Snapdragon-8s-Gen-3-cover-1.jpg?quality=82&strip=all&w=1600",
+    "source_id": "9to5google",
+    "source_url": "https://9to5google.com",
+    "source_icon": "https://i.bytvi.com/domain_icons/9to5google.png",
+    "source_priority": 8354,
+    "country": [
+      "united states of america",
+      "australia",
+      "india",
+      "united kingdom",
+      "canada",
+      "singapore"
+    ],
+    "category": [
+      "technology"
+    ],
+    "language": "english",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "short_uuid": "947e21d"
+  },
+  {
+    "article_id": "9ee37549a61e15ba38bc667d1ab7ba69",
+    "title": "Institutional neutrality for American campuses: Discuss",
+    "link": "https://www.bostonglobe.com/2024/03/18/opinion/letters-to-the-editor-institutional-neutrality-on-campus/?camp=bg:brief:rss:feedly&rss_id=feedly_rss_brief",
+    "keywords": null,
+    "creator": null,
+    "video_url": null,
+    "description": "One reader writes that universities should \"put their energy more toward protecting all of their students and extending knowledge and less on taking positions on current events.\" Another writes, \"We need university leaders to speak out for righteousness.\"",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "pubDate": "2024-03-18 06:30:00",
+    "image_url": "https://www.bostonglobe.com/resizer/vv74r82nWT9d140z-12mho3drrs=/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/FG4AYLOKOXQMYKSQVVP2OXDQCY.175Z",
+    "source_id": "bostonglobe",
+    "source_url": "https://www.bostonglobe.com",
+    "source_icon": "https://i.bytvi.com/domain_icons/bostonglobe.jpg",
+    "source_priority": 2335,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "top"
+    ],
+    "language": "english",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "short_uuid": "c5b7fcbb"
+  },
+  {
+    "article_id": "13a83cbe99e613a06260ec1ce6d3e945",
+    "title": "Qualcomm's Snapdragon 8s Gen 3 brings more AI tools to Android phones. Here's what's new",
+    "link": "https://www.zdnet.com/article/qualcomms-snapdragon-8s-gen-3-brings-more-ai-tools-to-android-phones-heres-whats-new/#ftag=RSSbaffb68",
+    "keywords": null,
+    "creator": null,
+    "video_url": null,
+    "description": "The latest Snapdragon processor enables faster image and text generation, photo expansion, and a virtual assistant with a face on upcoming Android devices.",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "pubDate": "2024-03-18 06:30:00",
+    "image_url": "https://www.zdnet.com/a/img/resize/04940a6d6c1195aedd3cb9c0ebaa5aa087465358/2024/03/15/f18cbb3a-a811-4bb7-b2f8-96a8a1e9b47c/snapdragon-8s-gen-3-key-visual.jpg?auto=webp&precrop=8088,4545,x0,y410&width=1280",
+    "source_id": "zdnet",
+    "source_url": "https://www.zdnet.com",
+    "source_icon": "https://i.bytvi.com/domain_icons/zdnet.png",
+    "source_priority": 1068,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "technology"
+    ],
+    "language": "english",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "short_uuid": "c0f5b155"
+  },
+  {
+    "article_id": "4f293ad1ee4d6f37c07faffa51f377b4",
+    "title": "Whether BOJ moves in March or April doesn't shift the investment opportunity in Japan: Deutsche Bank PB",
+    "link": "https://www.cnbc.com/video/2024/03/18/boj-move-in-march-or-april-does-not-shift-investment-case-in-japan.html",
+    "keywords": null,
+    "creator": null,
+    "video_url": null,
+    "description": "Stefanie Holtze-Jen of Deutsche Bank Private Bank says that in the medium or longer term, it doesn't matter \"too much\" whether the Bank of Japan chooses to raise interest rates in March or April as the move is \"well anticipated\" and \"not a very big move\" in absolute figures.",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "pubDate": "2024-03-18 06:29:21",
+    "image_url": "https://image.cnbcfm.com/api/v1/image/107388562-17107420681710742066-33762469638-1080pnbcnews.jpg?v=1710742067&w=1920&h=1080",
+    "source_id": "cnbc",
+    "source_url": "http://cnbc.com",
+    "source_icon": null,
+    "source_priority": 82,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "top"
+    ],
+    "language": "english",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "short_uuid": "7c9d497d"
+  },
+  {
+    "article_id": "c9662d4a010cedd33dd5943c525aad4b",
+    "title": "Cambodia to welcome foreign visitors with Chhay Yam during Khmer New Year",
+    "link": "https://www.travelandtourworld.com/news/article/cambodia-to-welcome-foreign-visitors-with-chhay-yam-during-khmer-new-year/",
+    "keywords": [
+      "travel news",
+      "cambodia",
+      "khmer new year"
+    ],
+    "creator": null,
+    "video_url": null,
+    "description": "Cambodia is preparing to welcome foreign visitors with traditional Chhay Yam dance performances at international airports during the upcoming Khmer New Year The post Cambodia to welcome foreign visitors with Chhay Yam during Khmer New Year appeared first on Travel And Tour World.",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "pubDate": "2024-03-18 06:27:53",
+    "image_url": "https://www.travelandtourworld.com/wp-content/uploads/2022/06/Cambodia-Angkor-Wat-Temple-1024x666.webp",
+    "source_id": "travelandtourworld",
+    "source_url": "https://www.travelandtourworld.com",
+    "source_icon": "https://i.bytvi.com/domain_icons/travelandtourworld.png",
+    "source_priority": 702160,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "tourism"
+    ],
+    "language": "english",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "short_uuid": "aa9b1c81"
+  },
+  {
+    "article_id": "b05aab193aacd54345e4e438a5f35597",
+    "title": "EXCLUSIVE: Reddit Rumor Led to Sneaky Meeting With Jim Harbaugh for International American Football Scout Immo Osterkamp",
+    "link": "https://thesportsrush.com/nfl-exclusive-news-reddit-rumor-led-to-sneaky-meet-with-jim-harbaugh-for-international-american-football-scout-immo-osterkamp/",
+    "keywords": [
+      "nfl",
+      "college football",
+      "exclusive",
+      "jim harbaugh",
+      "university of michigan"
+    ],
+    "creator": [
+      "Utsav Khanna"
+    ],
+    "video_url": null,
+    "description": "Jim Harbaugh has quite a few challenges in front of him as he transitions back to the NFL. But this is certainly not the first time he\u2019s taken up such a challenge. When he took over Michigan back in 2015, the program went through a complete U-turn. A few broken records later, the now-former head\u2026 The post EXCLUSIVE: Reddit Rumor Led to Sneaky Meeting With Jim Harbaugh for International American Football Scout Immo Osterkamp appeared first on The SportsRush.",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "pubDate": "2024-03-18 06:27:17",
+    "image_url": "https://cdn-wp.thesportsrush.com/2024/03/11fff06f-untitled-design-2024-03-18t113420.520.jpg",
+    "source_id": "thesportsrush",
+    "source_url": "https://thesportsrush.com",
+    "source_icon": "https://i.bytvi.com/domain_icons/thesportsrush.jpg",
+    "source_priority": 4166,
+    "country": [
+      "india",
+      "united states of america",
+      "united kingdom",
+      "australia"
+    ],
+    "category": [
+      "sports"
+    ],
+    "language": "english",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "short_uuid": "d0cb5550"
+  },
+  {
+    "article_id": "81f86ffdd3ddc655d9c58aca4c6bb236",
+    "title": "New Brisbane Olympic Stadium Scrapped Despite Recommendation to Build",
+    "link": "https://www.theepochtimes.com/world/new-brisbane-olympic-stadium-scrapped-despite-recommendation-to-build-5609308",
+    "keywords": [
+      "australia featured news",
+      "australia news",
+      "australia top news",
+      "world news",
+      "brisbane olympics",
+      "steven miles",
+      "gabba",
+      "olympic stadium"
+    ],
+    "creator": [
+      "Jim Birchall"
+    ],
+    "video_url": null,
+    "description": "Miles, who is under electoral pressure to retain a Labor majority, ruled out the idea after receiving a recommendation for a $3.4 billion stadium to be built.",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "pubDate": "2024-03-18 06:26:27",
+    "image_url": "https://img.theepochtimes.com/assets/uploads/2021/07/23/GettyImages-1329833425-700x420.jpg",
+    "source_id": "theepochtimes",
+    "source_url": "https://www.theepochtimes.com",
+    "source_icon": "https://i.bytvi.com/domain_icons/theepochtimes.png",
+    "source_priority": 10731,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "top"
+    ],
+    "language": "english",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "short_uuid": "903e54f6"
   }
 ]
