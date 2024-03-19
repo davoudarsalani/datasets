@@ -15986,5 +15986,173 @@
     "publishedAt": "2024-03-16T11:00:01Z",
     "content": "In the U.S., Wegovy is no longer just for weight loss.\r\nThe blockbuster drug one of a handful of weight loss treatments to skyrocket in popularity over the last year is now approved in the U.S. for h\u2026 [+11718 chars]",
     "short_uuid": "20cad3af"
+  },
+  {
+    "source": {
+      "id": "espn",
+      "name": "ESPN"
+    },
+    "author": "Michael Voepel",
+    "title": "Women's March Madness bracket winners, losers, next steps - ESPN",
+    "description": "Iowa, UCLA and LSU in the same region? Miami left out altogether? Selection Sunday was more kind to others, such as South Carolina, USC and the Ivy.",
+    "url": "https://www.espn.com/womens-college-basketball/story/_/id/39752293/womens-ncaa-tournament-2024-bracket-winners-losers-march-madness",
+    "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0318%2Fr1306612_1296x729_16%2D9.jpg",
+    "publishedAt": "2024-03-18T04:34:00Z",
+    "content": "There won't be a rematch of the national championship game in women's college basketball in 2024, but LSU vs. Iowa could be a blockbuster of an Elite Eight matchup. If both even get that far, that is\u2026 [+10348 chars]",
+    "short_uuid": "4d9932ad"
+  },
+  {
+    "source": {
+      "id": "techcrunch",
+      "name": "TechCrunch"
+    },
+    "author": "Ivan Mehta",
+    "title": "xAI open-sources base model of Grok, but without any training code - TechCrunch",
+    "description": "Elon Musk's xAI has open-sourced the base code of Grok AI model, but without any training code.",
+    "url": "https://techcrunch.com/2024/03/17/xai-open-sources-base-model-of-grok-but-without-any-training-code/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/11/xAI-Grok-GettyImages-1765893916.jpeg?resize=1200,800",
+    "publishedAt": "2024-03-18T04:07:30Z",
+    "content": "Elon Musk\u2019s xAI has open-sourced the base code of Grok AI model, but without any training code. The company described it as the \u201c314 billion parameter Mixture-of-Expert model\u201d on GitHub.\r\nIn a blog p\u2026 [+1500 chars]",
+    "short_uuid": "7ee2f24"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Melissa Alonso, Elizabeth Wolfe",
+    "title": "1 dead and 2 injured in active shooter incident in downtown Jacksonville Beach as police search for suspects - CNN",
+    "description": "People in Jacksonville Beach, Florida, were urged to shelter in place after an active shooter incident\u00a0in its bustling downtown bar district left one person dead and two injured on St. Patrick\u2019s Day, police said.",
+    "url": "https://www.cnn.com/2024/03/17/us/jacksonville-police-responding-to-active-shooter-incident/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/still-20470922-218941-874-still.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-03-18T03:21:00Z",
+    "content": "People in Jacksonville Beach, Florida, were urged to shelter in place after an active shooter incident\u00a0in its bustling downtown bar district left one person dead and two injured on St. Patricks Day, \u2026 [+930 chars]",
+    "short_uuid": "c2c82d00"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ForexLive"
+    },
+    "author": "Eamonn Sheridan",
+    "title": "BOJ to end NIRP and YCC, 'a done deal' - here's what might be a dovish surprise - ForexLive",
+    "description": "Nomura says that a Bank of Japan exit from its negative interest rate policy (NIRP) and yield curve control (YCC) tomorrow is 'basically a done deal'.",
+    "url": "https://www.forexlive.com/centralbank/boj-to-end-nirp-and-ycc-a-done-deal-heres-what-might-be-a-dovish-surprise-20240318/",
+    "urlToImage": "https://images.forexlive.com/images/BoJ_id_aa5c7825-67b6-44b9-9a69-947d04da02ac_size975.jpg",
+    "publishedAt": "2024-03-18T03:19:00Z",
+    "content": "High risk warning:\r\nForeign exchange trading carries a high level of risk that may not be suitable for all investors. Leverage creates additional risk and loss exposure. Before you decide to trade fo\u2026 [+2129 chars]",
+    "short_uuid": "9fb0c9c3"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CBS Sports"
+    },
+    "author": null,
+    "title": "NCAA bracket predictions: Model reveals surprising March Madness 2024 tournament picks - CBS Sports",
+    "description": "SportsLine's model has nailed 20 double-digit seed upsets and simulated the 2024 NCAA Tournament bracket 10,000 times",
+    "url": "https://www.cbssports.com/college-basketball/news/ncaa-bracket-predictions-model-reveals-surprising-march-madness-2024-tournament-picks/",
+    "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/12/28/900794af-cf51-4b01-b4a3-00483341ff3b/thumbnail/1200x675/1f4599b7ae0ee5cd95ffb665a64b1ca2/johni-broome-usatsi-1400.jpg",
+    "publishedAt": "2024-03-18T02:36:33Z",
+    "content": "After making the Sweet 16 in four straight NCAA tournaments, the Houston Cougars are once again a No. 1 seed in the 2024 March Madness bracket. The Big 12 regular-season champions were blown out by I\u2026 [+4442 chars]",
+    "short_uuid": "e60053cd"
+  },
+  {
+    "source": {
+      "id": "associated-press",
+      "name": "Associated Press"
+    },
+    "author": "DASHA LITVINOVA",
+    "title": "Commenting on Navalny's death for first time, Putin says he supported prisoner swap for his foe - The Associated Press",
+    "description": "Russian President Vladimir Putin says he supported an idea to release opposition leader Alexei Navalny in a prisoner exchange just days before the man who was his biggest foe died. In his first comments to address Navalny\u2019s death, Putin said of the dissident\u2019\u2026",
+    "url": "https://apnews.com/article/putin-navalny-russia-election-prisoner-exchange-d941866bf80241242b5b4c42c912bc06",
+    "urlToImage": "https://dims.apnews.com/dims4/default/21991e1/2147483647/strip/true/crop/3285x1848+0+171/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Feb%2F01%2F55f1f81b28b2d416cf6d09d1ce05%2F284393f7232745e99ed8eb0961a76fa9",
+    "publishedAt": "2024-03-18T02:24:32Z",
+    "content": "Russian President Vladimir Putin said early Monday that he supported an idea to release opposition leader Alexei Navalny in a prisoner exchange just days before the man who was his biggest foe died.\r\u2026 [+3528 chars]",
+    "short_uuid": "d4c6ccb7"
+  },
+  {
+    "source": {
+      "id": "abc-news",
+      "name": "ABC News"
+    },
+    "author": "The Associated Press",
+    "title": "3 people killed, infant in critical condition after SUV slams into bus shelter in San Francisco - ABC News",
+    "description": "Authorities say three people were killed and an infant was hospitalized in critical condition after an SUV crashed into a bus shelter in San Francisco",
+    "url": "https://abcnews.go.com/US/wireStory/3-people-killed-infant-critical-condition-after-suv-108220461",
+    "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+    "publishedAt": "2024-03-18T01:53:11Z",
+    "content": "SAN FRANCISCO -- Three people were killed and an infant was hospitalized in critical condition after an SUV crashed into a bus shelter in San Francisco, authorities said Sunday. \r\nTwo victims, includ\u2026 [+914 chars]",
+    "short_uuid": "3eb1004d"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Hindustan Times"
+    },
+    "author": "Sumanti Sen",
+    "title": "Kate Middleton, Prince William debating who should click Prince Louis\u2019 birthday photo amid editing row: Report - Hindustan Times",
+    "description": "A source revealed to a news outlet that Kate Middleton and Prince William are planning to release a photo to celebrate Prince Louis\u2019 sixth birthday next month",
+    "url": "https://www.hindustantimes.com/world-news/us-news/kate-middleton-prince-william-debating-who-should-click-prince-louis-birthday-photo-amid-editing-row-report-101710725879611.html",
+    "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/03/18/1600x900/Britain-Princess-of-Wales-0_1710726126460_1710726150273.jpg",
+    "publishedAt": "2024-03-18T01:45:54Z",
+    "content": "A source revealed to a news outlet that Kate Middleton and Prince William are planning to release a photo to celebrate Prince Louis sixth birthday next month. However, the pair is carefully consideri\u2026 [+1778 chars]",
+    "short_uuid": "2e3ab090"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Natasha Bertrand, Oren Liebermann, CNN staff",
+    "title": "Russia undermining relationship of critical West African ally with the US, officials say - CNN",
+    "description": "A critical US partner in northwest Africa is turning toward Russia, amid warnings from the top US commander in the continent that the Russians are trying to \u201ctake over\u201d the entire Sahel region of Africa.",
+    "url": "https://www.cnn.com/2024/03/17/politics/niger-us-military-junta-russia/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24051414870428.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-03-18T01:20:00Z",
+    "content": "A critical US partner in northwest Africa is turning toward Russia amid warnings from the top US commander in the continent that the Russians are trying to take over the entire Sahel region of Africa\u2026 [+7267 chars]",
+    "short_uuid": "a75c1c66"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "11Alive.com WXIA"
+    },
+    "author": "Erica Murphy",
+    "title": "Judge criticizes Fani Willis' church speech in ruling - 11Alive.com WXIA",
+    "description": "Judge McAfee mentioned Willis's previous remarks at Big Bethel AME Church in a Friday ruling.",
+    "url": "https://www.11alive.com/article/news/special-reports/ga-trump-investigation/community-responds-judge-criticizes-fulton-county-da-fani-willis-remarks-church/85-c7e08cfc-37e1-4f0b-a7a5-a87921df5ac1",
+    "urlToImage": "https://media.11alive.com/assets/WXIA/images/b263cb23-3fae-4a58-b882-a360b66e703d/b263cb23-3fae-4a58-b882-a360b66e703d_1140x641.jpg",
+    "publishedAt": "2024-03-18T00:39:00Z",
+    "content": "ATLANTA Community members are responding after a Fulton County judge warned he could issue a gag order against District Attorney Fani Willis in the future and criticized comments she previously made \u2026 [+2733 chars]",
+    "short_uuid": "3866ca45"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Israel-Gaza war: Netanyahu vows to defy allies on Rafah invasion - BBC.com",
+    "description": "The Israeli prime minister says no international pressure will stop Israel from achieving all its war aims.",
+    "url": "https://www.bbc.com/news/world-middle-east-68591487",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/89DE/production/_132949253_cropgettyimages-2084791126.jpg",
+    "publishedAt": "2024-03-17T19:26:41Z",
+    "content": null,
+    "short_uuid": "dfca745d"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Newstimes.com"
+    },
+    "author": "Kaitlin Lyle",
+    "title": "Danbury mom is among rising number of young colon cancer patients - Danbury News Times",
+    "description": "Ana Costa of Danbury urges colonoscopies and other preventative measures following her personal experience as a colon cancer survivor.",
+    "url": "https://www.newstimes.com/news/article/danbury-mother-colon-cancer-prevention-18709879.php",
+    "urlToImage": "https://s.hdnux.com/photos/01/36/51/00/24809496/5/rawImage.jpg",
+    "publishedAt": "2024-03-17T09:04:40Z",
+    "content": "Danbury resident Ana Costa recommends early screening for colon cancer following her own experiences as a colon cancer survivor.\r\nAna Costa/contributed photo\r\nDanbury resident Ana Costa recommends ea\u2026 [+8812 chars]",
+    "short_uuid": "acc17079"
   }
 ]
