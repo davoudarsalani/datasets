@@ -19444,5 +19444,299 @@
     "publishedAt": "2024-03-18T11:12:00Z",
     "content": "WASHINGTON (AP) Across the United States, many people are eagerly anticipating the Federal Reserves first cut to its benchmark interest rate this year: Prospective home buyers hope for lower mortgage\u2026 [+5223 chars]",
     "short_uuid": "3823eb6b"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Karen Gilchrist",
+    "title": "Unilever to split off its ice cream unit including Ben & Jerry\u2019s; shares pop 5% - CNBC",
+    "description": "Consumer goods giant Unilever said Tuesday that it is separating its ice cream unit, which includes Ben & Jerry's and Magnum, as part of a restructuring plan that will impact 7,500 jobs.",
+    "url": "https://www.cnbc.com/2024/03/19/unilever-announces-plan-to-spin-off-its-ice-cream-unit-including-ben-jerrys.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107389223-1710838072299-gettyimages-1240913852-porzycki-foodinkr220524_npLdR.jpeg?v=1710838135&w=1920&h=1080",
+    "publishedAt": "2024-03-19T07:53:08Z",
+    "content": "Shares of consumer goods giant Unilever rose more than 5% Tuesday after the company announced plans to separate its ice cream unit, which includes Ben &amp; Jerry's and Magnum, as part of a restructu\u2026 [+1522 chars]",
+    "short_uuid": "7f7cbbaf"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "NBC 7 San Diego"
+    },
+    "author": "Renee Schmiedeberg",
+    "title": "PHOTOS: San Diego residents gaze up in awe as SpaceX rocket dazzles SoCal sky - NBC San Diego",
+    "description": "A rocket launch was clearly visible across San Diego County skies on Monday night as SpaceX launched their Falcon 9, sending 22 Starlink satellites into low-Earth orbit from Vandenberg Space Force Base in Santa Barbara County.",
+    "url": "http://www.nbcsandiego.com/news/local/photos-san-diego-residents-gaze-up-in-awe-as-spacex-rocket-dazzles-socal-sky/3464897/",
+    "urlToImage": "https://media.nbcsandiego.com/2024/03/IMG_7883_73515c.jpeg?quality=85&strip=all&resize=1200%2C675",
+    "publishedAt": "2024-03-19T07:11:26Z",
+    "content": "It's not the aliens. It's SpaceX!\r\nA rocket launch was clearly visible across San Diego County skies on Monday night as SpaceX launched their Falcon 9, sending 22 Starlink satellites into low-Earth o\u2026 [+1715 chars]",
+    "short_uuid": "e2b1f2f4"
+  },
+  {
+    "source": {
+      "id": "espn",
+      "name": "ESPN"
+    },
+    "author": null,
+    "title": "Anthony Edwards throws down monster slam as Timberwolves win - ESPN",
+    "description": "Anthony Edwards threw down a monster slam over John Collins of the Jazz in the third quarter, helping the Timberwolves to a memorable 114-104 victory but leaving both players banged up after the play.",
+    "url": "https://www.espn.com/nba/story/_/id/39763646/anthony-edwards-throws-monster-slam-timberwolves-win",
+    "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0319%2Fr1307083_1296x729_16%2D9.jpg",
+    "publishedAt": "2024-03-19T06:29:00Z",
+    "content": "Mar 19, 2024, 01:29 AM ET\r\nSALT LAKE CITY -- One thunderous dunk provided a perfect snapshot of Anthony Edwards' second-half dominance Monday night.\r\nEdwards threw down a monster slam over John Colli\u2026 [+2652 chars]",
+    "short_uuid": "983b39a1"
+  },
+  {
+    "source": {
+      "id": "associated-press",
+      "name": "Associated Press"
+    },
+    "author": "WAFAA SHURAFA, SAMY MAGDY, TIA GOLDENBERG",
+    "title": "Israel-Hamas war: 'Famine imminent' in northern Gaza, UN says - The Associated Press",
+    "description": "A new report says famine is imminent in northern Gaza, where 70% of the remaining population is experiencing catastrophic hunger. It says a further escalation of the war could push around half of Gaza\u2019s total population to the brink of starvation. The report \u2026",
+    "url": "https://apnews.com/article/israel-hamas-war-news-03-18-2024-eefc526aec97821fe5f1e845801a6640",
+    "urlToImage": "https://dims.apnews.com/dims4/default/99a5788/2147483647/strip/true/crop/8457x4757+0+440/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F72%2F4c%2F4625bcaf387c48ab890676a1629a%2Fcd0728ff531a4027800d234e239516a5",
+    "publishedAt": "2024-03-19T06:11:00Z",
+    "content": "RAFAH, Gaza Strip (AP) Famine is imminent in northern Gaza, where 70% of people are experiencing catastrophic hunger, according to a report Monday that warned escalation of the war could push half of\u2026 [+8328 chars]",
+    "short_uuid": "9b57bf39"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "NPR"
+    },
+    "author": null,
+    "title": "United Airlines CEO tries to reassure customers that the airline is safe - NPR",
+    "description": "In a memo to customers, CEO Scott Kirby tried to reassure travelers that safety is the airline's top priority. He said the airline was already planning an extra day of training for pilots.",
+    "url": "https://www.npr.org/2024/03/19/1239386454/united-airlines-ceo-tries-to-reassure-customers-that-the-airline-is-safe",
+    "urlToImage": "https://media.npr.org/assets/img/2024/03/19/ap24078437123532_wide-f1d8c0cd2e6078e44e8a98de9c61e1b14d6d2bfe-s1400-c100.jpg",
+    "publishedAt": "2024-03-19T06:02:34Z",
+    "content": "Scott Kirby, CEO of United Airlines, says that a slew of recent incidents ranging from a panel that fell off a plane to another jet losing a wheel on takeoff will cause the airline to review its safe\u2026 [+3012 chars]",
+    "short_uuid": "28826a35"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Push Square"
+    },
+    "author": "Khayl Adam",
+    "title": "Sony Reportedly Undertaking Internal Investigation Following Leaked PS5 Pro Specs - Push Square",
+    "description": "Alright, which one of you jokers was it?",
+    "url": "https://www.pushsquare.com/news/2024/03/sony-reportedly-undertaking-internal-investigation-following-leaked-ps5-pro-specs",
+    "urlToImage": "https://images.pushsquare.com/fd6e9e7837a97/1280x720.jpg",
+    "publishedAt": "2024-03-19T06:00:00Z",
+    "content": "Sony is reportedly undertaking an internal investigation to determine how exactly the specs for Trinity, the codename by which the colloquially-named PS5 Pro is internally known, leaked so entirely o\u2026 [+1246 chars]",
+    "short_uuid": "fbcd13d8"
+  },
+  {
+    "source": {
+      "id": "associated-press",
+      "name": "Associated Press"
+    },
+    "author": "ABDOULIE JOHN, JESSICA DONATI",
+    "title": "Gambia could be first country to reverse ban on female genital cutting - The Associated Press",
+    "description": "Lawmakers in Gambia have referred a repeal of the 2015 ban on female genital cutting for further committee discussions. Gambian activists fear the repeal would overturn years of work to better protect girls and women. The legislation was referred to a committ\u2026",
+    "url": "https://apnews.com/article/gambia-female-genital-cutting-7ab84af16d6b986025dd344d615bfe19",
+    "urlToImage": "https://dims.apnews.com/dims4/default/a95a474/2147483647/strip/true/crop/2250x1266+0+867/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff3%2F13%2F82012ba8edcc1745f15120da7daf%2F82debf9bd7744880b9e2b98482509f7c",
+    "publishedAt": "2024-03-19T05:33:22Z",
+    "content": "SERREKUNDA, Gambia (AP) Lawmakers in Gambia referred an attempted repeal of the 2015 ban on female genital cutting for further committee discussions on Monday.\r\nGambian activists fear a repeal would \u2026 [+4130 chars]",
+    "short_uuid": "1075edd7"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Sports Illustrated"
+    },
+    "author": "Ben Stinar",
+    "title": "BREAKING: Steph Curry Made NBA History In Knicks-Warriors Game - Sports Illustrated",
+    "description": "Steph Curry made NBA history during Monday's game.",
+    "url": "https://www.si.com/fannation/nba/fastbreak/news/breaking-steph-curry-made-nba-history-in-knicks-warriors-game-nba-monday",
+    "urlToImage": "https://www.si.com/.image/t_share/MjA1MTE4NzAzNDUxMjUyNDc2/usatsi_19384136_168388303_lowres.jpg",
+    "publishedAt": "2024-03-19T04:38:09Z",
+    "content": "UPDATE: The Warriors lost by a score of 119-112, and Steph Curry finished with 27 points, five rebounds, five assists and one steal. \u00a0\r\nOn Monday evening, the\u00a0Golden State Warriors\u00a0are playing the Ne\u2026 [+1413 chars]",
+    "short_uuid": "9746eb21"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "MPs overturn changes to Rwanda bill to set up fresh Lords battle - BBC.com",
+    "description": "Labour continues its opposition, flagging how six flights to space cost the same as each deportation.",
+    "url": "https://www.bbc.com/news/uk-politics-68599308",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B513/production/_126355364_2685ed84f43772f48a7825c2acce5c1b9e42e2a20_0_2752_18402000x1337.jpg",
+    "publishedAt": "2024-03-19T04:31:12Z",
+    "content": null,
+    "short_uuid": "8a96a6b7"
+  },
+  {
+    "source": {
+      "id": "the-globe-and-mail",
+      "name": "The Globe And Mail"
+    },
+    "author": "Sally Brompton",
+    "title": "Your daily horoscope: March 19, 2024 - The Globe and Mail",
+    "description": "Your daily horoscope for Tuesday, March 19, 2024",
+    "url": "https://www.theglobeandmail.com/life/horoscopes/article-your-daily-horoscope-march-19-2024/",
+    "urlToImage": "https://www.theglobeandmail.com/resizer/v2/QOWJHQTS7NCLZAYD3BDPA37OCI.png?auth=d3810db32530bc4cdb376ea414f26b995bfd70ab982f660f0aeaadc261841dcd&width=1200&height=801&quality=80",
+    "publishedAt": "2024-03-19T04:00:00Z",
+    "content": "Open this photo in gallery:Pisces.iStockPhoto / Getty Images\r\nHOROSCOPES IF TODAY IS YOUR BIRTHDAY\r\nYou must not deny yourself what it is you most desire. The universe wants you to enjoy yourself it \u2026 [+3694 chars]",
+    "short_uuid": "4aaf4ef5"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Jason Owens",
+    "title": "Report: 2-time Cy Young winner Blake Snell agrees to 2-year, $62 million deal with Giants after 3 seasons with Padres - Yahoo Sports",
+    "description": "Blake Snell is leaving San Diego for San Francisco.",
+    "url": "https://sports.yahoo.com/report-2-time-cy-young-winner-blake-snell-agrees-to-2-year-62-million-deal-with-giants-after-3-seasons-with-padres-012743455.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/GlaeaIEkEalSCsLFJ0g9Tg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-12/2d174080-93e0-11ee-9d6f-b8493f17304e",
+    "publishedAt": "2024-03-19T03:54:00Z",
+    "content": "Blake Snell's very long offseason is finally over. (Sean M. Haffey/Getty Images)\r\nBlake Snell is leaving San Diego for San Francisco.\r\nThe two-time Cy Young winner has reportedly agreed to a two-year\u2026 [+2859 chars]",
+    "short_uuid": "ea97148c"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "SB4: Supreme Court again blocks Texas law allowing police to arrest migrants - BBC.com",
+    "description": "The court places the law in limbo while emergency appeals from the Biden administration play out.",
+    "url": "https://www.bbc.com/news/world-us-canada-68597752",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0613/production/_132955510_gettyimages-2071895008.jpg",
+    "publishedAt": "2024-03-19T03:42:03Z",
+    "content": null,
+    "short_uuid": "955b8d93"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Israel Gaza: US reports death of senior Hamas military leader Marwan Issa - BBC.com",
+    "description": "Details are also released of President Biden's high-stakes call to Israeli leader Benjamin Netanyahu.",
+    "url": "https://www.bbc.com/news/world-middle-east-68578735",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/645C/production/_132929652_qassamafp.jpg",
+    "publishedAt": "2024-03-19T03:06:47Z",
+    "content": null,
+    "short_uuid": "2bd42f8e"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Trump unable to get $464m bond in New York fraud case, his lawyers say - BBC.com",
+    "description": "The former president must either pay the full amount in cash or secure a bond to continue his appeal.",
+    "url": "https://www.bbc.com/news/world-us-canada-68600093",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11D5/production/_132956540_gettyimages-2062201762.jpg",
+    "publishedAt": "2024-03-19T02:19:29Z",
+    "content": null,
+    "short_uuid": "1ba4a339"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "FXStreet"
+    },
+    "author": "Haresh Menghani",
+    "title": "Japanese Yen slides to near two-week low against USD ahead of BoJ policy decision - FXStreet",
+    "description": "The Japanese Yen (JPY) drifts lower for the sixth straight day on Tuesday and weakens to a nearly two-week low against its American counterpart during the Asian session.",
+    "url": "https://www.fxstreet.com/news/japanese-yen-slides-to-near-two-week-low-against-usd-ahead-of-boj-policy-decision-202403190148",
+    "urlToImage": "https://editorial.fxstreet.com/images/Markets/Currencies/Majors/USDJPY/crumpled-us-and-japanese-currency-13375743_Large.jpg",
+    "publishedAt": "2024-03-19T01:48:00Z",
+    "content": "<ul><li>The Japanese Yen continues losing ground after the BoJ announced its policy decision.</li><li>The BoJ ended the negative interest rates region and also scrapped the YCC policy.\u00a0</li><li>Hawki\u2026 [+4545 chars]",
+    "short_uuid": "bf000814"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Matt Lavietes",
+    "title": "College student Riley Strain went to 2 other bars and talked to Nashville officer on night he went missing - Yahoo! Voices",
+    "description": "Ten days since University of Missouri student Riley Strain vanished, more details have emerged about his movements before he disappeared in Nashville...",
+    "url": "https://www.yahoo.com/news/college-student-riley-strain-went-003554427.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/YpcJK7k67yVimO4HWCH4OQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/nbc_news_122/a796985bef7871fbea569ec020eedc71",
+    "publishedAt": "2024-03-19T00:35:00Z",
+    "content": "Ten days since University of Missouri student Riley Strain vanished, more details have emerged about his movements before he disappeared in Nashville, Tennessee.\r\nPolice released new video Monday sho\u2026 [+3995 chars]",
+    "short_uuid": "da05bd0d"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": "Fox News Staff",
+    "title": "JESSE WATTERS: Trump 'bloodbath' controversy gives Democrats a new hoax - Fox News",
+    "description": "Fox News host Jesse Watters shares the full context of former President Trump's \"bloodbath\" comments as the media takes it out of context on \"Jesse Watters Primetime.\"",
+    "url": "https://www.foxnews.com/media/jesse-watters-trump-bloodbath-controversy-democrats-new-hoax",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/12/Video-59.jpg",
+    "publishedAt": "2024-03-19T00:21:01Z",
+    "content": "Fox News host Jesse Watters shares the full context of President Trumps controversial \"bloodbath\" comment on \"Jesse Watters Primetime\r\n.\"\u00a0\r\nJESSE WATTERS:When \"Inside Edition\" is talking about the pr\u2026 [+1654 chars]",
+    "short_uuid": "7b7c9084"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "HuffPost"
+    },
+    "author": "Kelby Vera",
+    "title": "MGM Addresses Rumors Bruno Mars Has $50 Million In Gambling Debt With Casino Giant - HuffPost",
+    "description": "The hospitality giant stood by their partnership with the singer in a statement on Monday.",
+    "url": "https://www.huffpost.com/entry/mgm-denies-bruno-mars-debt_n_65f8a571e4b030e8357af9f9",
+    "urlToImage": "https://img.huffingtonpost.com/asset/65f8a7b92500003200944e99.jpeg?cache=iF4O6kTOBN&ops=1200_630",
+    "publishedAt": "2024-03-19T00:00:10Z",
+    "content": "Bruno Mars isnt in the red with MGM, that is, according to the hospitality and casino giant.\r\nIn a statement given to the Las Vegas Review-Journal on Monday, MGM Resorts shut down rumors the 24K Magi\u2026 [+3864 chars]",
+    "short_uuid": "f60e3f97"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Entertainment Tonight"
+    },
+    "author": "Miguel A. Melendez",
+    "title": "Rose Hanbury Denies Affair Rumors With Prince William: What to Know About Their Connection - Entertainment Tonight",
+    "description": "Hanbury's name has been thrust back into the limelight amid Kate Middleton's ongoing recovery from abdominal surgery.",
+    "url": "https://www.etonline.com/rose-hanbury-denies-affair-rumors-with-prince-william-what-to-know-about-their-connection-221598",
+    "urlToImage": "https://www.etonline.com/sites/default/files/styles/1280x720/public/images/2024-03/ETD_TREND_WhoIsRoseHanbury_20240313_vidpic2.jpg?h=d1cb525d",
+    "publishedAt": "2024-03-19T00:00:00Z",
+    "content": "Now that Rose Hanbury has officially denied having an affair with Prince William amid the ongoing Kate Middleton conspiracy theories, many online are starting to examine where the origin of the rumor\u2026 [+6279 chars]",
+    "short_uuid": "1041cf22"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "MarketWatch"
+    },
+    "author": "Jon Swartz",
+    "title": "AI brings existential crisis for Apple, Salesforce and tech's old guard: Partner or perish - MarketWatch",
+    "description": "The starter\u2019s pistol is still echoing, but the race for generative-AI supremacy is quickly coming into focus",
+    "url": "https://www.marketwatch.com/story/these-older-tech-companies-are-playing-catch-up-in-genai-adfb2835",
+    "urlToImage": "https://images.mktw.net/im-15720804/social",
+    "publishedAt": "2024-03-18T21:01:00Z",
+    "content": "The news hit like a thunderbolt across the artificial-intelligence landscape: Apple Inc. and Alphabet Inc.s Google are in discussions to bring the latters Gemini AI tools to iPhone software.Apple \r\n \u2026 [+6953 chars]",
+    "short_uuid": "6c0946b4"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Samantha Murphy Kelly",
+    "title": "Apple is getting serious about AI - CNN",
+    "description": "Apple researchers say they\u2019ve developed a family of multimodal models \u2014 which refers to an AI system that can interpret and generate different types of data, such as text and images at the same time \u2014 called MM1.",
+    "url": "https://www.cnn.com/2024/03/18/tech/apple-ai-google-gemini/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1670366603.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-03-18T18:08:39Z",
+    "content": "Apple appears to be finally raising the curtain on some of its AI efforts.\r\nApple researchers say theyve developed a family of multimodal models which refers to an AI system that can interpret and ge\u2026 [+3233 chars]",
+    "short_uuid": "7398d462"
   }
 ]
