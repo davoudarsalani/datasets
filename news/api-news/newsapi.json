@@ -22216,5 +22216,243 @@
     "publishedAt": "2024-03-18T14:09:55Z",
     "content": "Here comes spring, a potentially uncomfortable season for an estimated 81 million people in the United States who are allergic to the onslaught of pollen from trees, grasses and weeds this time of ye\u2026 [+1838 chars]",
     "short_uuid": "364d6f15"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Food and eating out costs drive fall in inflation - BBC.com",
+    "description": "February's drop to 3.4% means the cost of living is now rising at its slowest pace since September 2021.",
+    "url": "https://www.bbc.com/news/business-68597055",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13868/production/_132967997_eff81e8c-e535-47c0-8117-abf7e9507b91.jpg",
+    "publishedAt": "2024-03-20T08:01:24Z",
+    "content": null,
+    "short_uuid": "16e067a4"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Karen Gilchrist",
+    "title": "Gucci owner Kering tanks 14% after Asia profit warning, dragging down Europe luxury brands - CNBC",
+    "description": "French luxury group Kering warned Tuesday that Gucci sales look set to fall 20% in the first quarter as declining Asia sales continue to weigh on the fashion brand.",
+    "url": "https://www.cnbc.com/2024/03/20/kering-issues-luxury-profit-warning-gucci-sales-to-plunge-20percent.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107389883-1710919126943-gettyimages-1258835673-HK_HARBOUR_CITY.jpeg?v=1710919146&w=1920&h=1080",
+    "publishedAt": "2024-03-20T07:58:49Z",
+    "content": "A Gucci store at Harbour City shopping mall, operated by Wharf Holdings Ltd., in Hong Kong, China, on Friday, June 2, 2023.\u00a0\r\nShares of French luxury group Kering plunged 14% on Tuesday after the com\u2026 [+3228 chars]",
+    "short_uuid": "f3f5210b"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Kate hospital privacy breach claims being 'assessed' by watchdog - BBC.com",
+    "description": "Reports say staff allegedly attempted to access the Princess of Wales's private medical records.",
+    "url": "https://www.bbc.com/news/uk-68613057",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/72D4/production/_132969392_e7b8e4e340a182ff8458d62b467d549a3a5abe9c0_0_3500_23331000x667.jpg",
+    "publishedAt": "2024-03-20T07:14:13Z",
+    "content": null,
+    "short_uuid": "a702674"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "'People in Gaza desperate, eating anything they can find' - BBC.com",
+    "description": "The BBC spoke to Save the Children's Gaza response leader, who described the situation of near-starvation.",
+    "url": "https://www.bbc.com/news/av/world-middle-east-68486306",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10EB0/production/_132969296_p0hknv46.jpg",
+    "publishedAt": "2024-03-20T06:02:24Z",
+    "content": "The BBC's Caitriona Perry spoke to Rachael Cummings, Save the Children's Deputy Team Leader for the Gaza response. Cummings described the situation of near-starvation being faced by thousands in nort\u2026 [+118 chars]",
+    "short_uuid": "89b204e9"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Appeals court freezes Texas\u2019 new SB4 immigration law - BBC.com",
+    "description": "The law would allow police to arrest those suspected of illegally crossing the US-Mexican border.",
+    "url": "https://www.bbc.com/news/world-us-canada-68613083",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/176FC/production/_132969959_texas-gettyimages-1885809524.jpg",
+    "publishedAt": "2024-03-20T05:01:58Z",
+    "content": null,
+    "short_uuid": "3914d2a1"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Jack Baer",
+    "title": "Dodgers' reported reaction to Shohei Ohtani's $680 million deferral request: 'Holy f***' - Yahoo Sports",
+    "description": "Andrew Friedman reacted like the rest of us when he heard Shohei Ohtani's contract proposal.",
+    "url": "https://sports.yahoo.com/dodgers-reported-reaction-to-shohei-ohtanis-680-million-deferral-request-holy-f-020018361.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/HKARCqDJhC3S.F9V2nZj6A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/4badea60-e65d-11ee-bf0a-6b3d900b7b6d",
+    "publishedAt": "2024-03-20T04:13:00Z",
+    "content": "Shohei Ohtani's $700 million contract with the Los Angeles Dodgers stunned the baseball world this offseason. It also reportedly stunned the Dodgers.\r\nA Sports Illustrated feature by Tom Verducci on \u2026 [+3656 chars]",
+    "short_uuid": "85f89de2"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Simone Pathe",
+    "title": "Trump\u2019s pick Bernie Moreno will win GOP Senate primary in Ohio, CNN projects - CNN",
+    "description": "Bernie Moreno will win the Republican Senate primary in Ohio, CNN projects, a victory for presumptive GOP presidential nominee Donald Trump, who had endorsed the Cleveland businessman in the three-way contest.",
+    "url": "https://www.cnn.com/2024/03/19/politics/ohio-senate-election-moreno-trump/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24077649589703.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-03-20T03:55:11Z",
+    "content": "Bernie Moreno will win the Republican Senate primary in Ohio, CNN projects, a victory for presumptive GOP presidential nominee Donald Trump, who had endorsed the Cleveland businessman in the three-wa\u2026 [+6449 chars]",
+    "short_uuid": "9beceac3"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "YouTube"
+    },
+    "author": null,
+    "title": "NUGGETS at TIMBERWOLVES | FULL GAME HIGHLIGHTS | March 19, 2024 - NBA",
+    "description": "Never miss a moment with the latest news, trending stories and highlights to bring you closer to your favorite players and teams.Download now: https://link.n...",
+    "url": "https://www.youtube.com/watch?v=skgx1Chk8SM",
+    "urlToImage": "https://i.ytimg.com/vi/skgx1Chk8SM/maxresdefault.jpg",
+    "publishedAt": "2024-03-20T03:37:58Z",
+    "content": null,
+    "short_uuid": "aaefb56d"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Emma Tucker, Ryan Young, Jade Gordon, Shawn Nottingham",
+    "title": "\u2018Goon Squad\u2019 leader and another deputy sentenced for torture of two Black men. Four other ex-officers still face sentencing - CNN",
+    "description": "Two White former Mississippi law enforcement officers who were members of an unlawful \u201cGoon Squad\u201d were sentenced by a federal judge Tuesday to prison after admitting to torturing and abusing two Black men last year \u2013 and four other White ex-officers who plea\u2026",
+    "url": "https://www.cnn.com/2024/03/19/us/mississippi-black-men-police-torture-sentencing-tuesday/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20240316-mississippi-officers-split.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-03-20T03:22:00Z",
+    "content": "Jackson, MississippiCNN\r\n \u00a0\u2014\u00a0\r\nTwo White former Mississippi law enforcement officers who were members of a self-styled Goon Squad were sentenced by a federal judge Tuesday to prison after admitting t\u2026 [+13943 chars]",
+    "short_uuid": "a0e45435"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Suntimes.com"
+    },
+    "author": "Fran Spielman",
+    "title": "Bring Chicago Home: Mayor Brandon Johnson's homelessness plan apparently defeated - Chicago Sun-Times",
+    "description": "\"This is not the result we wanted. We're gonna have to take a real hard look at what happened and figure out how to move forward from here,\" said Ald. Carlos Ramirez-Rosa, who was instrumental in getting the binding referendum through the City Council and ont\u2026",
+    "url": "https://chicago.suntimes.com/elections/2024/03/19/bring-chicago-home-election-referendum-results",
+    "urlToImage": "https://cst.brightspotcdn.com/dims4/default/a729845/2147483647/strip/true/crop/6122x3495+0+294/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe9%2F73%2Fe89a40ae89f754f018f549169473%2Fcold-homeless-011724-01.jpg",
+    "publishedAt": "2024-03-20T03:01:00Z",
+    "content": "Mayor Brandon Johnson and the progressive movement behind him appeared headed toward a humiliating defeat Tuesday that will force them to search for another source of revenue to combat homelessness.\r\u2026 [+4782 chars]",
+    "short_uuid": "f35bd931"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Ted  Barrett, Manu Raju",
+    "title": "Schumer slams Trump criticism of his Israel speech as \u2018unadulterated antisemitism\u2019 - CNN",
+    "description": "Senate Majority Leader Chuck Schumer slammed former President Donald Trump\u2019s criticism of Schumer\u2019s speech on Israel, noting that Trump\u2019s remarks were \u201csick,\u201d and \u201chateful,\u201d and included anti-Semitic tropes.",
+    "url": "https://www.cnn.com/2024/03/19/politics/schumer-slams-trump-criticism-israel-speech/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20240319-chuckschumerdonaldtrumpsplit.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-03-20T01:02:00Z",
+    "content": "Senate Majority Leader Chuck Schumer criticized former President Donald Trumps response to the New York Democrats speech on Israel, noting that the presumptive GOP presidential nominees remarks were \u2026 [+6349 chars]",
+    "short_uuid": "7c25349c"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "Katherine Donlevy",
+    "title": "Police track down blanket Elijah Vue, 3, was carrying when he vanished from Wisconsin home - New York Post ",
+    "description": "Police said Elijah was \u201cpossibly carrying\u201d the blanket in the boy\u2019s initial missing persons alert",
+    "url": "https://nypost.com/2024/03/19/us-news/police-find-missing-wisconsin-boy-elijah-vues-blanket/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/78650997.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2024-03-20T00:54:00Z",
+    "content": "The blanket a missing 3-year-old Wisconsin boy was likely carrying when he vanished almost a month ago has been discovered, police said Monday.\r\nLittle Elijah Vue\u2019s red and white plaid blanket was fo\u2026 [+2929 chars]",
+    "short_uuid": "894ff103"
+  },
+  {
+    "source": {
+      "id": "entertainment-weekly",
+      "name": "Entertainment Weekly"
+    },
+    "author": "https://www.facebook.com/entertainmentweekly",
+    "title": "Ariana Grande finalizes divorce, will pay ex Dalton Gomez $1.25 million - Entertainment Weekly News",
+    "description": "Ariana Grande's divorce from real estate broker Dalton Gomez is official, and according to a prenup she'll pay him a onetime sum of $1.25 million, with no future alimony.",
+    "url": "https://ew.com/ariana-grande-finalizes-divorce-ex-husband-dalton-gomez-8611439",
+    "urlToImage": "https://ew.com/thmb/kruUb7WJc1QKYDt60LfiSbZG6A8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ariana-grande-oscars-red-carpet-031924-22a9e786eb594b9e88d01e1c12fe9273.jpg",
+    "publishedAt": "2024-03-19T23:52:45Z",
+    "content": "Ariana Grande and Dalton Gomez are officially divorced.\r\nA Los Angeles Superior Court judgment dissolving the pop star's marriage to the real estate broker was finalized Tuesday, according to the Ass\u2026 [+1324 chars]",
+    "short_uuid": "56399986"
+  },
+  {
+    "source": {
+      "id": "ign",
+      "name": "IGN"
+    },
+    "author": null,
+    "title": "The Second Wave of Game Pass March 2024 Titles Are Revealed - IGN Daily Fix - IGN",
+    "description": "In today&#39;s Daily Fix:\nEven more titles are coming to Microsoft&#39;s Game Pass service for the back half of March. Those games include new releases Lightyear Frontier (which we reviewed and liked), Open Roads, and MLB The Show 24. Previously released titl\u2026",
+    "url": "https://www.ign.com/videos/the-second-wave-of-game-pass-march-2024-titles-are-revealed-ign-daily-fix",
+    "urlToImage": "https://assets-prd.ignimgs.com/2024/03/19/gfix-031924-blogroll-1710886073724.jpg?width=1280",
+    "publishedAt": "2024-03-19T23:12:43Z",
+    "content": "In today's Daily Fix:\r\nEven more titles are coming to Microsoft's Game Pass service for the back half of March. Those games include new releases Lightyear Frontier (which we reviewed and liked), Open\u2026 [+446 chars]",
+    "short_uuid": "273444d6"
+  },
+  {
+    "source": {
+      "id": "cbs-news",
+      "name": "CBS News"
+    },
+    "author": "Megan Cerullo",
+    "title": "JetBlue is cutting unprofitable routes and leaving 5 cities - CBS News",
+    "description": "These are the routes JetBlue is retiring, including cities to where it is no longer flying, as it focuses on more popular and profitable destinations.",
+    "url": "https://www.cbsnews.com/news/jetblue-cuts-unprofitable-routes/",
+    "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/03/19/655e2967-14b3-4c76-8655-2ed6c261a96c/thumbnail/1200x630/a61c434a386f50b17b06ae509e6ef541/gettyimages-1885803250.jpg?v=b64ebf3cd0145765e4923158152de5b1",
+    "publishedAt": "2024-03-19T22:34:14Z",
+    "content": "JetBlue Airways is eliminating a number of unprofitable routes to destinations in the U.S. and overseas as it moves to cut costs after a\u00a0judge blocked its $3.8 billion bid\u00a0for Spirit Airlines earlier\u2026 [+2989 chars]",
+    "short_uuid": "d733252"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Hindustan Times"
+    },
+    "author": "Neeraj Dhankher",
+    "title": "Career Horoscope Today for March 20, 2024: What the stars have in store for you today! - Hindustan Times",
+    "description": "Daily Horoscope Today, March 20, 2024: Get daily career astrological predictions that will help you prosper at your workplace. | Horoscope",
+    "url": "https://www.hindustantimes.com/astrology/horoscope/career-horoscope-today-for-march-20-2024-what-the-stars-have-in-store-for-you-today-101710881199855.html",
+    "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/03/19/1600x900/career2_1650797836611_1710881306075.jpeg",
+    "publishedAt": "2024-03-19T21:30:12Z",
+    "content": "Aries: If you are in a job search and have been struggling to navigate the uncertainties, you may want to look into business partnerships. Trust your gut feeling; if you have found someone trustworth\u2026 [+5179 chars]",
+    "short_uuid": "413c1b0e"
+  },
+  {
+    "source": {
+      "id": "cbs-news",
+      "name": "CBS News"
+    },
+    "author": "Kaia Hubbard",
+    "title": "California holds special election today to fill vacancy left by former House Speaker Kevin McCarthy - CBS News",
+    "description": "Kevin McCarthy left Congress late last year after he became the first speaker in U.S. history to be ousted from his post.",
+    "url": "https://www.cbsnews.com/news/california-special-election-kevin-mccarthy/",
+    "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/03/19/15ab5941-adcd-40a0-9057-96fdcd5208cb/thumbnail/1200x630/2ef173384ad202ebb1e2ae6cf01e984d/gettyimages-1245206906.jpg?v=b64ebf3cd0145765e4923158152de5b1",
+    "publishedAt": "2024-03-19T16:05:20Z",
+    "content": "Washington \u2014 Voters in California's 20th district are going to the polls Tuesday to fill the vacancy left by former House Speaker Kevin McCarthy, as House Republicans eagerly await an additional vote\u2026 [+1749 chars]",
+    "short_uuid": "ad1d4bf7"
   }
 ]
