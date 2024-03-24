@@ -30028,5 +30028,299 @@
     "publishedAt": "2024-03-22T15:00:00Z",
     "content": "Netflixs 3 Body Problem premiered March 21, and theres a lot of science! The new Netflix series from screenwriter Alexander Woo and Game of Thrones shepherds David Benioff and D.B. Weiss adapts a bes\u2026 [+13041 chars]",
     "short_uuid": "fcf50e42"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "By <a href=\"/profiles/shania-shelton\">Shania Shelton</a>, <a href=\"/profiles/elise-hammond\">Elise Hammond</a>, <a href=\"/profiles/kaanita-iyer\">Kaanita Iyer</a> and Piper Hudspeth Blackburn, CNN",
+    "title": "Senate reaches deal to avert partial government shutdown - CNN",
+    "description": "The Senate has reached a last-minute agreement to vote on the government funding package tonight, and avert a shutdown, after an hours-long standoff over amendment votes.",
+    "url": "https://www.cnn.com/politics/live-news/federal-government-shutdown-03-22-24/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220628115344-01-us-capitol-exterior-0628-super-tease.jpg",
+    "publishedAt": "2024-03-23T04:15:54Z",
+    "content": "The Senate is approaching a midnight deadline to pass a bill to fund the government and avert a shutdown. The House passed a $1.2 trillion government funding package earlier Friday.\r\nEarlier this mon\u2026 [+1471 chars]",
+    "short_uuid": "448d4a91"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": null,
+    "title": "ISIS claims responsibility for attack in busy Moscow-area concert venue that left at least 40 dead - CNN",
+    "description": "At least 40 people were killed and more than 100 were injured after armed attackers stormed a popular concert venue complex near Moscow and opened fire, according to preliminary information from the\u00a0Federal Security Service in Russia, state media\u00a0TASS reporte\u2026",
+    "url": "https://www.cnn.com/2024/03/22/europe/crocus-moscow-shooting/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-2024-03-22t183455z-49253608-rc26r6adm1bf-rtrmadp-3-russia-shooting.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-03-23T03:49:00Z",
+    "content": "ISIS has claimed responsibility for an attack at a popular concert venue complex near Moscow Friday after assailants stormed the venue with guns and incendiary devices, killing at least 60 people and\u2026 [+7269 chars]",
+    "short_uuid": "8bd9b94d"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "KCCI Des Moines"
+    },
+    "author": "Associated Press",
+    "title": "Winning numbers drawn for $997M Mega Millions jackpot - KCCI Des Moines",
+    "description": "The jackpot ranks as the 10th largest in U.S. lottery history.",
+    "url": "https://www.kcci.com/article/mega-millions-winning-numbers-march-22-2024/60283188",
+    "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/mega-millions-lottery-1633274324.jpg?crop=1.00xw:0.847xh;0,0&resize=1200:*",
+    "publishedAt": "2024-03-23T03:09:00Z",
+    "content": "A nearly $1 billion Mega Millions jackpot is up for grabs Friday night, offering the prospect of instant riches for a lucky player after more than three months without a big winner.\r\nVideo above: 11 \u2026 [+870 chars]",
+    "short_uuid": "e6521c3a"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Frank Schwab",
+    "title": "Report: Chiefs CB L'Jarius Sneed to be traded to Titans - Yahoo Sports",
+    "description": "The Chiefs gave L'Jarius Sneed the franchise tag this offseason.",
+    "url": "https://sports.yahoo.com/report-chiefs-cb-ljarius-sneed-to-be-traded-to-titans-025621323.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/I0qEZhzAz8UdU25xXAktTw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/4945d180-e21f-11ee-af7d-1d1455719e8c",
+    "publishedAt": "2024-03-23T03:00:00Z",
+    "content": "The Kansas City Chiefs, looking ahead to the historic task of winning a third straight Super Bowl, came into the offseason looking to retain two of their defensive stars.\r\nDefensive end Chris Jones a\u2026 [+2685 chars]",
+    "short_uuid": "1e57e64"
+  },
+  {
+    "source": {
+      "id": "associated-press",
+      "name": "Associated Press"
+    },
+    "author": null,
+    "title": "Texas school bus with over 40 pre-K students struck by cement truck, killing 2, authorities say - The Associated Press",
+    "description": "Authorities say a concrete truck has crashed into a school bus carrying more than 40 pre-K students on a field trip in Texas, killing a boy on the bus and a man in a third vehicle. Texas Department of Public Safety Sgt. Deon Cockrell says the bus was struck a\u2026",
+    "url": "https://apnews.com/article/bus-crash-texas-2bea11618bfd8087e5fc0d3eae91e431",
+    "urlToImage": "https://dims.apnews.com/dims4/default/b46d9ac/2147483647/strip/true/crop/3000x1688+0+267/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa6%2Faf%2Fb58817b814c2004135ba29ef7053%2Fae504e90bb5a44c0aef7cf813c97d300",
+    "publishedAt": "2024-03-23T02:31:00Z",
+    "content": "BASTROP, Texas (AP) A cement truck veered into a school bus carrying more than 40 pre-K students returning from a field trip to a Texas zoo Friday, killing a boy on the bus and a man in another vehic\u2026 [+2938 chars]",
+    "short_uuid": "fc768ed9"
+  },
+  {
+    "source": {
+      "id": "the-washington-post",
+      "name": "The Washington Post"
+    },
+    "author": "Gus Garcia-Roberts",
+    "title": "MLB opens formal probe into Shohei Ohtani betting scandal - The Washington Post",
+    "description": "The league has been under scrutiny for its response to the scandal enveloping its marquee star, who signed a $700 million deal with the Dodgers last off-season.",
+    "url": "https://www.washingtonpost.com/sports/2024/03/22/mlb-investigation-ohtani-betting/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WN4CIKM3ZDLRU5GYAY3ICQ7PZ4_size-normalized.jpg&w=1440",
+    "publishedAt": "2024-03-23T01:50:00Z",
+    "content": "Major League Baseball launched a formal investigation into the sports betting scandal surrounding Los Angeles Dodgers superstar Shohei Ohtani and his translator, Ippei Mizuhara, it announced Friday.\r\u2026 [+1448 chars]",
+    "short_uuid": "7e365663"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Kate, Princess of Wales: I am having cancer treatment - BBC.com",
+    "description": "Kate releases video message saying she is having preventative chemotherapy after cancer was found in tests.",
+    "url": "https://www.bbc.com/news/uk-68641441",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9C0D/production/_132994993_live_index_2_princess_catherine_bbc_studios.jpg",
+    "publishedAt": "2024-03-23T01:43:54Z",
+    "content": null,
+    "short_uuid": "72404562"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "AL.com"
+    },
+    "author": "Ainslie Lee | alee@al.com",
+    "title": "Everything Bruce Pearl said after Auburn's season-ending loss to Yale in the NCAA Tourney - AL.com",
+    "description": "A look inside Bruce Pearl's postgame press conference following Auburn's loss to Yale in the NCAA Tournament.",
+    "url": "https://www.al.com/auburnbasketball/2024/03/everything-bruce-pearl-said-after-auburns-season-ending-loss-to-yale-in-the-ncaa-tourney.html",
+    "urlToImage": "https://www.al.com/resizer/v2/BB3CN3SDRBDWXDOWYH5HDNXPCU.jpg?auth=01dd47027ab1dcda15d4bf0c1fcb96df0ffacacc28f0cad4eff38dd982e50cb5&width=1280&quality=90",
+    "publishedAt": "2024-03-23T00:56:00Z",
+    "content": "It came down to the wire, but the fourth-seeded Auburn Tigers just couldnt get the job done against the 13th-seeded Yale Bulldogs Friday night.\r\nWhile Auburn led by 10 points with just less than 7:30\u2026 [+7132 chars]",
+    "short_uuid": "3e072c22"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "Steve Cuozzo",
+    "title": "NY AG Letitia James seizing Trump's 40 Wall Street would be a huge loss for the city \u2014 and our democracy - New York Post ",
+    "description": "\u201cIf 40 Wall ends up in limbo, nobody in their right minds \u2014 tenants or buyers \u2014 would go near it,\u201d said a real estate broker who has done business there.",
+    "url": "https://nypost.com/2024/03/22/real-estate/ny-ag-letitia-james-shouldnt-seize-trumps-40-wall-street/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/trump-letitia-.gif?w=1024",
+    "publishedAt": "2024-03-23T00:13:00Z",
+    "content": "If state Attorney General Letitia James seizes Donald Trumps 40 Wall Street his largest real estate asset by far the worse damage would be to New York City.\r\nThe troubled but functional landmark offi\u2026 [+2660 chars]",
+    "short_uuid": "341de411"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "Surendra Singh",
+    "title": "Milky Way\u2019s earliest building blocks found, named Shiva & Shakti - The Times of India",
+    "description": "Science News: Scientists of one of the world\u2019s leading astronomy institutes, Germany-based Max Planck Institute for Astronomy, have identified two of the Milky Way\u2019.",
+    "url": "https://timesofindia.indiatimes.com/home/science/milky-ways-earliest-building-blocks-found-named-shiva-shakti/articleshow/108720907.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-108720941,width-1070,height-580,imgsize-1117703,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+    "publishedAt": "2024-03-23T00:02:00Z",
+    "content": "FOLLOW US ON SOCIAL MEDIA",
+    "short_uuid": "e8513f43"
+  },
+  {
+    "source": {
+      "id": "associated-press",
+      "name": "Associated Press"
+    },
+    "author": null,
+    "title": "As gangs rampage through Haiti's capital, more than 33000 people have fled in 13 days, report finds - The Associated Press",
+    "description": "U.N. officials say more than 33,000 people have fled Haiti\u2019s capital in a span of nearly two weeks as gangs continue to pillage homes and attack state institutions. A new report from the U.N.\u2019s International Organization for Migration found that the majority \u2026",
+    "url": "https://apnews.com/article/haiti-violence-migration-south-gangs-port-au-prince-6fb506a228a7fd0bb897f61efc2a3cf2",
+    "urlToImage": "https://dims.apnews.com/dims4/default/aa7e4ce/2147483647/strip/true/crop/5012x2819+0+264/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F74%2F89%2F158acde91a836715dd69268be0c4%2F5209730b7e9141ee87a1a1aeeffeddef",
+    "publishedAt": "2024-03-22T23:54:00Z",
+    "content": "PORT-AU-PRINCE, Haiti (AP) More than 33,000 people have fled Haitis capital in a span of nearly two weeks as gangs continue to pillage homes and attack state institutions, according to a new report f\u2026 [+3762 chars]",
+    "short_uuid": "a7830c2d"
+  },
+  {
+    "source": {
+      "id": "associated-press",
+      "name": "Associated Press"
+    },
+    "author": "DAVID KOENIG",
+    "title": "FBI tells passengers on the Alaska Airlines flight that lost a panel they might be crime victims - The Associated Press",
+    "description": "The FBI is telling people who were on board the Boeing 737 Max that lost a panel in midflight that they might be victims of a crime. In letters to some of the passengers, an FBI victim specialist says the case is currently under investigation by the FBI. A la\u2026",
+    "url": "https://apnews.com/article/boeing-fbi-investigation-crime-lawsuit-oregon-a4ffddc43f2000dd9d9466a335df6a93",
+    "urlToImage": "https://dims.apnews.com/dims4/default/a695e38/2147483647/strip/true/crop/5938x3340+0+309/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa6%2Fad%2Fa148ac9441c0359cff841ea3a62c%2Fb7ca13e0fd9d4dd3af00748745facb84",
+    "publishedAt": "2024-03-22T23:29:00Z",
+    "content": "The FBI has told passengers on the Alaska Airlines Boeing 737 Max that lost a door-plug panel in midflight that they might be victims of a crime.\r\nIm contacting you because we have identified you as \u2026 [+3175 chars]",
+    "short_uuid": "6b700b54"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Republican Marjorie Taylor Greene wants Speaker Mike Johnson out - BBC.com",
+    "description": "The hard-line conservative said Johnson had \"betrayed\" Republicans with a recent spending bill.",
+    "url": "https://www.bbc.com/news/world-us-canada-68640138",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11FA7/production/_132993637_gettyimages-2081424284.jpg",
+    "publishedAt": "2024-03-22T23:26:15Z",
+    "content": null,
+    "short_uuid": "2284f207"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "PBS"
+    },
+    "author": "Karina Cuevas, Nana Adwoa Antwi-Boasiako, William Brangham",
+    "title": "Transplant of pig kidney into a human marks medical milestone - PBS NewsHour",
+    "description": "In a historic first, a kidney from a genetically modified pig was successfully transplanted into a human. Researchers hope for more of this kind of transplant because there aren't enough human organs for the thousands in need. But putting animal tissue into a\u2026",
+    "url": "https://www.pbs.org/newshour/show/transplant-of-pig-kidney-into-a-human-marks-medical-milestone",
+    "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2024/03/transplant-1024x683.jpg",
+    "publishedAt": "2024-03-22T22:35:55Z",
+    "content": "Dr. Leonardo Riella:\r\nThat's always a major debate in the entire field of xenotransplantation.\r\nSo how high are the risks? And what we have learned over the past 20 years with many animal studies is \u2026 [+877 chars]",
+    "short_uuid": "5db5ffaa"
+  },
+  {
+    "source": {
+      "id": "the-hill",
+      "name": "The Hill"
+    },
+    "author": "Tara Suter",
+    "title": "Cindy McCain on conditions in Gaza: \u2018We need food and we need it now\u2019 - The Hill",
+    "description": "Cindy McCain, executive director of the United Nations\u2019s World Food Programme (WFP), said Friday that there is an urgent need for food in Gaza amid the war occurring there. \u201c[O]ur obstacles are many,\u201d McCain said in an interview on MSNBC\u2019s \u201cAndrea Mitchell Re\u2026",
+    "url": "https://thehill.com/policy/international/4550570-cindy-mccain-on-conditions-in-gaza-we-need-food-and-we-need-it-now/",
+    "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/10/AP23294327184750-e1698007645769.jpg?w=1280",
+    "publishedAt": "2024-03-22T22:22:00Z",
+    "content": "Skip to content\r\nCindy McCain, executive director of the United Nations\u2019s World Food Programme (WFP), said Friday that there is an urgent need for food in Gaza amid the war occurring there.\r\n\u201c[O]ur o\u2026 [+1892 chars]",
+    "short_uuid": "be8c2164"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Maria Sole Campinoti",
+    "title": "2 suspected squatters taken into custody after woman\u2019s body found in duffel bag in NYC apartment - CNN",
+    "description": "Two suspects, believed to have been squatters, have been taken into custody in connection with the death of a woman whose body was discovered inside a duffel bag at her late mother\u2019s New York City apartment, according to a spokesperson for the New York City P\u2026",
+    "url": "https://www.cnn.com/2024/03/22/us/nyc-squatters-murder-arrests/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/still-20484014-22421-193-still.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-03-22T20:10:00Z",
+    "content": "Two suspected squatters have been taken into custody in connection with the death of a woman whose body was found inside a duffel bag in a New York City apartment, according to police.\r\nThe suspects \u2026 [+2226 chars]",
+    "short_uuid": "673b19fe"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Kotaku"
+    },
+    "author": "Zack Zwiezen",
+    "title": "GTA 6 Delay Possible As Rockstar Pushes Staff Back To Office - Kotaku",
+    "description": "The open-world sequel is set to launch next year, but leadership is worried it could get delayed until 2026",
+    "url": "https://kotaku.com/gta-6-development-2026-delay-rockstar-office-release-1851359831",
+    "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/e7517aecf72b00ea07c5b8d94dc756d1.jpg",
+    "publishedAt": "2024-03-22T19:54:57Z",
+    "content": "Grand Theft Auto VI is likely one of the most anticipated games in history, with millions of players around the world waiting for any scrap of info or screenshot of the upcoming open-world crime simu\u2026 [+3433 chars]",
+    "short_uuid": "244cbaf"
+  },
+  {
+    "source": {
+      "id": "techcrunch",
+      "name": "TechCrunch"
+    },
+    "author": "Morgan Little",
+    "title": "Apple vs US antitrust lawsuit: Everything we know so far on the DOJ\u2019s iPhone case - TechCrunch",
+    "description": "The DOJ and Apple are now in a legal battle over a lawsuit alleging the company operates its iPhone business like a monopoly.",
+    "url": "https://techcrunch.com/2024/03/22/apple-vs-us-antitrust-lawsuit-everything-we-know-so-far-on-the-dojs-iphone-case/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/03/apple-antitrust-doj-splash.jpg?resize=1200,675",
+    "publishedAt": "2024-03-22T19:19:57Z",
+    "content": "Apples antitrust scrutiny has reached a fever pitch. The U.S. Department of Justice announced Thursday that it filed a lawsuit accusing the company of behaving like a monopoly in locking in iPhone cu\u2026 [+4579 chars]",
+    "short_uuid": "3ecf54e3"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Live Science"
+    },
+    "author": "Jennifer Nalewicki",
+    "title": "270 million-year-old fossil named after Kermit the Frog - Livescience.com",
+    "description": "Scientists found the ancient amphibian fossil in the collection at the Smithsonian's National Museum of Natural History.",
+    "url": "https://www.livescience.com/animals/amphibians/kermit-the-frog-creature-that-lived-270-million-years-ago-looked-like-a-stout-salamander-with-cartoonish-grin",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/rBLk6wYEKR6Hp7sDhhaUgZ-1200-80.jpg",
+    "publishedAt": "2024-03-22T18:31:04Z",
+    "content": "A newly described species of proto-amphibian that lived 270 million years ago has been named after Kermit the Frog.\r\nPaleontologists at the Smithsonian National Museum of Natural History rediscovered\u2026 [+2787 chars]",
+    "short_uuid": "99b71b76"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Trump poised for billions as stock market deal passes - BBC.com",
+    "description": "Trump's social media firm has been acquired - a deal that could produce a windfall as he fights legal penalties.",
+    "url": "https://www.bbc.com/news/business-68609007",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EFCC/production/_132988316_whatsubject.jpg",
+    "publishedAt": "2024-03-22T15:39:19Z",
+    "content": null,
+    "short_uuid": "1a5fde41"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Forbes"
+    },
+    "author": "Zak Doffman",
+    "title": "Apple\u2019s Surprise Update Just Made iPhone More Like Android - Forbes",
+    "description": "Apple is about to change iPhone forever\u2026",
+    "url": "https://www.forbes.com/sites/zakdoffman/2024/03/21/apple-iphone-15-pro-max-upgrade-vs-samsung-galaxy-s24-ultra-s23/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65aeed369be3a016e61b4a9a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+    "publishedAt": "2024-03-21T18:49:43Z",
+    "content": "Apples surprise news this week signals a huge shift for iPhoneit almost doesnt matter what happens next, it looks like everything has already changed\r\nApple has just made its iPhone much more like Sa\u2026 [+14759 chars]",
+    "short_uuid": "7c0d379"
   }
 ]
