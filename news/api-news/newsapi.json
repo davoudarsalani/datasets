@@ -30952,5 +30952,187 @@
     "publishedAt": "2024-03-22T18:00:01Z",
     "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n\u00a9\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036.",
     "short_uuid": "ea8a4d16"
+  },
+  {
+    "source": {
+      "id": "the-washington-post",
+      "name": "The Washington Post"
+    },
+    "author": "Ian Livingston",
+    "title": "D.C.-area forecast: Heavy rain this morning, and winds turn gusty with time - The Washington Post",
+    "description": "The storm is in its peak across the region into midday. Isolated flooding is possible.",
+    "url": "https://www.washingtonpost.com/weather/2024/03/23/dc-area-forecast-rain-saturday/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7TU7NSUOMZF2RAEDOV62MPWZ6Q.png&w=1440",
+    "publishedAt": "2024-03-23T12:00:00Z",
+    "content": "* Flood watch through this afternoon *\r\nA somewhat subjective rating of the days weather, on a scale of 0 to 10.\r\n2/10: Weekend. And March Madness. Besides that, lots of rain then some wind.\r\n<ul><li\u2026 [+2316 chars]",
+    "short_uuid": "6c9014ca"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Steve Contorno, Kate Sullivan, Matt Egan",
+    "title": "Truth Social made Trump richer and gave him a new megaphone. But it\u2019s struggling as a social media site - CNN",
+    "description": "Outside of Donald Trump\u2019s MAGA movement, his Truth Social platform is struggling to find a wider audience. It is hemorrhaging users, and its traffic has plummeted.",
+    "url": "https://www.cnn.com/2024/03/23/politics/truth-social-donald-trump/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2097710945.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-03-23T12:00:00Z",
+    "content": "When hes not raising horses or working at a construction site, 28-year-old Nick Mirtschink says he spends a lot of time on Truth Social, the social media platform started by Donald Trump.\r\nSo does Br\u2026 [+10324 chars]",
+    "short_uuid": "b98fc2a6"
+  },
+  {
+    "source": {
+      "id": "al-jazeera-english",
+      "name": "Al Jazeera English"
+    },
+    "author": "Kevin Doyle",
+    "title": "Moscow concert hall attack: Why is ISIL targeting Russia? - Al Jazeera English",
+    "description": "More than 115 people have been killed and some 120 injured in deadly Moscow attack claimed by ISIL affiliate.",
+    "url": "https://www.aljazeera.com/news/2024/3/23/moscow-concert-hall-attack-why-is-isil-targeting",
+    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/2024-03-23T084450Z_1513283650_RC2KR6AXKEPS_RTRMADP_3_RUSSIA-SHOOTING-1711187945.jpg?resize=1920%2C1440",
+    "publishedAt": "2024-03-23T11:41:45Z",
+    "content": "More than 115 people have been killed and nearly 120 others were injured following a brazen attack on concertgoers at Moscows Crocus City Hall before a performance by a Soviet-era rock band on Friday\u2026 [+7651 chars]",
+    "short_uuid": "ad24e9e6"
+  },
+  {
+    "source": {
+      "id": "the-washington-post",
+      "name": "The Washington Post"
+    },
+    "author": "Jesse Dougherty",
+    "title": "How James Madison upset Wisconsin in the NCAA tournament - The Washington Post - The Washington Post",
+    "description": "No. 12 seed James Madison was in control against No. 5 seed Wisconsin from start to finish to earn its first win in the main draw of the NCAA tournament since 1983.",
+    "url": "https://www.washingtonpost.com/sports/2024/03/23/james-madison-wisconsin-ncaa-tournament-upset/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AHST5NT4SFF2ZJICHBRHT5FI34_size-normalized.jpg&w=1440",
+    "publishedAt": "2024-03-23T11:29:43Z",
+    "content": "NEW YORK The buzzer sounded, the scoreboard froze, and Xavier Brown broke for the sideline, where the James Madison fans looked ready to spill onto the Barclays Center court late Friday night.\r\nIts n\u2026 [+4834 chars]",
+    "short_uuid": "19017a81"
+  },
+  {
+    "source": {
+      "id": "the-washington-post",
+      "name": "The Washington Post"
+    },
+    "author": "Hannah Dormido, Adri\u00e1n Blanco, Kati Perry, Nick Mourtoupalas, Kevin Uhrmacher",
+    "title": "How every senator voted on the budget bill to avert a government shutdown - The Washington Post",
+    "description": "See if your senators voted for or against funding for the Defense, State, Homeland Security and other departments ahead of the March 22 funding deadline.",
+    "url": "https://www.washingtonpost.com/politics/interactive/2024/03/23/senate-vote-government-shutdown-bill-results/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QQVJQ4SIK7PS4KAP3OLPGDIILA.JPG&w=1200",
+    "publishedAt": "2024-03-23T10:47:11Z",
+    "content": "Republicans and Democrats in the Senate passed a $1.2 trillion bill early Saturday to fund a majority of the government for the next six months. The 74-24 vote came after an agreement emerged just as\u2026 [+645 chars]",
+    "short_uuid": "f8b941c7"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Phil Mattingly",
+    "title": "Trump stares down first derailment of his campaign-to-courthouse strategy - CNN",
+    "description": "For days, Donald Trump\u2019s fury over the requirement to secure hundreds of millions of dollars in bond money by Monday has been bubbling behind the scenes and through a steady stream of social media posts.",
+    "url": "https://www.cnn.com/2024/03/23/politics/trump-campaign-courthouse-bond/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-03-19t193341z-1475520968-rc2q86aceil8-rtrmadp-3-usa-trump-immunity.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-03-23T10:00:00Z",
+    "content": "For days, Donald Trumps fury over the requirement to secure hundreds of millions of dollars in bond money by Monday has been bubbling behind the scenes and through a steady stream of social media pos\u2026 [+10242 chars]",
+    "short_uuid": "61fae7b0"
+  },
+  {
+    "source": {
+      "id": "espn",
+      "name": "ESPN"
+    },
+    "author": "Ben Baby",
+    "title": "Zach Edey, Purdue rebound from 2023 exit, roll past Grambling - ESPN",
+    "description": "Zach Edey became the first player since Maryland's Joe Smith in 1995 to have a 30-point, 20-rebound game in the men's NCAA tournament, an effort that allowed Purdue to erase memories of its stunning loss to 16-seed Fairleigh Dickinson last year.",
+    "url": "https://www.espn.com/mens-college-basketball/story/_/id/39790365/zach-edey-purdue-rebound-early-2023-ncaa-tournament-exit",
+    "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0323%2Fr1308823_1296x729_16%2D9.jpg",
+    "publishedAt": "2024-03-23T04:43:00Z",
+    "content": "INDIANAPOLIS -- Don't be fooled by the nonchalance after the fact.\r\nOn the surface, Purdue's 78-50 win over Grambling was standard business Friday night. The top-seeded Boilermakers steamrolled the 1\u2026 [+2177 chars]",
+    "short_uuid": "46e22165"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Hollywood Reporter"
+    },
+    "author": "Carly Thomas",
+    "title": "Regina King, Jimmy Kimmel Have Teary Moment in First Interview Together Since Her Son\u2019s Death - Hollywood Reporter",
+    "description": "The actress made an appearance on 'Jimmy Kimmel Live!' Thursday, more than two years after her son Ian Alexander Jr. died.",
+    "url": "http://www.hollywoodreporter.com/tv/tv-news/regina-king-jimmy-kimmel-teary-moment-sons-death-1235858835/",
+    "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/03/Regina-King-Jimmy-Kimmel-publicity-H-2024.jpg?w=1024",
+    "publishedAt": "2024-03-23T04:06:04Z",
+    "content": "Regina King and Jimmy Kimmel had a bittersweet moment Thursday night during their first interview together since the death of her son more than two years ago.\r\nThe Oscar-winning actress made an appea\u2026 [+1365 chars]",
+    "short_uuid": "e9d90c1d"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Jeff Eisenberg",
+    "title": "SEC's NCAA flop makes Greg Sankey's push for tournament expansion look even more ridiculous - Yahoo Sports",
+    "description": "The SEC commissioner wants more power conference teams in the tournament and doesn't seem to care what that means for the little guy. The problem is that...",
+    "url": "https://sports.yahoo.com/secs-ncaa-flop-makes-greg-sankeys-push-for-tournament-expansion-look-even-more-ridiculous-030957406.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/W.ffyPd02uTuN2cgT8.HrA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/89a187a0-e0ae-11ee-8fbf-fe66672730ff",
+    "publishedAt": "2024-03-23T03:14:00Z",
+    "content": "Now we know why SEC commissioner Greg Sankey wants to stop giving away NCAA bids to automatic qualifiers from smaller conferences.\r\nThose have-me-nots have the gall to keep eliminating his deep-pocke\u2026 [+5306 chars]",
+    "short_uuid": "1d215393"
+  },
+  {
+    "source": {
+      "id": "cbs-news",
+      "name": "CBS News"
+    },
+    "author": "Simrin Singh",
+    "title": "Princess Kate revealed she is undergoing treatment for a cancer diagnosis. What is preventative chemotherapy? - CBS News",
+    "description": "Preventative chemotherapy\u200b, which is usually referred to as \"adjuvant chemotherapy,\" is an early treatment that is used to reduce the chances of cancer returning.",
+    "url": "https://www.cbsnews.com/news/princess-kate-cancer-diagnosis-what-is-preventative-chemotherapy/",
+    "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/03/22/de96e1b6-b31b-41c4-8063-ccfb401b661d/thumbnail/1200x630/9450104e740a283d2f1976fb70fa9af1/gettyimages-1840560983.jpg?v=4baa656f7af774a52a8c6a88476cb826",
+    "publishedAt": "2024-03-23T00:07:00Z",
+    "content": "Catherine, the Princess of Wales, announced Friday that doctors discovered cancer in tests conducted after she underwent major abdominal surgery in January. The 42-year-old princess is now undergoing\u2026 [+2998 chars]",
+    "short_uuid": "9ef1be3f"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Julie Hyman",
+    "title": "Top market takeaways after stocks rallied on Fed decision - Yahoo Finance",
+    "description": "Markets (^DJI, ^IXIC, ^GSPC) put a positive cap on the trading week, all three of the five-day moving averages closing Friday in the green. Stocks rallied...",
+    "url": "https://finance.yahoo.com/video/top-market-takeaways-stocks-rallied-204132038.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/lppEwrajH3c5VF97AwSW_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/e6997960-e88b-11ee-bebe-677e927900ba",
+    "publishedAt": "2024-03-22T20:41:32Z",
+    "content": "Markets (^DJI, ^IXIC, ^GSPC) put a positive cap on the trading week, all three of the five-day moving averages closing Friday in the green. Stocks rallied around the Federal Reserve's latest monetary\u2026 [+5105 chars]",
+    "short_uuid": "1a30fc36"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": "Christine Rousselle",
+    "title": "Washington, DC, to lose more than 100 cherry blossom trees, including beloved 'Stumpy' - Fox News",
+    "description": "Fans of a short cherry tree nicknamed \"Stumpy\" have flocked to pay their respects before the tree is torn down this summer in Washington, D.C. The Tidal Basin's seawall is in need of repairs.",
+    "url": "https://www.foxnews.com/lifestyle/washington-dc-lose-100-cherry-blossom-trees-beloved-stumpy",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/03/AP24079724164269.jpg",
+    "publishedAt": "2024-03-22T17:49:00Z",
+    "content": "Washington, D.C., is set to lose over 100 of its iconic cherry trees next year, including one lovingly referred to as \"Stumpy.\"\u00a0\r\nThe trees will be removed as part of a multiyear restoration of the T\u2026 [+3576 chars]",
+    "short_uuid": "373301b2"
+  },
+  {
+    "source": {
+      "id": "the-wall-street-journal",
+      "name": "The Wall Street Journal"
+    },
+    "author": "Stuart Halpern",
+    "title": "From Haman to Hamas - WSJ - The Wall Street Journal",
+    "description": "Israelis prepare to celebrate Purim amid a war reminiscent of the Book of Esther.",
+    "url": "https://www.wsj.com/articles/israel-prepares-for-purim-as-esther-defeated-haman-so-will-jerusalem-conquer-hamas-f28832cc",
+    "urlToImage": "https://images.wsj.net/im-939870/social",
+    "publishedAt": "2024-03-21T22:33:00Z",
+    "content": null,
+    "short_uuid": "6ecf122c"
   }
 ]
