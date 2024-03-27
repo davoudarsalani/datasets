@@ -38820,5 +38820,327 @@
     "publishedAt": "2024-03-25T20:00:02Z",
     "content": "A silent epidemic looms large, often undetected and underestimated: Diabetes. According to the Centers for Disease Control and Prevention (CDC), a staggering 38.4 million individuals of all ages \u2014 eq\u2026 [+2896 chars]",
     "short_uuid": "b6cd635e"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "By Andrew Menezes and Isabelle D'Antonio, CNN",
+    "title": "2024 election live updates: RFK Jr. vice president announcement - CNN",
+    "description": "Independent presidential candidate Robert F. Kennedy Jr. is expected to announce his vice presidential running mate Tuesday. Follow here for the latest live news updates.",
+    "url": "https://www.cnn.com/politics/live-news/rfk-jr-running-mate-2024-election/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/231006213748-rfk-jr-file-100623-super-tease.jpg",
+    "publishedAt": "2024-03-26T18:20:39Z",
+    "content": "Nicole Shanahan, the reported vice presidential pick of Robert F. Kennedy Jr., has a yearslong history of large donations to Democratic candidates and causes, federal records show.\r\nShanahan is expec\u2026 [+1770 chars]",
+    "short_uuid": "853d9a70"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Salon"
+    },
+    "author": null,
+    "title": "Trader Joe's has raised its banana prices for the first time in more than 20 years - Salon",
+    "description": "A news brief on the grocer hiking up its banana prices after more than two decades",
+    "url": "https://www.salon.com/2024/03/26/trader-joes-has-raised-its-banana-prices-for-the-first-time-in-more-than-20-years/",
+    "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2022/12/trader_joes_store_1208660352.jpg",
+    "publishedAt": "2024-03-26T18:05:00Z",
+    "content": null,
+    "short_uuid": "a22e6b54"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Rick Newman",
+    "title": "Trump's new social media company looks like a meme stock - Yahoo Finance",
+    "description": "Strong short interest in Trump's public media company Truth Social suggests a gloomy view of its future.",
+    "url": "https://finance.yahoo.com/news/trumps-new-social-media-company-looks-like-a-meme-stock-191257321.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/xuCr1bhuu9s.US0AIVt10Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/69c10630-ead7-11ee-bf8d-681fa3318b03",
+    "publishedAt": "2024-03-26T17:05:38Z",
+    "content": "Former President Donald Trump has clearly scored a financial windfall with his media startup, Trump Media &amp; Technology Group, which trades under his initials, DJT. The firm's value soared when it\u2026 [+5384 chars]",
+    "short_uuid": "55e41294"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Apple Newsroom"
+    },
+    "author": null,
+    "title": "Apple's Worldwide Developers Conference returns June 10, 2024 - Apple",
+    "description": "Apple today announced it will host its annual Worldwide Developers Conference (WWDC) online from June 10 through 14, 2024.",
+    "url": "https://www.apple.com/newsroom/2024/03/apples-worldwide-developers-conference-returns-june-10-2024/",
+    "urlToImage": "https://www.apple.com/newsroom/images/2024/03/apples-worldwide-developers-conference-returns-june-10-2024/tile/Apple-WWDC24-event-announcement-hero-lp.jpg.og.jpg?202403261700",
+    "publishedAt": "2024-03-26T17:03:53Z",
+    "content": "March 26, 2024\r\nPRESS RELEASE\r\nApples Worldwide Developers Conference returns June 10, 2024\r\nEntire conference available online for all developers, with a special event at Apple Park on June 10\r\nCUPE\u2026 [+2967 chars]",
+    "short_uuid": "34db960a"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "John Miller, Elizabeth Wolfe",
+    "title": "Sean \u2018Diddy\u2019 Combs is target of investigation carried out by Homeland Security team that specializes in human trafficking, source says - CNN",
+    "description": "Homes belonging to Sean \u201cDiddy\u201d Combs were searched by authorities Monday because he is a target of a federal investigation carried out by a Department of Homeland Security team that handles human trafficking crimes, according to a senior federal law enforcem\u2026",
+    "url": "https://www.cnn.com/2024/03/26/entertainment/sean-diddy-combs-home-raids-investigation-tuesday/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/still-20491636-292468-58400000003-still.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-03-26T17:02:00Z",
+    "content": "Authorities searched Sean Diddy Combs homes on Monday because he is a target of a federal investigation carried out by a Department of Homeland Security team that handles human trafficking crimes, ac\u2026 [+4704 chars]",
+    "short_uuid": "f69247e7"
+  },
+  {
+    "source": {
+      "id": "associated-press",
+      "name": "Associated Press"
+    },
+    "author": "JUAN A. LOZANO",
+    "title": "Texas AG Ken Paxton reaches deal to end securities fraud charges after 9 years - The Associated Press",
+    "description": "Prosecutors have announced a deal with Texas Attorney General Ken Paxton to drop securities fraud charges that were pending against him for nearly a decade. The resolution of Paxton\u2019s criminal case was announced during a court hearing Tuesday in Houston. Pros\u2026",
+    "url": "https://apnews.com/article/ken-paxton-texas-securities-fraud-9ed5eecc30c1f967ec51f7e58ad9d0af",
+    "urlToImage": "https://dims.apnews.com/dims4/default/514cb95/2147483647/strip/true/crop/3941x2217+0+195/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd8%2F7f%2F6b88faca0d16761c4a56524b72b5%2F65963304407f434788bc79e9fec759c2",
+    "publishedAt": "2024-03-26T16:30:00Z",
+    "content": "HOUSTON (AP) Texas Attorney General Ken Paxton on Tuesday agreed to pay nearly $300,000 in restitution under a deal to end criminal securities fraud charges that have shadowed the Republican for near\u2026 [+6295 chars]",
+    "short_uuid": "2f1871e4"
+  },
+  {
+    "source": {
+      "id": "cbs-news",
+      "name": "CBS News"
+    },
+    "author": "Khristopher J. Brooks",
+    "title": "McDonald's to start selling Krispy Kreme donuts, with national rollout by 2026 - CBS News",
+    "description": "Krispy Kreme shares soared after the announcement of the deal, which will significantly broaden its U.S. footprint.",
+    "url": "https://www.cbsnews.com/news/mcdonalds-krispy-kreme-menu-free-donuts/",
+    "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/04/18/8d9749fd-5910-493e-88d8-b2e5a15054ce/thumbnail/1200x630/a30e886f1a8e9b1236916fdf8ab63247/gettyimages-1228532700.jpg?v=4baa656f7af774a52a8c6a88476cb826",
+    "publishedAt": "2024-03-26T16:22:00Z",
+    "content": "CosMc's opens first DFW location \r\nCosMc's opens first DFW location00:42\r\nMcDonald's will begin selling Krispy Kreme donuts at its fast food locations this year as part of a phased rollout that will \u2026 [+3157 chars]",
+    "short_uuid": "7cdf157b"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CBS Sports"
+    },
+    "author": "Eric Galko",
+    "title": "2024 NFL Mock Draft: Two teams trade into the top 5 to select QBs; Jim Harbaugh passes on Marvin Harrison Jr. - CBS Sports",
+    "description": "Quarterbacks rule the day in historic fashion",
+    "url": "https://www.cbssports.com/nfl/draft/news/2024-nfl-mock-draft-two-teams-trade-into-the-top-5-to-select-qbs-jim-harbaugh-passes-on-marvin-harrison-jr/",
+    "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/03/21/820928f2-d938-43eb-8235-0f9603ca99cd/thumbnail/1200x675/f97b2370ed9e85f4fa11e1c85aae0dde/drake-maye-g.jpg",
+    "publishedAt": "2024-03-26T16:06:54Z",
+    "content": "We're just a month out from the 2024 NFL Draft, and it's positioning to be a historic one for a variety of reasons. For one, it's time to fully expect that the first four picks of the first round wil\u2026 [+1127 chars]",
+    "short_uuid": "c7048b88"
+  },
+  {
+    "source": {
+      "id": "associated-press",
+      "name": "Associated Press"
+    },
+    "author": "MELANIE LIDMAN",
+    "title": "With its soldiers mired in Gaza, Israel fights a battle at home over drafting the ultra-Orthodox - The Associated Press",
+    "description": "As Israel battles a prolonged war in Gaza, exemptions from mandatory military service for ultra-Orthodox men have reopened a divide in the country and rattled the government coalition. Prime Minister Benjamin Netanyahu\u2019s fellow War Cabinet members staunchly o\u2026",
+    "url": "https://apnews.com/article/israel-military-gaza-netanyahu-religion-b91733c886246e2c69ca525f71c78053",
+    "urlToImage": "https://dims.apnews.com/dims4/default/9ed4ef0/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F51%2F1c%2Ffa66ac1b11380c20e7feaea6a993%2Fb141ce57e06b4c3dabef7547822cf828",
+    "publishedAt": "2024-03-26T15:51:00Z",
+    "content": "JERUSALEM (AP) As Israel battles a prolonged war in Gaza, broad exemptions from mandatory military service for ultra-Orthodox men have reopened a deep divide in the country and rattled the government\u2026 [+7939 chars]",
+    "short_uuid": "7b26e17c"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Kevin Breuninger",
+    "title": "Trump accuses hush money judge of bias, points to daughter's political work as trial nears - CNBC",
+    "description": "Donald Trump's attorneys previously called Judge Juan Merchan to recuse himself from the criminal hush money case, pointing to the judge's daughter's role.",
+    "url": "https://www.cnbc.com/2024/03/26/trump-attacks-hush-money-judge-points-to-daughters-political-work.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107392425-1711392618488-gettyimages-2112637940-_s1_1147_ivat8zpb.jpeg?v=1711392667&w=1920&h=1080",
+    "publishedAt": "2024-03-26T15:39:51Z",
+    "content": "Donald Trump on Tuesday lashed out at the judge in his criminal hush money case and verbally took aim at the judge's daughter after the ex-president's attorneys failed to delay the case from heading \u2026 [+4315 chars]",
+    "short_uuid": "aea9f7f9"
+  },
+  {
+    "source": {
+      "id": "associated-press",
+      "name": "Associated Press"
+    },
+    "author": "JAKE COYLE",
+    "title": "The irony of Steve Martin's life isn't lost on him - The Associated Press",
+    "description": "People participate in documentaries for all kinds of reasons. But Steve Martin may be unique in making a film about his life with the instruction of: \u201cSee if you can make sense of all THAT.\u201d Morgan Neville's Apple TV+ documentary \u201cSTEVE! (martin) a documentar\u2026",
+    "url": "https://apnews.com/article/steve-martin-documentary-morgan-neville-e4ef0677cb85dc3cb2bd77691d18600a",
+    "urlToImage": "https://dims.apnews.com/dims4/default/330275b/2147483647/strip/true/crop/3840x2160+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fff%2Ffd%2F665c5ab6fe0339bd40090d7f0f4a%2F96841d47c8a24399aca1621728f013f3",
+    "publishedAt": "2024-03-26T15:33:11Z",
+    "content": "NEW YORK (AP) Steve Martin has long marveled at the many phases of his life. Theres his youth as a Disneyland performer, surrounded by vaudeville performers and magicians. A decade as a stand-up befo\u2026 [+7314 chars]",
+    "short_uuid": "f7d409b4"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Jason Owens",
+    "title": "J.J. Watt likens NFL's hip-drop tackle ban to flag football as players sound off on controversial rule change - Yahoo Sports",
+    "description": "Reactions to the ban were impassioned and varied among NFL players past and present.",
+    "url": "https://sports.yahoo.com/jj-watt-likens-nfls-hip-drop-tackle-ban-to-flag-football-as-players-sound-off-on-controversial-rule-change-200114790.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6ZW9KwXwAcOriXMj5mV.6Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/1b9d34a0-eae2-11ee-bafb-0bbe238cfaa2",
+    "publishedAt": "2024-03-26T14:37:07Z",
+    "content": "The NFL banned the hip-drop tackle via a unanimous vote of team owners Monday in a controversial decision that the league contends will improve player safety.\r\nThe rule change immediately prompted im\u2026 [+4844 chars]",
+    "short_uuid": "fc39c168"
+  },
+  {
+    "source": {
+      "id": "abc-news",
+      "name": "ABC News"
+    },
+    "author": "The Associated Press",
+    "title": "NYC subway rider is pushed onto tracks and killed, latest in a series of attacks underground - ABC News",
+    "description": "A subway rider was pushed onto the tracks and killed by a train",
+    "url": "https://abcnews.go.com/US/wireStory/nyc-subway-rider-pushed-tracks-killed-latest-series-108505762",
+    "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+    "publishedAt": "2024-03-26T13:48:21Z",
+    "content": "NEW YORK -- A subway rider was pushed onto the tracks and killed by a train, the latest in a string of violent episodes in New York City's transit system that have prompted officials to beef up polic\u2026 [+1456 chars]",
+    "short_uuid": "93bc062"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": "Anders Hagstrom",
+    "title": "Israeli delegation leaves Qatar negotiations after Hamas rejects latest hostage release proposal - Fox News",
+    "description": "An Israeli delegation departed Doha, Qatar, on Tuesday, condemning Hamas for rejecting a compromise during hostage release negotiations.",
+    "url": "https://www.foxnews.com/world/israeli-delegation-leaves-qatar-negotiations-hamas-rejects-latest-hostage-release-proposal",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/AP24018751306141.jpg",
+    "publishedAt": "2024-03-26T13:39:00Z",
+    "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nPlease enter a valid email address.\r\nBy entering your e\u2026 [+2551 chars]",
+    "short_uuid": "6f2507eb"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "Jenna Lemoncelli",
+    "title": "Refs called out for favoring Caitlin Clark, Iowa in March Madness: West Virginia 'getting jobbed' - New York Post ",
+    "description": "Some college basketball fans, including one veteran NBA star, were disappointed in the apparent lop-sided officiating in Iowa\u2019s win over West Virginia in the second round of the NCAA Women&#8\u2026",
+    "url": "https://nypost.com/2024/03/26/sports/refs-called-out-for-favoring-caitlin-clark-iowa-in-march-madness/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/newspress-collage-oupl85tb3-1711454710804.jpg?quality=75&strip=all&1711440429&w=1024",
+    "publishedAt": "2024-03-26T13:26:00Z",
+    "content": "Some college basketball fans, including one veteran NBA star, were disappointed in the apparent lopsided officiating in Iowa\u2019s win over West Virginia in the second round of the NCAA Women\u2019s Tournamen\u2026 [+3142 chars]",
+    "short_uuid": "60fba237"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Oliver Darcy",
+    "title": "NBC News boss Cesar Conde faces backlash from his network\u2019s anchors over \u2018inexplicable\u2019 decision to hire ex-RNC chair Ronna McDaniel - CNN",
+    "description": "The NBCUniversal News Group chair is facing a torrent of backlash from his own staff after greenlighting the hire of former Republican National Committee chair Ronna McDaniel as a paid network contributor.",
+    "url": "https://www.cnn.com/2024/03/26/media/nbc-news-cesar-conde-ronna-mcdaniel-backlash/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1805104093.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-03-26T12:05:00Z",
+    "content": "Cesar Conde has a decision to make and its not an especially difficult one.\r\nThe NBCUniversal News Group chair is facing a torrent of backlash from his own staff after greenlighting the hire of forme\u2026 [+6031 chars]",
+    "short_uuid": "b38c978c"
+  },
+  {
+    "source": {
+      "id": "usa-today",
+      "name": "USA Today"
+    },
+    "author": "Gabe Hauari",
+    "title": "NYPD officer shot, killed during traffic stop in Queens by suspect with prior arrests - USA TODAY",
+    "description": "NYPD police officer Jonathan Diller was shot and killed during a traffic stop in Queens Monday, Mayor Eric Adams said in a news conference.",
+    "url": "https://www.usatoday.com/story/news/nation/2024/03/26/nypd-officer-shot-killed-jonathan-diller/73102562007/",
+    "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/03/26/USAT/73102959007-g-jj-6-w-wmaa-52-qd.jpg?crop=1919,1079,x0,y0&width=1919&height=1079&format=pjpg&auto=webp",
+    "publishedAt": "2024-03-26T11:54:03Z",
+    "content": "A New York Police Department officer was shot and killed in the line of duty Monday in Queens, according to Mayor Eric Adams.\r\nThe NYPD officer, identified as 31-year-old Jonathan Diller, was shot in\u2026 [+2195 chars]",
+    "short_uuid": "65ff7c80"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Putin pins Moscow massacre on 'radical Islamists' but accuses Ukraine too - BBC.com",
+    "description": "Ukraine rejects Moscow's accusation as European governments boost security because of jihadist threats.",
+    "url": "https://www.bbc.com/news/world-europe-68663043",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1523F/production/_133019568_gettyimages-2105331722.jpg",
+    "publishedAt": "2024-03-26T11:49:55Z",
+    "content": null,
+    "short_uuid": "783bfa5"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Corina Yoris: Venezuela's opposition candidate blocked from election - BBC.com",
+    "description": "The main opposition coalition was unable to access the website to register its candidate, Corina Yoris.",
+    "url": "https://www.bbc.com/news/world-latin-america-68664242",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/03EA/production/_133020010_a0745b83fc1b98885a9adbf95ade55db122060c50_0_3300_21941000x665.jpg",
+    "publishedAt": "2024-03-26T11:41:50Z",
+    "content": null,
+    "short_uuid": "680a9f56"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": "Scott Thompson",
+    "title": "Pete Rose makes eye-popping comment about Shohei Ohtani amid gambling scandal with ex-translator - Fox News",
+    "description": "Pete Rose made an interesting comment about Shohei Ohtani's gambling scandal involving his ex-translator, where he suggested he would be \"scot-free\" if he had an interpreter.",
+    "url": "https://www.foxnews.com/sports/pete-rose-makes-eye-popping-comment-shohei-ohtani-amid-gambling-scandal-ex-translator",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/03/Shohei-Othani-Pete-Rose.png",
+    "publishedAt": "2024-03-26T11:34:00Z",
+    "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nPlease enter a valid email address.\r\nBy entering your e\u2026 [+4220 chars]",
+    "short_uuid": "e9ee9403"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Des Moines Register"
+    },
+    "author": "Keith Schneider",
+    "title": "Iowa cancer crisis: Does agriculture share blame with alcohol? - Des Moines Register",
+    "description": "A research report blaming alcohol for Iowa's soaring cancer rate draws pushback from those who suspect agricultural chemicals, waste are prime cause",
+    "url": "https://www.desmoinesregister.com/story/news/health/2024/03/26/iowa-cancer-crisis-agriculture-shares-blame-with-alcohol/73098001007/",
+    "urlToImage": "https://www.desmoinesregister.com/gcdn/authoring/authoring-images/2024/03/25/PDEM/73098038007-cafo-hogs-kent-becker-usgeologicalsurvey.jpg?crop=1023,576,x0,y4&width=1023&height=576&format=pjpg&auto=webp",
+    "publishedAt": "2024-03-26T11:20:39Z",
+    "content": "Amid increasing scrutiny of a potential link between Iowa farm chemicals and cancer, a new report is generating\u00a0controversy as it blames rising cancer rates not on the toxins used widely throughout t\u2026 [+9469 chars]",
+    "short_uuid": "fc3eec2c"
+  },
+  {
+    "source": {
+      "id": "usa-today",
+      "name": "USA Today"
+    },
+    "author": "KiMi Robinson",
+    "title": "'Bachelor' finale recap: Joey Graziadei, Kelsey Anderson get engaged - USA TODAY",
+    "description": "The \"Bachelor\" finale revealed why Joey was crying on the beach and whether he proposed to Daisy or Kelsey. The next bachelorette was announced, too.",
+    "url": "https://www.usatoday.com/story/entertainment/tv/2024/03/25/bachelor-finale-recap-joey-graziadei-engaged-kelsey-anderson/73099962007/",
+    "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/03/26/USAT/73101411007-170477-1878.jpg?crop=2999,1687,x0,y240&width=2999&height=1687&format=pjpg&auto=webp",
+    "publishedAt": "2024-03-26T03:21:15Z",
+    "content": "Spoiler alert: The following contains details from the finale of \"The Bachelor\" Season 28.\r\nSeason 28 \"Bachelor\" lead Joey Graziadei has handed out his final rose and gotten down on one knee.\r\nThe 28\u2026 [+4030 chars]",
+    "short_uuid": "1c9a8f86"
+  },
+  {
+    "source": {
+      "id": "reuters",
+      "name": "Reuters"
+    },
+    "author": "Will Dunham",
+    "title": "Where did Homo sapiens go after leaving Africa? New study has an answer - Reuters",
+    "description": "Our species emerged in Africa more than 300,000 years ago, with a migration out of the continent 60,000 to 70,000 years ago heralding the start of the global spread of Homo sapiens. But where did these pioneers go after leaving Africa?",
+    "url": "https://www.reuters.com/science/where-did-homo-sapiens-go-after-leaving-africa-new-study-has-an-answer-2024-03-25/",
+    "urlToImage": "https://www.reuters.com/resizer/v2/MBQZ7VOVK5I3PJZQFHOBIJF7IQ.jpg?auth=93ce0f25e8a00fdef3d1a3376ae2e175eda30e56753006a0a0ee3ec4f62a0a21&width=1920&height=1005&smart=true",
+    "publishedAt": "2024-03-25T15:31:59Z",
+    "content": null,
+    "short_uuid": "e0b0e037"
   }
 ]
