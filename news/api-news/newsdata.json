@@ -51807,5 +51807,279 @@
     "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
     "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
     "short_uuid": "8fecd908"
+  },
+  {
+    "article_id": "ff32eb207bf9d607d0111a328f186e31",
+    "title": "Microsoft Teams is getting smarter Copilot AI features",
+    "link": "https://www.theverge.com/2024/3/26/24112285/microsoft-teams-copilot-ai-features-improvements",
+    "keywords": null,
+    "creator": [
+      "Tom Warren"
+    ],
+    "video_url": null,
+    "description": null,
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "pubDate": "2024-03-26 14:30:00",
+    "image_url": "https://cdn.vox-cdn.com/thumbor/SD6Ep0OVy43CctFDttFz9aGdiWs=/0x0:2640x1760/1310x873/cdn.vox-cdn.com/uploads/chorus_image/image/73233730/microsoftteams.0.jpg",
+    "source_id": "theverge",
+    "source_url": "https://www.theverge.com",
+    "source_icon": "https://i.bytvi.com/domain_icons/theverge.png",
+    "source_priority": 635,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "technology"
+    ],
+    "language": "english",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "short_uuid": "6d7adfe2"
+  },
+  {
+    "article_id": "7fadb165d331c4e921cd77939c5606cc",
+    "title": "Ford partners with Allego to bring ultra-fast charging up to 400 kW to dealerships around Europe",
+    "link": "https://electrek.co/2024/03/26/ford-partners-allego-ultra-fast-charging-400-kw-ev-dealerships-europe/",
+    "keywords": [
+      "news"
+    ],
+    "creator": [
+      "Scooter Doll"
+    ],
+    "video_url": null,
+    "description": "Ford and ultra-fast EV charging network Allego have announced a new strategic partnership to deploy chargers in hundreds of dealerships across Europe. EV drivers like those in the new all-electric Ford Explorer will soon be able to access Allego chargers offering rates up to 400 kW. more\u2026",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "pubDate": "2024-03-26 14:30:00",
+    "image_url": "https://electrek.co/wp-content/uploads/sites/3/2024/03/Ford-charging-Europe-Allego-EVs.jpg?quality=82&strip=all&w=1400",
+    "source_id": "electrek",
+    "source_url": "https://electrek.co",
+    "source_icon": "https://i.bytvi.com/domain_icons/electrek.png",
+    "source_priority": 3785,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "top"
+    ],
+    "language": "english",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "short_uuid": "e912062b"
+  },
+  {
+    "article_id": "e150771047b18eea5e9f7f062944374b",
+    "title": "Carbonite Safe review: All-you-can-eat online backup",
+    "link": "https://www.pcworld.com/article/407297/carbonite-review.html",
+    "keywords": null,
+    "creator": null,
+    "video_url": null,
+    "description": "At a GlanceExpert's Rating ProsUnlimited storage for dataAutomatic or manual selection of source dataIntegrates with Windows Explorer for manual source selectionSaves older versions of filesLocal virtual drive speeds accessConsBackup of files changed multiple times can lag up to 24 hoursNo backup to local mediaNo online editingOur VerdictCarbonite\u2019s online backup service uses Windows\u2019 Explorer for data selection, and is simple, effective, as well as relatively affordable given unlimited space in provides for your backups. Price When Reviewed$96 annually for one computer (unlimited storage) Best Prices Today: Carbonite Safe Online Backup Retailer Price Carbonite $95.99 View Deal Price comparison from over 24,000 stores worldwide Product Price Price comparison from Backmarket Carbonite Safe remains one of our favorite online backup solutions, thanks to unlimited storage for your backups and integration into Windows Explorer. However, we were disappointed to find the latter somewhat degraded in Windows 11. Note that if you hop on Carbonite by March 31, 2024, it\u2019s available at an incredible 75% off, though we don\u2019t know if it will carry over into the renewal cycle. Author\u2019s note: There is some inconsistency in the way OpenText/Carbonite refer to this program, mostly calling it Carbonite Safe, but also Carbonite Backup, and Carbonite Safe Backup. What are Carbonite Safe\u2019s features? Carbonite Safe offers unlimited data backup with file versioning, i.e., it retains older versions of files. Versioning is what makes Carbonite a backup rather than a sync service. All data is encrypted and you may opt to keep the encryption key in your own possession or let Carbonite host it. Further reading: See our roundup of the best online backup services to learn about competing products. The Carbonite client interface is very clean, and very intuitive. The Carbonite client interface is very clean, and very intuitive. The Carbonite client interface is very clean, and very intuitive. By default the program intelligently targets only the most common data and locations: i.e., the Windows documents, pictures, music, etc. folders, though there\u2019s an option to start with no files or folders selected. There are no jobs as such, just the one backup task that uploads data to Carbonite\u2019s online storage farm. Which brings us to a minor gripe \u2014 the lack of a local secondary destination such as an external drive. Local backups are far quicker and easier to restore. If we have any other complaint, it\u2019s the limited online viewing (images) and lack of editing. Carbonite is for backup and storage, not working online. If you fall into that group of users who store essential data outside of the common locations or simply want to choose what you want backed up on your own, Carbonite Safe makes it very easy (Windows 10) to relatively easy (Windows 11) to add source folders and files to your backup. Prior to Windows 11, you could simply right-click on the folder or file and select Carbonite > Back this up. However, thanks partially to Microsoft\u2019s decision to stack context menus in Windows 11, you must now right-click, select Show More Options, then select Carbonite > Back this up. While I\u2019d love to blame this entirely on Microsoft and their seemingly brain-dead determination to increase the number of clicks required to perform every task, WinRAR has managed to insert its options at the root level of context menus. Apparently Carbonite\u2019s developers haven\u2019t sussed out this trick. Note the dots on the folders showing their backup status. You can right-click on any file or folder and add it to your Carbonite backup. Note the dots on the folders showing their backup status. You can right-click on any file or folder and add it to your Carbonite backup. Note the dots on the folders showing their backup status. You can right-click on any file or folder and add it to your Carbonite backup. Carbonite also features a clever method of signaling the backed-up status of a file or folder by superimposing a tiny dot on the icon: orange for backup pending and green for already backed up, etc. See below. Testing on two PCs, these dots were present; however, on our main software testbed they were not. Carbonite tech support indicated that this was likely due to other software having hooked into this ability. As there was no other software monkeying with icons, we\u2019re not sure what the culprit might\u2019ve been. Carbonite skips granular scheduling in favor of a limited form of continuous data protection (CDP). Continuous backup generally means files are backed up soon after they change. In this case, however, there\u2019s a significant limitation in that only one change is backed up in near real time. Subsequent changes to a file may not be backed up for another 24 hours. For instance, if I were working on this article in Word, and saving regularly as is my habit, the final version might not be backed up until the next day \u2014 even if I clicked on the Back up now button in the settings area. Carbonite\u2019s online portal where you can browse backed up files. Carbonite\u2019s online portal where you can browse backed up files. Carbonite\u2019s online portal where you can browse backed up files. Carbonite also offers once-a-day backup, which will be more than sufficient for most users. To be honest, I\u2019d rather set this for the end of the workday (you may choose the hour) than rely on Carbonite\u2019s form of \u201ccontinuous,\u201d which might not back up until well into tomorrow. Unless I want every version I\u2019ve saved, that is. I generally don\u2019t. As previously mentioned Carbonite doesn\u2019t offer a secondary backup to local media, which always makes for a quicker restore process. You can use Windows\u2019 File History or the like in conjunction to facilitate this. Restoring data from Carbonite is as simple as browsing to the virtual drive that Carbonite installs on your PC to act as a portal to your online data. You can also access the virtual drive via the Carbonite context menu with the \u201cOpen this folder in Carbonite Backup Drive\u201d option. Files pending backup are kept in a separate folder on the drive. Oddly, we could see the Carbonite virtual drive when selecting This PC (shown below) from the location tree in Windows Explorer, but it wasn\u2019t listed in said tree as nearly all drives \u2014 physical, virtual, internal, or external \u2014 normally are. The virtual drive Carbonite installs as a portal to your online data. The virtual drive Carbonite installs as a portal to your online data. The virtual drive Carbonite installs as a portal to your online data. You can also restore data by clicking on \u201cGet my files back\u201d or \u201cView my backup\u201d buttons on the main page of the client software. These send you to the web, where you can select data to restore. If this is post system disaster, you\u2019ll of course need to re-install the client software. Alternatively, you can download data directly to any PC you choose from the Carbonite website after signing in with your login and password. This Carbonite context menu is invoked via the Show More Options menu. This Carbonite context menu is invoked via the Show More Options menu. This Carbonite context menu is invoked via the Show More Options menu. Note that older versions of files are retained (aka versioning), but you\u2019ll need to right-click over the file and select \u201cRestore previous versions\u201d to see them \u2014 they\u2019re not displayed by default. Carbonite also provides clients for iOS and Android. These provide access to files, but don\u2019t back up anything from the phone. Carbonite\u2019s Android app. Carbonite\u2019s Android app. Carbonite\u2019s Android app. How fast is Carbonite Safe Backup? I noticed no performance hit at all while using Carbonite in continuous backup mode to back up about 0.5GB worth of frequently changed files. That\u2019s probably because the backup is not done in real time, or even continuously in the traditional sense. Carbonite told us that files will be backed up within 10 minutes of the first recorded change, but subsequent changes may not occur for up to 24 hours. My last go-round with the program, subsequent changes seemed to upload far more quickly. However, this time there were status notes on the virtual drive saying the \u201cFile will be backed up again in 23 hours\u201d and at eight hours and counting, most were still in the Pending Backup folder. Unless you want to save every version of your highly edited files, you might be better off with a once-a-day backup. The virtual drive Carbonite installs divides source files and folders by their backup status. The virtual drive Carbonite installs divides source files and folders by their backup status. The virtual drive Carbonite installs divides source files and folders by their backup status. Changes were considerably quicker to show up on the virtual drive than the web. This is no doubt due to some caching going on, which is par for the course with software interfacing with online storage such as R-Drive Image and cloud storage managers such as CloudMounter and Mountain Duck, though the lag with those programs is substantially shorter. These experiences refer to the Personal version of Carbonite that we tested. The far more expensive Professional versions may behave differently when it comes to \u201ccontinuous\u201d backup. How much does Carbonite Safe cost? Carbonite\u2019s single-computer Basic plan is $96 a year, the Plus plan with support for a single external drive is $132 a year, and a Prime plan with courier delivery of your backup is $162 a year. All plans include unlimited storage, but the Basic plan doesn\u2019t automatically back up videos and doesn\u2019t support external drives. Basic, which is the plan I tested doesn\u2019t support network locations or logical drives mounted with the cloud management software mentioned above. This was the uber low pricing at the time this article published. Normal pricing is shown grayed out. This was the uber low pricing at the time this article published. Normal pricing is shown grayed out. This was the uber low pricing at the time this article published. Normal pricing is shown grayed out. Carbonite offers a comprehensive comparison of pricing and features to help you decide. Should you buy Carbonite Safe Backup? Carbonite Safe (Personal versions) is a capable set-it-and-forget-it backup service that eliminates any worries about running out of room when backing up your stuff. It\u2019s a worthy service for the average user. Just take the continuous backup claim with a grain of salt. Editor\u2019s note: Because online services are often iterative, gaining new features and performance improvements over time, this review is subject to change in order to accurately reflect the current state of the service. Any changes to text or our final review verdict will be noted at the top of this article. Online Services",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "pubDate": "2024-03-26 14:30:00",
+    "image_url": "https://www.pcworld.com/wp-content/uploads/2024/03/Carbonite-Safe-2024-6.png",
+    "source_id": "pcworld_us",
+    "source_url": "https://www.pcworld.com",
+    "source_icon": "https://i.bytvi.com/domain_icons/pcworld_us.png",
+    "source_priority": 3326,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "top"
+    ],
+    "language": "english",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "short_uuid": "222d498e"
+  },
+  {
+    "article_id": "1292dd8613f5ed83434c96e990241b90",
+    "title": "CALPORTLAND EARNS 2024 ENERGY STAR\u00ae PARTNER OF THE YEAR AWARD FOR THE 20TH CONSECUTIVE YEAR",
+    "link": "https://www.benzinga.com/pressreleases/24/03/n37937155/calportland-earns-2024-energy-star-partner-of-the-year-award-for-the-20th-consecutive-year",
+    "keywords": [
+      "awards",
+      "environmental products & services",
+      "oil",
+      "utilities",
+      "commodities",
+      "press releases"
+    ],
+    "creator": [
+      "PRNewswire"
+    ],
+    "video_url": null,
+    "description": "SUMMERLIN, Nev., March 26, 2024 /PRNewswire/ -- CalPortland is pleased to announce that it has received the 2024 ENERGY STAR PARTNER OF THE YEAR Sustained Excellence Award from the U.S. Environmental Protection Agency. This is CalPortland's twentieth consecutive ENERGY STAR Partner of the Year Award, a feat not matched by any other industrial company. \"We are honored to receive the ENERGY STAR Partner of the Year award for the 20th consecutive year,\" said Allen Hamblen, CalPortland President & CEO. \"This year's ...Full story available on Benzinga.com",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "pubDate": "2024-03-26 14:30:00",
+    "image_url": "https://mma.prnewswire.com/media/2371512/CalPortland_Horizontal_9_285Registered_Mark_Official_1_reduced_Logo.jpg",
+    "source_id": "benzinga",
+    "source_url": "https://www.benzinga.com",
+    "source_icon": "https://i.bytvi.com/domain_icons/benzinga.png",
+    "source_priority": 3903,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "business"
+    ],
+    "language": "english",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "short_uuid": "4a38c94b"
+  },
+  {
+    "article_id": "a04f0726372e3ebfe0b9088c83200262",
+    "title": "The Out-of-Touch Adults' Guide to Kid Culture: Dogs Vs. Lemons",
+    "link": "https://lifehacker.com/entertainment/the-out-of-touch-adults-guide-to-kid-culture-dogs-vs-lemons",
+    "keywords": [
+      "entertainment"
+    ],
+    "creator": [
+      "Stephen Johnson"
+    ],
+    "video_url": null,
+    "description": "You probably shouldn't try to offer your dog a lemon slice. But then, maybe you should.",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "pubDate": "2024-03-26 14:30:00",
+    "image_url": "https://lifehacker.com/imagery/articles/01HSW1N9Q27KHS16R05851VWC9/hero-image.png",
+    "source_id": "lifehacker_us",
+    "source_url": "https://lifehacker.com",
+    "source_icon": "https://i.bytvi.com/domain_icons/lifehacker_us.png",
+    "source_priority": 5709,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "top"
+    ],
+    "language": "english",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "short_uuid": "1d52fd6d"
+  },
+  {
+    "article_id": "4880ab4e6d428a8d30605294c197c4f7",
+    "title": "Here\u2019s How the New Chips Ahoy! Cookies Taste",
+    "link": "https://thetakeout.com/chips-ahoy-new-improved-cookie-recipe-taste-test-review-1851363776",
+    "keywords": [
+      "cookies",
+      "chips ahoy",
+      "ahoy",
+      "chips ahoy",
+      "chocolate chip",
+      "snack foods",
+      "nabisco brands",
+      "desserts",
+      "sabrina sierant",
+      "chocolate",
+      "american desserts",
+      "keke palmer",
+      "nabisco",
+      "chocolate chip cookie",
+      "http cookie",
+      "cookie"
+    ],
+    "creator": [
+      "Marnie Shure"
+    ],
+    "video_url": null,
+    "description": "I have to hand it to Chips Ahoy!: Evidently, no other snack brand has ever claimed the term \u201cMMMproved\u201d when writing about their product\u2019s updated recipe. So when America\u2019s leading chocolate chip cookie brand announced this week that it\u2019s rolling out its biggest update in 10 years, it made use of the term many times\u2026Read more...",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "pubDate": "2024-03-26 14:30:00",
+    "image_url": "https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/2421a6f0bb7a0d4f84d78656e642d603.jpg",
+    "source_id": "thetakeout",
+    "source_url": "https://thetakeout.com",
+    "source_icon": "https://i.bytvi.com/domain_icons/thetakeout.png",
+    "source_priority": 9440,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "food"
+    ],
+    "language": "english",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "short_uuid": "8fce2013"
+  },
+  {
+    "article_id": "dde4d0b669ba43c00e7a767920596550",
+    "title": "Readers respond: Proud of Portland kindness",
+    "link": "https://www.oregonlive.com/opinion/2024/03/readers-respond-proud-of-portland-kindness.html",
+    "keywords": null,
+    "creator": [
+      "Letters to the editor"
+    ],
+    "video_url": null,
+    "description": "Letters to the Editor can be submitted to letters@oregonian.com with full name and place of residence.",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "pubDate": "2024-03-26 14:30:00",
+    "image_url": "https://www.oregonlive.com/resizer/yoEzZaL0XuqAvSdumYzIHaaJ-6U=/0x1200/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5DXU5CC43BDW3ETAWJXWDF6CZQ.jpg",
+    "source_id": "oregonlive",
+    "source_url": "https://www.oregonlive.com",
+    "source_icon": null,
+    "source_priority": 2111,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "top"
+    ],
+    "language": "english",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "short_uuid": "8991052"
+  },
+  {
+    "article_id": "f178dc9f6d26b017cd7a064c8fa0f32c",
+    "title": "Yardi Earns Sixth Consecutive ENERGY STAR\u00ae Partner of the Year Award",
+    "link": "https://www.benzinga.com/pressreleases/24/03/n37937146/yardi-earns-sixth-consecutive-energy-star-partner-of-the-year-award",
+    "keywords": [
+      "awards",
+      "environmental products & services",
+      "oil",
+      "utilities",
+      "commodities",
+      "press releases",
+      "real estate"
+    ],
+    "creator": [
+      "PRNewswire"
+    ],
+    "video_url": null,
+    "description": "Yardi's commitment to energy efficiency garners ongoing recognition SANTA BARBARA, Calif., March 26, 2024 /PRNewswire/ -- Yardi\u00ae is honored to receive the 2024 ENERGY STAR\u00ae Partner of the Year award from the U.S. Environmental Protection Agency (EPA) and the U.S. Department of Energy for the sixth consecutive year since 2019. The Sustained Excellence Award, presented to Yardi for the fourth time this year, is a prestigious acknowledgment of the company's consistent leadership and ongoing commitment to energy efficiency in real estate. \"We are proud to have played a pivotal role in benchmarking and certifying ...Full story available on Benzinga.com",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "pubDate": "2024-03-26 14:30:00",
+    "image_url": "https://mma.prnewswire.com/media/2371161/Yardi_ENERGYSTAR.jpg",
+    "source_id": "benzinga",
+    "source_url": "https://www.benzinga.com",
+    "source_icon": "https://i.bytvi.com/domain_icons/benzinga.png",
+    "source_priority": 3903,
+    "country": [
+      "united states of america"
+    ],
+    "category": [
+      "business"
+    ],
+    "language": "english",
+    "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+    "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+    "short_uuid": "d86f8b96"
   }
 ]
