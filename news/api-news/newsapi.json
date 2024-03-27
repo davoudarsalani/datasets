@@ -38442,5 +38442,383 @@
     "publishedAt": "2024-03-25T15:57:30Z",
     "content": "Colorectal cancer, the third-most common cancer in the U.S., has been rising among younger people for the past two decades. It is not one type of cancer but two cancers:\u00a0colon cancer, which starts in\u2026 [+2216 chars]",
     "short_uuid": "3fb8640f"
+  },
+  {
+    "source": {
+      "id": "the-hill",
+      "name": "The Hill"
+    },
+    "author": "Nathaniel Weixel",
+    "title": "Supreme Court justices appear deeply skeptical of effort to cut access to abortion pill - The Hill",
+    "description": "The U.S. Supreme Court signaled Tuesday it likely would retain widespread access to one of the two common drugs used in medication abortion, in a case that could have nationwide implications for reproductive rights and the authority of federal agencies. Durin\u2026",
+    "url": "https://thehill.com/policy/healthcare/4556977-supreme-court-justices-appear-deeply-skeptical-of-effort-to-cut-access-to-abortion-pill/",
+    "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/03/scotus_abortion_032624gn15_w.jpg?w=1280",
+    "publishedAt": "2024-03-26T16:41:20Z",
+    "content": "The U.S. Supreme Court signaled Tuesday it likely would retain widespread access to one of the two common drugs used in medication abortion, in a case that could have nationwide implications for repr\u2026 [+1289 chars]",
+    "short_uuid": "2312f55b"
+  },
+  {
+    "source": {
+      "id": "associated-press",
+      "name": "Associated Press"
+    },
+    "author": "LEA SKENE",
+    "title": "Baltimore Key bridge collapse: Search on for at least 6 missing - The Associated Press",
+    "description": "A container ship lost power and rammed into a major bridge in Baltimore, causing the span to buckle into the river below. The collapse plunged a construction crew and several vehicles into the dangerously cold waters. Rescuers pulled out two people, but six o\u2026",
+    "url": "https://apnews.com/article/baltimore-bridge-collapse-53169b379820032f832de4016c655d1b",
+    "urlToImage": "https://dims.apnews.com/dims4/default/b06faad/2147483647/strip/true/crop/4481x2521+0+233/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2e%2F67%2F7b0d56e5ffa252de45abe3bebc99%2F602704e7582440b7aedc0f0974413b1e",
+    "publishedAt": "2024-03-26T15:56:15Z",
+    "content": "BALTIMORE (AP) A container ship lost power and rammed into a major bridge in Baltimore early Tuesday, causing the span to buckle into the river below and plunging a construction crew and several vehi\u2026 [+5953 chars]",
+    "short_uuid": "dabe0c9e"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "YouTube"
+    },
+    "author": null,
+    "title": "SpaceX launches 23 Starlink satellites from Cape Canaveral Space Force Station, nails landing - VideoFromSpace",
+    "description": "A SpaceX Falcon 9 rocket launched 23 Starlink internet satellites lifted off from Cape Canaveral Space Force Station in Florida on March 25, 2024 at 7:42 p.m...",
+    "url": "https://www.youtube.com/watch?v=N2jpNFX4hrw",
+    "urlToImage": "https://i.ytimg.com/vi/N2jpNFX4hrw/maxresdefault.jpg",
+    "publishedAt": "2024-03-26T15:30:10Z",
+    "content": null,
+    "short_uuid": "d035effa"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Athletic"
+    },
+    "author": "Levi Weaver and Ken Rosenthal",
+    "title": "The Windup: Shohei Ohtani tells his side of the story; how the Astros can keep the dynasty intact - The Athletic",
+    "description": "Plus: Wyatt Langford's Rangers teammates only have good things to say about him.",
+    "url": "https://theathletic.com/5369297/2024/03/26/shohei-ohtani-betting-gambling-astros-dynasty-the-windup/",
+    "urlToImage": "https://cdn.theathletic.com/app/uploads/2024/03/22101444/GettyImages-2043639326.jpg",
+    "publishedAt": "2024-03-26T15:21:05Z",
+    "content": "The Windup Newsletter | This is The Athletics daily MLB newsletter. Sign up here to receive The Windup directly in your inbox.\r\nShohei Ohtani spoke about the gambling scandal that has set the basebal\u2026 [+9560 chars]",
+    "short_uuid": "668fb615"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Eva McKend, Gregory Krieg",
+    "title": "NYT: RFK Jr. expected to announce Nicole Shanahan as running mate - CNN",
+    "description": "Independent presidential candidate Robert F. Kennedy Jr. is expected to announce attorney and entrepreneur Nicole Shanahan as his running mate Tuesday, The New York Times reported, citing two people close to the campaign.",
+    "url": "https://www.cnn.com/2024/03/26/politics/rfk-jr-vice-president/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-01-13t051417z-1390726366-rc2pg5ametng-rtrmadp-3-usa-election-rfk.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-03-26T15:06:00Z",
+    "content": "Independent presidential candidate Robert F. Kennedy Jr. is expected to announce attorney and entrepreneur Nicole Shanahan as his running mate Tuesday, The New York Times reported, citing two people \u2026 [+8654 chars]",
+    "short_uuid": "7a7a7ad9"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Gabrielle Fonrouge",
+    "title": "Canada Goose to cut 17% of its corporate workforce, following string of retail layoffs - CNBC",
+    "description": "Canada Goose said Tuesday that it will cut about 17% of its corporate workforce as consumers continue to pull back on discretionary spending.",
+    "url": "https://www.cnbc.com/2024/03/26/canada-goose-to-cut-17percent-of-its-corporate-workforce.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/104286823-GettyImages-615847834.jpg?v=1711464031&w=1920&h=1080",
+    "publishedAt": "2024-03-26T14:59:55Z",
+    "content": "Canada Goose said Tuesday that it will cut about 17% of its corporate workforce, following a string of other retailers that have laid off employees this year as consumers continue to pull back on dis\u2026 [+2210 chars]",
+    "short_uuid": "bda994a2"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "GSMArena.com"
+    },
+    "author": "Peter",
+    "title": "Samsung Galaxy Tab S6 Lite (2024) gets a proper announcement, is coming on March 28 - GSMArena.com news - GSMArena.com",
+    "description": "The tablet appeared on Samsung.com yesterday with no press release to fill in the blanks.\u00a0 Okay, let\u2019s try this again \u2013 the Samsung Galaxy Tab S6 Lite...",
+    "url": "https://www.gsmarena.com/samsung_galaxy_tab_s6_lite_2024_gets_a_proper_announcement_is_coming_on_march_28-news-62169.php",
+    "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/03/samsung-galaxy-tab-s6-lite-2024-officially-official/-952x498w6/gsmarena_000.jpg",
+    "publishedAt": "2024-03-26T14:41:01Z",
+    "content": "Okay, lets try this again the Samsung Galaxy Tab S6 Lite (2024) has been announced, properly this time. Its largely the same tablet as the 2022 and 2020 editions, but with a different chipset.\r\nThere\u2026 [+1062 chars]",
+    "short_uuid": "dd8067a2"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Ramishah Maruf",
+    "title": "Krispy Kreme donuts are coming to McDonald\u2019s - CNN",
+    "description": "McDonald\u2019s customers can\u00a0soon\u00a0pair Krispy Kreme donuts with their morning McCafe, in a new food partnership that seeks to expand both brands but that could wind up weakening them instead.",
+    "url": "https://www.cnn.com/2024/03/26/business/krispy-kreme-mcdonalds/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2008712903.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-03-26T14:28:18Z",
+    "content": "McDonalds customers can\u00a0soon\u00a0pair Krispy Kreme doughnuts with their morning McCafe, in a new food partnership that seeks to expand both brands but that could wind up weakening them instead.\r\nThree ty\u2026 [+3042 chars]",
+    "short_uuid": "79847226"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CBS Sports"
+    },
+    "author": "",
+    "title": "2024 NCAA Tournament All-First Weekend Team: Star players from the first two rounds of March Madness - CBS Sports",
+    "description": "These are the NCAA Tournament stars who deserve some recognition for their performances after opening weekend",
+    "url": "https://www.cbssports.com/college-basketball/news/2024-ncaa-tournament-all-first-weekend-team-star-players-from-the-first-two-rounds-of-march-madness/",
+    "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/03/26/43a5b391-8d3f-40e8-afbe-0877c7617d57/thumbnail/1200x675/06bfdfca1213745f20bac7056e5d3993/donovan-clingan.jpg",
+    "publishedAt": "2024-03-26T14:25:30Z",
+    "content": "March Madness is only as memorable as the individual performances delivered within. For instance, we remember legendary March showings from the likes of Jimmer Fredette, Kemba Walker and Danny Mannin\u2026 [+5286 chars]",
+    "short_uuid": "56c7ecbd"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Texas Tribune"
+    },
+    "author": "Jasper Scherer",
+    "title": "Felony charges against Ken Paxton to be dropped - The Texas Tribune",
+    "description": "Paxton, who will not have to enter a plea under the terms of the agreement, faced the prospect of decades in prison if he had been convicted of fraud.",
+    "url": "https://www.texastribune.org/2024/03/25/ken-paxton-plea-deal-securities-fraud-felony/",
+    "urlToImage": "https://thumbnails.texastribune.org/f-8yOoWEMzsC18kYGJGY-e6Jr8o=/1200x630/filters:quality(95):focal(1987x662:5734x3155)/static.texastribune.org/media/files/a55c6a8898efe383e8b8703197045c76/D.VILLASANA_PAXTON_01.JPG",
+    "publishedAt": "2024-03-26T14:13:10Z",
+    "content": "Sign up for The Brief, The Texas Tribunes daily newsletter that keeps readers up to speed on the most essential Texas news.\r\nHOUSTON Prosecutors on Tuesday agreed to drop the securities fraud charges\u2026 [+7495 chars]",
+    "short_uuid": "e4f24a3c"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Minnesota Public Radio News"
+    },
+    "author": "Sven Sundgaard",
+    "title": "Storm system continues to impact Minnesota Tuesday - MPR News",
+    "description": "Colder air has dropped temperatures below freezing. We\u2019ll see periods of snow much of the day Tuesday with temperatures that will continue to drop combined with gusty winds.",
+    "url": "https://www.mprnews.org/story/2024/03/26/storm-system-continues-to-impact-minnesota-tuesday",
+    "urlToImage": "https://img.apmcdn.org/5bae5f4471902f8696a0b5671005c832a85b977a/uncropped/0b654d-20240326-haz-6a-webp1100.webp",
+    "publishedAt": "2024-03-26T14:10:00Z",
+    "content": "Colder air has dropped temperatures below freezing. Well see periods of snow much of the day Tuesday with temperatures that will continue to drop combined with gusty winds.\r\nTemperatures drop with ra\u2026 [+2617 chars]",
+    "short_uuid": "bb10586"
+  },
+  {
+    "source": {
+      "id": "associated-press",
+      "name": "Associated Press"
+    },
+    "author": "SYLVIA HUI, JILL LAWLESS",
+    "title": "Julian Assange: UK court orders delay to extradition of WikiLeaks founder to US - The Associated Press",
+    "description": "A British court says Julian Assange can\u2019t be extradited to the U.S. on espionage charges unless U.S. authorities guarantee he won\u2019t get the death penalty,. The ruling is a partial victory for the WikiLeaks founder. Two High Court judges say they would grant A\u2026",
+    "url": "https://apnews.com/article/britain-wikileaks-julian-assange-espionage-appeal-98c15267f0cdf63685bfb49766749a0a",
+    "urlToImage": "https://dims.apnews.com/dims4/default/89b4202/2147483647/strip/true/crop/5121x2881+0+267/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F34%2Fb9%2Ff8ca7fee6539efbb82bb2cdfb99f%2F90796ce55a8640c3a99030c26fc75012",
+    "publishedAt": "2024-03-26T13:16:00Z",
+    "content": "LONDON (AP) A British court ruled Tuesday that Julian Assange cant be extradited to the United States on espionage charges unless U.S. authorities guarantee he wont get the death penalty, giving the \u2026 [+5741 chars]",
+    "short_uuid": "d01c14d7"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "MacRumors"
+    },
+    "author": "Tim Hardwick",
+    "title": "iPhone 16 Dummy Models Showcase Design Changes, New Buttons - MacRumors",
+    "description": "Images comparing purportedly accurate dummy models of the iPhone 16 series have been shared online, providing a closer look at the rumored design of...",
+    "url": "https://www.macrumors.com/2024/03/26/iphone-16-models-showcase-design-changes/",
+    "urlToImage": "https://images.macrumors.com/t/FOxWy_79t_zVLMnl33F7ufxQ7yY=/1920x/article-new/2024/03/iphone-16-dummies.jpg",
+    "publishedAt": "2024-03-26T13:03:25Z",
+    "content": "Images comparing purportedly accurate dummy models of the iPhone 16 series have been shared online, providing a closer look at the rumored design of the upcoming devices.\r\nThe iPhone 16 Pro and iPhon\u2026 [+2054 chars]",
+    "short_uuid": "c9753dd8"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "YouTube"
+    },
+    "author": null,
+    "title": "Samsung QN90D QLED TV First Look | How Samsung Set the Bar - Digital Trends",
+    "description": "The Samsung QN90D 4K Neo QLED TV faces some stiff competition this year, but we have a feeling Samsung knew that when designing it. While the QN90D carries o...",
+    "url": "https://www.youtube.com/watch?v=nPDcTKZ8V-k",
+    "urlToImage": "https://i.ytimg.com/vi/nPDcTKZ8V-k/maxresdefault.jpg",
+    "publishedAt": "2024-03-26T12:59:00Z",
+    "content": null,
+    "short_uuid": "ef6591b8"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Space.com"
+    },
+    "author": "Daisy Dobrijevic",
+    "title": "NASA is holding a total eclipse 2024 briefing today. Here's how to watch it live - Space.com",
+    "description": "The livestream will begin at 10 a.m. ET on Tuesday, March 26.",
+    "url": "https://www.space.com/nasa-total-eclipse-briefing-watch-online-free",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/fn67nqw9dtMabxZK7H8DSV-1200-80.jpg",
+    "publishedAt": "2024-03-26T12:48:11Z",
+    "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n\u00a9\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036.",
+    "short_uuid": "f4ae80ef"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Ryan Young",
+    "title": "March Madness: Caitlin Clark, No. 1 Iowa survive battle with West Virginia to reach Sweet 16 - Yahoo Sports",
+    "description": "Caitlin Clark dropped 32 points to lead the Hawkeyes to a 64-54 win over West Virginia on Monday night in Iowa City.",
+    "url": "https://sports.yahoo.com/march-madness-caitlin-clark-no-1-iowa-survive-battle-with-west-virginia-to-reach-sweet-16-022809376.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/56OwI1U2h_i8owUc0pZ3mQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/5e124b60-eb12-11ee-af5f-eb252df40ea8",
+    "publishedAt": "2024-03-26T12:28:23Z",
+    "content": "West Virginia came so close to shutting down Caitlin Clark and the Hawkeyes on Monday night.\r\nBut after a tight fourth quarter, Clark managed to will No. 1 Iowa to a narrow win in her final contest a\u2026 [+3373 chars]",
+    "short_uuid": "d16c0d5b"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Android Authority"
+    },
+    "author": null,
+    "title": "The first Snapdragon 8 Gen 3 foldable phone is here - Android Authority",
+    "description": "The Snapdragon 8 Gen 3 is the latest and greatest flagship silicon, and we've had to wait until now for a foldable with this chip.",
+    "url": "https://www.androidauthority.com/vivo-x-fold-3-series-3428725/",
+    "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/03/vivo-X-Fold-3-Pro-official-image.jpg",
+    "publishedAt": "2024-03-26T12:27:55Z",
+    "content": "<ul><li>The vivo X Fold 3 and X Fold 3 Pro have been launched in China.</li><li>These foldables bring slim designs and bright screens.</li><li>The Pro model also brings a Snapdragon 8 Gen 3 chipset f\u2026 [+4233 chars]",
+    "short_uuid": "2cde486d"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Moscow attack: Debunking the false claims - BBC.com",
+    "description": "BBC Verify examines how the campaign to blame Kyiv unfolded.",
+    "url": "https://www.bbc.com/news/world-europe-68657383",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/98C7/production/_133011193_gettyimages-2105327204.png",
+    "publishedAt": "2024-03-26T10:52:10Z",
+    "content": null,
+    "short_uuid": "c9e0de65"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "A Sea Of Blue"
+    },
+    "author": "John Morgan Francis",
+    "title": "UK Wildcats News: Mitch Barnhart holding important meeting with John Calipari - A Sea Of Blue",
+    "description": "They\u2019re expected to meet today.",
+    "url": "https://www.aseaofblue.com/2024/3/26/24112178/uk-wildcats-news-mitch-barnhart-meeting-john-calipari-kentucky-coach",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/lfTR8J_UQZNqXdG9146eCfwmPbE=/0x0:5464x2861/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25318848/usa_today_22672129.jpg",
+    "publishedAt": "2024-03-26T10:40:00Z",
+    "content": "The John Calipari drama continues as the Kentucky Basketball program has now gone five days without much comment after the teams loss to Oakland in the opening round of the NCAA Tournament.\r\nCalipari\u2026 [+1969 chars]",
+    "short_uuid": "2f78453a"
+  },
+  {
+    "source": {
+      "id": "reuters",
+      "name": "Reuters"
+    },
+    "author": "Reuters",
+    "title": "Meta oversight board urges company to end ban on Arabic word 'shaheed' - Reuters",
+    "description": "Meta's oversight board on Tuesday called on the company to end its blanket ban on a common usage of the Arabic word \"shaheed,\" or \"martyr\" in English, after a year-long review found the Facebook owner's approach was \"overbroad\" and had unnecessarily suppresse\u2026",
+    "url": "https://www.reuters.com/technology/meta-oversight-board-urges-company-end-ban-arabic-word-shaheed-2024-03-26/",
+    "urlToImage": "https://www.reuters.com/resizer/v2/3DLRIALJHVNXHCNBOSMPNL3GEI.jpg?auth=d8fa4291f7c4466ec6604683bce30c7b6389276c364e1f58100eac53db8402f7&width=1920&height=1005&smart=true",
+    "publishedAt": "2024-03-26T10:04:00Z",
+    "content": null,
+    "short_uuid": "a4c1ed4f"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": "Charles Creitz",
+    "title": "NY courts thrashed over Trump cases: 'Guilty of running for president' - Fox News",
+    "description": "Former President Trump has been getting a raw deal from the state of New York, as it and other jurisdictions pile on charges fit for serious criminals, critics said.",
+    "url": "https://www.foxnews.com/media/ny-courts-thrashed-trump-cases-guilty-running-president",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/39be930f-Donald-Trump.jpg",
+    "publishedAt": "2024-03-26T10:00:00Z",
+    "content": "After former President Trump was given a slight respite by an appeals court that reduced his bond amount in his New York civil fraud case, observers Monday characterized his legal troubles as essenti\u2026 [+3504 chars]",
+    "short_uuid": "42961c9a"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Natasha Turak",
+    "title": "'An extraordinary thing': U.S. break with Israel on UN cease-fire vote triggers Netanyahu rage - CNBC",
+    "description": "\"The abstention is a very strong signal to Israel that the United States is losing patience,\" one senior regional analyst told CNBC.",
+    "url": "https://www.cnbc.com/2024/03/26/israel-gaza-us-abstention-on-un-cease-fire-vote-triggers-netanyahu-rage.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107392267-1711379233975-gettyimages-2105323367-AFP_34MA8EH.jpeg?v=1711444069&w=1920&h=1080",
+    "publishedAt": "2024-03-26T09:21:43Z",
+    "content": "US Ambassador to the United Nations Linda Thomas-Greenfield votes abstain during a vote on a resolution calling for an immediate ceasefire in Gaza during a United Nations Security Council meeting on \u2026 [+5199 chars]",
+    "short_uuid": "7ec4a792"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": "Lauryn Overhultz",
+    "title": "Rebel Wilson vs. Sacha Baron Cohen: Actress may have signed \u2018a PR deal with the devil,\u2019 expert - Fox News",
+    "description": "Rebel Wilson called out Sacha Baron Cohen for being an \"a--hole\" in her upcoming memoir, \"Rebel Rising.\" The \"Borat\" star claimed Wilson's accusations are false.",
+    "url": "https://www.foxnews.com/entertainment/rebel-wilson-vs-sacha-baron-cohen-actress-may-have-signed-pr-deal-with-devil-expert",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/03/Rebel_Wilson_Sacha_Baron_Cohen.jpg",
+    "publishedAt": "2024-03-26T08:30:00Z",
+    "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nPlease enter a valid email address.\r\nBy entering your e\u2026 [+5455 chars]",
+    "short_uuid": "2c2ed0a8"
+  },
+  {
+    "source": {
+      "id": "newsweek",
+      "name": "Newsweek"
+    },
+    "author": "Ellie Cook",
+    "title": "Russia's Black Sea Fleet Problems Keep Getting Worse - Newsweek",
+    "description": "The Black Sea Fleet is Moscow's \"prime vulnerability,\" analyst Marina Miron told Newsweek.",
+    "url": "https://www.newsweek.com/russia-black-sea-problems-ukraine-naval-drones-missile-strikes-crimea-1883032",
+    "urlToImage": "https://d.newsweek.com/en/full/2367484/russias-black-sea-fleet-problems-getting-worse.png",
+    "publishedAt": "2024-03-26T07:00:01Z",
+    "content": "In stark contrast to Ukraine's grinding, painful efforts to restrain Russia's march westward in eastern Ukraine, Kyiv is plugging away at Moscow's valuable Black Sea Fleet with stunning success.\r\nUkr\u2026 [+5319 chars]",
+    "short_uuid": "319dccc2"
+  },
+  {
+    "source": {
+      "id": "usa-today",
+      "name": "USA Today"
+    },
+    "author": "KiMi Robinson",
+    "title": "Who is Jenn Tran? All about the 'Bachelorette's first Asian lead - USA TODAY",
+    "description": "Jenn Tran, who was on Joey Graziadei's \"Bachelor\" season, said she's \"so honored\" to be first Asian bachelorette. Her season will air in 2024.",
+    "url": "https://www.usatoday.com/story/entertainment/tv/2024/03/25/jenn-tran-announced-bachelorette-2024/73101474007/",
+    "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/03/26/USAT/73102243007-171439-dsc-9423.jpg?crop=1999,1125,x0,y300&width=1999&height=1125&format=pjpg&auto=webp",
+    "publishedAt": "2024-03-26T05:37:30Z",
+    "content": "On the 22nd anniversary of the first episode of \"The Bachelor,\" the franchise announced its first Asian American lead.\r\nAfter Joey Graziadei's final choice was revealed during Monday night's finale, \u2026 [+4722 chars]",
+    "short_uuid": "c2e13384"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "TMZ"
+    },
+    "author": "TMZ Staff",
+    "title": "Diddy Seen on Video Pacing Around Miami Airport After Raids at Both Homes - TMZ",
+    "description": "TMZ has the first video of Diddy after his homes were raided by the feds Monday -- and instead of being in handcuffs and on the ground ... the guy was kinda just walking around.",
+    "url": "https://www.tmz.com/2024/03/25/diddy-seen-first-time-video-pacing-miami-airport-federal-raid-home/",
+    "urlToImage": "https://imagez.tmz.com/image/d7/16by9/2024/03/26/d782c6368ad1420180800e583b07020e_xl.jpg",
+    "publishedAt": "2024-03-26T02:26:00Z",
+    "content": "TMZ has the first video of Diddy after his homes were raided by the feds Monday -- and instead of being in handcuffs and on the ground ... the guy was kinda just walking around.\r\nCheck out this foota\u2026 [+1933 chars]",
+    "short_uuid": "c199e8bc"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Newsmax"
+    },
+    "author": null,
+    "title": "A Silent Epidemic: Living Unaware with Diabetes - Newsmax",
+    "description": "A silent epidemic looms large, often undetected and underestimated: Diabetes. According to the Centers for Disease Control and Prevention (CDC), a staggering 38.4 million individuals of all ages - equivalent to 11.6% of the U.S. population - battle diabetes, \u2026",
+    "url": "https://www.newsmax.com/health/health-news/diabetes-undiagnosed-symptoms/2024/03/25/id/1158558/",
+    "urlToImage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=909b9a07-282a-46b3-9665-444b941e9607&SiteName=Newsmax",
+    "publishedAt": "2024-03-25T20:00:02Z",
+    "content": "A silent epidemic looms large, often undetected and underestimated: Diabetes. According to the Centers for Disease Control and Prevention (CDC), a staggering 38.4 million individuals of all ages \u2014 eq\u2026 [+2896 chars]",
+    "short_uuid": "b6cd635e"
   }
 ]
