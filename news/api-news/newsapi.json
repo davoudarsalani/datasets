@@ -39142,5 +39142,229 @@
     "publishedAt": "2024-03-25T15:31:59Z",
     "content": null,
     "short_uuid": "e0b0e037"
+  },
+  {
+    "source": {
+      "id": "usa-today",
+      "name": "USA Today"
+    },
+    "author": "Bailey Schulz, Jessica Guynn",
+    "title": "DJT, Trump Media and Technology Group stock skyrockets on Nasdaq - USA TODAY",
+    "description": "Trump Media, the parent company of Donald Trump\u2019s Truth Social platform, is now trading on the Nasdaq stock exchange.",
+    "url": "https://www.usatoday.com/story/money/2024/03/26/truth-social-djt-stock-price/73098540007/",
+    "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/03/26/USAT/73110563007-gty-2115210319.jpg?crop=5999,3375,x0,y312&width=3200&height=1801&format=pjpg&auto=webp",
+    "publishedAt": "2024-03-26T20:21:12Z",
+    "content": "Buoyed by legions of avid supporters, Donald Trump made a bubbly debut on the Nasdaq stock exchange Tuesday.\r\nShares of Trump Media &amp; Technology Group soared like helium from the opening bell and\u2026 [+6033 chars]",
+    "short_uuid": "42864684"
+  },
+  {
+    "source": {
+      "id": "cbs-news",
+      "name": "CBS News"
+    },
+    "author": "Katrina Kaufman, Graham Kates",
+    "title": "Judge imposes gag order on Trump in New York \"hush money\" case - CBS News",
+    "description": "A judge imposed a gag order restricting what former President Donald Trump can say about those involved in his upcoming criminal trial in New York.",
+    "url": "https://www.cbsnews.com/news/trump-gag-order-new-york-hush-money-case/",
+    "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/03/26/849d51a9-6f7c-4989-a6c8-f01cc7d683d7/thumbnail/1200x630/1fb5d80d62eae8b656692dcfc25fc8d0/gettyimages-2112638445.jpg?v=3d62f4cc0092e6eb151a9685301ed284",
+    "publishedAt": "2024-03-26T20:10:57Z",
+    "content": "The judge overseeing the criminal case against former President Donald Trump in New York imposed a gag order on Tuesday restricting what Trump can say about those involved in the upcoming trial, whic\u2026 [+4441 chars]",
+    "short_uuid": "9648b716"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "US Supreme Court appears sceptical of abortion pill case - BBC.com",
+    "description": "Both conservative and liberal justices seemed dubious about limiting access to a drug used by million of women.",
+    "url": "https://www.bbc.com/news/world-us-canada-68657692",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A444/production/_133025024_f80dd641b51e8f7b40aa9544e25d8b6e719345b20_249_4477_25191000x563.jpg",
+    "publishedAt": "2024-03-26T19:44:33Z",
+    "content": null,
+    "short_uuid": "63bd3593"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "Alyssa Guzman",
+    "title": "Sean \u2018Diddy\u2019 Combs\u2019 alleged 'drug mule' arrested as feds intercept rap mogul\u2019s private jet in Miami - New York Post ",
+    "description": "Rapper Diddy\u2019s alleged \u201cdrug mule\u201d was arrested at a Miami airport after federal agents raided the singer\u2019s Florida and California homes.",
+    "url": "https://nypost.com/2024/03/26/us-news/sean-diddy-combs-alleged-drug-mule-arrested-as-feds-intercept-rap-moguls-private-jet-in-miami/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/newspress-collage-w1d3j6tn4-1711483283627.jpg?quality=75&strip=all&1711468928&w=1024",
+    "publishedAt": "2024-03-26T18:48:04Z",
+    "content": "Rapper Diddy\u2019s alleged \u201cdrug mule\u201d was arrested at a Miami airport after federal agents raided the singer\u2019s Florida and California homes.\r\nBrendon Paul, 25, was arrested Monday at Opa Locka Airport a\u2026 [+2900 chars]",
+    "short_uuid": "6f6a6fa3"
+  },
+  {
+    "source": {
+      "id": "associated-press",
+      "name": "Associated Press"
+    },
+    "author": "ROB MAADDI",
+    "title": "NFL owners approve a radical overhaul to kickoff rules, adopting setup used in XFL - The Associated Press",
+    "description": "Kickoff returns are returning to the NFL. Team owners have approved a new rule that will take what essentially had become \u201ca dead play\u201d and make it an integral part of the game again. The major overhaul to special teams has been in the works for years. It tak\u2026",
+    "url": "https://apnews.com/article/nfl-owners-meetings-new-kickoff-rules-fc1bf4fddc86ef03cf6fbc44ba6c26a0",
+    "urlToImage": "https://dims.apnews.com/dims4/default/f6314ce/2147483647/strip/true/crop/7179x4038+0+374/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F85%2Fcb%2F97de4c4b1b1cdff8c8a84fd51d54%2Fde1e87dec923477a857b3aa92840dd64",
+    "publishedAt": "2024-03-26T18:27:00Z",
+    "content": "ORLANDO, Fla. (AP) Kickoff returns are returning to the NFL.\r\nTeam owners on Tuesday approved a new rule that will take what essentially had become a dead play and make it an integral part of the gam\u2026 [+4701 chars]",
+    "short_uuid": "129e05bb"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": "Kim Komando",
+    "title": "Is Apple\u2019s new Journal app a major privacy nightmare? - Fox News",
+    "description": "Apple's new Journal app has raised privacy concerns among Apple's userbase. Tech expert Kim Komando examines social media rumors and explains what steps to take to protect yourself.",
+    "url": "https://www.foxnews.com/tech/apples-new-journal-app-major-privacy-nightmare",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/03/GettyImages-852081606-scaled.jpg",
+    "publishedAt": "2024-03-26T18:25:00Z",
+    "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nPlease enter a valid email address.\r\nBy entering your e\u2026 [+4029 chars]",
+    "short_uuid": "992b5327"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "TrueAchievements"
+    },
+    "author": null,
+    "title": "Fallout 76 drops new Xbox achievements with free update - TrueAchievements",
+    "description": "It's a big day for Fallout 76, which is getting three new achievements with the free Atlantic City \u2013 America's Playground update today, as well as Season 16.",
+    "url": "https://www.trueachievements.com/news/fallout-76-atlantic-city-americas-playground-achievements",
+    "urlToImage": "https://www.trueachievements.com/imgs/147669/fallout-76-drops-new-xbox-achievements-with-free-update.jpg",
+    "publishedAt": "2024-03-26T17:33:51Z",
+    "content": "More Fallout 76 achievements have just dropped, as today sees the free Atlantic City America's Playground update arrive with three new Fallout 76 Atlantic City - America's Playground achievements, al\u2026 [+2113 chars]",
+    "short_uuid": "ba26b9f0"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Gizmodo.com"
+    },
+    "author": "Ed Cara",
+    "title": "Bird Flu Found in Cow Milk in Texas and Kansas - Gizmodo",
+    "description": "Avian influenza was found among sick cattle in two states, as well as in unpasteurized milk, but officials said there is no threat to the public.",
+    "url": "https://gizmodo.com/bird-flu-h5n1-found-in-cow-milk-texas-and-kansas-1851366354",
+    "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/5ce895de593bab713d589e6c71a01a25.jpg",
+    "publishedAt": "2024-03-26T17:05:00Z",
+    "content": "Bird flu has reached the cows. Health and agriculture officials announced this week that cattle in two states have tested positive for a strain of highly pathogenic avian influenza (HPAI), likely cau\u2026 [+2761 chars]",
+    "short_uuid": "be5106ee"
+  },
+  {
+    "source": {
+      "id": "the-verge",
+      "name": "The Verge"
+    },
+    "author": "Wes Davis",
+    "title": "Apple's WWDC 2024 is set for June 10th - The Verge",
+    "description": "Apple has announced that its Worldwide Developer Conference keynote will take place on June 10th, where it may reveal more plans on AI tools for the iPhone and Mac.",
+    "url": "https://www.theverge.com/2024/3/26/24111331/apple-wwdc-2024-event-date-ai-artificial-intelligence-m4-ios-18",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/BnYqOz6mXEFTFmzlTVJGM2F_yko=/0x0:1960x1102/1200x628/filters:focal(980x551:981x552)/cdn.vox-cdn.com/uploads/chorus_asset/file/25356334/Apple_WWDC24_event_announcement_hero.jpg",
+    "publishedAt": "2024-03-26T17:04:53Z",
+    "content": "Apples WWDC 2024 is set for June 10th\r\nApples WWDC 2024 is set for June 10th\r\n / Apple prepares to tell us what in the world it plans to do with AI.\r\nByWes Davis, a weekend editor who covers the late\u2026 [+2408 chars]",
+    "short_uuid": "e8c984ee"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Laura He, Anna Cooban",
+    "title": "BYD\u2019s profit soared 80% in the year the Chinese EV giant overtook Tesla - CNN",
+    "description": "BYD reported a jump of more than 80% in profit in its first set of annual earnings since it stole Tesla\u2019s crown as the world\u2019s top seller of electric vehicles.",
+    "url": "https://www.cnn.com/2024/03/26/business/byd-profit-soar-after-beats-tesla/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1933433802.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-03-26T16:46:00Z",
+    "content": "BYD reported a jump of more than 80% in profit in its first set of annual earnings since it stole Teslas crown as the worlds top seller of electric vehicles.\r\nNet profit almost doubled to 30 billion \u2026 [+1719 chars]",
+    "short_uuid": "fbf8080d"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Julian Assange faces further wait over extradition ruling - BBC.com",
+    "description": "Court postpones decision on the Wikileaks founder's case to give the US time to make assurances.",
+    "url": "https://www.bbc.com/news/uk-68662881",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7E19/production/_133018223_8f12e69e-d059-4ded-aaae-a185af1434d9.jpg",
+    "publishedAt": "2024-03-26T16:21:26Z",
+    "content": null,
+    "short_uuid": "2b73f360"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "KXAN.com"
+    },
+    "author": "Taylor Girtman",
+    "title": "What was the bright light seen over Central Texas last night? - KXAN.com",
+    "description": "Viewer videos taken across Central Texas show a bright light moving across the sky around 8 p.m. Monday.",
+    "url": "https://www.kxan.com/news/local/what-was-the-bright-light-seen-over-central-texas-last-night/",
+    "urlToImage": "https://www.kxan.com/wp-content/uploads/sites/40/2024/03/light-courtesy-Jaci-Esparza.jpg?w=1280",
+    "publishedAt": "2024-03-26T16:17:59Z",
+    "content": "AUSTIN (KXAN) Did you happen to see a bright light moving across the Central Texas skies Monday evening? \r\nSeveral KXAN viewers sent us videos of a bright light in the sky last night. Videos recorded\u2026 [+581 chars]",
+    "short_uuid": "1337d8e5"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CoinDesk"
+    },
+    "author": "Nikhilesh De, Oliver Knight",
+    "title": "Crypto Exchange KuCoin Violated Anti-Money Laundering Laws, U.S. Charges - CoinDesk",
+    "description": "The exchange was charged under the Bank Secrecy Act.",
+    "url": "https://www.coindesk.com/business/2024/03/26/crypto-exchange-kucoin-violated-anti-money-laundering-laws-us-charges/",
+    "urlToImage": "https://www.coindesk.com/resizer/d1pYLEbBXiKbHrxUol0FVTXjv-M=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/DDLEK4V4KVAHFO4ZSAGRUVMFFE.jpg",
+    "publishedAt": "2024-03-26T15:11:00Z",
+    "content": "<ul><li>Crypto exchange KuCoin and two of its founders were charged with violating anti-money laundering laws by U.S. federal prosecutors.\r\n</li><li>Homeland Security Investigations Special Agent Dar\u2026 [+3744 chars]",
+    "short_uuid": "ba99ddc5"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Nadeen Ebrahim, Abbas AlLawati",
+    "title": "The US allowed a Gaza ceasefire resolution to pass at the UN. What does that mean for the war? - CNN",
+    "description": "Following several failed attempts over five months of Israel\u2019s devastating war in Gaza, the United Nations Security Council on Monday finally passed a resolution calling for an immediate ceasefire. The United States, which had been the only remaining hurdle t\u2026",
+    "url": "https://www.cnn.com/2024/03/26/middleeast/israel-gaza-ceasefire-un-resolution-war-impact-intl/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2105323078.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-03-26T14:53:00Z",
+    "content": "Following several failed attempts over five months of Israels devastating war in Gaza, the United Nations Security Council on Monday finally passed a resolution calling for an immediate ceasefire. Th\u2026 [+7947 chars]",
+    "short_uuid": "375cc0b0"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Ben Church",
+    "title": "NFL owners vote to ban \u2018hip-drop tackle.\u2019 Not everyone is happy about the decision - CNN",
+    "description": "NFL owners officially voted to ban the \u2018hip-drop tackle\u2019 from the sport on Monday, after an annual league meeting in Florida.",
+    "url": "https://www.cnn.com/2024/03/26/sport/nfl-owners-hip-drop-tackle-ban-spt-intl/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1798569849.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-03-26T14:26:00Z",
+    "content": "NFL owners officially voted to ban the hip-drop tackle from the sport on Monday, after an annual league meeting in Florida.\r\nThe tackle has long been a topic of debate and was cited as the reason beh\u2026 [+2277 chars]",
+    "short_uuid": "1fae0152"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Texas Tribune"
+    },
+    "author": "Jasper Scherer",
+    "title": "Felony charges against Ken Paxton to be dropped - The Texas Tribune",
+    "description": "Paxton, who will not have to enter a plea under the terms of the agreement, faced the prospect of decades in prison if he had been convicted of fraud.",
+    "url": "https://www.texastribune.org/2024/03/25/ken-paxton-plea-deal-securities-fraud-felony/",
+    "urlToImage": "https://thumbnails.texastribune.org/UjtaD3_LG3GTRoTIDwijbYg4Q18=/1200x630/filters:quality(95):focal(1752x707:5555x3339)/static.texastribune.org/media/files/f821ed4d00606b0996d74a9259692e50/0326%20Paxton%20Pretrial%20DV%2004.JPG",
+    "publishedAt": "2024-03-26T14:13:10Z",
+    "content": "Sign up for The Brief, The Texas Tribunes daily newsletter that keeps readers up to speed on the most essential Texas news.\r\nHOUSTON Prosecutors on Tuesday agreed to drop the securities fraud charges\u2026 [+9024 chars]",
+    "short_uuid": "ba004c66"
   }
 ]
