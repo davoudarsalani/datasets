@@ -37476,5 +37476,201 @@
     "publishedAt": "2024-03-25T04:06:15Z",
     "content": "Android and iPhone have never been closer, with little between the operating systems and their handsets. In the main, Google might seem to do more following than leading, but it has just beaten Apple\u2026 [+11266 chars]",
     "short_uuid": "6a8d7d90"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Raja Razek, Homero De la Fuente, Steve Almasy, Dalia Faheid, Elizabeth Wolfe",
+    "title": "Shohei Ohtani says he never participated in any sports gambling and accuses interpreter of \u2018stealing money\u2019 - CNN",
+    "description": "Los Angeles Dodgers superstar Shohei Ohtani issued a forceful and detailed statement to reporters Monday denying he\u2019d ever participated in any sports gambling amid the mounting scandal involving allegations his former interpreter stole money from him and plac\u2026",
+    "url": "https://www.cnn.com/2024/03/25/us/ohtani-interpreter-gambling-monday/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24081035471939.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-03-26T03:18:00Z",
+    "content": "Faced with growing attention over a theft and gambling scandal, baseball superstar Shohei Ohtani on Monday adamantly denied betting on any sport or paying a bookie and placed the blame for the improp\u2026 [+7999 chars]",
+    "short_uuid": "cee2fdf5"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CBS Sports"
+    },
+    "author": "",
+    "title": "Iowa vs. West Virginia score: Caitlin Clark, Hawkeyes survive scare from Mountaineers to advance to Sweet 16 - CBS Sports",
+    "description": "Iowa could not shake free from West Virginia until the very end of the game",
+    "url": "https://www.cbssports.com/womens-college-basketball/news/iowa-vs-west-virginia-score-caitlin-clark-hawkeyes-survive-scare-from-mountaineers-to-advance-to-sweet-16/",
+    "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/03/26/7de9c1bb-3dd5-433d-8c40-f7e2d0953b0e/thumbnail/1200x675/8935082c7ff3f8a8807c7aa806b6cb03/iowa-caitlin-clark-yell.jpg",
+    "publishedAt": "2024-03-26T02:52:00Z",
+    "content": "No. 1 seed Iowa survived an upset scare against eight-seeded West Virginia with a 64-54 win in the Round of 32. The Hawkeyes are heading to the Sweet 16 again, a year after making a run all the way t\u2026 [+2073 chars]",
+    "short_uuid": "7360fc17"
+  },
+  {
+    "source": {
+      "id": "cbs-news",
+      "name": "CBS News"
+    },
+    "author": "William Harwood",
+    "title": "Russian Soyuz brings crew of 3 to the International Space Station - CBS News",
+    "description": "NASA astronaut Tracy Dyson is replacing Loral O'Hara, who's wrapping up a six-month stay aboard the space station.",
+    "url": "https://www.cbsnews.com/news/russian-soyuz-crew-of-three-international-space-station/",
+    "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/03/25/a4aa4e72-1123-46cd-a291-878d1ad626d7/thumbnail/1200x630/213cee1690c6c5f600aca0965dcbbcc7/032524-ms25-docked.jpg?v=4baa656f7af774a52a8c6a88476cb826",
+    "publishedAt": "2024-03-26T01:28:58Z",
+    "content": "Two days after launch, a Russian Soyuz crew ferry ship caught up with the International Space Station Monday and moved in for a picture-perfect docking, bringing two short-duration crew members and a\u2026 [+4997 chars]",
+    "short_uuid": "3e193b17"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Seattle Times"
+    },
+    "author": "Paige Cornwell",
+    "title": "CEO Calhoun just latest Boeing chief felled by scandal or disaster - The Seattle Times",
+    "description": "Four of Boeing\u2019s past five CEOs left in the aftermath of personal or professional scandals. As chief executive Dave Calhoun heads toward the exit, here\u2019s a look back.",
+    "url": "https://www.seattletimes.com/business/boeing-aerospace/ceo-calhoun-just-latest-boeing-chief-felled-by-scandal-or-disaster/",
+    "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2024/03/03252024_Boeing-CEOs_tzr_100512.jpg?d=1200x630",
+    "publishedAt": "2024-03-26T00:26:19Z",
+    "content": "Boeing CEO Dave Calhoun on Monday will soon join what\u2019s become an inauspicious group the fraternity of former Boeing chief executives.\r\nSince Philip Condit\u2019s appointment in 1996, four of the five CEO\u2026 [+4106 chars]",
+    "short_uuid": "bedfc4fd"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "WFAA.com"
+    },
+    "author": "Kyle Roberts",
+    "title": "DFW Weather: Forecast for April 8 total solar eclipse - WFAA.com",
+    "description": "The 2024 Solar Eclipse is two weeks away...will it be cloudy, rainy, or clear viewing?",
+    "url": "https://www.wfaa.com/article/weather/dfw-weather-timing-out-total-solar-eclipse-forecast-april-8/287-1a03028f-5b8c-4312-8a2b-9cc202610ca9",
+    "urlToImage": "https://media.wfaa.com/assets/WFAA/images/df5e81a7-6e8f-46f0-ba46-ce260d545f59/df5e81a7-6e8f-46f0-ba46-ce260d545f59_1140x641.jpg",
+    "publishedAt": "2024-03-26T00:21:00Z",
+    "content": "DALLAS The 2024 Solar Eclipse is two weeks away...here's what the forecast looks like as of now:\r\nSimply, nothing close to specifics. But we can start to get some general ideas of the pattern and wha\u2026 [+2038 chars]",
+    "short_uuid": "6cc24989"
+  },
+  {
+    "source": {
+      "id": "the-verge",
+      "name": "The Verge"
+    },
+    "author": "Tom Warren",
+    "title": "Microsoft has a new Windows and Surface chief - The Verge",
+    "description": "Pavan Davuluri is Microsoft\u2019s new Surface and Windows chief. He recombines leadership of two groups that were split up after Panos Panay left for Amazon last year.",
+    "url": "https://www.theverge.com/2024/3/25/24111931/microsoft-windows-surface-pavan-davuluri",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/CCAiZOaSXBZ90QlUG4O76gDxwwc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24347780/STK095_Microsoft_04.jpg",
+    "publishedAt": "2024-03-25T23:51:28Z",
+    "content": "Microsoft has a new Windows and Surface chief\r\nMicrosoft has a new Windows and Surface chief\r\n / After the formation of Microsoft AI, the software giant has now appointed a new Surface and Windows ch\u2026 [+4663 chars]",
+    "short_uuid": "b01fdda3"
+  },
+  {
+    "source": {
+      "id": "the-washington-post",
+      "name": "The Washington Post"
+    },
+    "author": "Shayna Jacobs, Devlin Barrett",
+    "title": "N.Y. judge sets firm April 15 trial date in Trump's historic hush money case - The Washington Post",
+    "description": "Defense lawyers for Donald Trump still hope to raise issues that might delay the start of what would be the first criminal trial of a former U.S. president.",
+    "url": "https://www.washingtonpost.com/politics/2024/03/25/trump-hush-money-trial-date/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4WRF7YMFSKO5N6YDZ4FYPZQVIE.jpg&w=1440",
+    "publishedAt": "2024-03-25T22:37:00Z",
+    "content": "NEW YORK Donald Trump will begin his first criminal trial on April 15, a judge ruled Monday, at the end of a contentious hearing in which he repeatedly bludgeoned the former presidents legal team for\u2026 [+5441 chars]",
+    "short_uuid": "b7eeaae2"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "KTVI Fox 2 St. Louis"
+    },
+    "author": "Associated Press",
+    "title": "Death of Missouri student Riley Strain appears accidental, police in Tennessee say - KTVI Fox 2 St. Louis",
+    "description": "Police in Tennessee say the death of University of Missouri student Riley Strain appears to be accidental. The Tennessean reported Sunday that Metro Nashville Police Department spokesperson Kris Mumford says a detective attended the autopsy examination and St\u2026",
+    "url": "https://fox2now.com/news/missouri/death-of-missouri-student-riley-strain-appears-accidental-police-in-tennessee-say/",
+    "urlToImage": "https://fox2now.com/wp-content/uploads/sites/14/2024/03/Riley-Strain-e1710286977336.jpeg?w=1280",
+    "publishedAt": "2024-03-25T22:16:31Z",
+    "content": "NASHVILLE, Tenn. (AP) The death of Riley Strain, a University of Missouri student who went missing in Tennessees capital for nearly two weeks, appears to be accidental, police said.\r\nMetro Nashville \u2026 [+946 chars]",
+    "short_uuid": "5815977d"
+  },
+  {
+    "source": {
+      "id": "espn",
+      "name": "ESPN"
+    },
+    "author": "ESPN",
+    "title": "March Madness 2024: Predicting every Sweet 16 men's game - ESPN",
+    "description": "The No. 1 offense vs. the No. 1 defense, a national title rematch and the best players and coaches are all part of the Sweet 16. Who will win each game?",
+    "url": "https://www.espn.com/mens-college-basketball/insider/story/_/id/39807064/march-madness-2024-experts-predict-every-sweet-16-mens-ncaa-tournament-game",
+    "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0325%2Fr1309892_1296x729_16%2D9.jpg",
+    "publishedAt": "2024-03-25T21:30:00Z",
+    "content": "Mar 25, 2024, 04:30 PM ET\r\nSweet 16. Second weekend. Regional semifinals. Whatever you call it, we've made it to this point. Just about one-quarter of the field is left, and we can all take a breath.\u2026 [+12244 chars]",
+    "short_uuid": "f2cc3394"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": "Sarah Bregel",
+    "title": "Park rangers warn that best practices when encountering a mountain lion are wildly different from those for brown bears - BBC.com",
+    "description": "What to do if you encounter a mountain lion \u2013 and how the protocol differs from that of other wildlife",
+    "url": "https://www.bbc.com/future/article/20240325-park-rangers-best-practices-when-encountering-mountain-lions",
+    "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0hlvj2r.jpg",
+    "publishedAt": "2024-03-25T21:21:45Z",
+    "content": null,
+    "short_uuid": "77fd424f"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Futurism"
+    },
+    "author": "Jon Christian",
+    "title": "Elon Musk Humiliated as Judge Throws Out His Lawsuit Against Twitter Critics - Futurism",
+    "description": "A judge just threw out a suit by X against nonprofit researchers who explored the growth of hate speech on its platform.",
+    "url": "https://futurism.com/the-byte/elon-musk-judge-lawsuit",
+    "urlToImage": "https://wp-assets.futurism.com/2024/03/elon-musk-judge-lawsuit.jpg",
+    "publishedAt": "2024-03-25T20:30:59Z",
+    "content": "Ouch.\r\nLaw Dogging\r\nIt's easy to lose track of the endless torrent of chaos and scandals since multihyphenate billionaire Elon Musk bought the social network Twitter and changed its name to X.\r\nBut a\u2026 [+2354 chars]",
+    "short_uuid": "363e25d3"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Millions of Americans caught up in Chinese hacking plot - US - BBC.com",
+    "description": "Seven Chinese men have been charged over a \"sinister\" hacking plot, the justice department says.",
+    "url": "https://www.bbc.com/news/world-us-canada-68659095",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/168DC/production/_133008329_hacking.jpg",
+    "publishedAt": "2024-03-25T17:26:42Z",
+    "content": null,
+    "short_uuid": "ecc93f9b"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Sacha Baron Cohen hits back over Rebel Wilson book - BBC.com",
+    "description": "The Australian actress criticises the British comedian in a chapter about him in her forthcoming memoir.",
+    "url": "https://www.bbc.com/news/entertainment-arts-68654319",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/18218/production/_133004889_rebel_getty_cut.jpg",
+    "publishedAt": "2024-03-25T17:13:40Z",
+    "content": null,
+    "short_uuid": "6d09c7de"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Sarah Ferguson 'admiration' for Kate after cancer announcement - BBC.com",
+    "description": "The Duchess of York, who was diagnosed with skin cancer this year, spoke of her admiration for Kate.",
+    "url": "https://www.bbc.com/news/uk-68660745",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/42D7/production/_133011171_e5da19aa5bda78608eea790bfc4adc56fac8e4e6.jpg",
+    "publishedAt": "2024-03-25T16:02:45Z",
+    "content": null,
+    "short_uuid": "f57e3432"
   }
 ]
