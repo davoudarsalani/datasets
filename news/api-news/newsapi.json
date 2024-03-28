@@ -40766,5 +40766,383 @@
     "publishedAt": "2024-03-26T14:57:00Z",
     "content": "Microsoft just put Pavan Davuluri in charge of the company's Windows and Surface teams, while Windows exec Mikhail Parakhin is \"to explore new roles.\"\r\nThis is according to a memo, seen by us, just o\u2026 [+2130 chars]",
     "short_uuid": "f96217cd"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "By <a href=\"/profiles/kathleen-magramo\">Kathleen Magramo</a>, Antoinette Radford, <a href=\"/profiles/alisha-ebrahimji\">Alisha Ebrahimji</a> and <a href=\"/profiles/maureen-chowdhury\">Maureen Chowdhury</a>, CNN",
+    "title": "The latest on the Baltimore Key Bridge collapse: Live updates - CNN",
+    "description": "The National Transportation Safety Board chair told CNN that investigators were able to board the ship overnight and obtain the data recorder, or black box. Follow for live updates.",
+    "url": "https://www.cnn.com/us/live-news/baltimore-key-bridge-collapse-03-27-24/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/240326161111-baltimore-bridge-collapse-dle-032624-super-tease.jpg",
+    "publishedAt": "2024-03-27T14:40:14Z",
+    "content": "US Transportation Secretary Pete Buttigieg says if private companies are responsible for the Francis Scott Key Bridge cargo ship crash, they will be held responsible. \r\nTo be clear: if any private pa\u2026 [+1245 chars]",
+    "short_uuid": "539e5d7e"
+  },
+  {
+    "source": {
+      "id": "usa-today",
+      "name": "USA Today"
+    },
+    "author": "Jonathan Limehouse",
+    "title": "Total solar eclipse prompts FAA to issue advisory for aircraft, airmen - USA TODAY",
+    "description": "The Federal Aviation Administration issued an advisory for aircraft and airmen ahead of the total solar eclipse on April 8.",
+    "url": "https://www.usatoday.com/story/travel/2024/03/25/faa-solar-eclipse-advisory/73095937007/",
+    "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/03/25/USAT/73098166007-usatsi-22801370.jpg?crop=3599,2025,x0,y427&width=3200&height=1801&format=pjpg&auto=webp",
+    "publishedAt": "2024-03-27T14:21:30Z",
+    "content": "The total solar eclipse is nearing, so the Federal Aviation Administration (FAA) is offering guidance to commercial planes and private aircraft ahead of the phenomenon.\r\nThe \"Great North American Ecl\u2026 [+3088 chars]",
+    "short_uuid": "46b42ddb"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Callie Lawson-Freeman",
+    "title": "Former Syracuse basketball player arrested, accused of being 'drug mule' for rapper Diddy - Yahoo Sports",
+    "description": "The guard spent two seasons playing for the Orange.",
+    "url": "https://sports.yahoo.com/former-syracuse-basketball-player-arrested-accused-of-being-drug-mule-for-rapper-diddy-020255058.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Zd1SUpPlBj.sN3h5tkfHrw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MjU-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/9e445e70-ebdb-11ee-b1ee-b8bdc6e82e47",
+    "publishedAt": "2024-03-27T13:55:53Z",
+    "content": "Former Syracuse Orange basketball player Brendan Paul has been arrested. (Photo by Rich Barnes/Getty Images)\r\nA former Syracuse basketball player was arrested on two felony charges at a Miami airport\u2026 [+2585 chars]",
+    "short_uuid": "c1a34bc7"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Israel and Hezbollah trade strikes over Lebanon border - BBC.com",
+    "description": "The Iran-backed movement fires rockets into Israel killing one, after a deadly strike on a Lebanese village.",
+    "url": "https://www.bbc.com/news/world-middle-east-68675608",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/67E0/production/_133029562_mediaitem133029558.jpg",
+    "publishedAt": "2024-03-27T13:09:31Z",
+    "content": null,
+    "short_uuid": "46c04c91"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "AZFamily"
+    },
+    "author": "April Warnecke",
+    "title": "Powerful Easter weekend storm to arrive in Arizona; what we know - Arizona's Family",
+    "description": "A powerful storm system is headed to Arizona for the upcoming holiday weekend.",
+    "url": "https://www.azfamily.com/2024/03/27/strong-easter-weekend-storm-headed-arizona-what-expect/",
+    "urlToImage": "https://gray-kpho-prod.cdn.arcpublishing.com/resizer/v2/S35OATJLJVDZZO6FWDSRKNIWKE.jpg?auth=d75698e9b099286cb62c64630f0ef12dd3790ca3c465f5974cc58925abf897bc&width=1200&height=600&smart=true",
+    "publishedAt": "2024-03-27T12:48:00Z",
+    "content": "PHOENIX (AZFamily) Sunshine and warmer weather returns to the Valley today, with a low pressure system finally moving east of our area. Conditions look much quieter statewide for a few days before a \u2026 [+1158 chars]",
+    "short_uuid": "2b582a69"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Jack Baer",
+    "title": "Lakers erase 19-point, 4th-quarter deficit, outlast Bucks in 2OT stunner without LeBron James - Yahoo Sports",
+    "description": "Anthony Davis, Austin Reaves and D'Angelo Russell combined to score 92 points.",
+    "url": "https://sports.yahoo.com/lakers-erase-19-point-4th-quarter-deficit-outlast-bucks-2ot-stunner-without-lebron-james-024408196.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/F5jR.HJ5tGeXY5_yFJtc8g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/9d388f90-ebe2-11ee-bc7d-fb9910445011",
+    "publishedAt": "2024-03-27T12:45:01Z",
+    "content": "The Los Angeles Lakers didn't need LeBron James to win a double-overtime thriller.\r\nAnthony Davis and Austin Reaves led the team to a 128-124 win over the Milwaukee Bucks on Tuesday, erasing a 19-poi\u2026 [+1347 chars]",
+    "short_uuid": "13b7f394"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "George Ramsay, Jill Martin",
+    "title": "Utah women\u2019s basketball team \u2018troubled and shaken\u2019 as \u2018disturbing\u2019 details of alleged racist abuse directed at players emerge - CNN",
+    "description": "Members of the Utah women\u2019s basketball team have been left \u201cdeeply troubled and shaken\u201d by what team officials called \u201chateful and disturbing\u201d racial abuse ahead of their NCAA tournament opening game.",
+    "url": "https://www.cnn.com/2024/03/27/sport/utah-basketball-racism-ncaa-spt-intl/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24086644738236.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-03-27T12:42:00Z",
+    "content": "Members of the Utah womens basketball team have been left deeply troubled and shaken by what team officials called hateful and disturbing racial abuse ahead of their NCAA tournament opening game.\r\nTh\u2026 [+4358 chars]",
+    "short_uuid": "9fe0ef53"
+  },
+  {
+    "source": {
+      "id": "financial-times",
+      "name": "Financial Times"
+    },
+    "author": "Edward Luce",
+    "title": "Robert Kennedy Jr's perilous voyage of discovery - Financial Times",
+    "description": "His third-party candidacy could split the vote and hand the election to Trump",
+    "url": "https://www.ft.com/content/7d70763e-6928-45c0-96de-a583246efba4",
+    "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F710cd78b-6ab4-4c0b-ba86-19b9ab27df3d.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
+    "publishedAt": "2024-03-27T12:25:43Z",
+    "content": "Brace yourself, Nicole Shanahan. Most Americans have not heard of the ex-wife of Googles co-founder, Sergey Brin. Having been introduced on Tuesday as Robert Kennedy Jrs running mate, Shanahans life \u2026 [+4346 chars]",
+    "short_uuid": "ca1da55e"
+  },
+  {
+    "source": {
+      "id": "usa-today",
+      "name": "USA Today"
+    },
+    "author": "Michael Middlehurst-Schwartz",
+    "title": "2024 NFL mock draft: Four QBs go in top four picks thanks to projected trade - USA TODAY",
+    "description": "Will four QBs be taken in the top four picks for the first time ever in NFL draft history? Our latest 2024 NFL mock draft says yes, thanks to a trade.",
+    "url": "https://www.usatoday.com/story/sports/nfl/draft/2024/03/27/nfl-mock-draft-2024-trade-quarterbacks-vikings-jj-mccarthy/73098364007/",
+    "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/03/27/USAT/73115303007-usp-ncaa-football-rose-bowl-alabama-at-michigan.jpg?crop=3163,1779,x0,y0&width=3163&height=1779&format=pjpg&auto=webp",
+    "publishedAt": "2024-03-27T12:20:07Z",
+    "content": "With less than a month left until the 2024 NFL draft, not even the top of the order seems fully set.\r\nIn swinging a trade with the Houston Texans two weeks ago for an extra first-round pick, the Minn\u2026 [+16115 chars]",
+    "short_uuid": "612ccbe3"
+  },
+  {
+    "source": {
+      "id": "espn",
+      "name": "ESPN"
+    },
+    "author": "ESPN",
+    "title": "2024 MLB predictions: Playoffs, World Series, MVPs and more - ESPN",
+    "description": "Can the Dodgers go all the way? Who will win MVP? Our experts make their predictions for the 2024 baseball season.",
+    "url": "https://www.espn.com/mlb/story/_/id/39786796/2024-mlb-predictions-playoffs-wild-cards-world-series-mvp-cy-young",
+    "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0326%2Fr1310285_1296x729_16%2D9.jpg",
+    "publishedAt": "2024-03-27T12:00:00Z",
+    "content": "Mar 27, 2024, 07:00 AM ET\r\nOpening Day is tomorrow, so you know what that means -- it's time for season predictions!\r\nThere are lots of questions going into the 2024 season: What does Year 3 of MLB's\u2026 [+29433 chars]",
+    "short_uuid": "b3a46b08"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Live Science"
+    },
+    "author": "Harry Baker",
+    "title": "Polar vortex is 'spinning backwards' above Arctic after major reversal event - Livescience.com",
+    "description": "Earlier this month, a sudden atmospheric warming event caused the Arctic's polar vortex to reverse its trajectory. The swirling ring of cold air is now spinning in the wrong direction, which has triggered a record-breaking \"ozone spike\" and could impact globa\u2026",
+    "url": "https://www.livescience.com/planet-earth/weather/polar-vortex-is-spinning-backwards-above-arctic-after-major-reversal-event",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/o48xrmBsXgZFkjBwFijFQ9-1200-80.gif",
+    "publishedAt": "2024-03-27T11:45:56Z",
+    "content": "The polar vortex circling the Arctic is swirling in the wrong direction after surprise warming in the upper atmosphere triggered a major reversal event earlier this month. It is one of the most extre\u2026 [+3927 chars]",
+    "short_uuid": "fc9b7b8"
+  },
+  {
+    "source": {
+      "id": "cbs-news",
+      "name": "CBS News"
+    },
+    "author": "Stephen Smith",
+    "title": "Largest cocaine shipment of the year seized in Colombian Caribbean after high-speed boat chase - CBS News",
+    "description": "Officials released dramatic video of the chase, during which the crew allegedly \"began evasive actions, throwing packages into the water.\"",
+    "url": "https://www.cbsnews.com/news/cocaine-seized-caribbean-high-speed-chase-joint-operation-colombia-us/",
+    "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/03/27/aa1ff2dd-eb54-43d3-9d84-a4daf75b95f0/thumbnail/1200x630/47859d35db30f7d0d27e3c779721779e/boat-chase.jpg?v=3d62f4cc0092e6eb151a9685301ed284",
+    "publishedAt": "2024-03-27T11:27:27Z",
+    "content": "Authorities have announced the largest cocaine shipment\u00a0seizure of the year in the Caribbean Sea off Colombia after military ships and planes chased down a speedboat holding almost four tons of the d\u2026 [+2696 chars]",
+    "short_uuid": "8811db8c"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Laura He, Wayne Chang",
+    "title": "China\u2019s Xi meets American CEOs to boost confidence in world\u2019s second largest economy - CNN",
+    "description": "Chinese leader Xi Jinping met more than a dozen US CEOs and academics on Wednesday as Beijing renewed efforts to woo back foreign investors and mend strained relations with the United States.",
+    "url": "https://www.cnn.com/2024/03/27/business/china-xi-jinping-us-ceos-meeting-intl-hnk/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-03-11t090424z-1275756386-rc2jj6ag984k-rtrmadp-3-china-parliament.JPG?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-03-27T11:08:00Z",
+    "content": "Editors Note: Sign up for\u00a0CNNs Meanwhile in China newsletter\u00a0which explores what you need to know about the countrys rise and how it impacts the world.\r\nChinese leader Xi Jinping met more than a doze\u2026 [+3484 chars]",
+    "short_uuid": "21209e23"
+  },
+  {
+    "source": {
+      "id": "ars-technica",
+      "name": "Ars Technica"
+    },
+    "author": "Scharon Harding",
+    "title": "The Ars Technica guide to keyboards: Mechanical, membrane, and buckling springs - Ars Technica",
+    "description": "Explaining the mushy and the magnificent.",
+    "url": "https://arstechnica.com/gadgets/2024/03/the-ars-technica-guide-to-keyboards-mechanical-membrane-and-buckling-springs/",
+    "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/keyboard-switch-styles-760x380.jpg",
+    "publishedAt": "2024-03-27T11:00:31Z",
+    "content": "28\r\nYour keyboard is the thread that connects you to your computer. The way a keyboard feelsfrom the sensations of each key pressing down and resetting to the build of the boards chassishas a direct \u2026 [+3944 chars]",
+    "short_uuid": "ac6201fb"
+  },
+  {
+    "source": {
+      "id": "the-hill",
+      "name": "The Hill"
+    },
+    "author": "Brett Samuels",
+    "title": "Trump\u2019s courtroom campaign set to become reality with hush money trial - The Hill",
+    "description": "Former President Trump\u2019s courtroom campaign is set to take center stage in his bid for the White House after a New York judge set an April 15 start date for a trial over an alleged hush money scheme. Trump and his allies have for the past year sought to turn \u2026",
+    "url": "https://thehill.com/regulation/court-battles/4558009-trumps-courtroom-campaign-new-york-hush-money-trial/",
+    "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/03/trumpdonald_032524upi03_w.jpg?w=1280",
+    "publishedAt": "2024-03-27T11:00:00Z",
+    "content": "Skip to content\r\nFormer President Trump\u2019s courtroom campaign is set to take center stage in his bid for the White House after a New York judge set an April 15 start date for a trial over an alleged h\u2026 [+6342 chars]",
+    "short_uuid": "adf1c24e"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Digital Trends"
+    },
+    "author": "Alex Blake",
+    "title": "5 image-editing apps you should use instead of Adobe Photoshop - Digital Trends",
+    "description": "Adobe Photoshop is popular, but it\u2019s not for everyone. If you\u2019re looking for an alternative, these five image-editing apps should be at the top of your list.",
+    "url": "https://www.digitaltrends.com/computing/5-image-editing-apps-you-should-use-instead-of-adobe-photoshop/",
+    "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/03/Photoshop-alternatives-George-Milton-Pexels.jpg?resize=1200%2C630&p=1",
+    "publishedAt": "2024-03-27T10:30:18Z",
+    "content": "George Milton / Pexels\r\nAdobe Photoshop is such a popular app that its name has become a verb. It\u2019s also undoubtedly one of the best photo editors you can use today. But it\u2019s also fairly expensive, a\u2026 [+5139 chars]",
+    "short_uuid": "b33b3a35"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "MJ Lee, Jeff Zeleny",
+    "title": "Obama jumps in to help Biden defeat Trump again - CNN",
+    "description": "Barack Obama spent several hours last Friday in the family dining room of the White House, visiting his former vice president, Joe Biden. The occasion was hardly just two old friends catching up.",
+    "url": "https://www.cnn.com/2024/03/27/politics/barack-obama-joe-biden-bill-clinton-donald-trump/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1243020162.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-03-27T10:00:00Z",
+    "content": "Barack Obama spent several hours last Friday in the family dining room of the White House, visiting his former vice president, Joe Biden. The occasion was hardly just two old friends catching up.\r\nOb\u2026 [+5476 chars]",
+    "short_uuid": "42f0ee16"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Jenni Reid",
+    "title": "H&M shares jump 14% as profit smashes expectations - CNBC",
+    "description": "The Swedish retailer significantly beat profit expectations for its fiscal first quarter.",
+    "url": "https://www.cnbc.com/2024/03/27/hm-shares-jump-13percent-as-profit-smashes-expectations-.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107184923-1674803167929-gettyimages-1235170958-BC_H_M_9380.jpeg?v=1711527443&w=1920&h=1080",
+    "publishedAt": "2024-03-27T08:27:14Z",
+    "content": "Shares of H&amp;M leapt 14% in early deals on Wednesday, after the Swedish retailer significantly beat profit expectations for its fiscal first quarter.\r\nOperating profit rose to 2.08 billion Swedish\u2026 [+1832 chars]",
+    "short_uuid": "920b452"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "pymnts.com"
+    },
+    "author": "PYMNTS",
+    "title": "Report: Apple's Worldwide Developers Conference to Focus on AI - PYMNTS.com",
+    "description": "Apple will reportedly unveil its artificial intelligence (AI) strategy in June at its annual Worldwide Developers Conference.",
+    "url": "https://www.pymnts.com/apple/2024/report-apples-worldwide-developers-conference-to-focus-on-ai/",
+    "urlToImage": "https://www.pymnts.com/wp-content/uploads/2023/11/Apple.jpg",
+    "publishedAt": "2024-03-27T07:52:30Z",
+    "content": "Apple will reportedly unveil its artificial intelligence (AI) strategy in June at its annual Worldwide Developers Conference.\u00a0\r\nThe tech giant has not said what it will unveil at the event, but peopl\u2026 [+2366 chars]",
+    "short_uuid": "5f79d6ff"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Nadeen Ebrahim, Abbas AlLawati",
+    "title": "The US allowed a Gaza ceasefire resolution to pass at the UN. What does that mean for the war? - CNN",
+    "description": "While the US says the resolution is non-binding, experts differ on whether that is the case. The key is in the language of the document, they say.",
+    "url": "https://www.cnn.com/2024/03/26/middleeast/israel-gaza-ceasefire-un-resolution-war-impact-intl/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2105323078.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-03-27T07:23:00Z",
+    "content": "Editors Note: A version of this story appears in CNNs Meanwhile in the Middle East newsletter, a three-times-a-week look inside the regions biggest stories.\u00a0Sign up here.\r\nFollowing several failed at\u2026 [+8084 chars]",
+    "short_uuid": "e94086bc"
+  },
+  {
+    "source": {
+      "id": "reuters",
+      "name": "Reuters"
+    },
+    "author": "Tetsushi Kajimoto",
+    "title": "Japan makes strongest intervention warning as yen hits 34-year low - Reuters",
+    "description": "Japan's three main monetary authorities held an emergency meeting on Wednesday to discuss the weak yen, and suggested they were ready to intervene in the market to stop what they described as disorderly and speculative moves in the currency.",
+    "url": "https://www.reuters.com/markets/currencies/japan-finmin-suzuki-take-decisive-steps-vs-excessive-yen-moves-2024-03-27/",
+    "urlToImage": "https://www.reuters.com/resizer/v2/FBZZPBZBZBMJJEUTLM46GCWT6I.jpg?auth=1521417f2585d4347570d65d25a814f642e09fdcec673904c03dc852ada5937d&width=1920&height=1005&smart=true",
+    "publishedAt": "2024-03-27T07:08:07Z",
+    "content": null,
+    "short_uuid": "7f49fdd8"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": "Howard Kurtz",
+    "title": "How the media downplayed Trump\u2019s major victory on the massive bond but played up his New York trial date - Fox News",
+    "description": "Former President Donald Trump won a sizable legal victory Monday, but most of the media is either pretending that it didn't happen, or shouldn't have happened.",
+    "url": "https://www.foxnews.com/politics/how-media-downplayed-trumps-major-victory-massive-bond-played-his-new-york-trial-date",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/03/Donald-Trump-40-Wall-Street-NYC-Bond_14.jpg",
+    "publishedAt": "2024-03-27T07:00:00Z",
+    "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nPlease enter a valid email address.\r\nBy entering your e\u2026 [+6502 chars]",
+    "short_uuid": "78cac554"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "Victor Nava",
+    "title": "Trump says ex-RNC chair Ronna McDaniel is in \u2018Never Neverland\u2019 after being dropped by NBC News - New York Post ",
+    "description": "\u201cWow! Ronna McDaniel got fired by Fake News NBC. She only lasted two days, and this after McDaniel went out of her way to say what they wanted to hear,\u201d Trump wrote.",
+    "url": "https://nypost.com/2024/03/27/us-news/trump-says-ex-rnc-chair-ronna-mcdaniel-is-in-never-neverland-after-being-dropped-by-nbc-news/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/republican-presidential-candidate-former-u-79074340.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2024-03-27T06:44:00Z",
+    "content": "Former President Donald Trump on Tuesday weighed in on NBC News decision to drop ex-Republican National Committee chairwoman Ronna McDaniel from the network after complaints from on-air talent.\u00a0\r\nWow\u2026 [+2375 chars]",
+    "short_uuid": "dcf981c4"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Fox Business"
+    },
+    "author": "Landon Mion, Sarah Rumpf-Whitten",
+    "title": "Mega Millions announces winner of $1.13 billion jackpot - Fox Business",
+    "description": "The Mega Millions jackpot has a winner after Tuesday night's drawing for the estimated $1.13 billion grand prize, the fifth-largest prize in the history of the game.",
+    "url": "https://www.foxbusiness.com/lifestyle/mega-millions-jackpot-surges-1-13-billion-after-no-grand-prize-win",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/01/0/0/GettyImages-1599287301.jpg?ve=1&tl=1",
+    "publishedAt": "2024-03-27T05:08:00Z",
+    "content": "The Mega Millions jackpot announced a winner in Tuesday night's estimated $1.13 billion drawing after 30 previous drawings without a winner.\r\nThe winning numbers Tuesday night were: 7, 11, 22, 29, 38\u2026 [+2345 chars]",
+    "short_uuid": "2e305f62"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Hollywood Reporter"
+    },
+    "author": "Brian Davids",
+    "title": "\u2018Godzilla x Kong\u2019 Director Adam Wingard Talks His Cat\u2019s Influence on Godzilla and Lance Reddick\u2019s Role in \u2018The Guest 2\u2019 - Hollywood Reporter",
+    "description": "The filmmaker's pet is just one of a couple connections to the Japanese hit 'Godzilla Minus One.'",
+    "url": "http://www.hollywoodreporter.com/movies/movie-features/godzilla-x-kong-pays-tribute-minus-one-1235860045/",
+    "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/03/Godzilla-vs-Kong-and-Adam-Wingard-Split-Getty-H-2024.jpg?w=1024",
+    "publishedAt": "2024-03-26T18:11:27Z",
+    "content": "You asked, and Adam Wingard listened.\u00a0\r\nComing off of 2021\u2019s Godzilla vs. Kong, the filmmaker was keenly aware that critics and audiences wanted even more focus on the MonsterVerse titans, so his seq\u2026 [+19255 chars]",
+    "short_uuid": "6d8c2a7d"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Futurism"
+    },
+    "author": "Victor Tangermann",
+    "title": "Woman Wins Contest, Blasts Off and Docks at Space Station - Futurism",
+    "description": "Belarusian flight attendant Marina Vasilevskaya won a trip to the International Space Station as part of a national science award.",
+    "url": "https://futurism.com/the-byte/woman-wins-contest-docks-space-station",
+    "urlToImage": "https://wp-assets.futurism.com/2024/03/woman-wins-contest-docks-space-station.jpg",
+    "publishedAt": "2024-03-26T15:16:29Z",
+    "content": "\"It's a big honor for me and a big responsibility to be in this unbelievable mission.\"\r\nGolden Ticket\r\nEarlier this week, a Russian Soyuz rocket docked with the International Space Station, carrying \u2026 [+2133 chars]",
+    "short_uuid": "b64eb6d8"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "NDTV News"
+    },
+    "author": null,
+    "title": "Strongest Geomagnetic Storm In 6 Years Hits Earth: All You Need To Know - NDTV",
+    "description": "The Earth, on Sunday, was hit by the most powerful solar storm in nearly six years, causing \"a major disturbance\" in the planet's magnetic field.",
+    "url": "https://www.ndtv.com/science/strongest-geomagnetic-storm-in-6-years-hits-earth-all-you-need-to-know-5311677",
+    "urlToImage": "https://c.ndtvimg.com/2023-09/5s2bv9b_geomagnetic-storm_625x300_03_September_23.jpg",
+    "publishedAt": "2024-03-26T08:56:12Z",
+    "content": "This kind of storm could hit the planet a few times a year. (Reprsentational)\r\nThe Earth, on Sunday, was hit by the most powerful solar storm in nearly six years, causing a major disturbance\" in the \u2026 [+2803 chars]",
+    "short_uuid": "15689189"
   }
 ]
