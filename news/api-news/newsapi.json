@@ -42082,5 +42082,341 @@
     "publishedAt": "2024-03-26T18:36:34Z",
     "content": null,
     "short_uuid": "428c8d56"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "By <a href=\"/profiles/kathleen-magramo\">Kathleen Magramo</a>, Antoinette Radford, <a href=\"/profiles/alisha-ebrahimji\">Alisha Ebrahimji</a>, <a href=\"/profiles/maureen-chowdhury\">Maureen Chowdhury</a>, <a href=\"/profiles/elise-hammond\">Elise Hammond</a>, <a href=\"/profiles/tori-powell\">Tori B. Powell</a> and <a href=\"/profiles/aditi-sandal\">Aditi Sangal</a>, CNN",
+    "title": "Live updates: Baltimore Key Bridge collapse news and rescue efforts - CNN",
+    "description": "The National Transportation Safety Board chair told CNN that investigators were able to board the ship overnight and obtain the data recorder, or black box. Follow for live updates.",
+    "url": "https://www.cnn.com/us/live-news/baltimore-key-bridge-collapse-03-27-24/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/240326161111-baltimore-bridge-collapse-dle-032624-super-tease.jpg",
+    "publishedAt": "2024-03-28T00:40:45Z",
+    "content": "The investigation into the cargo ship crash into Key Bridge could take up to two years, according to National Transportation Safety Board Chair Jennifer Homendy.\r\n\"We have an amazing team of individu\u2026 [+481 chars]",
+    "short_uuid": "9f90bb5c"
+  },
+  {
+    "source": {
+      "id": "the-washington-post",
+      "name": "The Washington Post"
+    },
+    "author": "Michael H. Brown",
+    "title": "Joseph Lieberman, senator and vice-presidential nominee, dies at 82 - The Washington Post",
+    "description": "As Al Gore\u2019s Democratic running mate in 2000, he was the first Jewish candidate on the national ticket of a major party.",
+    "url": "https://www.washingtonpost.com/obituaries/2024/03/27/joe-lieberman-senator-vice-president-dead/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UNNOUAM27VTKBAUYTWQVK5KZRQ.jpg&w=1440",
+    "publishedAt": "2024-03-28T00:32:00Z",
+    "content": "Joseph I. Lieberman, the doggedly independent four-term U.S. senator from Connecticut who was the Democratic nominee for vice president in 2000, becoming the first Jewish candidate on the national ti\u2026 [+18356 chars]",
+    "short_uuid": "537145bc"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "Steve Helling",
+    "title": "Sean 'Diddy' Combs' alleged victims 'talking a lot', feds claim 'concrete, detailed, explicit allegations of sex trafficking' - New York Post ",
+    "description": "An officer with the Department of Homeland Security told The Post the case has been active for several weeks as authorities investigate a range of allegations against the 54-year-old rapper and mog\u2026",
+    "url": "https://nypost.com/2024/03/27/us-news/sean-diddy-combs-alleged-victims-talking-a-lot-feds-claim-concrete-detailed-explicit-allegations-of-sex-trafficking/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/Sean-Combs.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2024-03-27T23:59:00Z",
+    "content": "Federal officials were acting on specific allegations of sex trafficking when they raided two of Diddy\u2019s homes on Monday and they say his alleged victims have not been holding back during interviews.\u2026 [+3385 chars]",
+    "short_uuid": "f54d91d"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Jamie Gangel, Gregory Krieg",
+    "title": "CNN Exclusive: Conservative bigwig Matt Schlapp agreed to hefty settlement to end sexual assault lawsuit - CNN",
+    "description": "The Republican operative who accused American Conservative Union chairman Matt Schlapp of sexual assault last year received a significant financial settlement in exchange for dropping his lawsuit against Schlapp,\u00a0multiple sources familiar with the case told C\u2026",
+    "url": "https://www.cnn.com/2024/03/27/politics/matt-schlapp-settlement-sexual-assault-lawsuit/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2030759322.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-03-27T23:28:00Z",
+    "content": "The Republican operative who accused American Conservative Union chairman Matt Schlapp of sexual assault last year received a significant financial settlement in exchange for dropping his lawsuit aga\u2026 [+5556 chars]",
+    "short_uuid": "fcb48f69"
+  },
+  {
+    "source": {
+      "id": "ars-technica",
+      "name": "Ars Technica"
+    },
+    "author": "Stephen Clark",
+    "title": "The Delta IV Heavy, a rocket whose time has come and gone, will fly once more - Ars Technica",
+    "description": "The final Delta IV Heavy rocket is scheduled to launch Thursday, weather permitting.",
+    "url": "https://arstechnica.com/space/2024/03/the-delta-iv-heavy-a-rocket-whose-time-has-come-and-gone-will-fly-once-more/",
+    "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/53583785953_811fa811bd_k-760x380.jpg",
+    "publishedAt": "2024-03-27T23:15:43Z",
+    "content": "Enlarge/ United Launch Alliance's final Delta IV Heavy rocket, seen here in December when ground crews rolled it to the launch pad at Cape Canaveral Space Force Station, Florida.\r\n14\r\nThis is the roc\u2026 [+3972 chars]",
+    "short_uuid": "f51c471d"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CBS Sports"
+    },
+    "author": "",
+    "title": "2024 March Madness live stream: NCAA Tournament TV schedule, watch Sweet 16 streaming online Thursday - CBS Sports",
+    "description": "Everything you need to know and how to watch Thursday's Sweet 16 action in the 2024 NCAA Tournament",
+    "url": "https://www.cbssports.com/college-basketball/news/2024-march-madness-live-stream-ncaa-tournament-tv-schedule-watch-sweet-16-streaming-online-thursday/",
+    "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/03/27/e7c1fb65-fa06-4b4d-91f0-2fb83c0ee60c/thumbnail/1200x675/4e9eb17f86bbc3d3ce52016b4a41f8f7/uconn-preview-1.jpg",
+    "publishedAt": "2024-03-27T22:45:44Z",
+    "content": "The first weekend of the NCAA Tournament is for celebrating Cinderellas, but the second weekend is meant to separate the good from the great. After a few days of work back on campus, the 16 remaining\u2026 [+7582 chars]",
+    "short_uuid": "30cc1e56"
+  },
+  {
+    "source": {
+      "id": "abc-news",
+      "name": "ABC News"
+    },
+    "author": "Leah Sarnoff",
+    "title": "4 dead, 1 in critical condition after Illinois stabbing spree; suspect in custody, officials say - ABC News",
+    "description": "Rockford police say this is a multi-jurisdictional crime scene.",
+    "url": "https://abcnews.go.com/US/4-dead-1-critical-condition-after-illinois-stabbing/story?id=108567964",
+    "urlToImage": "https://i.abcnewsfe.com/a/c0a64f28-a9ff-4193-b5cd-d33618648935/Rockford-Illinois-abc-jm-240327_1711575764119_hpMain_16x9.jpg?w=1600",
+    "publishedAt": "2024-03-27T22:10:31Z",
+    "content": "An adult male allegedly stabbed multiple victims in the Rockford, Illinois area on Wednesday, leaving four people dead, one in critical condition and four others in stable condition, authorities said\u2026 [+1175 chars]",
+    "short_uuid": "511b8cca"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Israel says UN resolution damaged Gaza ceasefire talks - BBC.com",
+    "description": "Israel says the ceasefire demand led Hamas to reject a deal, but the US calls the claim inaccurate.",
+    "url": "https://www.bbc.com/news/world-middle-east-68665247",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C578/production/_133025505_mediaitem133025504.jpg",
+    "publishedAt": "2024-03-27T22:08:42Z",
+    "content": null,
+    "short_uuid": "a89e2b3b"
+  },
+  {
+    "source": {
+      "id": "associated-press",
+      "name": "Associated Press"
+    },
+    "author": "KEVIN McGILL",
+    "title": "Texas' migrant arrest law will remain on hold under new court ruling - The Associated Press",
+    "description": "Texas\u2019 plans to arrest migrants suspected of illegally entering the U.S. will remain on hold under a federal appeals court order. The ruling likely prevents enforcement of Republican Gov. Greg Abbott\u2019s new immigration law until a broader decision on whether i\u2026",
+    "url": "https://apnews.com/article/texas-migrant-arrest-law-court-blocked-f4b568e0e940b906f5c06943ac797f97",
+    "urlToImage": "https://dims.apnews.com/dims4/default/3298679/2147483647/strip/true/crop/5677x3193+0+165/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbe%2F60%2F8e62744af66191fc09d0213040e0%2Fae2ed77bc24942c6b6f18d6559a5c3c0",
+    "publishedAt": "2024-03-27T22:07:00Z",
+    "content": "NEW ORLEANS (AP) Texas plans to arrest migrants suspected of illegally entering the U.S. will remain on hold under a federal appeals court order that likely prevents enforcement of Republican Gov. Gr\u2026 [+5081 chars]",
+    "short_uuid": "a5e124e4"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Slate Magazine"
+    },
+    "author": "Dahlia Lithwick, Mark Joseph Stern",
+    "title": "The anti-abortion endgame Erin Hawley admitted to the Supreme Court. - Slate",
+    "description": "Justice Ketanji Brown Jackson zeroed in on this admission.",
+    "url": "https://slate.com/news-and-politics/2024/03/abortion-ban-erin-hawley-supreme-court.html",
+    "urlToImage": "https://compote.slate.com/images/1801f049-6159-4234-a7bd-af96345f66d6.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+    "publishedAt": "2024-03-27T20:48:00Z",
+    "content": "Somewhat lost in the debate around abortion pills and oral arguments that took place at the Supreme Court in FDA v. Alliance for Hippocratic Medicine on Tuesday was one deeply uncomfortable truth: Th\u2026 [+10888 chars]",
+    "short_uuid": "928194b9"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "GSMArena.com"
+    },
+    "author": "Ivan",
+    "title": "BOE to manufacture iPhone SE 4 displays - GSMArena.com news - GSMArena.com",
+    "description": "Samsung is seemingly out of the race. According to an industry source, BOE will likely be supplying the bulk, if not all, of the 6.1-inch OLED panels for...",
+    "url": "https://www.gsmarena.com/boe_to_manufacture_iphone_se_4_displays-news-62191.php",
+    "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/02/apple-iphone-se-boe/-952x498w6/gsmarena_000.jpg",
+    "publishedAt": "2024-03-27T20:31:01Z",
+    "content": "According to an industry source, BOE will likely be supplying the bulk, if not all, of the 6.1-inch OLED panels for the upcoming iPhone SE 4. Reportedly, Samsung dropped out of the race due to the lo\u2026 [+608 chars]",
+    "short_uuid": "52b7b0c5"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": "Emma Colton",
+    "title": "DeSantis eliminates 'squatters' rights' in Florida, gives power to cops to remove offenders - Fox News",
+    "description": "Republican Florida Gov. Ron DeSantis on Wednesday signed a bill into law that increases penalties against squatters and eliminates their \"rights\" to fraudulently live on a property.",
+    "url": "https://www.foxnews.com/politics/desantis-eliminates-squatters-rightsflorida-gives-power-cops-remove-offenders",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/03/desantissquatters.png",
+    "publishedAt": "2024-03-27T18:47:00Z",
+    "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nPlease enter a valid email address.\r\nBy entering your e\u2026 [+6333 chars]",
+    "short_uuid": "f3905049"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Disney and DeSantis allies end legal dispute over control of theme park - BBC.com",
+    "description": "The two sides have been fighting over who gets control of Disney's Florida theme park resort.",
+    "url": "https://www.bbc.com/news/world-us-canada-68675795",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B920/production/_133029374_addbd42a43358a925f380bf040aa33fa4455854e0_0_4032_30241000x750.jpg",
+    "publishedAt": "2024-03-27T18:42:20Z",
+    "content": null,
+    "short_uuid": "811feab8"
+  },
+  {
+    "source": {
+      "id": "fortune",
+      "name": "Fortune"
+    },
+    "author": "Alena Botros",
+    "title": "It\u2019s a \u2018nepo\u2019 housing market. More than a third of Gen Zers and millennials expect their parents to help with a down payment, survey finds - Fortune",
+    "description": "\u201cBecause housing costs have soared so much, many young adults with family money get help from Mom and Dad,\u201d Redfin\u2019s chief economist said.",
+    "url": "https://fortune.com/2024/03/27/housing-market-nepotism-down-payment-parents-help-gen-z-millennials/",
+    "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/03/GettyImages-475152287-e1711558715416.jpg?resize=1200,600",
+    "publishedAt": "2024-03-27T17:05:00Z",
+    "content": "Everybody needs a little help sometimes. And in this housing market, people need their parents help. More than a third of millennials and Gen Zers who are planning to buy a home expect their parents,\u2026 [+3809 chars]",
+    "short_uuid": "7d52188c"
+  },
+  {
+    "source": {
+      "id": "associated-press",
+      "name": "Associated Press"
+    },
+    "author": "MICHAEL R. SISAK",
+    "title": "Donald Trump assails judge and his daughter after gag order in New York hush-money criminal case - The Associated Press",
+    "description": "Donald Trump has lashed out at the New York judge who put him under a gag order that bars him from commenting publicly about witnesses, prosecutors, court staff and jurors in his upcoming hush-money criminal trial. Trump posted on social media Wednesday that \u2026",
+    "url": "https://apnews.com/article/donald-trump-judge-merchan-hush-money-gag-order-truth-social-daughter-578a0c6334b206d81dc2ebf6a410a502",
+    "urlToImage": "https://dims.apnews.com/dims4/default/56a4d60/2147483647/strip/true/crop/3714x2089+0+193/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb9%2F7d%2F0ec94f83cfc5fb893d2142f8b92f%2F457127337a054ef1a34a6bfe22e74381",
+    "publishedAt": "2024-03-27T16:32:02Z",
+    "content": "NEW YORK (AP) Donald Trump lashed out Wednesday at the New York judge who put him under a gag order ahead of his April 15 hush-money criminal trial, making a fallacious claim about his daughter and u\u2026 [+6145 chars]",
+    "short_uuid": "3fc229f4"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Eonline.com"
+    },
+    "author": "Olivia Evans",
+    "title": "Queen Camilla Shares Update on Kate Middleton After Cancer Diagnosis - E! NEWS",
+    "description": "Days after Kate Middleton shared her cancer diagnosis, Queen Camilla delivered a message from the Princess of Wales to supporters.",
+    "url": "https://www.eonline.com/news/1398275/queen-camilla-shares-update-on-kate-middleton-after-cancer-diagnosis",
+    "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2024227/rs_1200x1200-240327085302-katecamilla.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+    "publishedAt": "2024-03-27T16:24:00Z",
+    "content": "Queen Camilla is sharing insight amid Kate Middleton's health journey.\u00a0\r\nDays after the Princess of Wales shared her cancer diagnosis, King\u00a0Charles III's wife gave an update on how she's feeling.\r\nAf\u2026 [+868 chars]",
+    "short_uuid": "b944fa3a"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Variety"
+    },
+    "author": "Jennifer Maas",
+    "title": "\u2018Marvel Rivals\u2019 Free-to-Play Game Featuring Rocket Raccoon, Spider-Man, Magneto, Magik and 12 More Characters to Launch in May - Variety",
+    "description": "New free-to-play Marvel Games PC title \"Marvel Rivals\" will launch in May, allowing players to take on the roles of 18 iconic characters.",
+    "url": "https://variety.com/2024/gaming/news/marvel-rivals-video-game-free-to-play-trailer-1235952316/",
+    "urlToImage": "https://variety.com/wp-content/uploads/2024/03/Marvel-Rivals.jpg?w=1000&h=563&crop=1",
+    "publishedAt": "2024-03-27T16:00:00Z",
+    "content": "A new free-to-play Marvel Games PC title, Marvel Rivals, will launch in May. When it debuts, players will be able to take on the roles of 18 iconic superhero and supervillain Marvel characters, with \u2026 [+2727 chars]",
+    "short_uuid": "2f8357ca"
+  },
+  {
+    "source": {
+      "id": "business-insider",
+      "name": "Business Insider"
+    },
+    "author": "Nora Naughton",
+    "title": "Fisker cuts EV prices by $24,000 for Ocean SUV to avoid bankruptcy - Business Insider",
+    "description": "Massive price cuts for the Ocean SUV come as Fisker desperately tried to avoid bankruptcy.",
+    "url": "https://www.businessinsider.com/fisker-ocean-ev-price-cuts-stock-delisting-bankruptcy-2024-3",
+    "urlToImage": "https://i.insider.com/66043a8b1caec1275a69e16f?width=1200&format=jpeg",
+    "publishedAt": "2024-03-27T15:49:00Z",
+    "content": "Fisker's pricey Ocean SUV just got a lot more affordable.\r\nThe embattled electric-vehicle startup said Tuesday it would reduce the price of the most expensive Ocean by nearly 40% to $37,499. That bri\u2026 [+1333 chars]",
+    "short_uuid": "eeb82a41"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Gizmodo.com"
+    },
+    "author": "Isaac Schultz",
+    "title": "New Image Exposes Intense Magnetic Field of the Milky Way's Supermassive Black Hole - Gizmodo",
+    "description": "The magnetic field lines of our galaxy's central black hole are answering some questions about black hole structure.",
+    "url": "https://gizmodo.com/magnetic-fields-image-milky-way-supermassive-black-hole-1851368891",
+    "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/e40cf7b903a3103e1e2d7110cb39f0fd.png",
+    "publishedAt": "2024-03-27T15:45:00Z",
+    "content": "A new image of our galaxys central black hole reveals the magnetic field surrounding the object in polarized light. The image reveals how gas and superheated matter in the immediate vicinity of the b\u2026 [+3820 chars]",
+    "short_uuid": "8b95b371"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "MacRumors"
+    },
+    "author": "Mitchel Broussard",
+    "title": "Apple's New 13-Inch M3 MacBook Air Hits $999 Low Price on Amazon - MacRumors",
+    "description": "Apple's brand new 13-inch 256GB M3 MacBook Air has hit $999.00 today on Amazon, down from $1,099.00. This sale is available in Midnight,...",
+    "url": "https://www.macrumors.com/2024/03/27/m3-macbook-air-hits-999-low/",
+    "urlToImage": "https://images.macrumors.com/t/NL0pn18QhpvG2XW9EkdmcMB_fUs=/2500x/article-new/2024/03/macbook-air-new-blue.jpg",
+    "publishedAt": "2024-03-27T15:22:20Z",
+    "content": "Apple's brand new 13-inch 256GB M3 MacBook Air has hit $999.00 today on Amazon, down from $1,099.00. This sale is available in Midnight, but you might be able to get in Space Gray depending on stock,\u2026 [+1211 chars]",
+    "short_uuid": "a2b6ca69"
+  },
+  {
+    "source": {
+      "id": "associated-press",
+      "name": "Associated Press"
+    },
+    "author": "MOHAMMAD ZAATARI, MELANIE LIDMAN",
+    "title": "Israeli strikes in Lebanon kill 16, militant rockets kill 1 Israeli as cross-border violence soars - The Associated Press",
+    "description": "Lebanon's state news agency says Israeli airstrikes killed nine people in southern Lebanon, including paramedics who were preparing to respond to the first strike. That raises the number of people killed by Israeli strikes Wednesday to 16, making this the dea\u2026",
+    "url": "https://apnews.com/article/lebanon-israel-hebbariye-seven-paramedics-aljamaa-alislamiya-2761273e0942d6dda1577f284efd190d",
+    "urlToImage": "https://dims.apnews.com/dims4/default/e459971/2147483647/strip/true/crop/5472x3078+0+285/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb8%2F17%2Fad834282771780775f8d16643848%2Fa99dc6f784114da1904ecfa5d16320fa",
+    "publishedAt": "2024-03-27T14:38:26Z",
+    "content": "HEBBARIYE, Lebanon (AP) A series of Israeli airstrikes in southern Lebanon killed 16 people and a barrage of rockets fired by the militant group Hezbollah killed one Israeli man, making Wednesday the\u2026 [+3665 chars]",
+    "short_uuid": "1d1214f7"
+  },
+  {
+    "source": {
+      "id": "reuters",
+      "name": "Reuters"
+    },
+    "author": "Chuck Mikolajczak",
+    "title": "Dow leads Wall St higher in lean trading week - Reuters",
+    "description": "U.S. stocks were higher on Wednesday, with the Dow leading gains and the S&P 500 setting a closing record, paced drugmaker Merck, while investors looked towards the next piece of inflation data and Federal Reserve commentary for signals on the rate path.",
+    "url": "https://www.reuters.com/markets/us/futures-recover-focus-shifts-fed-officials-comments-2024-03-27/",
+    "urlToImage": "https://www.reuters.com/resizer/v2/QTWGWNW3RBLQRGEWNITWTMPP6I.jpg?auth=8c9fe93d2596b80c077c2fcbc9ca821bb66122f209531dac4a701a4eb5cf27b3&width=1920&height=1005&smart=true",
+    "publishedAt": "2024-03-27T14:11:00Z",
+    "content": null,
+    "short_uuid": "b92476b0"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Pure Xbox"
+    },
+    "author": "Ben Kerry",
+    "title": "Diablo 4 Adds Console Ray Tracing Ahead Of Xbox Game Pass Debut - Pure Xbox",
+    "description": "\"Patch 1.3.5. introduces Raytracing to all supported platforms\"",
+    "url": "https://www.purexbox.com/news/2024/03/diablo-4-adds-console-ray-tracing-ahead-of-xbox-game-pass-debut",
+    "urlToImage": "https://images.purexbox.com/d85c13aa3425b/1280x720.jpg",
+    "publishedAt": "2024-03-27T11:45:00Z",
+    "content": "Blizzard has detailed its big ray tracing update for Diablo 4, right on the eve of the title's Xbox Game Pass debut. Patch 1.3.5 \"introduces Raytracing to all supported platforms\", alongside a host o\u2026 [+1563 chars]",
+    "short_uuid": "96eff258"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "9to5google.com"
+    },
+    "author": "Ben Schoon",
+    "title": "Android Automotive gets slick UI theming in 'SnappOS' - 9to5Google",
+    "description": "Google's Android Automotive is getting some super slick UI theming through the third-party build, SnappOS, which runs on cars and head units.",
+    "url": "http://9to5google.com/2024/03/26/android-automotive-theming-snappos/",
+    "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/03/snappos-android-automotive-theming.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-03-26T20:30:00Z",
+    "content": "Android Automotive is set to play a huge role in vehicles and a big part of its appeal is that, generally speaking, apps and the OS as a whole feel and look better than traditional in-car software. N\u2026 [+1633 chars]",
+    "short_uuid": "6640c4fd"
   }
 ]
