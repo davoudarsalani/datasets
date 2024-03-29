@@ -42656,5 +42656,313 @@
     "publishedAt": "2024-03-27T05:00:00Z",
     "content": "The first US journalist to be held by Russia on allegations of spying since 1986 saw his pretrial detention extended for a fifth time on Tuesday. Evan Gershkovich was ordered to remain in Moscow's Le\u2026 [+461 chars]",
     "short_uuid": "f0972f98"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "TOI World Desk",
+    "title": "Four including 15-year-old die, 7 injured in series of stabbing in Illinois - The Times of India",
+    "description": "US News: NEW DELHI: Four people lost their lives and seven sustained injuries in a series of stabbings across various locations in northern Illinois.",
+    "url": "https://timesofindia.indiatimes.com/world/us/four-including-15-year-old-die-7-injured-in-series-of-stabbing-in-illinois/articleshow/108836657.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-108836681,width-1070,height-580,imgsize-156840,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+    "publishedAt": "2024-03-28T04:11:00Z",
+    "content": null,
+    "short_uuid": "9d23fde1"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Joe Lieberman, former vice presidential candidate, dies at 82 - BBC.com",
+    "description": "The former US Senator was Al Gore's running mate in the 2000 presidential election",
+    "url": "https://www.bbc.com/news/world-us-canada-68681088",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7E57/production/_133034323_gettyimages-158569262.jpg",
+    "publishedAt": "2024-03-28T03:02:26Z",
+    "content": null,
+    "short_uuid": "b7eb5591"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "By <a href=\"/profiles/kathleen-magramo\">Kathleen Magramo</a>, Antoinette Radford, <a href=\"/profiles/alisha-ebrahimji\">Alisha Ebrahimji</a>, <a href=\"/profiles/maureen-chowdhury\">Maureen Chowdhury</a>, <a href=\"/profiles/elise-hammond\">Elise Hammond</a>, <a href=\"/profiles/tori-powell\">Tori B. Powell</a> and <a href=\"/profiles/aditi-sandal\">Aditi Sangal</a>, CNN",
+    "title": "The latest on the Baltimore Key Bridge collapse: Live updates - CNN",
+    "description": "The National Transportation Safety Board chair told CNN that investigators were able to board the ship overnight and obtain the data recorder, or black box. Follow for live updates.",
+    "url": "https://www.cnn.com/us/live-news/baltimore-key-bridge-collapse-03-27-24/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/240326161111-baltimore-bridge-collapse-dle-032624-super-tease.jpg",
+    "publishedAt": "2024-03-28T02:40:27Z",
+    "content": "Baltimore City Fire Chief James Wallace said Wednesday that the cargo ship's bridge structure and containers at the bow remain unstable.\r\n\"It's going to be very difficult, if not impossible, and very\u2026 [+616 chars]",
+    "short_uuid": "356d328b"
+  },
+  {
+    "source": {
+      "id": "the-washington-post",
+      "name": "The Washington Post"
+    },
+    "author": "Sabrina Malhi",
+    "title": "Puerto Rico declares dengue fever an epidemic as cases rise - The Washington Post",
+    "description": "More than 500 cases have been reported from the island.",
+    "url": "https://www.washingtonpost.com/health/2024/03/27/puerto-rico-dengue-fever-epidemic/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5JSQIQWG6CDJW7HSHBQZC2TEJE_size-normalized.jpg&w=1440",
+    "publishedAt": "2024-03-28T02:19:00Z",
+    "content": "On Monday, government leaders in Puerto Rico declared a dengue epidemic after a spike in cases of the mosquito-borne disease hit the island.\r\nFrom the start of the year through March 10, there were 5\u2026 [+5736 chars]",
+    "short_uuid": "6a1bcc8c"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CBS Sports"
+    },
+    "author": "",
+    "title": "March Madness 2024: Ranking all Sweet 16 games as NCAA Tournament rolls on to regional semifinals - CBS Sports",
+    "description": "Here is the breakdown of which games are going to be the best in Thursday and Friday's regional semifinals",
+    "url": "https://www.cbssports.com/college-basketball/news/march-madness-2024-ranking-all-sweet-16-games-as-ncaa-tournament-rolls-on-to-regional-semifinals/",
+    "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/03/27/c557721f-9b53-46aa-aaf4-bf3ad85daa90/thumbnail/1200x675/6ccf7a3a9795ccca275f0bf7f7a24493/uconn-houston-getty.jpg",
+    "publishedAt": "2024-03-28T02:00:01Z",
+    "content": "The first weekend of the NCAA Tournament provided a taste of everything that makes March Madness so incredible. There were upsets, overtimes, unforgettable finishes and heroic individual performances\u2026 [+4963 chars]",
+    "short_uuid": "e4f6fdae"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Sam Bankman-Fried: Disgraced 'Crypto King' to be sentenced - BBC.com",
+    "description": "The former boss of bankrupt crypto exchange FTX is due to be sentenced for multi-billion dollar fraud.",
+    "url": "https://www.bbc.com/news/business-68560911",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/38FE/production/_133009541_gettyimages-1258710788.jpg",
+    "publishedAt": "2024-03-28T00:06:09Z",
+    "content": null,
+    "short_uuid": "3b0a4031"
+  },
+  {
+    "source": {
+      "id": "the-washington-post",
+      "name": "The Washington Post"
+    },
+    "author": "Sarah Ellison, Josh Dawsey",
+    "title": "NBC offered Ronna McDaniel a better contract to appear on MSNBC - The Washington Post",
+    "description": "The cable channel was part of the broad push to clinch a contributor deal for McDaniel, whose hiring caused an uproar.",
+    "url": "https://www.washingtonpost.com/politics/2024/03/27/ronna-mcdaniel-nbc-msnbc-contract/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KHML6ZKNYNG6BP2VUZ5E23QTRE.JPG&w=1440",
+    "publishedAt": "2024-03-27T23:54:14Z",
+    "content": "MSNBC President Rashida Jones participated in recruiting former Republican National Committee chair Ronna McDaniel earlier this month and McDaniel was offered a more lucrative contributor contract af\u2026 [+6140 chars]",
+    "short_uuid": "46392d90"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Entertainment Tonight"
+    },
+    "author": "Zach Seemayer",
+    "title": "Michael Jackson's Kids Make Rare Joint Appearance at 'MJ: The Musical' Preview Night in London - Entertainment Tonight",
+    "description": "Prince, Paris and Bigi walked the red carpet together in London on Wednesday night.",
+    "url": "https://www.etonline.com/michael-jacksons-kids-make-rare-joint-appearance-at-mj-the-musical-preview-night-in-london-222503",
+    "urlToImage": "https://www.etonline.com/sites/default/files/styles/1280x720/public/images/2024-03/Jacksons_GettyImages-2117918841_1280.jpg?h=c673cd1c",
+    "publishedAt": "2024-03-27T23:35:00Z",
+    "content": "Michael Jackson's three children came together for a rare public appearance to honor their late father's memory.\r\nPrince Jackson, 27, Paris Jackson, 25, and Bigi Jackson, 22, were dressed to the nine\u2026 [+1717 chars]",
+    "short_uuid": "3ab838ce"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "MarketWatch"
+    },
+    "author": "Aarthi Swaminathan",
+    "title": "Ending 6% commissions could create a \u2018Venus flytrap\u2019 for home buyers: economist - MarketWatch",
+    "description": "\u2018I hope the presiding judge throws the settlement out,\u2019 economist says",
+    "url": "https://www.marketwatch.com/story/ending-6-commissions-could-create-a-venus-flytrap-situation-for-home-buyers-economist-says-7183a706",
+    "urlToImage": "https://images.mktw.net/im-53201021/social",
+    "publishedAt": "2024-03-27T23:22:00Z",
+    "content": "Following a landmark settlement reached by the countrys largest real-estate-industry group, the housing market is on the precipice of a major change thats poised to disrupt how people buy and sell ho\u2026 [+146 chars]",
+    "short_uuid": "3bc90244"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "MacRumors"
+    },
+    "author": "Juli Clover",
+    "title": "Google Maps Gains New AI Tools, Updated Recommendation Lists and More - MacRumors",
+    "description": "Google today announced several changes that it is making to the Google Maps platform, including an AI update. Google Maps now provides better...",
+    "url": "https://www.macrumors.com/2024/03/27/google-maps-ai-tools-list-updates/",
+    "urlToImage": "https://images.macrumors.com/t/uxvAb0lSH0Ey8ett4qRR4f2kcZA=/2250x/article-new/2021/04/Google-maps-feaure-purple.jpg",
+    "publishedAt": "2024-03-27T23:18:56Z",
+    "content": "Google today announced several changes that it is making to the Google Maps platform, including an AI update. Google Maps now provides better at-a-glance information on locations, with the details po\u2026 [+1303 chars]",
+    "short_uuid": "f20d94ec"
+  },
+  {
+    "source": {
+      "id": "espn",
+      "name": "ESPN"
+    },
+    "author": "Katherine Terrell",
+    "title": "Daniels honors teammate with cancer at pro day - ESPN",
+    "description": "Quarterback Jayden Daniels honored former teammate Greg Brooks Jr. by wearing a shirt with his name and number on it at LSU's pro day.",
+    "url": "https://www.espn.com/nfl/story/_/id/39822312/jayden-daniels-honors-former-teammate-lsu-pro-day",
+    "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0302%2Fr1298715_1296x729_16%2D9.jpg",
+    "publishedAt": "2024-03-27T23:01:00Z",
+    "content": "BATON ROUGE, La. -- Jayden Daniels was true to his word.\r\nThe LSU quarterback and 2023 Heisman Trophy winner worked out in front of NFL teams at LSU's pro day after declining to do so during the NFL \u2026 [+6976 chars]",
+    "short_uuid": "46327525"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Healthline"
+    },
+    "author": "Shawn Radcliffe",
+    "title": "Bird Flu: Virus Has Spread to Cows In Multiple States - Healthline",
+    "description": "Milk samples from sick cattle at two dairy farms in Kansas and one in Texas tested positive for highly pathogenic avian influenza (HPAI) virus, aka \u201cbird flu\u201d virus. Officials from the USDA said there is no concern about the safety of the commercial milk supp\u2026",
+    "url": "https://www.healthline.com/health-news/bird-flu-detected-in-dairy-cows",
+    "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/2024/03/dairy-cow-1200x628-facebook.jpg",
+    "publishedAt": "2024-03-27T21:51:48Z",
+    "content": "<ul><li>Sick dairy cows from Kansas and Texas have tested positive for bird flu.</li><li>Federal and state veterinary and public health officials have been investigating an illness affecting cows in \u2026 [+6990 chars]",
+    "short_uuid": "4a13b6e8"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "Ariel Zilber",
+    "title": "Disney, DeSantis allies settle lawsuit over special district - New York Post ",
+    "description": "Allies of Florida Gov. Ron DeSantis and The Walt Disney Company have settled their legal dispute over the status of the semi-autonomous governing district that controls the land where the entertain\u2026",
+    "url": "https://nypost.com/2024/03/27/business/disney-desantis-allies-settle-lawsuit-over-special-district/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/newspress-collage-gxgf5mdt2-1711552272860.jpg?quality=75&strip=all&1711537940&w=1024",
+    "publishedAt": "2024-03-27T21:09:32Z",
+    "content": "Disney on Wednesday capitulated in its long-running legal battle against Florida Gov. Ron DeSantis \u2014 handing a victory to the Republican in the high-stakes fight over a $17 billion planned developmen\u2026 [+3572 chars]",
+    "short_uuid": "c5294d01"
+  },
+  {
+    "source": {
+      "id": "the-verge",
+      "name": "The Verge"
+    },
+    "author": "Sheena Vasani",
+    "title": "The new MacBook Air M3 is $100 off for the first time - The Verge",
+    "description": "Apple\u2019s M3-powered MacBook is down to $999.99 in black, which is a $100 discount we\u2019re seeing for the first time.",
+    "url": "https://www.theverge.com/2024/3/27/24113809/apple-macbook-air-m3-deal-sale",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/jpk-FhSV3aZmPpHRHFcLgdpdZXw=/0x0:1960x1102/1200x628/filters:focal(980x551:981x552)/cdn.vox-cdn.com/uploads/chorus_asset/file/25317890/Apple_MacBook_Air_lifestyle_gaming_240304_big.jpg.large_2x.jpg",
+    "publishedAt": "2024-03-27T20:08:54Z",
+    "content": "The new MacBook Air M3 is $100 off for the first time\r\nThe new MacBook Air M3 is $100 off for the first time\r\n / Apples newest laptop is down to a new all-time low just three weeks after its release.\u2026 [+1201 chars]",
+    "short_uuid": "a2917ffa"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "On3.com"
+    },
+    "author": "Griffin McVeigh",
+    "title": "2024 NFL Draft: ESPN releases updated 7-round mock draft with big trades - 5GOATs",
+    "description": "Just over a month before heading to Detroit for the 2024 NFL Draft, ESPN has released an updated seven-round mock draft.",
+    "url": "https://www.on3.com/pro/news/2024-nfl-draft-espn-releases-updated-7-round-mock-draft-with-big-trades/",
+    "urlToImage": "https://on3static.com/uploads/dev/assets/cms/2024/03/27142609/nfl-afi.png",
+    "publishedAt": "2024-03-27T19:28:33Z",
+    "content": "We are getting closer to the 2024 NFL Draft, with the process rolling on. Multiple Pro Days have occurred, with teams getting a look at some players who did not participate in the NFL Combine. Draft \u2026 [+8401 chars]",
+    "short_uuid": "15af2940"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Holly Ellyatt, Sophie Kiderlin",
+    "title": "Ukraine war updates: Russia says it's 'hard to believe' Islamic State group behind terror attack; death toll rises to 140 - CNBC",
+    "description": "Russian officials continue to accuse the West and Ukraine of involvement in the Crocus City Hall attack last Friday in which 140 people were killed.",
+    "url": "https://www.cnbc.com/2024/03/27/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107393468-1711539035419-gettyimages-2097711491-AFP_34M24QH.jpeg?v=1711541359&w=1920&h=1080",
+    "publishedAt": "2024-03-27T19:04:26Z",
+    "content": "The Kremlin refused to comment Tuesday on whether it believed there was a link between the Ukrainian government and the gunmen who killed 139 people in a terrorist attack on a Moscow concert hall las\u2026 [+1433 chars]",
+    "short_uuid": "15c31092"
+  },
+  {
+    "source": {
+      "id": "the-washington-post",
+      "name": "The Washington Post"
+    },
+    "author": "Joel Achenbach",
+    "title": "The leap second is being affected by climate change, scientists warn - The Washington Post",
+    "description": "The melting of polar ice due to global warming is affecting Earth\u2019s rotation and could have an impact on precision timekeeping, a new study says.",
+    "url": "https://www.washingtonpost.com/science/2024/03/27/leap-second-melting-poles-climate-time/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RLRA5V5Y4ZBTWP5RXTIQ5MVYA4_size-normalized.jpg&w=1440",
+    "publishedAt": "2024-03-27T19:00:00Z",
+    "content": "Climate change is messing with time itself.\r\nThe melting of polar ice due to global warming is affecting Earths rotation and could have an impact on precision timekeeping, according to a paper publis\u2026 [+5033 chars]",
+    "short_uuid": "92a0ed97"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "NASA"
+    },
+    "author": null,
+    "title": "Contribute to NASA Research on Eclipse Day \u2013 and Every Day - Science@NASA",
+    "description": "NASA is celebrating the Sun during the Heliophysics Big Year, which extends through the end of 2024. You can get involved to help us learn more about our star and its influence on our planet. With exciting experiments happening during the total solar eclipse \u2026",
+    "url": "https://science.nasa.gov/solar-system/skywatching/contribute-to-nasa-research-on-eclipse-day-and-every-day/",
+    "urlToImage": "https://science.nasa.gov/wp-content/uploads/2022/10/eclipse-map-2024-notext-1920.png?w=640",
+    "publishedAt": "2024-03-27T18:58:11Z",
+    "content": "NASA sponsors citizen science projects across all five areas of research that it pursues: Earth science, planetary science, astrophysics, biological and physical sciences, and heliophysics. And yes, \u2026 [+70 chars]",
+    "short_uuid": "2815502b"
+  },
+  {
+    "source": {
+      "id": "ign",
+      "name": "IGN"
+    },
+    "author": "Michael Cripe",
+    "title": "PlayStation Plus Games for April 2024 Announced - IGN",
+    "description": "Sony has unveiled the PlayStation Plus games for April 2024, revealing three new additions players can check out on PlayStation 4 and PlayStation 5 next month.",
+    "url": "https://www.ign.com/articles/playstation-plus-games-for-april-2024-announced",
+    "urlToImage": "https://assets-prd.ignimgs.com/2024/03/27/immortals-of-aveum-1711559537999.jpg?width=1280",
+    "publishedAt": "2024-03-27T18:13:19Z",
+    "content": "Sony has unveiled the PlayStation Plus games for April 2024, revealing three new additions players can check out on PlayStation 4 and PlayStation 5 next month.\r\nThe company went over the latest batch\u2026 [+3061 chars]",
+    "short_uuid": "6dc4d4f6"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "NBC4 WCMH-TV"
+    },
+    "author": "Cierra Johnson",
+    "title": "Measles outbreak prompts health warning - NBC4 WCMH-TV",
+    "description": "COLUMBUS, Ohio (WCMH) \u2013 The number of U.S. measles cases in the first three months of 2024 has already equaled all of the cases for 2023. This is sparking a health alert from local, state, and federal health agencies. Health officials in the Dayton area are w\u2026",
+    "url": "https://www.nbc4i.com/news/local-news/columbus/measles-outbreak-prompts-health-warning/",
+    "urlToImage": "https://www.nbc4i.com/wp-content/uploads/sites/18/2024/02/measles-on-child.png?w=1280",
+    "publishedAt": "2024-03-27T00:30:00Z",
+    "content": "COLUMBUS, Ohio (WCMH) The number of U.S. measles cases in the first three months of 2024 has already equaled all of the cases for 2023.\r\nThis is sparking a health alert from local, state, and federal\u2026 [+1202 chars]",
+    "short_uuid": "ee95a5d6"
+  },
+  {
+    "source": {
+      "id": "entertainment-weekly",
+      "name": "Entertainment Weekly"
+    },
+    "author": "https://www.facebook.com/entertainmentweekly",
+    "title": "Drake Bell and more Nickelodeon stars will return for a new episode of 'Quiet on Set' - Entertainment Weekly News",
+    "description": "Drake Bell and several other Nickelodeon stars will reunite in a fifth episode of 'Quiet on Set: The Dark Side of Kids TV' in April.",
+    "url": "https://ew.com/drake-bell-return-new-episode-quiet-on-set-8620664",
+    "urlToImage": "https://ew.com/thmb/yTjb4AwEqoJSTSTtmD2RD-f8MZE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Drake-Bell-032624-a5b65cecdea744b1b8e6a40b5ed2be6d.jpg",
+    "publishedAt": "2024-03-26T19:28:28Z",
+    "content": "Drake Bell isnt quite finished telling his story.\r\nThe Investigation Discovery series Quiet on Set: The Dark Side of Kids TV will return for an additional fifth episode on Sunday, April 7 at 8:00 p.m\u2026 [+2315 chars]",
+    "short_uuid": "1edf87e8"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "9to5Mac"
+    },
+    "author": "Chance Miller",
+    "title": "Apple teases 'Absolutely Incredible' AI-focused WWDC - 9to5Mac",
+    "description": "Apple officially set the dates for WWDC 2024 today, revealing that the event will take place from June 10 through...",
+    "url": "https://9to5mac.com/2024/03/26/wwdc-2024-ai-features/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/ios-18-siri-ai.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-03-26T18:46:00Z",
+    "content": "Apple officially set the dates for WWDC 2024 today, revealing that the event will take place from June 10 through June 14. As if there were any doubts that artificial intelligence will be a key part \u2026 [+713 chars]",
+    "short_uuid": "1bffb480"
   }
 ]
