@@ -47822,5 +47822,229 @@
     "publishedAt": "2024-03-29T17:13:00Z",
     "content": "WASHINGTON (AP) The Environmental Protection Agency on Friday set strict emissions standards for heavy-duty trucks, buses and other large vehicles, an action that officials said will help clean up so\u2026 [+6500 chars]",
     "short_uuid": "a647c02b"
+  },
+  {
+    "source": {
+      "id": "the-wall-street-journal",
+      "name": "The Wall Street Journal"
+    },
+    "author": "Alex Leary, Corinne Ramey",
+    "title": "Trump's Split-Screen Strategy: Put Criminal Trial at Center of His Campaign - The Wall Street Journal",
+    "description": "Presumptive GOP nominee will soon be in a New York courtroom four days a week",
+    "url": "https://www.wsj.com/politics/elections/trumps-split-screen-strategy-put-criminal-trial-at-center-of-his-campaign-0767fb34",
+    "urlToImage": "https://images.wsj.net/im-943656/social",
+    "publishedAt": "2024-03-30T04:00:00Z",
+    "content": null,
+    "short_uuid": "7987631c"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Samantha Beech, Sharif Paget",
+    "title": "7 taken to New York hospital for observation after \u2018severe turbulence\u2019 on United flight, official says - CNN",
+    "description": "Seven people were taken to a New York hospital for observation after experiencing severe turbulence on a United Airlines flight, according to a local EMS chief.",
+    "url": "https://www.cnn.com/2024/03/29/us/new-york-united-flight-turbulence/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1252905815.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-03-30T03:15:00Z",
+    "content": "Seven people were taken to a New York hospital for observation after experiencing severe turbulence on a United Airlines flight Friday night, according to a local EMS chief.\r\nThe flight, which was tr\u2026 [+1529 chars]",
+    "short_uuid": "948e3cea"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Jack Baer",
+    "title": "March Madness: South Carolina survives Indiana comeback bid, now 3 wins from perfect season - Yahoo Sports",
+    "description": "Indiana cut a 22-point South Carolina lead to two points.",
+    "url": "https://sports.yahoo.com/march-madness-south-carolina-survives-indiana-comeback-bid-now-3-wins-from-perfect-season-230723436.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/7HgVvf7RAiHWxuWLYIEaEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/cbbf7370-ee20-11ee-bfb6-44b325dc5440",
+    "publishedAt": "2024-03-30T02:47:00Z",
+    "content": "South Carolina is three wins away from perfection, despite looking significantly less than perfect Friday.\r\nThe No. 1 seed Gamecocks survived a comeback attempt from No. 4 Indiana in the Sweet 16, pu\u2026 [+2569 chars]",
+    "short_uuid": "ffa1f978"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Florida Today"
+    },
+    "author": "Brooke Edwards, Mara Bellaby",
+    "title": "SpaceX Falcon 9 rocket launch doubleheader coming up on Cape Saturday - Florida Today",
+    "description": "Two SpaceX Falcon 9 rockets could take to the skies over Florida in back-to-back Saturday evening launches.",
+    "url": "https://www.floridatoday.com/story/tech/science/space/2024/03/29/spacex-rocket-launch-doubleheader-cape-canaveral-starlink-delta-iv-heavy-ula-falcon-9/73138596007/",
+    "urlToImage": "https://www.floridatoday.com/gcdn/authoring/authoring-images/2024/03/28/PBRE/73137828007-crb-032824-delta-16.jpg?crop=3613,2032,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
+    "publishedAt": "2024-03-30T00:56:41Z",
+    "content": "While the wait to say farewell to the Delta IV Heavy continues, locals and spring breakers are in for a possible double rocket launch show on Saturday.\r\nIf all goes according to plan, two Falcon 9 ro\u2026 [+4325 chars]",
+    "short_uuid": "b0bcd78a"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "POLITICO.eu"
+    },
+    "author": "Eva Hartog",
+    "title": "Putin the autocrat comes of age \u2013 POLITICO - POLITICO Europe",
+    "description": "\u0422he Moscow attack by radical Islamists could have been a wake-up call. But it doesn\u2019t seem like it will be.",
+    "url": "https://www.politico.eu/article/vladimir-putin-autocrat-election-terrorism/",
+    "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/03/29/12126084-scaled.jpg",
+    "publishedAt": "2024-03-30T00:29:00Z",
+    "content": "But it also resulted in him suffering delusional beliefs about the state of affairs in his country, as underlings feared sharing any information that could be seen as negative, Umarov said.\u00a0\r\nHe adde\u2026 [+936 chars]",
+    "short_uuid": "949ca025"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "PBS"
+    },
+    "author": "William Brangham, Ali Schmitz",
+    "title": "Brooks and Capehart on Biden's record fundraiser and the importance of campaign spending - PBS NewsHour",
+    "description": "New York Times columnist David Brooks and Washington Post associate editor Jonathan Capehart join William Brangham to discuss the week in politics, including a record fundraiser that nets the Biden campaign millions, a stock market debut that could potentiall\u2026",
+    "url": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-bidens-record-fundraiser-and-the-importance-of-campaign-spending",
+    "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2024/03/brooksandcapehart-3-1024x576.jpg",
+    "publishedAt": "2024-03-30T00:13:24Z",
+    "content": "Jonathan Capehart:\r\nWell, let's be clear that the Ronna McDaniel hiring was an NBC News hire. I'm at MSNBC. I'm not at NBC News.\r\nAnd when the announcement was made, e-mail came into the inbox. I sen\u2026 [+1098 chars]",
+    "short_uuid": "66c17e6b"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": "Brie Stimson",
+    "title": "NY Gov. Kathy Hochul leaves NYPD Officer Jonathan Diller's wake abruptly after 10 minutes; bystanders clap - Fox News",
+    "description": "Just minutes after arriving at the wake of a slain NYPD officer, New York Gov. Kathy Hochul left following a short discussion with someone there.",
+    "url": "https://www.foxnews.com/us/people-heard-clapping-ny-gov-hochul-abruptly-leaves-slain-nypd-officers-wake-after-just-ten-minutes",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/03/hochul.jpg",
+    "publishedAt": "2024-03-29T23:03:26Z",
+    "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nPlease enter a valid email address.\r\nBy entering your e\u2026 [+3090 chars]",
+    "short_uuid": "6276bde1"
+  },
+  {
+    "source": {
+      "id": "cbs-news",
+      "name": "CBS News"
+    },
+    "author": "Daniel Klaidman",
+    "title": "Fulton County DA Fani Willis plans to take a lead role in trying Trump case - CBS News",
+    "description": "Two weeks after Fulton County District Attorney Fani Willis survived a bid\u200b by defense lawyers to have her disqualified from the Georgia election interference case\u200b, she has all but taken over the case personally,",
+    "url": "https://www.cbsnews.com/news/fulton-county-da-fani-willis-trump-case-georgia/",
+    "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/03/29/4f6bc415-d60c-4099-bbef-e1a870d568af/thumbnail/1200x630/6445d6f077cf84fce50426eb2e7bdf21/ap24046805202636.jpg?v=3d62f4cc0092e6eb151a9685301ed284",
+    "publishedAt": "2024-03-29T22:34:00Z",
+    "content": "Two weeks after Fulton County District Attorney Fani Willis survived a bid by defense lawyers to have her disqualified from the Georgia election interference case, she has all but taken over the case\u2026 [+6518 chars]",
+    "short_uuid": "c53f1888"
+  },
+  {
+    "source": {
+      "id": "usa-today",
+      "name": "USA Today"
+    },
+    "author": "Nancy Armour",
+    "title": "Notre Dame's Hannah Hidalgo calls 'BS' on order to remove nose ring - USA TODAY",
+    "description": "Hannah Hidalgo, Notre Dame's All-America point guard, sat more than four minutes in second quarter after officials said she had to remove nose ring.",
+    "url": "https://www.usatoday.com/story/sports/ncaaw/2024/03/29/hannah-hidalgo-notre-dame-remove-nose-ring/73150100007/",
+    "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/03/29/USAT/73150344007-hannah.jpg?crop=2398,1348,x0,y78&width=2398&height=1348&format=pjpg&auto=webp",
+    "publishedAt": "2024-03-29T22:32:20Z",
+    "content": "ALBANY, N.Y. Hannah Hidalgo said it was BS she had to sit out for more than four minutes while her nose piercing was removed and said it disrupted her game.\r\nNotre Dames All-America point guard has w\u2026 [+1662 chars]",
+    "short_uuid": "a8e06c5c"
+  },
+  {
+    "source": {
+      "id": "cbs-news",
+      "name": "CBS News"
+    },
+    "author": "Kate Gibson",
+    "title": "What U.S. consumers should know about the health supplement linked to 5 deaths in Japan - CBS News",
+    "description": "Products containing red yeast rice and meant to lower cholesterol are also sold in the U.S., but what they contain can be murky.",
+    "url": "https://www.cbsnews.com/news/cholesterol-supplements-japan-pill-recall-red-yeast-benikoji/",
+    "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/03/29/c1e574c0-5313-44fe-84d9-9f6be9164ad5/thumbnail/1200x630/320e877033485733de3a5a5923cde1d2/gettyimages-1290451277.jpg?v=3d62f4cc0092e6eb151a9685301ed284",
+    "publishedAt": "2024-03-29T22:29:23Z",
+    "content": "The recall of red yeast products linked to at least five deaths in Japan may have Americans questioning the safety of a range of dietary supplements containing the ingredient and readily found online\u2026 [+3915 chars]",
+    "short_uuid": "4c597022"
+  },
+  {
+    "source": {
+      "id": "espn",
+      "name": "ESPN"
+    },
+    "author": "ESPN",
+    "title": "Sources: Eagles sending edge rusher Haason Reddick to Jets - ESPN",
+    "description": "The Philadelphia Eagles are sending edge rusher Haason Reddick to the New York Jets for a conditional 2026 third-round pick that could be a second, sources told ESPN's Adam Schefter on Friday.",
+    "url": "https://www.espn.com/nfl/story/_/id/39834145/eagles-sending-edge-rusher-haason-reddick-jets",
+    "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fmedia%2Fmotion%2F2024%2F0329%2Fdm_240329_Haason_Reddick_analysis%2Fdm_240329_Haason_Reddick_analysis.jpg",
+    "publishedAt": "2024-03-29T20:45:31Z",
+    "content": "Mar 29, 2024, 04:15 PM ET\r\nThe Philadelphia Eagles are sending edge rusher Haason Reddick to the New York Jets for a conditional 2026 third-round pick that could be a second, sources told ESPN's Adam\u2026 [+290 chars]",
+    "short_uuid": "17e4ec45"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Kotaku"
+    },
+    "author": "Moises Taveras",
+    "title": "Destiny 2 Changes Course On Into The Light Weapon Rollout - Kotaku",
+    "description": "Players will now be able to get their hands on all the new weapons in a matter of weeks rather than a month and a half",
+    "url": "https://kotaku.com/destiny-2-into-the-light-brave-arsenal-changes-1851375440",
+    "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/56e4d31ef9d18cd4e30b4c8f5bb13c82.jpg",
+    "publishedAt": "2024-03-29T20:45:00Z",
+    "content": "Late last year, it was reported that Destiny 2s upcoming expansion, The Final Shape, was getting delayed amidst struggles and layoffs at Bungie. The expansion, which was initially supposed to release\u2026 [+3317 chars]",
+    "short_uuid": "50444546"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": "Gabriel Hays",
+    "title": "Wall Street Journal leaves front page portion blank in honor of Evan Gershkovich: 'His story should be here' - Fox News",
+    "description": "The Wall Street Journal put a large blank space in honor of reporter Evan Gershkovich on its front page Friday, to mark one year he's been imprisoned in Russia.",
+    "url": "https://www.foxnews.com/media/wall-street-journal-leaves-front-page-portion-blank-honor-evan-gershkovich-story-should-here",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/03/EVAN.COLLEAGUES_splash.jpg",
+    "publishedAt": "2024-03-29T19:01:00Z",
+    "content": "The Wall Street Journal put a massive blank space on its front page on Friday in honor of Evan Gershkovich, its correspondent who's been imprisoned in Russia for exactly one year.\r\nThe media outlet s\u2026 [+2885 chars]",
+    "short_uuid": "322ff06c"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Deadline"
+    },
+    "author": "Nancy Tartaglione",
+    "title": "\u2018Godzilla X Kong\u2019 Off To Kingly Start Overseas, Storms China In Friday Debut \u2013 International Box Office - Deadline",
+    "description": "Godzilla x Kong is roaring at the international box office with $15.9M through Thursday which doesn't include the $13.4M China opening day today",
+    "url": "http://deadline.com/2024/03/godzilla-x-kong-the-new-empire-china-global-international-box-office-1235871670/",
+    "urlToImage": "https://deadline.com/wp-content/uploads/2024/03/MV5BMjNlY2UxYTMtYzMzNC00ZGEyLTk4ODUtNTI3ODYxOTY2OWY4XkEyXkFqcGdeQWFybm8@._V1_QL75_UX500_CR00500281_.jpg?w=500",
+    "publishedAt": "2024-03-29T17:56:00Z",
+    "content": "Warner Bros/Legendary Entertainment\u2019s Godzilla x Kong: The New Empire is out and roaring at the international box office, generating $15.9M from 49 markets through its first two days overseas (Wed/Th\u2026 [+1581 chars]",
+    "short_uuid": "618febd7"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Jackie Wattles",
+    "title": "An Everest-size volcano hiding in plain sight on Mars? New research make waves in the science community - CNN",
+    "description": "A massive volcano may be hiding in plain sight on Mars, according to a report from two researchers that\u2019s making waves in the planetary science community.",
+    "url": "https://www.cnn.com/2024/03/29/world/mars-volcano-glacier-noctis-labyrinthus-scn/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/pia13655-large.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-03-29T17:52:00Z",
+    "content": "Sign up for CNNs Wonder Theory science newsletter.\u00a0Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nScientists may have pinpointed a massive, oddly shaped\u2026 [+7635 chars]",
+    "short_uuid": "30340651"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Israel crisis deepens over ultra-Orthodox draft - BBC.com",
+    "description": "Ultra-Orthodox in the government react furiously over a High Court order on military service.",
+    "url": "https://www.bbc.com/news/world-middle-east-68684069",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DF9C/production/_133044275_ultra-orthodox_idf.jpg",
+    "publishedAt": "2024-03-29T16:14:07Z",
+    "content": null,
+    "short_uuid": "5343449c"
   }
 ]
