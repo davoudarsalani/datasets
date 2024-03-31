@@ -48046,5 +48046,117 @@
     "publishedAt": "2024-03-29T16:14:07Z",
     "content": null,
     "short_uuid": "5343449c"
+  },
+  {
+    "source": {
+      "id": "espn",
+      "name": "ESPN"
+    },
+    "author": "Myron Medcalf",
+    "title": "March Madness 2024: Reseeding the men's Elite Eight - ESPN",
+    "description": "A disrupted West, a dominant ACC that upset top seeds and a UConn freight train that isn't slowing down. Here's the state of the Elite Eight.",
+    "url": "https://www.espn.com/mens-college-basketball/insider/story/_/id/39833776/march-madness-2024-reseeding-mens-ncaa-tournament-elite-eight",
+    "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0330%2Fr1311729_3_1296x729_16%2D9.jpg",
+    "publishedAt": "2024-03-30T06:00:00Z",
+    "content": "Yes, this is the 2024 Elite Eight field. Yes, Clemson and Alabama will battle on a big stage. In basketball, not football.\r\nBut that's not only the interesting storyline of the last set of games befo\u2026 [+13620 chars]",
+    "short_uuid": "3063591d"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Jason Owens",
+    "title": "March Madness: Purdue overwhelms Gonzaga with barrage of 3s, too much Zach Edey to advance to Elite Eight - Yahoo Sports",
+    "description": "Zach Edey feasted and had plenty of help from a lethal Purdue halfcourt offense.",
+    "url": "https://sports.yahoo.com/march-madness-purdue-overwhelms-gonzaga-with-barrage-of-3s-too-much-zach-edey-to-advance-to-elite-eight-013718745.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/zDDOfGPkaO7ZbXusrIDvMQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/37cd68b0-ee35-11ee-bbff-7db49db4dd2f",
+    "publishedAt": "2024-03-30T03:24:00Z",
+    "content": "Purdue's offense is a lot more than Zach Edey. It's a lesson Gonzaga learned the hard way Friday as the Boilermakers secured an 80-68 win over the Bulldogs in the Sweet 16.\r\nGonzaga focused its defen\u2026 [+3115 chars]",
+    "short_uuid": "e17a9b5b"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Athletic"
+    },
+    "author": "The Athletic Staff",
+    "title": "Jets make surprise trade for Eagles\u2019 All-Pro Haason Reddick: Sources - The Athletic",
+    "description": "The 29-year-old has recorded double-digit sacks in his past four seasons, including 11 in 2023.",
+    "url": "https://theathletic.com/5378346/2024/03/29/eagles-haason-reddick-jets-trade/",
+    "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/10/08234203/GettyImages-1724885802-scaled-e1696822947909.jpg",
+    "publishedAt": "2024-03-30T01:41:47Z",
+    "content": "By Zack Rosenblatt, Dianna Russini and Brooks Kubena\r\nThe Philadelphia Eagles are trading pass rusher Haason Reddick to the New York Jets, league sources confirmed.\u00a0 The Jets are sending the Eagles a\u2026 [+5086 chars]",
+    "short_uuid": "2e1d7a9"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": "Brie Stimson",
+    "title": "NY Gov. Kathy Hochul leaves NYPD Officer Jonathan Diller\u2019s wake abruptly after 10 minutes; bystanders clap - Fox News",
+    "description": "Just minutes after arriving at the wake of a slain NYPD officer, New York Gov. Kathy Hochul left following a short discussion with someone there.",
+    "url": "https://www.foxnews.com/us/people-heard-clapping-ny-gov-hochul-abruptly-leaves-slain-nypd-officers-wake-after-just-ten-minutes",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/03/hochul.jpg",
+    "publishedAt": "2024-03-29T23:03:26Z",
+    "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nPlease enter a valid email address.\r\nBy entering your e\u2026 [+3090 chars]",
+    "short_uuid": "a4414547"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Vox"
+    },
+    "author": "Nicole Narea",
+    "title": "Truth Social just made Trump billions. Will it solve his financial woes? - Vox.com",
+    "description": "Trump\u2019s social network has made him one of the richest people in the world \u2014 at least on paper.",
+    "url": "https://www.vox.com/politics/2024/3/29/24115881/truthsocial-trump-djt-stock-share-price",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/4d64JNTmrvdi0Q3OuEWDfa8sl-A=/0x453:4000x2547/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25362276/2111709254.jpg",
+    "publishedAt": "2024-03-29T21:35:00Z",
+    "content": "Former President Donald Trumps net worth has skyrocketed to about $7.5 billion since Trump Media, the parent company for his social network Truth Social, went public earlier this week.\r\nThe question \u2026 [+5660 chars]",
+    "short_uuid": "87012072"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Atlantic"
+    },
+    "author": "Spencer Kornhaber",
+    "title": "Beyonc\u00e9 Stands Her Ground - The Atlantic",
+    "description": "Beyonc\u00e9\u2019s confrontational spin on Dolly Parton\u2019s \u201cJolene\u201d comes as a warning to outside forces.",
+    "url": "https://www.theatlantic.com/culture/archive/2024/03/beyonce-jolene-cover-dolly-parton/677923/",
+    "urlToImage": "https://cdn.theatlantic.com/thumbor/wOyMt5zDzKqxWZyXRR1znSV7Fe8=/0x102:4792x2598/1200x625/media/img/mt/2024/03/HR_COWBOY_CARTER/original.jpg",
+    "publishedAt": "2024-03-29T15:39:57Z",
+    "content": "The power of Dolly Partons Jolene is that Dolly Parton sounds powerless. The guitar riff prickles nervously; the melody pleads in the manner of a hungry pet; Parton sings, in a trembling tone, about \u2026 [+5436 chars]",
+    "short_uuid": "88b787bf"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "247Sports"
+    },
+    "author": "Ben McKee",
+    "title": "Five Keys and a Pick: No. 2 Tennessee faces No. 3 Creighton in Sweet Sixteen of NCAA Tournament - 247Sports",
+    "description": "No 2 Tennessee basketball faces No 3 Creighton in the Sweet Sixteen of the NCAA Tournament on Friday night Heres a look at GoVols247s five keys to a Vols win and our quick prediction for how we think the game will play out",
+    "url": "https://247sports.com/college/tennessee/longformarticle/five-keys-and-a-pick-tennessee-vols-basketball-faces-creighton-bluejays-in-sweet-sixteen-of-ncaa-tournament-rick-barnes-dalton-knecht-229544594/",
+    "urlToImage": "https://s3media.247sports.com/Uploads/Assets/151/361/12361151.jpg",
+    "publishedAt": "2024-03-29T15:03:49Z",
+    "content": "Five\u00a0keys to a Tennessee win\r\n1.\u00a0Take advantage of Creighton's drop coverage\r\nTennessee is going to\u00a0be able to take as many\u00a0mid-range jumpers as it wants inside of Little Caesars Arena on Friday nigh\u2026 [+1110 chars]",
+    "short_uuid": "4b25d94e"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "WDSU New Orleans"
+    },
+    "author": null,
+    "title": "A faster spinning Earth may cause timekeepers to subtract a second from world clocks - WDSU New Orleans",
+    "description": "It's a complicated situation that involves physics, global power politics, climate change, technology and two types of time.",
+    "url": "https://www.wdsu.com/article/a-faster-spinning-earth-may-cause-timekeepers-to-subtract-second-from-world-clocks/60335717",
+    "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap26605fb51da7a3.jpg?crop=1.00xw:0.847xh;0,0.0671xh&resize=1200:*",
+    "publishedAt": "2024-03-29T14:23:00Z",
+    "content": "Earth's changing spin is threatening to toy with our sense of time, clocks and computerized society in an unprecedented way but only for a second.\r\nRelated video above Daylight Saving Time: How did w\u2026 [+5736 chars]",
+    "short_uuid": "9a19ae33"
   }
 ]
