@@ -47262,5 +47262,313 @@
     "publishedAt": "2024-03-29T11:00:07Z",
     "content": "<ul><li>Motorola is reportedly bringing back the Ultra smartphone with the Edge 50 Ultra.</li><li>The flagship device is expected to have a better SoC and camera system compared to the Edge 50 Pro.</\u2026 [+1413 chars]",
     "short_uuid": "e8136963"
+  },
+  {
+    "source": {
+      "id": "the-washington-post",
+      "name": "The Washington Post"
+    },
+    "author": "Glynn A. Hill, Noah Ferguson, Sally Jenkins, Chuck Culpepper, Candace Buckner",
+    "title": "March Madness live updates: Purdue meets Gonzaga in men's Sweet 16; Stanford women face N.C. State - The Washington Post",
+    "description": "March Madness today features the start of the women\u2019s Sweet 16 and the second Sweet day for the men. Follow along for live updates, highlights and analysis.",
+    "url": "https://www.washingtonpost.com/sports/2024/03/29/march-madness-games-scores-live-updates/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WJQZMBEVTNGBJNV4M3WFVEY33A.jpg&w=1440",
+    "publishedAt": "2024-03-30T00:27:40Z",
+    "content": null,
+    "short_uuid": "f1e721d9"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Rockford, Illinois stabbing suspect blamed 'laced' marijuana, authorities say - BBC.com",
+    "description": "Authorities have released some details about a deadly Illinois rampage where four people were killed.",
+    "url": "https://www.bbc.com/news/world-us-canada-68693699",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16980/production/_133044529_gettyimages-2113294516.jpg",
+    "publishedAt": "2024-03-29T23:46:15Z",
+    "content": null,
+    "short_uuid": "6bb41816"
+  },
+  {
+    "source": {
+      "id": "usa-today",
+      "name": "USA Today"
+    },
+    "author": "Skye Seipp, Keri Heath, Tony Plohetski, Amaris Encinas",
+    "title": "Truck driver in fatal Texas school bus crash arrested Friday; admitted drug use before wreck, police say - USA TODAY",
+    "description": "Jerry Hernandez, a 42-year-old truck driver told authorities had gotten very little sleep and used cocaine before crashing into Texas school bus.",
+    "url": "https://www.usatoday.com/story/news/nation/2024/03/29/texas-bus-crash-driver-jerry-hernandez-homicide-charge/73144048007/",
+    "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/03/22/NAAS/73072776007-aa-8911-c-02-ada-4599931-ee-7895-da-3-aa-97.jpg?crop=784,441,x0,y0&width=784&height=441&format=pjpg&auto=webp",
+    "publishedAt": "2024-03-29T23:03:45Z",
+    "content": "The man behind the wheel of the concrete truck that collided with a bus full of pre-kindergarten students last week in Texas, killing one student and one driver, had taken recreational drugs hours be\u2026 [+6031 chars]",
+    "short_uuid": "fe17ee47"
+  },
+  {
+    "source": {
+      "id": "abc-news",
+      "name": "ABC News"
+    },
+    "author": "Katherine Faulders, Aaron Katersky, Peter Charalambous",
+    "title": "Trump must 'immediately desist' from targeting judge's daughter, prosecutors say - ABC News",
+    "description": "The request comes after Trump targeted the daughter of the judge in his NY case.",
+    "url": "https://abcnews.go.com/US/trump-immediately-desist-targeting-judges-daughter-prosecutors/story?id=108668982",
+    "urlToImage": "https://i.abcnewsfe.com/a/48ebf0e8-5556-4546-8bb6-744761bbd5ae/donald-trump-gty-jef-240329_1711747230090_hpMain_16x9.jpg?w=1600",
+    "publishedAt": "2024-03-29T22:30:00Z",
+    "content": "Two days after former President Donald Trump targeted the daughter of the judge overseeing his New York hush money case on social media, lawyers for the Manhattan district attorney have asked Judge J\u2026 [+3572 chars]",
+    "short_uuid": "ceffff5e"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Variety"
+    },
+    "author": "Jem Aswad",
+    "title": "June Carter Cash\u2019s Daughter Carlene Questions Negativity Towards Beyonc\u00e9\u2019s \u2018Cowboy Carter\u2019 Album: \u2018In My Book, She\u2019s One of Us Carter Women\u2019 - Variety",
+    "description": "Singer Carlene Carter, a descendant of country music's legendary Carter Family, tells Beyonce: 'Here\u2019s a warm welcome to the Carter Girl Club!'",
+    "url": "https://variety.com/2024/music/news/june-carter-cash-carlene-beyonce-cowboy-1235955933/",
+    "urlToImage": "https://variety.com/wp-content/uploads/2024/03/GettyImages-1725330614.jpg?w=1000&h=563&crop=1",
+    "publishedAt": "2024-03-29T21:46:00Z",
+    "content": "In the weeks since Beyonce announced her \u201cCowboy Carter\u201d album, there\u2019s been an enormous amount of commentary over the singer\u2019s move into country music, and the long-overlooked contributions of Black\u2026 [+2068 chars]",
+    "short_uuid": "27615756"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "mlive.com"
+    },
+    "author": "Rose White | rwhite@mlive.com",
+    "title": "Dairy cows from commercial Michigan farm infected with bird flu - MLive.com",
+    "description": "his is the first time the virus has infected Michigan cattle.",
+    "url": "https://www.mlive.com/public-interest/2024/03/dairy-cows-from-commercial-michigan-farm-infected-with-bird-flu.html",
+    "urlToImage": "https://www.mlive.com/resizer/v2/PD745V6KKVCYBB7NTJPQQUXPME.JPG?auth=fd462716688ee56cc1aff39cf1450500c7805ff5daacb93a5ccadfd746908876&width=1280&quality=90",
+    "publishedAt": "2024-03-29T21:26:00Z",
+    "content": "An avian flu that has killed millions of birds over the past two years was confirmed in a herd of Montcalm County dairy cows. \r\nThis is the first time the virus has infected Michigan cattle. \r\nIts be\u2026 [+3487 chars]",
+    "short_uuid": "153579c3"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "AZCentral"
+    },
+    "author": "Madeline Nguyen",
+    "title": "What time is the SpaceX launch? How to see the rocket in Arizona - The Arizona Republic",
+    "description": "SpaceX will launch a rocket on Saturday evening after a two-day delay. Here's where and when to catch the launch in Arizona.",
+    "url": "https://www.azcentral.com/story/news/local/arizona/2024/03/29/how-to-see-spacex-rocket-launch-in-arizona/73147143007/",
+    "urlToImage": "https://www.azcentral.com/gcdn/presto/2022/10/28/PPHX/4c8e215c-6245-40ba-b494-129a09175cee-SpaceX_rocket_launch_NWS_Flagstaff.png?crop=1113,626,x0,y35&width=1113&height=626&format=pjpg&auto=webp",
+    "publishedAt": "2024-03-29T21:01:46Z",
+    "content": "Stargazers in western Arizona will be able to see SpaceXs upcoming Falcon 9 rocket launch from Vandenberg Space Force Base in Southern California on Saturday evening.\r\nThe private spaceflight company\u2026 [+2363 chars]",
+    "short_uuid": "f491432c"
+  },
+  {
+    "source": {
+      "id": "associated-press",
+      "name": "Associated Press"
+    },
+    "author": "GERALD IMRAY, NQOBILE NTSHANGASE",
+    "title": "Girl, 8, only survivor of bus crash that kills 45 Easter pilgrims on South Africa's deadly roads - The Associated Press",
+    "description": "An 8-year-old girl was the lone survivor after a bus full of Easter pilgrims from Botswana making their way to a popular church festival in rural South Africa crashed off a bridge on a mountain pass and plunged into a ravine before bursting into flames. Autho\u2026",
+    "url": "https://apnews.com/article/south-africa-moria-bus-crash-accident-629834eb5a308166afe7cdbbd4c7de3d",
+    "urlToImage": "https://dims.apnews.com/dims4/default/3d18038/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F34%2F9d%2F88d4d7761d6aed1e2959fbef73f6%2F518d1501ecf44e0ebcaaae26a47aa139",
+    "publishedAt": "2024-03-29T20:59:00Z",
+    "content": "MMAMATLAKALA, South Africa (AP) An 8-year-old girl was the lone survivor after a bus full of pilgrims making their way to a popular Easter festival in rural South Africa slammed into a bridge on a mo\u2026 [+4429 chars]",
+    "short_uuid": "b9f3e3bd"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Live Science"
+    },
+    "author": "Jennifer Nalewicki",
+    "title": "Powerful X-class solar flare slams Earth, triggering radio blackout over the Pacific Ocean - Livescience.com",
+    "description": "On March 28, Earth was hit by an X-class solar flare that was strong enough to ionize part of the planet's atmosphere.",
+    "url": "https://www.livescience.com/space/the-sun/powerful-x-class-solar-flare-slams-earth-triggering-radio-blackout-over-the-pacific-ocean",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/TCJkVgbBruCuNvMshEsRXk-1200-80.png",
+    "publishedAt": "2024-03-29T20:57:49Z",
+    "content": "Satellites have detected a massive solar flare powerful enough to ionize part of Earth's atmosphere.\r\nScientists spotted the flare erupting from the bottom of the sun on Thursday (March 28), using sa\u2026 [+2361 chars]",
+    "short_uuid": "752841b6"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "Reuters",
+    "title": "Tupperware warns it could go out of business over liquidity problems - New York Post ",
+    "description": "Tupperware Brands\u00a0warned that the 77-year-old company may not survive for another year.",
+    "url": "https://nypost.com/2024/03/29/business/tupperware-warns-it-could-go-out-of-business-amid-liquidity-problems/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/2023-chicago-illinois-tupperware-stock-78602689.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2024-03-29T20:53:00Z",
+    "content": "Tupperware Brands\u00a0warned that the 77-year-old company may not survive for another year\u00a0and forecast inadequate liquidity to fund operations,\u00a0the seller of plastic airtight food storage containers sai\u2026 [+1468 chars]",
+    "short_uuid": "4ff8b252"
+  },
+  {
+    "source": {
+      "id": "the-washington-post",
+      "name": "The Washington Post"
+    },
+    "author": "John Hudson",
+    "title": "Biden administration approves more weapons for Israel - The Washington Post",
+    "description": "Despite the U.S. and Israeli governments\u2019 growing rift over the Gaza war, the Biden administration continues to authorize major weapons transfers.",
+    "url": "https://www.washingtonpost.com/national-security/2024/03/29/us-weapons-israel-gaza-war/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DXBZMH7Z6BUD72OXH3CKMQYPZI_size-normalized.jpg&w=1440",
+    "publishedAt": "2024-03-29T20:21:53Z",
+    "content": "The Biden administration in recent days quietly authorized the transfer of billions of dollars in bombs and fighter jets to Israel despite Washingtons concerns about an anticipated military offensive\u2026 [+8538 chars]",
+    "short_uuid": "e5f0d36a"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "Craig McCarthy, Vaughn Golden, Olivia Land",
+    "title": "Gov. Hochul leaves wake for slain NYPD Officer Jonathan Diller after confrontation - New York Post ",
+    "description": "Gov. Kathy Hochul left the wake for slain NYPD Officer Jonathan Diller Friday afternoon after a tense confrontation with another man in attendance.",
+    "url": "https://nypost.com/2024/03/29/us-news/kathy-hochul-leaves-nypd-officer-jonathan-dillers-wake-after-confrontation/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/hocul-wake.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2024-03-29T19:22:00Z",
+    "content": "Gov. Kathy Hochul was filmed being confronted by an emotional mourner on her way out of a short visit to the wake for slain NYPD hero Jonathan Diller Friday afternoon with bystanders applauding as sh\u2026 [+5513 chars]",
+    "short_uuid": "49300cfd"
+  },
+  {
+    "source": {
+      "id": "ars-technica",
+      "name": "Ars Technica"
+    },
+    "author": "Dan Goodin",
+    "title": "Backdoor found in widely used Linux utility breaks encrypted SSH connections - Ars Technica",
+    "description": "Malicious code planted in xz Utils has been circulating for more than a month.",
+    "url": "https://arstechnica.com/security/2024/03/backdoor-found-in-widely-used-linux-utility-breaks-encrypted-ssh-connections/",
+    "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/backdoor-1-760x380.jpg",
+    "publishedAt": "2024-03-29T18:50:34Z",
+    "content": "Enlarge/ Internet Backdoor in a string of binary code in a shape of an eye.\r\n91\r\nResearchers have found a malicious backdoor in a compression tool that made its way into widely used Linux distributio\u2026 [+4970 chars]",
+    "short_uuid": "72d4565a"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "HuffPost"
+    },
+    "author": "Marco Margaritoff",
+    "title": "Melissa Joan Hart Reacts To 'Quiet On Set' Allegations - HuffPost",
+    "description": "The former Nickelodeon child star said she hasn't actually seen the disturbing documentary yet.",
+    "url": "https://www.huffpost.com/entry/melissa-joan-hart-reacts-to-quiet-on-set-allegations_n_6606c354e4b05c3d072a3a5c",
+    "urlToImage": "https://img.huffingtonpost.com/asset/6606d0bc230000a828657ac3.jpeg?cache=cjg3uWCriO&ops=1200_630",
+    "publishedAt": "2024-03-29T18:11:17Z",
+    "content": "Melissa Joan Hart is showing support for her former Nickelodeon colleagues amid the release of Quiet on Set: The Dark Side of Kids TV, an Investigation Discovery docuseries in which Drake Bell of Dra\u2026 [+5352 chars]",
+    "short_uuid": "97ec5949"
+  },
+  {
+    "source": {
+      "id": "associated-press",
+      "name": "Associated Press"
+    },
+    "author": "KEN MILLER",
+    "title": "Texas appeals court overturns voter fraud conviction for woman on probation - The Associated Press",
+    "description": "A Texas appeals court has overturned a woman's voter fraud conviction and five-year sentence for casting an illegal provisional ballot. The court ruled that Crystal Mason of Fort Worth did not know that being on probation after serving in prison still made he\u2026",
+    "url": "https://apnews.com/article/texas-voter-fraud-conviction-overturned-f6265c98b5a134388c229d3886e39410",
+    "urlToImage": "https://dims.apnews.com/dims4/default/e856aff/2147483647/strip/true/crop/3600x2025+0+188/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fee%2Fa6%2Fae05e302251c5e799003bc1086a1%2F251bc0ed6b80442b9b2a315487c11ec0",
+    "publishedAt": "2024-03-29T17:41:00Z",
+    "content": "A Texas appeals court has overturned a Fort Worth womans voter fraud conviction and five-year prison term for casting an illegal provisional ballot.\r\nCrystal Mason did not know that being on probatio\u2026 [+4571 chars]",
+    "short_uuid": "b00232f0"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Israel crisis deepens over ultra-Orthodox draft - BBC.com",
+    "description": "Ultra-Orthodox in the government react furiously over a High Court order on military service.",
+    "url": "https://www.bbc.com/news/world-middle-east-68684069",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DF9C/production/_133044275_ultra-orthodox_idf.jpg",
+    "publishedAt": "2024-03-29T16:29:43Z",
+    "content": null,
+    "short_uuid": "3fa2962e"
+  },
+  {
+    "source": {
+      "id": "cbs-news",
+      "name": "CBS News"
+    },
+    "author": "Meredith Gordon",
+    "title": "How to watch today's Gonzaga vs. Purdue men's NCAA March Madness Sweet 16 game: Livestream options, more - CBS News",
+    "description": "Gonzaga faces Purdue in the 2024 March Madness Sweet 16 round. Here's when and how to watch or stream today's game.",
+    "url": "https://www.cbsnews.com/essentials/how-to-watch-todays-gonzaga-vs-purdue-mens-ncaa-march-madness-sweet-16-game/",
+    "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/03/28/b3de0344-9b9a-4b0e-a44a-d09c39abfbf9/thumbnail/1200x630/4a1aef9e6468fc314e7af0cd63bdd911/gettyimages-2110275184-1.jpg?v=3d62f4cc0092e6eb151a9685301ed284",
+    "publishedAt": "2024-03-29T16:22:12Z",
+    "content": "Braden Smith #3 of the Purdue Boilermakers reacts with his teammates against the Utah State Aggies during the second half in the second round of the NCAA Men's Basketball Tournament at Gainbridge Fie\u2026 [+9831 chars]",
+    "short_uuid": "f2f19143"
+  },
+  {
+    "source": {
+      "id": "cbs-news",
+      "name": "CBS News"
+    },
+    "author": null,
+    "title": "Israel accused of killing dozens of Syria troops and Hezbollah fighters with major airstrikes near Aleppo - CBS News",
+    "description": "A Syrian war monitor says Israeli airstrikes targeting Hezbollah fighters and Syrian soldiers near Aleppo have killed 44 people.",
+    "url": "https://www.cbsnews.com/news/israel-hezbollah-syria-airstrikes-aleppo-gaza-hamas-war/",
+    "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/03/29/d7ed826e-c2f6-49b1-b97b-bdd428515e7a/thumbnail/1200x630g8/c57f65cba4f103523c6d0019210c986f/syria-israel-airstrike-hezbollah-ap24052372080369.jpg?v=3d62f4cc0092e6eb151a9685301ed284",
+    "publishedAt": "2024-03-29T15:39:48Z",
+    "content": "Beirut\u00a0\u2014 The Syrian army said Friday that Israeli airstrikes near the northern city of Aleppo had killed or wounded \"a number of\" people and caused damage. A war monitoring group said the strikes kil\u2026 [+3205 chars]",
+    "short_uuid": "5a1323e0"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "Ryan Dunleavy",
+    "title": "Yankees began to reverse Houston curse on Opening Day 2024 - New York Post ",
+    "description": "Imagine if the Yankees could finish a season the way that this one started.",
+    "url": "https://nypost.com/2024/03/29/sports/yankees-began-to-reverse-houston-curse-on-opening-day-2024/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/newspress-collage-jk3aaoc74-1711711206824.jpg?quality=75&strip=all&1711697185&w=1024",
+    "publishedAt": "2024-03-29T12:40:00Z",
+    "content": "Imagine if the Yankees could finish a season the way that this one started.\r\nThere is a natural tendency to overstate the meaning of every MLB game especially the first one in a 162-game marathon.\r\nB\u2026 [+619 chars]",
+    "short_uuid": "ddd4c5c9"
+  },
+  {
+    "source": {
+      "id": "al-jazeera-english",
+      "name": "Al Jazeera English"
+    },
+    "author": "Al Jazeera",
+    "title": "Palestinian Christians barred from Jerusalem\u2019s Old City at Easter - Al Jazeera English",
+    "description": "During Gaza war, usual crowds of international worshippers absent, and Palestinians face \u2018unprecedented\u2019 restrictions.",
+    "url": "https://www.aljazeera.com/news/2024/3/29/palestinians-barred-from-celebrating-easter-in-jerusalems-old-city",
+    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/2024-03-28T110734Z_647969187_RC2VU6A4EG63_RTRMADP_3_RELIGION-EASTER-HOLY-THURSDAY-1711710034.jpg?resize=1920%2C1440",
+    "publishedAt": "2024-03-29T12:21:31Z",
+    "content": "As Christians around the world prepare to celebrate Easter, Palestinians in the land that birthed the religion are facing severe restrictions on entering Jerusalems Old City to mark the occasion.\r\nWh\u2026 [+3906 chars]",
+    "short_uuid": "95266af2"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "NPR"
+    },
+    "author": "Charles Maynes",
+    "title": "U.S. reporter Evan Gershkovich has now spent a whole year jailed in Russia - NPR",
+    "description": "It's been a year since Russia detained Wall Street Journal reporter Evan Gershkovich on spying allegations.",
+    "url": "https://www.npr.org/2024/03/29/1241398745/evan-gershkovich-russia-prison-anniversary",
+    "urlToImage": "https://media.npr.org/assets/img/2024/03/28/gettyimages-2016821357_wide-b24f76f56a6fd3dbda5bdbb4873952c76c5f70f3-s1400-c100.jpg",
+    "publishedAt": "2024-03-29T09:00:15Z",
+    "content": "MOSCOW Friday marks one year since Wall Street Journal reporter Evan Gershkovich was detained by Russian security forces on spying allegations the first such detention of an American journalist on es\u2026 [+9855 chars]",
+    "short_uuid": "f5a1461a"
+  },
+  {
+    "source": {
+      "id": "the-verge",
+      "name": "The Verge"
+    },
+    "author": "Emilia David",
+    "title": "Microsoft's new safety system can catch hallucinations in its customers' AI apps - The Verge",
+    "description": "Microsoft\u2019s Azure AI platform is adding safety features for hallucinations, prompt attacks, and safety evaluations that automatically work on GPT-4, Llama 2, and other models.",
+    "url": "https://www.theverge.com/2024/3/28/24114664/microsoft-safety-ai-prompt-injections-hallucinations-azure",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/CCAiZOaSXBZ90QlUG4O76gDxwwc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24347780/STK095_Microsoft_04.jpg",
+    "publishedAt": "2024-03-28T20:34:30Z",
+    "content": "Microsofts new safety system can catch hallucinations in its customers AI apps\r\nMicrosofts new safety system can catch hallucinations in its customers AI apps\r\n / The Azure AI Studio tools can screen\u2026 [+3525 chars]",
+    "short_uuid": "949955ef"
   }
 ]
