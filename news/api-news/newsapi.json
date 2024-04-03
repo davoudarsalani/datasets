@@ -56894,5 +56894,327 @@
     "publishedAt": "2024-04-01T19:19:00Z",
     "content": "If your sinuses haven't already alerted you, allergy season is upon us \u2014 and it's earlier and stronger than expected.\r\nSpring weather is spreading quickly across the central part of the country, acco\u2026 [+3990 chars]",
     "short_uuid": "cfe091e7"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CBS Sports"
+    },
+    "author": "",
+    "title": "Pete Prisco 2024 NFL Mock Draft 1.0: Jets add firepower for Aaron Rodgers; Super Bowl hopefuls address defense - CBS Sports",
+    "description": "Pete Prisco has QBs going 1-2-3-4 for the first time in NFL history",
+    "url": "https://www.cbssports.com/nfl/draft/news/pete-prisco-2024-nfl-mock-draft-1-0-jets-add-firepower-for-aaron-rodgers-super-bowl-hopefuls-address-defense/",
+    "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/03/28/5152fb65-4e6a-4bbc-b003-ace0df54b759/thumbnail/1200x675/98a759414e1b665b2df7ca5aa6f1308e/rome-odunze.jpg",
+    "publishedAt": "2024-04-02T18:12:48Z",
+    "content": "Free agency has come and gone for the most part, so mock drafts actually mean something.\r\nUnlike our lead NFL Draft analyst Ryan Wilson, I am late to the process when it comes to doing mock drafts. I\u2026 [+1855 chars]",
+    "short_uuid": "e3fb244f"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Fox Business"
+    },
+    "author": "Kristen Altus",
+    "title": "California fast food franchisee slams new minimum wage, invests in Nevada over six-figure loss - Fox Business",
+    "description": "After claiming to be out $470,000 due to California's $20 minimum wage hike, franchise operator Alex Johnson is moving future restaurant openings to Nevada.",
+    "url": "https://www.foxbusiness.com/politics/california-fast-food-franchisee-new-minimum-wage-invests-nevada-six-figure-loss",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/04/0/0/CA-WAGE-JOHNSON-VARNEY.jpg?ve=1&tl=1",
+    "publishedAt": "2024-04-02T17:30:00Z",
+    "content": "Restaurateurs in California are starting to take their own action showing disapproval of the newly-enacted statewide $20 minimum wage.\r\n\"We have a very finite set of economic conditions that need to \u2026 [+2865 chars]",
+    "short_uuid": "559c642"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Hollywood Reporter"
+    },
+    "author": "Christy Pi\u00f1a",
+    "title": "Angie Harmon Says She Is \u201cCompletely Traumatized\u201d After Instacart Deliveryman Shot and Killed Her Dog - Hollywood Reporter",
+    "description": "\"We have no tolerance for violence of any kind,\" the company said in a statement.",
+    "url": "http://www.hollywoodreporter.com/news/general-news/angie-harmon-instacart-deliveryman-shot-killed-dog-1235864630/",
+    "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/04/Angie-Harmon-GettyImages-800773010-H-2024.jpg?w=1024",
+    "publishedAt": "2024-04-02T17:18:36Z",
+    "content": "Angie Harmon took to social media to share that an Instacart deliveryman shot and killed her dog after leaving her groceries on the doorstep. \r\n\u201cThis Easter weekend a man delivering groceries for Ins\u2026 [+1579 chars]",
+    "short_uuid": "7e0daf27"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Karen Friar",
+    "title": "Stock market today: Dow sinks nearly 400 points, yields rise to 2024 highs - Yahoo Finance",
+    "description": "Investors are growing gloomy about the chances the Fed will delay a rate cut until the second half of the year.",
+    "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sinks-nearly-400-points-yields-rise-to-2024-highs-133258500.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Ek7osT_6lKRM_9T5Ym0D8w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-09/642e6ab0-38d0-11ed-bd6e-3f50b76446e8",
+    "publishedAt": "2024-04-02T16:35:00Z",
+    "content": "Wedbush on Tuesday downgraded shares of five homebuilder stocks, citing seasonality headwinds during what it called the most \"normal\" year for housing trends since 2019.\r\nThe firm downgraded all five\u2026 [+2322 chars]",
+    "short_uuid": "a0357f10"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Who were the World Central Kitchen workers killed in Gaza? - BBC.com",
+    "description": "Seven aid workers, including foreign nationals, have been killed in an Israeli strike in central Gaza.",
+    "url": "https://www.bbc.com/news/world-middle-east-68711282",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0F6A/production/_133064930_21.jpg",
+    "publishedAt": "2024-04-02T16:28:10Z",
+    "content": null,
+    "short_uuid": "61a74cdd"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Daniel Dale",
+    "title": "Fact check: Trump falsely claims, again, that he had to post bond to appeal civil fraud decision - CNN",
+    "description": "Former President Donald Trump has falsely claimed, again, that he had to post a bond in order to appeal a $454 million civil fraud judgment against him \u2013 and falsely claimed, again, that Judge Arthur Engoron did something unusual in forcing him to post a bond\u2026",
+    "url": "https://www.cnn.com/2024/04/02/politics/fact-check-donald-trump-post-bond-appeal-civil-fraud/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-03-29t193206z-1690648249-rc2os6aqnigm-rtrmadp-3-usa-trump-georgia.JPG?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-04-02T16:22:00Z",
+    "content": "Former President Donald Trump has falsely claimed, again, that he had to post a bond in order to appeal a $454 million civil fraud judgment against him and falsely claimed, again, that Judge Arthur E\u2026 [+2816 chars]",
+    "short_uuid": "f5aff747"
+  },
+  {
+    "source": {
+      "id": "the-washington-post",
+      "name": "The Washington Post"
+    },
+    "author": "Caroline Kitchener",
+    "title": "Abortion ruling by Florida Supreme Court leaves women with few options - The Washington Post",
+    "description": "The law allowed to go into effect by Florida\u2019s Supreme Court will affect more women seeking abortions in the first trimester than any other ban to date.",
+    "url": "https://www.washingtonpost.com/nation/2024/04/02/florida-supreme-court-abortion-access/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/766G43BXMZV4PAPAX34IRMUIEA.JPG&w=1440",
+    "publishedAt": "2024-04-02T16:16:38Z",
+    "content": "More than 80,000 women get an abortion in Florida in a typical year accounting for about 1 in 12 abortions in the country.\r\nNow, most of those women will need to find somewhere else to go.\r\nWith the \u2026 [+8163 chars]",
+    "short_uuid": "34c543a6"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Variety"
+    },
+    "author": "Jaden Thompson",
+    "title": "Joe Flaherty, \u2018SCTV\u2019 and \u2018Freaks and Geeks\u2019 Actor, Dies at 82 - Variety",
+    "description": "Joe Flaherty, the actor, writer and comedian known for his roles on 'Second City Television' and 'Freaks and Geeks,' died on Monday. He was 82.",
+    "url": "https://variety.com/2024/tv/news/joe-flaherty-dead-dies-sctv-freaks-and-geeks-1235957809/",
+    "urlToImage": "https://variety.com/wp-content/uploads/2024/04/TSDSCTV_EC029.jpg?w=1000&h=562&crop=1",
+    "publishedAt": "2024-04-02T16:04:00Z",
+    "content": "Joe Flaherty, the actor, writer and comedian known for his roles on the Canadian sketch comedy series \u201cSecond City Television\u201d and \u201cFreaks and Geeks,\u201d died on Monday. He was 82.\r\nFlaherty\u2019s daughter,\u2026 [+4391 chars]",
+    "short_uuid": "32e95615"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Whitehouse.gov"
+    },
+    "author": "The White House",
+    "title": "Readout of President Joe Biden's Call with President Xi Jinping of the People's Republic of China - The White House",
+    "description": "President Joseph R. Biden, Jr. spoke today with President Xi Jinping of the People\u2019s Republic of China (PRC).\u00a0 The call follows the two leaders\u2019 meeting in Woodside, California in November 2023.\u00a0 The two leaders held a candid and constructive discussion on a \u2026",
+    "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/02/readout-of-president-joe-bidens-call-with-president-xi-jinping-of-the-peoples-republic-of-china/",
+    "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2021/01/wh_social-share.png",
+    "publishedAt": "2024-04-02T15:59:09Z",
+    "content": "President Joseph R. Biden, Jr. spoke today with President Xi Jinping of the Peoples Republic of China (PRC).\u00a0 The call follows the two leaders meeting in Woodside, California in November 2023.\u00a0 The t\u2026 [+1542 chars]",
+    "short_uuid": "9b7a4f3f"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "9to5Mac"
+    },
+    "author": "Zac Hall",
+    "title": "Alleged iOS 18 design leak promises the visionOS-like redesign everyone wants - 9to5Mac",
+    "description": "Apple Vision Pro\u2019s greatest contribution to humankind in year one may just be inspiring the iOS 18 redesign everyone wants....",
+    "url": "https://9to5mac.com/2024/04/02/ios-18-design-maybe/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/03/ios18-wwdc24.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-04-02T15:38:00Z",
+    "content": "Apple Vision Pro\u2019s greatest contribution to humankind in year one may just be inspiring the iOS 18 redesign everyone wants. Our friends at MacRumors have published what they describe as an \u201ciPhone fr\u2026 [+1288 chars]",
+    "short_uuid": "bd73363a"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "WOODTV.com"
+    },
+    "author": "Michael Oszust",
+    "title": "Bird flu found at commercial poultry farm in Ionia County - WOODTV.com",
+    "description": "The state has found avian influenza at a commercial poultry farm in Ionia County.",
+    "url": "https://www.woodtv.com/news/ionia-county/bird-flu-found-at-commercial-poultry-farm-in-ionia-county/",
+    "urlToImage": "https://www.woodtv.com/wp-content/uploads/sites/51/2022/10/generic-MDARD-logo.jpg?w=1280",
+    "publishedAt": "2024-04-02T15:23:05Z",
+    "content": "GRAND RAPIDS, Mich. (WOOD) The state has found avian influenza at a commercial poultry farm in Ionia County.\r\nThis is the fourth confirmed case of highly pathogenic avian influence (HPAI) at a commer\u2026 [+1356 chars]",
+    "short_uuid": "4ba2336b"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Prevention.com"
+    },
+    "author": "Korin Miller",
+    "title": "'Oatzempic Challenge' Is TikTok's 'Affordable' Viral Weight Loss Trend - Prevention Magazine",
+    "description": "Oatzempic is a buzzy new weight loss drink on TikTok...does it work? Nutritionists explain the benefits and dangers of the recipe users say is \u201clike Ozempic.\u201d",
+    "url": "https://www.prevention.com/health/a60359233/oatzempic-challenge-weight-loss-tiktok/",
+    "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/banana-smoothie-and-fresh-banana-on-wooden-royalty-free-image-1711991751.jpg?crop=1.00xw:0.753xh;0,0.149xh&resize=1200:*",
+    "publishedAt": "2024-04-02T14:04:00Z",
+    "content": "We may earn commission from links on this page, but we only recommend products we back. Why Trust Us?<ul><li>The Oatzempic Challenge is making the rounds on TikTok as the latest weight loss challenge\u2026 [+6588 chars]",
+    "short_uuid": "4089d679"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Nick Bromberg",
+    "title": "Final Four: With both teams still standing, UConn and NC State are in unpredecedented territory - Yahoo Sports",
+    "description": "2024 is the first time that two schools have both teams in the Final Four in the same season.",
+    "url": "https://sports.yahoo.com/final-four-with-both-teams-still-standing-uconn-and-nc-state-are-in-unpredecedented-territory-123439922.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/BoBHRWFrmkRVTYdg1l91DQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/c4fc9620-f0ec-11ee-b77f-22f894b9de0a",
+    "publishedAt": "2024-04-02T13:46:37Z",
+    "content": "NC State and UConn are each achieving a rare feat in 2024. And together, theyre making history.\r\nThe Wolfpack became the 14th school to have both its mens and womens basketball teams advance to the F\u2026 [+9446 chars]",
+    "short_uuid": "43e9081"
+  },
+  {
+    "source": {
+      "id": "al-jazeera-english",
+      "name": "Al Jazeera English"
+    },
+    "author": "Al Jazeera",
+    "title": "Iran\u2019s Khamenei promises \u2018Israel will be punished\u2019 for Syria strike - Al Jazeera English",
+    "description": "The attack and rhetoric raise concern that Israel\u2019s war in Gaza threatens to escalate major conflict across the region.",
+    "url": "https://www.aljazeera.com/news/2024/4/2/irans-khamenei-says-israel-will-be-punished-for-syria-strike",
+    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/11/photo-2-1700399871.jpg?resize=1920%2C1440",
+    "publishedAt": "2024-04-02T13:29:36Z",
+    "content": "Ayatollah Ali Khamenei has promised revenge for an Israeli air raid in Syria that killed senior military officers.\r\nIrans supreme leader declared on Tuesday that Israel will be punished for the attac\u2026 [+3160 chars]",
+    "short_uuid": "7b29266c"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "KPRC Click2Houston"
+    },
+    "author": "Anthony Yanez",
+    "title": "Update: Minor but good changes to the solar eclipse forecast for Texas - KPRC Click2Houston",
+    "description": "There can be changes, we\u2019re watching this for you",
+    "url": "https://www.click2houston.com/weather/2024/04/01/solar-eclipse-forecast-does-not-look-good-for-texas/",
+    "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/OO5GITY3OJA7DB4B3UMNXC7W6U.jpg?_a=ATAPphC0",
+    "publishedAt": "2024-04-02T13:25:00Z",
+    "content": "We are less than a week away from the total solar eclipse. Monday looked bleak for the entire state. Today both long range models show slight improvement to viewing weather. \r\nThe key to our eclipse \u2026 [+3362 chars]",
+    "short_uuid": "9740b520"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Page Six"
+    },
+    "author": "Nicholas Hautman",
+    "title": "Beyonc\u00e9 thanks her 'rock' Jay-Z and their '3 beautiful children' in iHeartRadio Music Awards 2024 speech - Page Six",
+    "description": "The singer also touched upon the backlash she has received over the years for crossing genres, most recently with her country album, \u201cCowboy Carter.\u201d",
+    "url": "https://pagesix.com/2024/04/02/entertainment/beyonce-thanks-jay-z-kids-at-iheartradio-music-awards-2024/",
+    "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/04/beyonce.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2024-04-02T13:02:17Z",
+    "content": "She\u2019ll be their protector.\r\nBeyonc\u00e9 sweetly paid a rare tribute to her husband, Jay-Z, and their three kids during the 2024 iHeartRadio Music Awards at the Dolby Theatre in Los Angeles on Monday nigh\u2026 [+2514 chars]",
+    "short_uuid": "b96eba95"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "MacRumors"
+    },
+    "author": "Hartley Charlton",
+    "title": "Apple Researchers Reveal New AI System That Can Beat GPT-4 - MacRumors",
+    "description": "Apple researchers have developed an artificial intelligence system named ReALM (Reference Resolution as Language Modeling) that aims to radically...",
+    "url": "https://www.macrumors.com/2024/04/02/apple-reveals-new-ai-system/",
+    "urlToImage": "https://images.macrumors.com/t/X8Mvv4-ay3fM6NWUohr6lbyLJmM=/1600x/article-new/2022/03/hey-siri-banner-apple.jpg",
+    "publishedAt": "2024-04-02T12:52:30Z",
+    "content": "Apple researchers have developed an artificial intelligence system named ReALM (Reference Resolution as Language Modeling) that aims to radically enhance how voice assistants understand and respond t\u2026 [+2173 chars]",
+    "short_uuid": "fddbb157"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "Matt Ehalt",
+    "title": "What LSU's Kim Mulkey told Caitlin Clark after Iowa star's historic March Madness performance - New York Post ",
+    "description": "Kim Mulkey isn\u2019t shedding tears that Caitlin Clark will soon be heading to the WNBA.",
+    "url": "https://nypost.com/2024/04/02/sports/what-kim-mulkey-told-caitlin-clark-after-iowas-elite-eight-win/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/04/newspress-collage-i4ym27l5c-1712059906914.jpg?quality=75&strip=all&1712045597&w=1024",
+    "publishedAt": "2024-04-02T12:14:00Z",
+    "content": "Kim Mulkey isn\u2019t shedding tears that Caitlin Clark will soon be heading to the WNBA.\r\nAfter Clark and Iowa eliminated Mulkey and LSU on Monday night in the Elite Eight of the NCAA Women\u2019s Tournament,\u2026 [+2105 chars]",
+    "short_uuid": "31f975a4"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Israeli government says it will block Al Jazeera from broadcasting - BBC.com",
+    "description": "Prime Minister Benjamin Netanyahu said he would \"act immediately\" to close the Qatari network's local office.",
+    "url": "https://www.bbc.com/news/world-middle-east-68708984",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A591/production/_133058324_ff31a726-1932-4fdb-879b-11514ff2e268.jpg",
+    "publishedAt": "2024-04-02T12:03:48Z",
+    "content": null,
+    "short_uuid": "46af3db6"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "POLITICO.eu"
+    },
+    "author": "Veronika Melkozerova",
+    "title": "Ukraine attacks Shahed drone factory, oil refinery deep inside Russia - POLITICO Europe",
+    "description": "Kyiv carried out the Tatarstan drone strike, according to local media.",
+    "url": "https://www.politico.eu/article/ukraine-attacks-shahed-drone-factory-oil-refinery-russia-tatarstan-republic/",
+    "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/04/02/GettyImages-1468748423.jpg",
+    "publishedAt": "2024-04-02T11:54:00Z",
+    "content": "Ukrainian media, citing sources in Kyiv's HUR military intelligence agency, reported that Ukraine attacked a Shahed-type drone production factory in Yelabuga.\u00a0\r\nHUR employees, granted anonymity as th\u2026 [+1601 chars]",
+    "short_uuid": "7c755db5"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": "Jonathan O'Callaghan",
+    "title": "'I am stoked': What it feels like to fly through a solar eclipse - BBC.com",
+    "description": "Millions of observers will watch next week's American solar eclipse from the ground. But a few lucky Nasa flight crews will get a much closer view.",
+    "url": "https://www.bbc.com/future/article/20240328-nasa-jets-chase-solar-eclipse",
+    "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0hmn1fz.jpg",
+    "publishedAt": "2024-04-02T10:30:37Z",
+    "content": null,
+    "short_uuid": "5964aa1c"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Theregister.com"
+    },
+    "author": "Brandon Vigliarolo",
+    "title": "Happy 20th birthday Gmail, you're mostly grown up \u2013 now fix the spam - The Register",
+    "description": "Senders of more than 5K messages a day are in the crosshairs",
+    "url": "https://www.theregister.com/2024/04/02/gmail_turns_20/",
+    "urlToImage": "https://regmedia.co.uk/2016/11/21/birthday.jpg",
+    "publishedAt": "2024-04-02T09:27:00Z",
+    "content": "It was 20 years ago on Monday that Google unleashed Gmail on the world, and the chocolate factory is celebrating with new rules that just might, hopefully, cut down on the amount of spam users receiv\u2026 [+2983 chars]",
+    "short_uuid": "8a9aef6e"
+  },
+  {
+    "source": {
+      "id": "the-globe-and-mail",
+      "name": "The Globe And Mail"
+    },
+    "author": "Sally Brompton",
+    "title": "Your daily horoscope: April 2, 2024 - The Globe and Mail",
+    "description": "Your daily horoscope for Tuesday, April 2, 2024",
+    "url": "https://www.theglobeandmail.com/life/horoscopes/article-your-daily-horoscope-april-2-2024/",
+    "urlToImage": "https://www.theglobeandmail.com/resizer/v2/5XLTFFDRAVFA3HWMRLY6VVM34E.png?auth=2cb6b31822a2d8fc35b3bd84955623ebac5299c4e0d3748230bcb6fa52682fdf&width=1200&height=801&quality=80",
+    "publishedAt": "2024-04-02T04:00:00Z",
+    "content": "Open this photo in gallery:Aries.iStockPhoto / Getty Images\r\nHOROSCOPES IF TODAY IS YOUR BIRTHDAY\r\nAnyone who thinks you tend to be one-dimensional in your thinking will be surprised at how deep your\u2026 [+3774 chars]",
+    "short_uuid": "9de5fbd9"
   }
 ]
