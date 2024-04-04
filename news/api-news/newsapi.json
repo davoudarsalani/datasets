@@ -58504,5 +58504,285 @@
     "publishedAt": "2024-04-01T19:19:00Z",
     "content": "If your sinuses haven't already alerted you, allergy season is upon us \u2014 and it's earlier and stronger than expected.\r\nSpring weather is spreading quickly across the central part of the country, acco\u2026 [+3990 chars]",
     "short_uuid": "dad708c0"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "STAT"
+    },
+    "author": "Helen Branswell",
+    "title": "What we know about H5N1 bird flu in cows \u2014 and the risk to humans - STAT",
+    "description": "Are people at risk from drinking milk from cows infected with H5N1 bird flu, and answers to other questions about the cattle outbreak.",
+    "url": "https://www.statnews.com/2024/04/03/h5n1-bird-flu-in-cows-risk-to-humans/",
+    "urlToImage": "https://www.statnews.com/wp-content/uploads/2024/04/AP630933525501-1024x576.jpg",
+    "publishedAt": "2024-04-03T08:33:42Z",
+    "content": "The discovery of H5N1 bird flu in U.S. cattle and the news that at least one person in Texas has been infected, apparently through contact with infected cows has taken scientists who study influenza \u2026 [+6745 chars]",
+    "short_uuid": "9201533b"
+  },
+  {
+    "source": {
+      "id": "al-jazeera-english",
+      "name": "Al Jazeera English"
+    },
+    "author": "Al Jazeera",
+    "title": "Taiwan hit by strong quake as tsunami threat recedes in Japan, Philippines - Al Jazeera English",
+    "description": "Taiwanese authorities say seven people killed in Hualien County, including three hikers, and more than 700 injured.",
+    "url": "https://www.aljazeera.com/news/2024/4/3/japan-issues-tsunami-alert-after-7-5-magnitude-earthquake",
+    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/04/AP24094038761392-1712106868.jpg?resize=1920%2C1440",
+    "publishedAt": "2024-04-03T07:41:15Z",
+    "content": "Taiwan has been rocked by its biggest earthquake in a quarter-century, with the above-7 magnitude tremor killing at least seven people, injuring more than 700, and triggering tsunami warnings that pa\u2026 [+3855 chars]",
+    "short_uuid": "afdfa90"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "WSB Atlanta"
+    },
+    "author": "WSBTV.com News Staff",
+    "title": "Tornado Watch extended to Fulton County, other parts of west Georgia until Wednesday morning - WSB Atlanta",
+    "description": "Severe Weather Team 2 is tracking strong to severe storms that will move through northwest Georgia and metro Atlanta.",
+    "url": "https://www.wsbtv.com/weather/tornado-watch-extended-fulton-county-other-parts-west-georgia-until-wednesday-morning/NL7UJ2MSIFE33GXR4PUOO4JKIY/",
+    "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/xCbNhOI3iOAZXvNwECRnMke2oxY=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/AUXKJKCXTJEZBOOHY224ZYDVKY.jpeg",
+    "publishedAt": "2024-04-03T03:08:00Z",
+    "content": "ATLANTA \u2014 A tornado watch has been allowed to expire in metro Atlanta after a line of severe storms moved through the area.\r\nSevere Weather Team 2 Chief Meteorologist Brad Nitz and Severe Weather Tea\u2026 [+905 chars]",
+    "short_uuid": "25612588"
+  },
+  {
+    "source": {
+      "id": "abc-news",
+      "name": "ABC News"
+    },
+    "author": "Katherine Faulders, Aaron Katersky, Peter Charalambous",
+    "title": "Trump's lawyers push for recusal of Judge Juan Merchan in hush money case - ABC News",
+    "description": "Defense lawyers want him tossed due to his daughter's political consulting work.",
+    "url": "https://abcnews.go.com/US/trumps-lawyers-push-recusal-judge-juan-merchan-hush/story?id=108748916",
+    "urlToImage": "https://i.abcnewsfe.com/a/5b92b012-c526-4fdf-9a09-b5f5e6d9e16b/trump1-gty-file-ml-240402_1712064868572_hpMain_16x9.jpg?w=1600",
+    "publishedAt": "2024-04-03T02:55:11Z",
+    "content": "Donald Trump's lawyers are again asking Judge Juan Merchan to recuse himself from the former president's New York hush money trial, seven months after the judge declined a similar request by defense \u2026 [+4657 chars]",
+    "short_uuid": "b3657979"
+  },
+  {
+    "source": {
+      "id": "abc-news",
+      "name": "ABC News"
+    },
+    "author": "Leah Sarnoff",
+    "title": "Why April's total solar eclipse will be a historic event in the US - ABC News",
+    "description": "The next total solar eclipse in the contiguous U.S. won't be until August 2044.",
+    "url": "https://abcnews.go.com/US/aprils-total-solar-eclipse-historic-event-us/story?id=107977119",
+    "urlToImage": "https://i.abcnewsfe.com/a/5e72619b-c1b8-4ade-95b9-8680d152034d/annular-eclipse-1-gty-gmh-231002_1696279875713_hpMain_16x9.jpg?w=1600",
+    "publishedAt": "2024-04-03T02:55:11Z",
+    "content": "\"Eclipse Across America,\" will air live Monday, April 8, beginning at 2 p.m. ET on ABC, ABC News Live, National Geographic Channel, Nat Geo WILD, Disney+ and Hulu as well as network social media plat\u2026 [+4121 chars]",
+    "short_uuid": "8f0392ca"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Sean Lyngaas",
+    "title": "US government review faults Microsoft for \u2018cascade\u2019 of errors that allowed Chinese hackers to breach senior US officials\u2019 emails - CNN",
+    "description": "Microsoft committed a \u201ccascade\u201d of \u201cavoidable errors\u201d that allowed Chinese hackers to breach the tech giant\u2019s network and later the email accounts of senior US officials last year, including the secretary of commerce, a scathing US government-backed review of\u2026",
+    "url": "https://www.cnn.com/2024/04/02/tech/us-government-microsoft-hack/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1971423736.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-04-03T02:29:00Z",
+    "content": "Microsoft committed a cascade of avoidable errors that allowed Chinese hackers to breach the tech giants network and later the email accounts of senior US officials last year, including the secretary\u2026 [+3013 chars]",
+    "short_uuid": "b47d5c37"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Callie Lawson-Freeman",
+    "title": "March Madness: Iowa's win over LSU draws 12.3M views to smash record for most-watched NCAAW game - Yahoo Sports",
+    "description": "LSU's win over Iowa in last year's NCAA title game was the previous record holder.",
+    "url": "https://sports.yahoo.com/march-madness-iowas-win-over-lsu-draws-123m-views-to-smash-record-for-most-watched-ncaaw-game-014731830.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/FZEN65DIbM2ZbNn2q03QAw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/250c9e20-f147-11ee-bf17-6a25d12d2a8c",
+    "publishedAt": "2024-04-03T01:47:00Z",
+    "content": "Iowa's win over LSU in the Elite Eight is the most-viewed women's college basketball game of all time after averaging 12.3 million viewers Monday night.\r\nThe audience peaked at 16.1 million viewers t\u2026 [+3186 chars]",
+    "short_uuid": "c19e86d5"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "YourTango"
+    },
+    "author": "Aria Gmitter",
+    "title": "Sweet Love Horoscopes For Each Zodiac Sign On April 3, 2024 - YourTango",
+    "description": "We have a super sweet and sensitive horoscope day for April 3, 2024, and this is a great day for all zodiac sign's on Wednesday.",
+    "url": "https://www.yourtango.com/2024372988/love-horoscope-april-3-2024-zodiac-signs",
+    "urlToImage": "https://www.yourtango.com/sites/default/files/image_blog/zodiac-signs-love-horoscope-april-3-2024.png",
+    "publishedAt": "2024-04-03T01:03:35Z",
+    "content": "Neptune and Venus are paired together for another week while in the sign of Pisces. We have a super sweet and sensitive horoscope day for April 3, 2024, and this is a great day for all zodiac signs o\u2026 [+5450 chars]",
+    "short_uuid": "9710ca54"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Charleston Gazette-Mail"
+    },
+    "author": "Staff reports",
+    "title": "Weather updates: Severe weather in Charleston WV | Kanawha Valley - Charleston Gazette-Mail",
+    "description": "Here is the latest information about severe weather in the Charleston, West Virginia area as storms move through on April 2, 2024.",
+    "url": "https://www.wvgazettemail.com/news/kanawha_valley/live-weather-updates-strong-storms-hit-charleston-around-140-000-out-of-power-in-west/article_fbcfc930-82e6-5c4b-ae8f-b462d11be25f.html",
+    "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wvgazettemail.com/content/tncms/assets/v3/editorial/f/bc/fbcfc930-82e6-5c4b-ae8f-b462d11be25f/660c7646eb11d.preview.jpg?crop=1821%2C956%2C0%2C90&resize=1200%2C630&order=crop%2Cresize",
+    "publishedAt": "2024-04-03T00:53:58Z",
+    "content": "Editor's note: Return here for live weather updates as severe weather blows through the Kanawha Valley on Tuesday. Contact us with weather details at 304-348-5124 or by email at cmillette@hdmediallc.\u2026 [+5637 chars]",
+    "short_uuid": "e8e184de"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "Andrew Court",
+    "title": "I\u2019m a travel expert \u2014 here\u2019s what to do if you\u2019re left stranded like the Norwegian Cruise passengers - New York Post ",
+    "description": "You\u2019ll be cruising if you follow these tips.",
+    "url": "https://nypost.com/2024/04/02/lifestyle/im-a-travel-expert-heres-what-to-do-if-youre-left-stranded-like-the-norweigan-cruise-passengers/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/04/general-view-norwegian-dawn-cruise-79394034_0cf103.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2024-04-03T00:14:00Z",
+    "content": "You\u2019ll be cruising if you follow these tips. \r\nA travel agent is sharing the key steps passengers should take if they fail to re-board their cruise ship before its designated departure time.\r\nLate la\u2026 [+2918 chars]",
+    "short_uuid": "bfc5ef64"
+  },
+  {
+    "source": {
+      "id": "associated-press",
+      "name": "Associated Press"
+    },
+    "author": "JESSICA DONATI, BABACAR DIONE",
+    "title": "Ousmane Sonko named Senegal's prime minister in new government - The Associated Press",
+    "description": "Senegal has inaugurated Africa\u2019s youngest elected leader as president, as the 44-year-old and previously little-known Bassirou Diomaye Faye completed a dramatic ascent from prison to palace within weeks. Hours after Faye's inauguration, Senegal's popular oppo\u2026",
+    "url": "https://apnews.com/article/senegal-faye-inauguration-election-opposition-59a13e38d2a3957f9ea03e332996fe7e",
+    "urlToImage": "https://dims.apnews.com/dims4/default/92fe413/2147483647/strip/true/crop/5000x2813+0+260/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F51%2F4a%2Fb8a1640ca53612a4e41baf9a8327%2F8cafd8f14ea842779216782ec9f5e6f9",
+    "publishedAt": "2024-04-02T23:54:00Z",
+    "content": "DAKAR, Senegal (AP) Senegal inaugurated Africas youngest elected leader as president on Tuesday, as the 44-year-old and previously little-known Bassirou Diomaye Faye completed a dramatic ascent from \u2026 [+4665 chars]",
+    "short_uuid": "3f0d74c4"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "PEOPLE"
+    },
+    "author": "https://www.facebook.com/peoplemag",
+    "title": "Travis Kelce Says He's 'Happiest I've Ever Been' After Last Few Months (Exclusive) - PEOPLE",
+    "description": "Kansas City Chiefs tight end Travis Kelce exclusively tells PEOPLE that he's the 'happiest I've ever been' after his last few months winning the Super Bowl and dating Taylor Swift",
+    "url": "https://people.com/travis-kelce-says-hes-happiest-ive-ever-been-exclusive-8623894",
+    "urlToImage": "https://people.com/thmb/4-xlVcKWk787txaw2_Kcf3iclqY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(714x131:716x133)/travis-kelce-chiefs-game-011224-bc25067be2af4196bd4223ed619daa0a.jpg",
+    "publishedAt": "2024-04-02T23:35:00Z",
+    "content": "Travis Kelce is living his best life.\r\nFresh off of his third Super Bowl win, Kelce, 34, tells PEOPLE, \"I'm the happiest I've ever been. I'm a guy that some people say is glass half full, half empty,\u2026 [+3391 chars]",
+    "short_uuid": "50854630"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Jeff Zeleny, Gregory Krieg",
+    "title": "Third-party candidates are the worrisome wild card amid Biden-Trump rematch in Wisconsin - CNN",
+    "description": "As former President Donald Trump returns to Wisconsin on Tuesday night for the first time in nearly two years, Democrats have a close eye on him \u2013 but not only him \u2013 as they build a general election campaign in this critical battleground state.",
+    "url": "https://www.cnn.com/2024/04/02/politics/wisconsin-third-party-candidates-rfk-jr/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2126448297.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-04-02T22:54:00Z",
+    "content": "As former President Donald Trump returns to Wisconsin on Tuesday night for the first time in nearly two years, Democrats have a close eye on him but not only him as they build a general election camp\u2026 [+6643 chars]",
+    "short_uuid": "31259e30"
+  },
+  {
+    "source": {
+      "id": "bloomberg",
+      "name": "Bloomberg"
+    },
+    "author": "Dana Hull",
+    "title": "Tesla (TSLA) Sales Miss in First Year-Over-Year Drop Since Pandemic - Bloomberg",
+    "description": "Tesla Inc. had Wall Street analysts second-guessing their models as the first quarter came to a close. One after another reduced their estimate for vehicle deliveries.",
+    "url": "https://www.bloomberg.com/news/articles/2024-04-02/tesla-sales-miss-in-first-year-over-year-drop-since-pandemic",
+    "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i94yRv5QmTgY/v0/1200x800.jpg",
+    "publishedAt": "2024-04-02T20:42:14Z",
+    "content": "Tesla Inc. had Wall Street analysts second-guessing their models as the first quarter came to a close. One after another reduced their estimate for vehicle deliveries.\r\nThey didnt cut by nearly enoug\u2026 [+1 chars]",
+    "short_uuid": "6fc497c2"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Android Authority"
+    },
+    "author": null,
+    "title": "Android 15 prepares revamped status bar with new icons and haptics - Android Authority",
+    "description": "Android 15 may revamp the status bar icons for Wi-Fi, mobile data, and battery as well as add haptic feedback to Quick Settings.",
+    "url": "https://www.androidauthority.com/android-15-new-status-bar-3430578/",
+    "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/04/Android_15_new_status_bar_icons_hero.jpg",
+    "publishedAt": "2024-04-02T19:59:13Z",
+    "content": "<ul><li>Google might be changing up the designs of status bar icons in Android 15.</li><li>The design of these status bar icons hasnt changed for a long time.</li><li>The new OS may also add haptic f\u2026 [+3729 chars]",
+    "short_uuid": "2950fa36"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Live Science"
+    },
+    "author": "Ben Turner",
+    "title": "Mysterious object that crashed through Florida home was likely space junk from the International Space Station - Livescience.com",
+    "description": "The mysterious cylinder crashed through the home of Alejandro Otero on March 8.",
+    "url": "https://www.livescience.com/space/space-exploration/mysterious-object-that-crashed-through-florida-home-was-likely-space-junk-from-the-international-space-station",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/QBaijH4MddT6PyWizTaYFg-1200-80.jpg",
+    "publishedAt": "2024-04-02T18:55:31Z",
+    "content": "A mysterious object that came crashing through a house in Florida is possibly debris from the International Space Station (ISS).\r\nThe cylindrical tube was a few inches long and weighed nearly 2 pound\u2026 [+2770 chars]",
+    "short_uuid": "3d35b456"
+  },
+  {
+    "source": {
+      "id": "abc-news",
+      "name": "ABC News"
+    },
+    "author": "Molly Nagle, Selina Wang, Justin Gomez",
+    "title": "Biden speaks with Chinese President Xi Jinping - ABC News",
+    "description": "The two leaders last met in November 2023 in California.",
+    "url": "https://abcnews.go.com/Politics/biden-speaks-chinese-president-xi-jinping/story?id=108752447",
+    "urlToImage": "https://i.abcnewsfe.com/a/8a26e426-2e48-47ea-b282-e059a019f0af/biden-xi-ap-jt-240402_1712072453566_hpMain_16x9.jpg?w=1600",
+    "publishedAt": "2024-04-02T17:48:45Z",
+    "content": "President Joe Biden spoke on the phone Tuesday with Chinese President Xi Jinping, their first conversation since meeting last November in California.\r\nThe two leaders were set to speak about climate \u2026 [+3461 chars]",
+    "short_uuid": "1fe533e9"
+  },
+  {
+    "source": {
+      "id": "bleacher-report",
+      "name": "Bleacher Report"
+    },
+    "author": "Scott Polacek",
+    "title": "MHJ to Chargers, Malik Nabers to Patriots in Lance Zierlein's 2024 NFL Mock Draft - Bleacher Report",
+    "description": "While the quarterback position will always generate headlines when it comes to the NFL draft and surely will again this year when the top four players off the\u2026",
+    "url": "https://bleacherreport.com/articles/10115288-mhj-to-chargers-malik-nabers-to-patriots-in-lance-zierleins-2024-nfl-mock-draft",
+    "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1712076470/gdrj6htbpgekekoppuau.jpg",
+    "publishedAt": "2024-04-02T16:53:50Z",
+    "content": "Matthew Visinsky/Icon Sportswire via Getty Images\r\nWhile the quarterback position will always generate headlines when it comes to the NFL draft and surely will again this year when the top four playe\u2026 [+1792 chars]",
+    "short_uuid": "45a4e703"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Forbes"
+    },
+    "author": "Arianna Johnson",
+    "title": "Vaping Health Risks: Study Suggests Nearly 20% Increased Threat Of Heart Disease From E-Cigarette Use - Forbes",
+    "description": "Over six million Americans experienced heart failure in 2020, and that number is estimated to increase to 8.5 million by 2030.",
+    "url": "https://www.forbes.com/sites/ariannajohnson/2024/04/02/vaping-health-risks-study-suggests-nearly-20-increased-threat-of-heart-disease-from-e-cigarette-use/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/660b078a017ebed7de7e79c4/0x0.jpg?format=jpg&crop=3866,2174,x48,y0,safe&height=900&width=1600&fit=bounds",
+    "publishedAt": "2024-04-02T12:00:00Z",
+    "content": "Vapes containing nicotine may increase the risk of heart failure, according to a new study, adding on to previous research that found vaping may increase the risk of heart disease, worsen blood press\u2026 [+4036 chars]",
+    "short_uuid": "6c15e18f"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "MacRumors"
+    },
+    "author": "Joe Rossignol",
+    "title": "Lower-Cost AirPods and New AirPods Max Said to Launch Later This Year - MacRumors",
+    "description": "Apple plans to release lower-cost AirPods later this year, according to Jeff Pu, an analyst who covers companies within Apple's supply chain.  ...",
+    "url": "https://www.macrumors.com/2024/04/01/lower-cost-airpods-late-2024-rumor/",
+    "urlToImage": "https://images.macrumors.com/t/qEYhkC0wur0lTbK87eogXgkEW-Y=/2500x/article-new/2023/04/airpods-3-orange.jpg",
+    "publishedAt": "2024-04-02T00:21:08Z",
+    "content": "Apple plans to release lower-cost AirPods later this year, according to Jeff Pu, an analyst who covers companies within Apple's supply chain.\r\nIn a research note today with investment firm Haitong In\u2026 [+990 chars]",
+    "short_uuid": "3707f7e8"
   }
 ]
