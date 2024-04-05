@@ -61164,5 +61164,285 @@
     "publishedAt": "2024-04-03T15:47:09Z",
     "content": null,
     "short_uuid": "d0e935f9"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Elliot Smith",
+    "title": "Russia-Ukraine war live updates: Russian drone attack kills rescue workers in Kharkiv; Moscow says NATO dialog at 'zero' but does not seek conflict - CNBC",
+    "description": "Russian drone strikes on Kharkiv killed at least four people, including three rescue workers, and injured 12 more, according to Ukrainian officials.",
+    "url": "https://www.cnbc.com/2024/04/04/russia-ukraine-live-updates.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107394172-1711629956795-gettyimages-2117846940-dsc01108_suspilne_27032024_kharkiv_dt.jpeg?v=1712209357&w=1920&h=1080",
+    "publishedAt": "2024-04-04T07:02:00Z",
+    "content": "Russian drone strikes on Kharkiv early Friday morning killed at least four people, including three rescue workers, and injured 12 more, according to Ukrainian officials.\r\nIn a post on the Telegram me\u2026 [+788 chars]",
+    "short_uuid": "9416cd24"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Variety"
+    },
+    "author": "Aramide Tinubu",
+    "title": "Andrew Scott Is Utterly Charmless in Netflix\u2019s Somber \u2018Ripley\u2019: TV Review - Variety",
+    "description": "Andrew Scott's take on Tom Ripley in Netflix's 'Ripley' lacks the excitement of the film or the infamous novels.",
+    "url": "https://variety.com/2024/tv/reviews/ripley-tv-review-netflix-series-1235957687/",
+    "urlToImage": "https://variety.com/wp-content/uploads/2024/04/Ripley_BW_2.4.1_v4.jpg?w=1000&h=563&crop=1",
+    "publishedAt": "2024-04-04T07:01:00Z",
+    "content": "Patricia Highsmith\u2019s 1955 crime novel, \u201cThe Talented Mr. Ripley,\u201d is regarded as one of the greatest thrillers of all time. It has spawned several film adaptations, including Anthony Minghella\u2019s \u201cThe\u2026 [+4973 chars]",
+    "short_uuid": "8cd4ea01"
+  },
+  {
+    "source": {
+      "id": "the-washington-post",
+      "name": "The Washington Post"
+    },
+    "author": "Des Bieler",
+    "title": "Rangers-Devils brawl results in eight ejections two seconds into game - The Washington Post",
+    "description": "New York\u2019s Matt Rempe and New Jersey\u2019s Kurtis MacDermid could have been expected to square off right away, but all 10 skaters decided to drop the gloves.",
+    "url": "https://www.washingtonpost.com/sports/2024/04/03/rangers-devils-brawl/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GUNP4IHH6WHPFJTBJZTYR3N6CU_size-normalized.jpg&w=1440",
+    "publishedAt": "2024-04-04T04:26:11Z",
+    "content": "When the Rangers Matt Rempe and the Devils Kurtis MacDermid were listed as starters for New Yorks game Wednesday night against visiting New Jersey, it was reasonable to suspect and expect that the to\u2026 [+4809 chars]",
+    "short_uuid": "3f6819cc"
+  },
+  {
+    "source": {
+      "id": "associated-press",
+      "name": "Associated Press"
+    },
+    "author": "BRETT MARTEL",
+    "title": "LSU star Angel Reese declares for WNBA draft via Vogue photo shoot, says 'I didn't want to be basic' - The Associated Press",
+    "description": "Bayou Barbie is WNBA bound. LSU star Angel Reese formally declared for the WNBA draft less than two days after the Tigers\u2019 season ended with a loss to Caitlin Clark and Iowa in the Elite Eight round of the women\u2019s NCAA Tournament. Reese made her announcement \u2026",
+    "url": "https://apnews.com/article/angel-reese-lsu-wnba-draft-814fd88e955d4860acc252e161f0d670",
+    "urlToImage": "https://dims.apnews.com/dims4/default/5e6b64c/2147483647/strip/true/crop/3965x2230+0+206/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbc%2Fd7%2Fb7ab8aace26d4a903d314b6ee8e0%2F8b145a5dc8054c5facb76d4e0e857a54",
+    "publishedAt": "2024-04-04T03:18:00Z",
+    "content": "Bayou Barbie is WNBA bound.\r\nLSU star Angel Reese, who is known for her eyelash extensions, painted fingernails and ferocious play in the paint, formally declared for the WNBA draft on Wednesday. Her\u2026 [+5432 chars]",
+    "short_uuid": "6f92ff3b"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Lauren del Valle, Christina Maxouris",
+    "title": "Prosecutors say school shooter Ethan Crumbley\u2019s parents show \u2018chilling lack of remorse\u2019 after manslaughter convictions - CNN",
+    "description": "In newly filed court documents, Michigan prosecutors are asking a judge to sentence the parents of school shooter Ethan Crumbley to at least 10 years in prison, alleging they have both showed a \u201cchilling lack of remorse\u201d after they were convicted for involunt\u2026",
+    "url": "https://www.cnn.com/2024/04/03/us/crumbley-parents-michigan-shooting-prosecutors-sentence/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20240315-01-crumbley-parents-split.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-04-04T03:10:00Z",
+    "content": "In newly filed court documents, Michigan prosecutors are asking a judge to sentence the parents of school shooter Ethan Crumbley to at least 10 years in prison, alleging they have both showed a chill\u2026 [+5341 chars]",
+    "short_uuid": "b06cad2b"
+  },
+  {
+    "source": {
+      "id": "the-hill",
+      "name": "The Hill"
+    },
+    "author": "Sarah Fortinsky",
+    "title": "Ty Cobb says 11th Circuit may remove judge from Trump documents case - The Hill",
+    "description": "Former White House attorney Ty Cobb on Wednesday predicted that the 11th Circuit Court could ultimately decide to remove Judge Aileen Cannon from the case involving former President Trump\u2019s mishandling of classified documents at his estate in Florida. In an i\u2026",
+    "url": "https://thehill.com/homenews/4573686-ty-cobb-says-11th-circuit-may-remove-judge-from-trump-documents-case/",
+    "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/08/Ty-Cobb-Trump.png?w=1280",
+    "publishedAt": "2024-04-04T03:02:00Z",
+    "content": "Skip to content\r\nFormer White House attorney Ty Cobb on Wednesday predicted that the 11th Circuit Court could ultimately decide to remove Judge Aileen Cannon from the case involving former President \u2026 [+2326 chars]",
+    "short_uuid": "6dcf39bd"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Israel minister denies Gaza aid convoy air strike was deliberate - BBC.com",
+    "description": "Nir Barkat tells the BBC claims Israeli forces deliberately targeted aid workers are 'nonsense'.",
+    "url": "https://www.bbc.com/news/world-middle-east-68729064",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C31B/production/_133074994_carepa.jpg",
+    "publishedAt": "2024-04-04T02:36:13Z",
+    "content": null,
+    "short_uuid": "23556654"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Us Weekly"
+    },
+    "author": "Shelby Stivale",
+    "title": "Julia Stiles Reveals She Secretly Welcomed Baby No. 3 With Husband Preston Cook 5 Months Ago - Yahoo Entertainment",
+    "description": "Julia Stiles secretly welcomed baby No. 3 with husband Preston Cook. \u201cI\u2019m kind of like a bundle of emotions, because I have a 5-month-old baby and I went...",
+    "url": "https://www.usmagazine.com/celebrity-moms/news/julia-stiles-preston-cook-secretly-welcomed-baby-no-3-months-ago/",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/CnEsqsxW8EjyAStuya5tKg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xODAw/https://media.zenfs.com/en/us_magazine_896/9c663caebdab5b7a1bc4296b0bfe815d",
+    "publishedAt": "2024-04-04T02:17:40Z",
+    "content": "Julia Stiles secretly welcomed baby No. 3 with husband Preston Cook.\r\nIm kind of like a bundle of emotions, because I have a 5-month-old baby and I went into directing my first movie, Stiles, 43, sha\u2026 [+2639 chars]",
+    "short_uuid": "f86d3919"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "Fox Business",
+    "title": "California bill would let employees ignore boss' after-hours calls, messages - New York Post ",
+    "description": "Workers in California may\u00a0legally be allowed\u00a0to disregard messages from their boss after the work day ends.",
+    "url": "https://nypost.com/2024/04/03/business/california-bill-would-let-employees-ignore-boss-after-hours-calls-messages/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/04/Untitled-1_2aeb3e.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2024-04-04T01:54:00Z",
+    "content": "Workers in California may\u00a0legally be allowed\u00a0to disregard messages from their boss after the work day ends.\u00a0\r\nThe pressure to respond to work messages after hours has rapidly increased in recent year\u2026 [+2267 chars]",
+    "short_uuid": "62461a48"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Google looks to AI paywall option - report - BBC.com",
+    "description": "The search giant is reported to be considering charging for premium features in a major business shake-up.",
+    "url": "https://www.bbc.com/news/business-68727857",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16A4B/production/_133074729_mediaitem133074728.jpg",
+    "publishedAt": "2024-04-04T01:46:42Z",
+    "content": null,
+    "short_uuid": "c67b6a9e"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": "Stepheny Price, Greg Norman",
+    "title": "Foul play suspected in disappearance of two women last seen in Oklahoma: officials - Fox News",
+    "description": "The Oklahoma State Bureau of investigations is now saying that they suspect \"foul play\" in the disappearance of two Kansas women traveling through Oklahoma over the weekend.",
+    "url": "https://www.foxnews.com/us/foul-play-suspected-disappearance-two-women-last-seen-oklahoma-officials",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/Veronica-Butler-and-Jilian-Kelley.jpg",
+    "publishedAt": "2024-04-04T01:23:00Z",
+    "content": "Authorities say there is now enough evidence to suspect foul play in the disappearance of Veronica Butler and Jilian Kelley, two Kansas women who vanished over the weekend while traveling to pick up \u2026 [+2739 chars]",
+    "short_uuid": "2c7b639"
+  },
+  {
+    "source": {
+      "id": "techcrunch",
+      "name": "TechCrunch"
+    },
+    "author": "Aria Alamalhodaei",
+    "title": "NASA picks 3 teams to design the next generation of moon buggy - TechCrunch",
+    "description": "NASA has given three space companies the chance to design the next-generation moon buggy \u2014 but only one design will go to space. Intuitive Machines, Lunar",
+    "url": "https://techcrunch.com/2024/04/03/nasa-picks-3-teams-to-design-the-next-generation-of-moon-buggy/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/04/intuitive-machines.webp?resize=1200,750",
+    "publishedAt": "2024-04-03T23:07:34Z",
+    "content": "NASA has given three space companies the chance to design the next-generation moon buggy but only one design will go to space. Intuitive Machines, Lunar Outpost, and Venturi Astrolab are developing r\u2026 [+2800 chars]",
+    "short_uuid": "9d4c1f75"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Hollywood Reporter"
+    },
+    "author": "Aaron Couch, Borys Kit",
+    "title": "\u2018Fantastic Four\u2019 Casts Julia Garner as Silver Surfer - Hollywood Reporter",
+    "description": "'WandaVision' director Matt Shakman is directing the feature, which will feature Garner as the Shalla-Bal version of the classic character.",
+    "url": "http://www.hollywoodreporter.com/news/general-news/fantastic-four-casts-julia-garner-silver-surfer-1235528914/",
+    "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/04/Julia-Garner-Pre-Grammys-Gala-GettyImages-1984665570-H-2024.jpg?w=1024",
+    "publishedAt": "2024-04-03T22:18:45Z",
+    "content": "Fantastic Four has found its Silver Surfer. Julia Garner will play a version the classic character, The Hollywood Reporter has confirmed.\r\nWandaVision director Matt Shakman is directing the feature, \u2026 [+1203 chars]",
+    "short_uuid": "7c471b67"
+  },
+  {
+    "source": {
+      "id": "ars-technica",
+      "name": "Ars Technica"
+    },
+    "author": "Beth Mole",
+    "title": "Bird flu flare: Cattle in 5 states now positive as Texas egg farm shuts down - Ars Technica",
+    "description": "The risk to the general public remains low, federal officials say.",
+    "url": "https://arstechnica.com/science/2024/04/bird-flu-flare-cattle-in-5-states-now-positive-as-texas-egg-farm-shuts-down/",
+    "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1237517100-760x380.jpeg",
+    "publishedAt": "2024-04-03T22:16:26Z",
+    "content": "Enlarge/ Chicken eggs are disposed of at a quarantined farm with bird flu in Israel's northern village of Margaliot on January 3, 2022. \r\n42\r\nThe flare-up of highly pathogenic bird flu continues to w\u2026 [+3960 chars]",
+    "short_uuid": "6e3b1c19"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Variety"
+    },
+    "author": "Cynthia Littleton",
+    "title": "Disney\u2019s Proxy Fight with Nelson Peltz Ends But Scrutiny Will Persist: \u2018We Have Turned the Corner,\u2019 Bob Iger Declares in Pre-Taped Victory Lap - Variety",
+    "description": "'We have turned the corner,' Disney CEO Bob Iger declared as he took a pre-taped victory lap after defeating activist investor Nelson Peltz.",
+    "url": "https://variety.com/2024/biz/news/disney-bob-iger-nelson-peltz-shareholders-meeting-1235959750/",
+    "urlToImage": "https://variety.com/wp-content/uploads/2024/04/GettyImages-1948405558-e1712177680187.jpg?w=1000&h=563&crop=1",
+    "publishedAt": "2024-04-03T21:13:00Z",
+    "content": "In the end, Bob Iger didn\u2019t have to break a sweat to fend off Nelson Peltz.\r\nNo question, Disney did have to spend tens of millions of dollars to fight the proxy battle with the activist investor, wh\u2026 [+4198 chars]",
+    "short_uuid": "cd7fb640"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Eatingwell.com"
+    },
+    "author": "https://www.facebook.com/EatingWell/",
+    "title": "Will TikTok's \"Oatzempic\" Help You Lose Weight? - EatingWell",
+    "description": "Can blended oats, water and lime juice actually help you lose weight? A dietitian weighs in on TikTok\u2019s Oatzempic trend\u2014here\u2019s what to know.",
+    "url": "https://www.eatingwell.com/oatzempic-tiktok-weight-loss-trend-8624396",
+    "urlToImage": "https://www.eatingwell.com/thmb/2vDDOxjK_PrpEEh9Qz63FQfO8v0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Oatzempic-is-TikToks-Latest-Weight-Loss-Trend-Heres-What-a-Dietitian-Thinks-29cd6ee8fb9b4948a1bb847b0d5a1140.jpg",
+    "publishedAt": "2024-04-03T20:39:15Z",
+    "content": "Weight loss trends have been circulating for decades, ranging from fad diets to medications. This includes Ozempic, a medication intended for those with diabetes to lower their blood sugar and may al\u2026 [+3762 chars]",
+    "short_uuid": "cd50f7de"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "9to5google.com"
+    },
+    "author": "Ben Schoon",
+    "title": "HP just launched a bunch of new Chromebooks starting at $299 - 9to5Google",
+    "description": "HP is launching its 2024 Chromebook lineup which starts at $299 and is available starting in April, and coming to retailers soon.",
+    "url": "http://9to5google.com/2024/04/03/hp-chromebooks-2024-price-release-date/",
+    "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/04/hp-chromebook-x360-2024-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-04-03T20:15:00Z",
+    "content": "HP is introducing several new 2024 Chromebook models this week, with prices starting at $299.\r\nAvailable starting today, HP is launching four new 14-inch Chromebooks for 2024, including two in the Ch\u2026 [+1916 chars]",
+    "short_uuid": "5d72c20e"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "WLKY Louisville"
+    },
+    "author": null,
+    "title": "Governor visits Prospect, Kentucky to view tornado damage - WLKY Louisville",
+    "description": "Most of Louisville avoided storm damage, but a tornado did touch down in Prospect, causing significant damage to homes and structures.",
+    "url": "https://www.wlky.com/article/prospect-ky-tornado-governor-beshear-visit/60385086",
+    "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/besheargreenberg-660daca67f041.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+    "publishedAt": "2024-04-03T20:12:00Z",
+    "content": "PROSPECT, Ky. \u2014The governor of Kentucky visited the city of Prospect to assess Tuesday's storm damage.\r\nAt least EF-1 tornado damage was confirmed in that area by the National Weather Service, with w\u2026 [+1911 chars]",
+    "short_uuid": "12f9529e"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "POLITICO.eu"
+    },
+    "author": "Stuart Lau, Aitor Hern\u00e1ndez-Morales",
+    "title": "NATO ministers' doubts, fears and eye-rolls over \u20ac100B Ukraine plan - POLITICO Europe",
+    "description": "Making military aid to Kyiv more predictable would send a message to Russia that it won\u2019t win the war, said the alliance chief.",
+    "url": "https://www.politico.eu/article/nato-foreign-ministers-doubts-fears-eye-rolls-e100b-ukraine-plan/",
+    "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/04/03/GettyImages-2135724575-scaled.jpg",
+    "publishedAt": "2024-04-03T19:23:00Z",
+    "content": "Jan Lipavsk\u00fd, the Czech foreign minister, said: \"We do welcome the initiative and we need to see practicalities and the details.\"\r\nSpanish Foreign Minister Jos\u00e9 Manuel Albares said: \"We need to calcu\u2026 [+1087 chars]",
+    "short_uuid": "6aca4bbe"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Annie Palmer",
+    "title": "Amazon cuts hundreds of jobs in cloud computing unit - CNBC",
+    "description": "The cuts affect hundreds of staffers in AWS' store technology and sales and marketing units.",
+    "url": "https://www.cnbc.com/2024/04/03/amazon-layoffs-hundreds-of-jobs-cut-in-cloud-computing-unit.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107232305-1682624081252-gettyimages-1245247316-775902453_006.jpeg?v=1712177334&w=1920&h=1080",
+    "publishedAt": "2024-04-03T15:10:35Z",
+    "content": "Amazon's cloud computing division is laying off hundreds of employees in its physical stores technology and sales and marketing units, the company confirmed Wednesday.\r\n\"We've identified a few target\u2026 [+1867 chars]",
+    "short_uuid": "2313583b"
   }
 ]
