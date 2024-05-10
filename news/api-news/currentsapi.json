@@ -398,5 +398,383 @@
     ],
     "published": "2024-05-09 21:41:24 +0000",
     "short_uuid": "94898b78"
+  },
+  {
+    "id": "ebf735d0-a818-440c-a760-ecc9a929c908",
+    "title": "SPEAK UP: Taiwan wins 3 spots in  \u2018Asia\u2019s 50 Best Restaurants\u2019 (2/2) \u53f0\u5165\u9078\u4e9e\u6d3250\u5927\u9910\u5ef3\uff08\u4e0b\uff09",
+    "description": "Bringing Taiwan to the World and the World to Taiwan",
+    "url": "https://www.taipeitimes.com/News/lang/archives/2024/05/10/2003817618",
+    "author": "\u53f0\u5317\u6642\u5831",
+    "image": "https://www.taipeitimes.com/images/2024/05/10/p10-240510-004.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-10 00:35:04 +0000",
+    "short_uuid": "115fe59a"
+  },
+  {
+    "id": "e66f0023-579e-442e-9df1-464cc314a19c",
+    "title": "\u2018Kingdom of the Planet of the Apes\u2019 will blow your mind",
+    "description": "Bringing Taiwan to the World and the World to Taiwan",
+    "url": "https://www.taipeitimes.com/News/feat/archives/2024/05/10/2003817636",
+    "author": "\u53f0\u5317\u6642\u5831",
+    "image": "https://www.taipeitimes.com/images/2024/05/10/P14-240510-304.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-10 00:35:04 +0000",
+    "short_uuid": "129e7941"
+  },
+  {
+    "id": "b30bb5ac-ac36-4da2-bb6d-9786ef1d9ce8",
+    "title": "A celebration of art and ideas",
+    "description": "Bringing Taiwan to the World and the World to Taiwan",
+    "url": "https://www.taipeitimes.com/News/feat/archives/2024/05/10/2003817635",
+    "author": "\u53f0\u5317\u6642\u5831",
+    "image": "https://www.taipeitimes.com/images/2024/05/10/p14-240510-Balltsz.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-10 00:35:04 +0000",
+    "short_uuid": "d5beae37"
+  },
+  {
+    "id": "42d5cb6c-b4a0-4227-8bdd-9408ea30a0c0",
+    "title": "Taiwan\u2019s hands-on tea farming",
+    "description": "Bringing Taiwan to the World and the World to Taiwan",
+    "url": "https://www.taipeitimes.com/News/feat/archives/2024/05/10/2003817634",
+    "author": "\u53f0\u5317\u6642\u5831",
+    "image": "https://www.taipeitimes.com/images/2024/05/10/P13-240510-00a.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-10 00:35:04 +0000",
+    "short_uuid": "21295d53"
+  },
+  {
+    "id": "f6403954-2dd7-4a91-8a73-d69fe9adf8af",
+    "title": "Campus protests continue",
+    "description": "Bringing Taiwan to the World and the World to Taiwan",
+    "url": "https://www.taipeitimes.com/News/world/archives/2024/05/10/2003817667",
+    "author": "\u53f0\u5317\u6642\u5831",
+    "image": "https://www.taipeitimes.com/images/2024/05/10/p05-240510-315.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-10 00:35:04 +0000",
+    "short_uuid": "194145f2"
+  },
+  {
+    "id": "e2878030-0d62-42da-a22c-9fa56f38ba76",
+    "title": "Boeing cargo plane lands without front landing gear",
+    "description": "Bringing Taiwan to the World and the World to Taiwan",
+    "url": "https://www.taipeitimes.com/News/world/archives/2024/05/10/2003817665",
+    "author": "\u53f0\u5317\u6642\u5831",
+    "image": "https://www.taipeitimes.com/images/2024/05/10/p05-240510-307.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-10 00:35:04 +0000",
+    "short_uuid": "326287c5"
+  },
+  {
+    "id": "e2f97152-b07d-49b4-b000-719eaa0c6316",
+    "title": "Ex-soccer federation head to face sexual assault trial",
+    "description": "Bringing Taiwan to the World and the World to Taiwan",
+    "url": "https://www.taipeitimes.com/News/world/archives/2024/05/10/2003817664",
+    "author": "\u53f0\u5317\u6642\u5831",
+    "image": "https://www.taipeitimes.com/images/2024/05/10/p05-240510-327.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-10 00:35:04 +0000",
+    "short_uuid": "854c7be"
+  },
+  {
+    "id": "7fc229f9-4cf2-44b4-85e3-8a725658eaa4",
+    "title": "Climate change threatens education",
+    "description": "Bringing Taiwan to the World and the World to Taiwan",
+    "url": "https://www.taipeitimes.com/News/world/archives/2024/05/10/2003817663",
+    "author": "\u53f0\u5317\u6642\u5831",
+    "image": "https://www.taipeitimes.com/images/2024/05/10/p05-240510-310.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-10 00:35:04 +0000",
+    "short_uuid": "61d70d78"
+  },
+  {
+    "id": "ddecae01-71c2-47ac-9c5b-7769bee30955",
+    "title": "Australia reveals plans to burn gas beyond 2050",
+    "description": "Bringing Taiwan to the World and the World to Taiwan",
+    "url": "https://www.taipeitimes.com/News/world/archives/2024/05/10/2003817662",
+    "author": "\u53f0\u5317\u6642\u5831",
+    "image": "https://www.taipeitimes.com/images/2024/05/10/p05-240510-314.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-10 00:35:04 +0000",
+    "short_uuid": "affb4d1c"
+  },
+  {
+    "id": "f5c92f6b-8268-45ec-b143-a79a0efaca2e",
+    "title": "Vote to oust US House speaker fails",
+    "description": "Bringing Taiwan to the World and the World to Taiwan",
+    "url": "https://www.taipeitimes.com/News/world/archives/2024/05/10/2003817661",
+    "author": "\u53f0\u5317\u6642\u5831",
+    "image": "https://www.taipeitimes.com/images/2024/05/10/P05-240510-309.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-10 00:35:04 +0000",
+    "short_uuid": "89055a63"
+  },
+  {
+    "id": "fd0d5d7a-4010-44a5-a2a8-4e9cbae44ba1",
+    "title": "Malaysian soccer team pulls out of game after attack",
+    "description": "Bringing Taiwan to the World and the World to Taiwan",
+    "url": "https://www.taipeitimes.com/News/sport/archives/2024/05/10/2003817644",
+    "author": "\u53f0\u5317\u6642\u5831",
+    "image": "https://www.taipeitimes.com/images/2024/05/10/p07-240510-317.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-10 00:35:04 +0000",
+    "short_uuid": "9a8403b8"
+  },
+  {
+    "id": "46e6e679-93eb-4678-acf9-563ceb98e95a",
+    "title": "Pacers\u2019 Carlisle seeks a \u2018fair shot\u2019",
+    "description": "Bringing Taiwan to the World and the World to Taiwan",
+    "url": "https://www.taipeitimes.com/News/sport/archives/2024/05/10/2003817643",
+    "author": "\u53f0\u5317\u6642\u5831",
+    "image": "https://www.taipeitimes.com/images/2024/05/10/P07-240510-321.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-10 00:35:04 +0000",
+    "short_uuid": "ce4bd631"
+  },
+  {
+    "id": "0828c9fb-6829-4b5b-afb1-0c10ce776e56",
+    "title": "Coach hails Real Madrid \u2018magic\u2019",
+    "description": "Bringing Taiwan to the World and the World to Taiwan",
+    "url": "https://www.taipeitimes.com/News/sport/archives/2024/05/10/2003817642",
+    "author": "\u53f0\u5317\u6642\u5831",
+    "image": "https://www.taipeitimes.com/images/2024/05/10/p07-240510-324.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-10 00:35:04 +0000",
+    "short_uuid": "5b497af8"
+  },
+  {
+    "id": "70422b31-dc37-4bd1-b7cd-0672028e5e4e",
+    "title": "The hollowing out of India\u2019s democracy is aided by the West",
+    "description": "Bringing Taiwan to the World and the World to Taiwan",
+    "url": "https://www.taipeitimes.com/News/editorials/archives/2024/05/10/2003817633",
+    "author": "\u53f0\u5317\u6642\u5831",
+    "image": "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-10 00:35:04 +0000",
+    "short_uuid": "355e1d21"
+  },
+  {
+    "id": "468def89-2a77-4ce4-82a6-bfea17a862aa",
+    "title": "Bird flu outbreak brings more questions than answers",
+    "description": "Bringing Taiwan to the World and the World to Taiwan",
+    "url": "https://www.taipeitimes.com/News/editorials/archives/2024/05/10/2003817632",
+    "author": "\u53f0\u5317\u6642\u5831",
+    "image": "https://www.taipeitimes.com/images/2024/05/10/p09-240510-mp.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-10 00:35:04 +0000",
+    "short_uuid": "5cd73014"
+  },
+  {
+    "id": "f04b8cca-3b13-49a2-ba3a-26c5b4cf9621",
+    "title": "Xi\u2019s awkward start to Europe trip",
+    "description": "Bringing Taiwan to the World and the World to Taiwan",
+    "url": "https://www.taipeitimes.com/News/editorials/archives/2024/05/10/2003817629",
+    "author": "\u53f0\u5317\u6642\u5831",
+    "image": "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-10 00:35:04 +0000",
+    "short_uuid": "3152a2e0"
+  },
+  {
+    "id": "70ee2f62-af49-499d-8344-f595cb67a265",
+    "title": "Raising electricity rates is the right choice",
+    "description": "Bringing Taiwan to the World and the World to Taiwan",
+    "url": "https://www.taipeitimes.com/News/editorials/archives/2024/05/10/2003817628",
+    "author": "\u53f0\u5317\u6642\u5831",
+    "image": "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-10 00:35:04 +0000",
+    "short_uuid": "db04f17a"
+  },
+  {
+    "id": "52bbd1e9-eaac-44f9-9fd3-bbe8f5b1f3c3",
+    "title": "CCP\u2019s reality-distortion program",
+    "description": "Bringing Taiwan to the World and the World to Taiwan",
+    "url": "https://www.taipeitimes.com/News/editorials/archives/2024/05/10/2003817627",
+    "author": "\u53f0\u5317\u6642\u5831",
+    "image": "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-10 00:35:04 +0000",
+    "short_uuid": "138b5d08"
+  },
+  {
+    "id": "733c113f-432f-479e-a884-b49c4801b0b3",
+    "title": "EDITORIAL: Taiping trip timing is not so good",
+    "description": "Bringing Taiwan to the World and the World to Taiwan",
+    "url": "https://www.taipeitimes.com/News/editorials/archives/2024/05/10/2003817626",
+    "author": "\u53f0\u5317\u6642\u5831",
+    "image": "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-10 00:35:04 +0000",
+    "short_uuid": "87a07e74"
+  },
+  {
+    "id": "71493910-bc26-45b9-b745-2f42c2f7b6db",
+    "title": "Strong year",
+    "description": "Bringing Taiwan to the World and the World to Taiwan",
+    "url": "https://www.taipeitimes.com/News/biz/archives/2024/05/10/2003817625",
+    "author": "\u53f0\u5317\u6642\u5831",
+    "image": "https://www.taipeitimes.com/images/2024/05/10/p12-240510-331.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-10 00:35:04 +0000",
+    "short_uuid": "ff5e8f2f"
+  },
+  {
+    "id": "05696dc2-f0e3-4ed5-ae02-4418a7f5f38d",
+    "title": "Operating environment, bank business outlook for Taiwan to be stable: Fitch",
+    "description": "Bringing Taiwan to the World and the World to Taiwan",
+    "url": "https://www.taipeitimes.com/News/biz/archives/2024/05/10/2003817624",
+    "author": "\u53f0\u5317\u6642\u5831",
+    "image": "https://www.taipeitimes.com/images/2024/05/10/P12-240510-312.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-10 00:35:04 +0000",
+    "short_uuid": "75cdc8e0"
+  },
+  {
+    "id": "347b0ac0-d7c6-4a6b-97b0-45b49a545fc5",
+    "title": "Tesla\u2019s job cuts escalate as market share shrinks",
+    "description": "Bringing Taiwan to the World and the World to Taiwan",
+    "url": "https://www.taipeitimes.com/News/biz/archives/2024/05/10/2003817623",
+    "author": "\u53f0\u5317\u6642\u5831",
+    "image": "https://www.taipeitimes.com/images/2024/05/10/p12-240510-329.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-10 00:35:04 +0000",
+    "short_uuid": "fd42f044"
+  },
+  {
+    "id": "e4cca9b0-4455-49fc-8173-d0f7000d9a6a",
+    "title": "Pura 70 shows China\u2019s chip progress",
+    "description": "Bringing Taiwan to the World and the World to Taiwan",
+    "url": "https://www.taipeitimes.com/News/biz/archives/2024/05/10/2003817622",
+    "author": "\u53f0\u5317\u6642\u5831",
+    "image": "https://www.taipeitimes.com/images/2024/05/10/p12-240510-308.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-10 00:35:04 +0000",
+    "short_uuid": "9af5f09b"
+  },
+  {
+    "id": "23f04485-881b-4e0b-8b75-716728183c4c",
+    "title": "HSBC Taiwan donates US$300,000 to assist in mid-to-long-term Hualien post-earthquake recovery",
+    "description": "Bringing Taiwan to the World and the World to Taiwan",
+    "url": "https://www.taipeitimes.com/News/biz/archives/2024/05/10/2003817621",
+    "author": "\u53f0\u5317\u6642\u5831",
+    "image": "https://www.taipeitimes.com/images/2024/05/10/p12-240510-hsbc1.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-10 00:35:04 +0000",
+    "short_uuid": "a8517fe4"
+  },
+  {
+    "id": "ae0752a3-7cd7-40dc-84c2-555fa0bc7734",
+    "title": "Wiwynn\u2019s share price surges by 2.3% to NT$2,450",
+    "description": "Bringing Taiwan to the World and the World to Taiwan",
+    "url": "https://www.taipeitimes.com/News/biz/archives/2024/05/10/2003817620",
+    "author": "\u53f0\u5317\u6642\u5831",
+    "image": "https://www.taipeitimes.com/images/2024/05/10/p12-240510-003.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-10 00:35:04 +0000",
+    "short_uuid": "67317fdc"
+  },
+  {
+    "id": "1118ac30-ae80-4d59-9225-1a04ea4c0417",
+    "title": "US to place more guardrails around AI",
+    "description": "Bringing Taiwan to the World and the World to Taiwan",
+    "url": "https://www.taipeitimes.com/News/biz/archives/2024/05/10/2003817619",
+    "author": "\u53f0\u5317\u6642\u5831",
+    "image": "https://www.taipeitimes.com/images/2024/05/10/p12-240510-311.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-10 00:35:04 +0000",
+    "short_uuid": "4a7006ad"
+  },
+  {
+    "id": "25dd6c26-cc1e-42b2-8361-e7cee06e9b06",
+    "title": "Art collaboration",
+    "description": "Bringing Taiwan to the World and the World to Taiwan",
+    "url": "https://www.taipeitimes.com/News/taiwan/archives/2024/05/10/2003817660",
+    "author": "\u53f0\u5317\u6642\u5831",
+    "image": "https://www.taipeitimes.com/images/2024/05/10/p01-240510-606.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-10 00:35:04 +0000",
+    "short_uuid": "3efc94dc"
   }
 ]
