@@ -776,5 +776,408 @@
     ],
     "published": "2024-05-10 00:35:04 +0000",
     "short_uuid": "3efc94dc"
+  },
+  {
+    "id": "27fc7504-15a4-47f5-a8ea-9925064b732d",
+    "title": "Former Dockers and Giants player Cam McCarthy dies",
+    "description": "Former Fremantle and Giants player Cam McCarthy has died at the age of 29, and is the third former Docker to die before reaching the age of 30 in the past six years.",
+    "url": "https://www.theage.com.au/sport/afl/former-dockers-and-giants-player-cam-mccarthy-dies-20240510-p5jcj3.html?ref=rss",
+    "author": "Peter Ryan, Paddy Sweeney",
+    "image": "https://static.ffx.io/images/$zoom_0.348%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_371%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_theage_no_label_no_age_social_wm/72ce37a29bcbc58f04e0631e170d9f0e589c9e88",
+    "language": "en",
+    "category": [
+      "sports"
+    ],
+    "published": "2024-05-10 02:19:35 +0000",
+    "short_uuid": "5f7df40"
+  },
+  {
+    "id": "10ae61ba-094a-4329-aa9b-34e22b3f0716",
+    "title": "Airtrain negotiations back on after Bailey breakdown",
+    "description": "The on-again, off-again discussions between the state government and Airtrain to end the private company\u2019s monopoly on public transport to Brisbane Airport is on again.",
+    "url": "https://www.smh.com.au/national/queensland/airtrain-negotiations-back-on-after-bailey-breakdown-20240510-p5jcjz.html?ref=rss",
+    "author": "Cameron Atfield",
+    "image": "https://static.ffx.io/images/$zoom_0.2723%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_205/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/3897c9faabaf39bf31bbaf4376a2a0a46999cd8e",
+    "language": "en",
+    "category": [
+      "national"
+    ],
+    "published": "2024-05-10 02:13:37 +0000",
+    "short_uuid": "95a38ec6"
+  },
+  {
+    "id": "e68c9b8e-6521-4257-b696-a06f379bc5b5",
+    "title": "Boxer taken to hospital after vicious KO",
+    "description": "US fighter Terrence Williams has left the boxing world stunned after a brutal double hook that knocked Jonathan Ariel Sosa out cold.",
+    "url": "https://www.theage.com.au/sport/boxer-taken-to-hospital-after-vicious-ko-20240510-p5jckf.html?ref=rss",
+    "author": "",
+    "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_auto/t_theage_no_label_no_age_social_wm/28ca1ae7a12e63a3adccea227134e1e562e5eb00",
+    "language": "en",
+    "category": [
+      "sports"
+    ],
+    "published": "2024-05-10 02:13:01 +0000",
+    "short_uuid": "e68d9ccd"
+  },
+  {
+    "id": "d92ca98b-c8a5-4648-9e66-7cf48dfbbeee",
+    "title": "Australia news LIVE: High Court dismisses immigration detainee challenge; Treasurer wants Australians to have more babies",
+    "description": "Billionaire Elon Musk widens his legal fight with Australia, the treasurer would like Australians to have more children and some Labor MPs push back against gas plan.",
+    "url": "https://www.smh.com.au/national/national-news-live-elon-musk-widens-legal-fight-with-australia-treasurer-wants-australians-to-have-more-babies-20240510-p5jcgg.html?ref=rss",
+    "author": "Caroline Schelle",
+    "image": "https://static.ffx.io/images/$zoom_0.2094%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_13%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_smh_live_no_age_social_wm/560c50468e258265edd52ad85e6e5d79842aa05b",
+    "language": "en",
+    "category": [
+      "national"
+    ],
+    "published": "2024-05-10 02:06:51 +0000",
+    "short_uuid": "213ae883"
+  },
+  {
+    "id": "968469d1-6ad5-4cf3-94b5-bf9c37e8780d",
+    "title": "Two indicted for allegedly kidnapping 77-year-old",
+    "description": "BUFFALO, N.Y. (WIVB) \u2014 Two people have been indicted on several charges in connection to allegedly kidnapping a 77-year-old earlier this year, the Niagara County District Attorney\u2019s Office sa\u2026",
+    "url": "https://www.wivb.com/news/crime/two-indicted-for-allegedly-kidnapping-77-year-old/",
+    "author": "Aidan Joly",
+    "image": "https://www.wivb.com/wp-content/uploads/sites/97/2024/02/handcuffs-1-e1708525374419.jpg?strip=1&w=640",
+    "language": "en",
+    "category": [
+      "regional",
+      "buffalo",
+      "new-york"
+    ],
+    "published": "2024-05-10 02:05:48 +0000",
+    "short_uuid": "acc8ec4e"
+  },
+  {
+    "id": "ee00690b-6d63-4232-882c-ae7511cf35d1",
+    "title": "Cheektowaga man charged in fatal shooting on Buffalo\u2019s East Side",
+    "description": "The shooting took place on April 26.",
+    "url": "https://www.wivb.com/news/crime/cheektowaga-man-charged-in-fatal-shooting-on-buffalos-east-side/",
+    "author": "Aidan Joly",
+    "image": "https://www.wivb.com/wp-content/uploads/sites/97/2023/08/Buffalo-Police.jpg?strip=1&w=640",
+    "language": "en",
+    "category": [
+      "regional",
+      "buffalo",
+      "new-york"
+    ],
+    "published": "2024-05-10 02:04:48 +0000",
+    "short_uuid": "ed3436ae"
+  },
+  {
+    "id": "140138b2-da2f-480b-8416-1ed273e6fb77",
+    "title": "Luna Innovations Incorporated investors: Please contact the Portnoy Law Firm to recover your losses; May 31, 2024 deadline",
+    "description": "Investors can contact the law firm at no cost to learn more about recovering their losses    LOS ANGELES, May  09, 2024  (GLOBE NEWSWIRE) -- The Portnoy...",
+    "url": "https://www.globenewswire.com/news-release/2024/05/10/2879350/0/en/Luna-Innovations-Incorporated-investors-Please-contact-the-Portnoy-Law-Firm-to-recover-your-losses-May-31-2024-deadline.html",
+    "author": "Portnoy Law",
+    "image": "https://ml.globenewswire.com/Resource/Download/ea0dd9c0-6e41-4d5a-ad27-b277677af6df",
+    "language": "en",
+    "category": [
+      "company"
+    ],
+    "published": "2024-05-10 02:01:29 +0000",
+    "short_uuid": "c7e6f42e"
+  },
+  {
+    "id": "0350e6c6-c01f-4b6c-a921-b4d1575978be",
+    "title": "First jury discharged in missing campers murder trial",
+    "description": "Fourteen jurors have been discharged in the murder trial of an airline captain accused of killing missing campers Russell Hill and Carol Clay.",
+    "url": "https://www.smh.com.au/national/first-jury-discharged-in-missing-campers-murder-trial-20240510-p5jck7.html?ref=rss",
+    "author": "",
+    "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/43c658517fc58bdfd5a0ade648b40cdb4df170c1",
+    "language": "en",
+    "category": [
+      "national"
+    ],
+    "published": "2024-05-10 02:01:03 +0000",
+    "short_uuid": "f8039498"
+  },
+  {
+    "id": "bea55783-3ecc-46ab-b98e-da6d88b14d7f",
+    "title": "Triple murder suspect in Mexico surfer deaths allegedly confessed to girlfriend he killed '3 gringos': report",
+    "description": "One of the suspects believed to be connected to the murders of two Australian brothers and an American, who were on a surfing trip in Mexico, allegedly admitted to his girlfriend that he killed all three, according to her.\u00a0During a court hearing on Wednesday, the BBC reported that Ari Gisel, the gir...",
+    "url": "https://www.foxnews.com/world/triple-murder-suspect-mexico-surfer-deaths-allegedly-confessed-girlfriend-he-killed-3-gringos-report",
+    "author": "Fox News",
+    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/05/1024/512/3-missing-surfers-2.jpg?ve=1&tl=1",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2024-05-10 01:58:45 +0000",
+    "short_uuid": "875b4bfa"
+  },
+  {
+    "id": "bb7fa4a8-96c6-43da-907d-4d6b5a6edfc1",
+    "title": "Hip-hop stars' beef began in 2014 when Drake dissed Kendrick Lamar on ESPN, sports personality says",
+    "description": "Marcellus Wiley said Drake \u2018went in\u2019 on Lamar during a taped interview on SportsNation a decade ago, and threatened to pull out of hosting the ESPY's if his comments were aired. ",
+    "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/hip-hop-stars-beef-began-2014-drake-dissed-kendrick-lamar-espn-sports-rcna151571",
+    "author": "Antonio Planas",
+    "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1024-512,f_auto,q_auto:best/rockcms/2024-05/240509-drake-espys-2014-ew-515p-3f05f0.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-10 01:57:22 +0000",
+    "short_uuid": "bad5c3d6"
+  },
+  {
+    "id": "4ed7bfef-de52-49ed-9265-9a183bf9b959",
+    "title": "JESSE WATTERS: Biden is an angry recluse obsessed with his legacy",
+    "description": "Fox News host Jesse Watters breaks down President Biden's \"train wreck\" interview in his opening monologue on \"Jesse Watters Primetime.\"JESSE WATTERS: Now we know why Biden only does interviews with weathermen like Al Roker. Last night he talked with CNN and it was a train wreck. He lied, insulted h...",
+    "url": "https://www.foxnews.com/media/jesse-watters-biden-angry-recluse-obsessed-legacy",
+    "author": "Fox News",
+    "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/481a91b6-5ad5-41ad-ac99-c93c9a2ee654/572f1657-dd98-447a-94fe-30d45d5c1947/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-10 01:56:59 +0000",
+    "short_uuid": "3b04f249"
+  },
+  {
+    "id": "6aedbca8-cdba-4611-a198-2b160dbdcc1f",
+    "title": "Who\u2019s bankrolling Sydney\u2019s private school fees? The bank of nan and pop",
+    "description": "More parents are missing school payments as they struggle with massive mortgage payments. Cashed-up baby boomers are here to help.",
+    "url": "https://www.smh.com.au/national/nsw/who-s-bankrolling-sydney-s-private-school-fees-the-bank-of-nan-and-pop-20240502-p5fojd.html?ref=rss",
+    "author": "Christopher Harris",
+    "image": "https://static.ffx.io/images/$zoom_0.7062%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_54/t_crop_custom/q_86%2Cf_jpg/t_smh_no_label_no_age_social_wm/3b9a292ee61474e5bdb4f555e7271789c65b6c9f",
+    "language": "en",
+    "category": [
+      "national"
+    ],
+    "published": "2024-05-10 01:56:17 +0000",
+    "short_uuid": "3947dd0c"
+  },
+  {
+    "id": "70c00c4a-36bb-4a91-b6a9-0df04054558e",
+    "title": "National Labor Relations Board files complaint against Buffalo Tesla facility",
+    "description": "Tesla is already set to lay off hundreds of its employees at the South Buffalo plan",
+    "url": "https://www.wivb.com/news/local-news/buffalo/national-labor-relations-board-files-complaint-against-buffalo-tesla-facility/",
+    "author": "Aidan Joly and Rhiannon Browning",
+    "image": "https://www.wivb.com/wp-content/uploads/sites/97/2023/02/AP22077804200739.jpg?strip=1&w=640",
+    "language": "en",
+    "category": [
+      "regional",
+      "buffalo",
+      "new-york"
+    ],
+    "published": "2024-05-10 01:56:16 +0000",
+    "short_uuid": "38f4a4d"
+  },
+  {
+    "id": "725aee61-5e90-468a-b41d-ebf1e33d1b51",
+    "title": "Government wins crucial High Court detainee case",
+    "description": "More immigration detainees will remain behind bars after the High Court ruled it was legal to keep them locked up if they frustrate their deportation efforts.",
+    "url": "https://www.smh.com.au/national/government-wins-crucial-high-court-detainee-case-20240510-p5jck2.html?ref=rss",
+    "author": "",
+    "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/02397909df7188f2b371b7b042ef79c88ece6b05",
+    "language": "en",
+    "category": [
+      "national"
+    ],
+    "published": "2024-05-10 01:56:11 +0000",
+    "short_uuid": "e542bb74"
+  },
+  {
+    "id": "933794ad-db12-4b45-ac72-4f45850d02f1",
+    "title": "Olivia Culpo celebrates turning 32 with fianc\u00e9 Christian McCaffrey",
+    "description": "Olivia Culpo rang in her 32nd birthday on Wednesday with the help of her fianc\u00e9, Christian McCaffrey, 27.",
+    "url": "https://www.dailymail.co.uk/tvshowbiz/article-13402515/Olivia-Culpo-celebrates-turning-32-fianc-Christian-McCaffrey.html?ns_mchannel=rss",
+    "author": "Editor",
+    "image": "https://i.dailymail.co.uk/1s/2024/05/10/02/84689471-0-image-m-87_1715304638354.jpg",
+    "language": "en",
+    "category": [
+      "tv",
+      "television"
+    ],
+    "published": "2024-05-10 01:55:57 +0000",
+    "short_uuid": "7d46a815"
+  },
+  {
+    "id": "edb3924a-1d1e-4a71-8f05-cc06fe4ae2f7",
+    "title": "RHOS' Sally Obermeder leads arrivals at Rebecca Vallance opening",
+    "description": "Sally Obermeder was all smiles on Thursday night as she stepped out at the official opening of the Rebecca Vallance flagship boutique in all-black.",
+    "url": "https://www.dailymail.co.uk/tvshowbiz/article-13399985/Real-Housewives-Sydney-Sally-Obermeder-Terry-Biviano-Rebecca-Vallance-opening.html?ns_mchannel=rss",
+    "author": "Kinta Walsh-cotton",
+    "image": "https://i.dailymail.co.uk/1s/2024/05/09/13/84660419-0-image-m-119_1715259069920.jpg",
+    "language": "en",
+    "category": [
+      "tv",
+      "television"
+    ],
+    "published": "2024-05-10 01:55:01 +0000",
+    "short_uuid": "8cd4e8b0"
+  },
+  {
+    "id": "bba72573-a573-4a57-ac70-fdbb08f71fda",
+    "title": "Brush fire closes Williamson Boulevard in Volusia County",
+    "description": "Brush fire closes Williamson Boulevard in Volusia County",
+    "url": "https://www.wesh.com/article/brush-fire-closes-williamson-boulevard-volusia-county/60749808",
+    "author": "wesh",
+    "image": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/po-db-fire-1-663d6e92995e8.jpeg?crop=1.00xw:0.752xh;0,0.111xh&resize=640:*",
+    "language": "en",
+    "category": [
+      "orlando",
+      "florida"
+    ],
+    "published": "2024-05-10 01:55:00 +0000",
+    "short_uuid": "7d00fa64"
+  },
+  {
+    "id": "3404c2c9-83e4-410a-b875-a0690f68cfc7",
+    "title": "Government's $49 million plan to address endometriosis",
+    "description": "The government has unveiled a $49 million plan to better support women with complex gynaecological conditions such as endometriosis.",
+    "url": "https://www.smh.com.au/national/governments-49-million-plan-to-address-endometriosis-20240510-p5jchh.html?ref=rss",
+    "author": "",
+    "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/9e1fcb125ac7db23f3e3969fe5687c45ae00b2bc",
+    "language": "en",
+    "category": [
+      "national"
+    ],
+    "published": "2024-05-10 01:54:56 +0000",
+    "short_uuid": "7e8eb290"
+  },
+  {
+    "id": "270d5495-88c1-4364-a704-fbbacc70f880",
+    "title": "bluebird bio, Inc. Investors: Please contact the Portnoy Law Firm to recover your losses; May 28, 2024 deadline",
+    "description": "Investors can contact the law firm at no cost to learn more about recovering their losses  \u200bLOS ANGELES, May  09, 2024  (GLOBE NEWSWIRE) -- The Portnoy Law...",
+    "url": "https://www.globenewswire.com/news-release/2024/05/10/2879348/0/en/bluebird-bio-Inc-Investors-Please-contact-the-Portnoy-Law-Firm-to-recover-your-losses-May-28-2024-deadline.html",
+    "author": "Portnoy Law",
+    "image": "https://ml.globenewswire.com/Resource/Download/ea0dd9c0-6e41-4d5a-ad27-b277677af6df",
+    "language": "en",
+    "category": [
+      "company"
+    ],
+    "published": "2024-05-10 01:52:17 +0000",
+    "short_uuid": "8f761128"
+  },
+  {
+    "id": "722c6248-35b9-47a4-a9f0-2161d8c71ac3",
+    "title": "Brian Wilson, 81, to be placed under a conservatorship due to dementia",
+    "description": "The Beach Boys mastermind Brian Wilson will have a conservatorship set up to care for his personal and medical needs, a Los Angeles Superior Court judge ruled on Thursday.",
+    "url": "https://www.dailymail.co.uk/tvshowbiz/article-13402521/Beach-Boys-Brian-Wilson-81-conservatorship-judge-dementia.html?ns_mchannel=rss",
+    "author": "Brian Marks",
+    "image": "https://i.dailymail.co.uk/1s/2024/05/10/02/84690045-0-image-m-56_1715304649778.jpg",
+    "language": "en",
+    "category": [
+      "tv",
+      "television"
+    ],
+    "published": "2024-05-10 01:51:53 +0000",
+    "short_uuid": "70e1d1de"
+  },
+  {
+    "id": "a3de20b8-94fd-4826-ba9e-2a64929f3e0d",
+    "title": "Shimmick Corporation Announces First Quarter 2024 Earnings Release Date and Conference Call",
+    "description": "IRVINE, Calif., May  09, 2024  (GLOBE NEWSWIRE) -- Shimmick Corporation (\u201cShimmick\u201d) (Nasdaq: SHIM), a leading water infrastructure company, today...",
+    "url": "https://www.globenewswire.com/news-release/2024/05/10/2879347/0/en/Shimmick-Corporation-Announces-First-Quarter-2024-Earnings-Release-Date-and-Conference-Call.html",
+    "author": "Shimmick Corporation",
+    "image": "https://ml.globenewswire.com/media/YzQ3NThmNTYtZTNlMi00YzQ4LWI3MWYtNDNkMTY5NDk1YzExLTEwMzc0MDY=/tiny/Shimmick-Corporation.png",
+    "language": "en",
+    "category": [
+      "company"
+    ],
+    "published": "2024-05-10 01:50:00 +0000",
+    "short_uuid": "7f840516"
+  },
+  {
+    "id": "d5daf404-1570-4a38-b80f-23c6c9775459",
+    "title": "Why the world's fastest EV is a slow seller",
+    "description": "There were high hopes for the Rimac Nevera when it entered production, but not even the hypercar\u2019s creator could have envisaged why the world\u2019s fastest electric vehicle (EV) would struggle to notch up...",
+    "url": "https://7news.com.au/motoring/why-the-worlds-fastest-ev-is-a-slow-seller-c-14616236",
+    "author": "Jordan Mulach",
+    "image": "https://images.7news.com.au/publication/C-14616236/1a2cb643e67cbd4f0009ef9b965c2f21908a813c-16x9-x0y243w4662h2622.jpg?imwidth=1200",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-10 01:49:22 +0000",
+    "short_uuid": "61bb45c2"
+  },
+  {
+    "id": "a761b0b0-8841-476c-8901-e17cf018b8d9",
+    "title": "Air Vanuatu enters liquidation",
+    "description": "Air Vanuatu has entered liquidation the day after cancelling all international flights.",
+    "url": "https://www.smh.com.au/national/air-vanuatu-enters-liquidation-20240510-p5jcgm.html?ref=rss",
+    "author": "",
+    "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/6277a13e251c5c193b13002b63421e017ffd35a9",
+    "language": "en",
+    "category": [
+      "national"
+    ],
+    "published": "2024-05-10 01:46:37 +0000",
+    "short_uuid": "6b2f1228"
+  },
+  {
+    "id": "0abee64a-2092-4d57-9a3e-ad256dc0aaa7",
+    "title": "Beach Boys' Brian Wilson needs conservatorship because of mental decline, judge finds",
+    "description": "A judge found Thursday that Beach Boys founder and music luminary Brian Wilson should be in a court conservatorship to manage his personal and medical decisions.",
+    "url": "https://www.wesh.com/article/beach-boys-brian-wilson-conservatorship-mental-decline/60749723",
+    "author": "wesh",
+    "image": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/brian-wilson-beach-boys-gettyimages-1402072778-663d7448d9bb3.jpg?crop=1.00xw:0.846xh;0,0&resize=640:*",
+    "language": "en",
+    "category": [
+      "orlando",
+      "florida"
+    ],
+    "published": "2024-05-10 01:46:00 +0000",
+    "short_uuid": "92c61534"
+  },
+  {
+    "id": "76e25941-69a8-4fcf-a4bd-49179eb17069",
+    "title": "Man\u2019s face significantly burned in explosion on boat",
+    "description": "A man has suffered significant burns to his face in an explosion on a boat at a Queensland marina.\n\nThe man, aged in his 30s, was with two other men aboard the fishing boat at the Coral Sea Marina in ...",
+    "url": "https://7news.com.au/news/man-suffers-significant-facial-burns-in-boat-explosion-at-coral-sea-marina-airlie-beach-c-14616136",
+    "author": "Warren Barnsley",
+    "image": "https://images.7news.com.au/publication/C-14616136/45f271e1eb9249b82e134350c9872473b63e6db8-16x9-x0y65w723h407.jpg?imwidth=1200",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-10 01:45:59 +0000",
+    "short_uuid": "da529f7b"
+  },
+  {
+    "id": "1e2d5cbd-fb4e-4a2b-8891-f2541409eb58",
+    "title": "Senate passes sweeping FAA bill focused on safety and consumer protections",
+    "description": "The bill, which the House is expected to pass next week, would prohibit airlines from charging fees for families to sit together.",
+    "url": "https://www.nbcnews.com/politics/congress/senate-passes-sweeping-faa-bill-focused-safety-consumer-protections-rcna151592",
+    "author": "Reuters",
+    "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1024-512,f_auto,q_auto:best/rockcms/2024-05/240509-nyc-laguardia-airport-luggage-carousel-2022-ac-922p-62fa6e.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-10 01:45:18 +0000",
+    "short_uuid": "fa0c00d3"
+  },
+  {
+    "id": "578e53c8-67cc-4528-9310-6ebb572d62ec",
+    "title": "Caitlin Clark gets first taste of WNBA victory as Fever win final preseason game over Dream",
+    "description": "It may not count yet, but Caitlin Clark knows what it feels like to win in the WNBA after the Indiana Fever took down the Atlanta Dream, 83-80, in its final preseason game Thursday night before the regular season.\u00a0The Fever weren't able to beat the Dallas Wings Monday night, when Clark had 21 points...",
+    "url": "https://www.foxnews.com/sports/caitlin-clark-gets-first-taste-wnba-victory-fever-win-final-preseason-game",
+    "author": "Fox News",
+    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/05/1024/512/5c553f69-Caitlin-Clark.jpg?ve=1&tl=1",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-10 01:45:08 +0000",
+    "short_uuid": "6d32564e"
+  },
+  {
+    "id": "6a836b23-80e8-4234-902e-d0c3c60d295f",
+    "title": "I gave the eulogy at Molly Ticehurst\u2019s funeral. Here\u2019s how we can all best remember her",
+    "description": "Please do not let Molly\u2019s death be just another statistic. Let her name be heard. And remembered. For the good she brought and will bring.\u00a0",
+    "url": "https://www.smh.com.au/national/nsw/without-molly-s-law-more-women-like-my-wonderful-friend-molly-ticehurst-will-die-20240510-p5jcif.html?ref=rss",
+    "author": "Aidan Clarke",
+    "image": "https://static.ffx.io/images/$zoom_0.8060353535353535%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_244%2C$y_7/t_crop_custom/q_86%2Cf_auto/t_smh_opinion_no_age_social_wm/19f045e5704bd3a6bddcf31dbeadf49019001217",
+    "language": "en",
+    "category": [
+      "national"
+    ],
+    "published": "2024-05-10 01:45:00 +0000",
+    "short_uuid": "4544bdc1"
   }
 ]
