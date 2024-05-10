@@ -1973,5 +1973,207 @@
     ],
     "published": "2024-05-10 05:18:31 +0000",
     "short_uuid": "66620616"
+  },
+  {
+    "id": "c85ded9a-790d-4911-9abc-99fdcda1bfcd",
+    "title": "As Germany mulls military service return, what about Europe? \u2013 DW \u2013 05/09/2024",
+    "description": "Against the backdrop of Russia's war on Ukraine and low birth rates, Germany is debating a return to compulsory military service. It wouldn't be the only country in Europe to do so.",
+    "url": "https://www.dw.com/en/as-germany-mulls-military-service-return-what-about-europe/a-69036371",
+    "author": "dw",
+    "image": "https://static.dw.com/image/68054596_6.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-10 08:00:56 +0000",
+    "short_uuid": "d03b90da"
+  },
+  {
+    "id": "d7c0f133-5ce7-489d-8495-8ecec5021818",
+    "title": "Fatal Wyoming skiing collision that killed legendary outdoorsman ruled a 'homicide': coroner",
+    "description": "A fatal skiing collision at a popular Wyoming resort on April 14 was ruled a \"homicide\" this week by the county coroner, but whether it is a crime is up to the authorities.Skiing instructor Peter Wuerslin and an unidentified 34-year-old man collided with each other on the slopes of Jackson Hole Moun...",
+    "url": "https://www.foxnews.com/us/fatal-wyoming-skiing-collision-killed-legendary-outdoorsman-ruled-homicide-coroner",
+    "author": "Fox News",
+    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/05/1024/512/skiier-death.jpg?ve=1&tl=1",
+    "language": "en",
+    "category": [
+      "regional"
+    ],
+    "published": "2024-05-10 08:00:03 +0000",
+    "short_uuid": "3c05417e"
+  },
+  {
+    "id": "3b3fa2ed-14cd-4560-96f6-7ff7ea6c9a6f",
+    "title": "People-smuggling boat carrying Chinese caught by Indonesia police",
+    "description": "Singapore: Indonesian police have caught six Chinese nationals and six suspected people smugglers were believed to be attempting an illegal boat journey to Australia.\n\nEast Nusa Tenggara (NTT) police ...",
+    "url": "https://www.smh.com.au/world/asia/people-smuggling-boat-carrying-chinese-caught-by-indonesia-police-20240510-p5jcml.html?ref=rss",
+    "author": "Zach Hope",
+    "image": "https://static.ffx.io/images/$zoom_1.3244%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_24/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/93c619c628ed44f0c32fdf6bac6607435130a981",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2024-05-10 07:54:30 +0000",
+    "short_uuid": "c5060438"
+  },
+  {
+    "id": "0fa299bc-cac8-4cba-8483-8080f3afa7c2",
+    "title": "Is your alcohol-free beer 0.0? Dutch brewers want uniform rules - DutchNews.nl",
+    "description": "Dutch brewers want uniform European rules to prevent false competition and avoid confusion over the term \u201calcohol-free\u201d for beers containing a small amount of alcohol. In the Netherlands so-called alcohol-free beer can contain just 0.1% alcohol while alcohol-free wine can contain up to 0.5 %. Anythi...",
+    "url": "https://www.dutchnews.nl/2024/05/is-your-alcohol-free-beer-0-0-dutch-brewers-want-uniform-rules/",
+    "author": "Hanneke Sanou",
+    "image": "https://www.dutchnews.nl/wpcms/wp-content/uploads/2021/08/Bier.jpg",
+    "language": "en",
+    "category": [
+      "national"
+    ],
+    "published": "2024-05-10 07:46:47 +0000",
+    "short_uuid": "3773e44a"
+  },
+  {
+    "id": "2819da79-6f09-46df-9304-d39bb80afade",
+    "title": "Regularized Stein Variational Gradient Flow",
+    "description": "The Stein Variational Gradient Descent (SVGD) algorithm is a deterministic particle method for sampling. However, a mean-field analysis reveals that the gradient flow corresponding to the SVGD algorithm (i.e., the Stein Variational Gradient Flow) only provides a constant-order approximation to the W...",
+    "url": "https://arxiv.org/abs/2211.07861",
+    "author": "Lu, Jianfeng",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [],
+    "published": "2024-05-10 07:43:06 +0000",
+    "short_uuid": "8667660f"
+  },
+  {
+    "id": "26cd4053-9c72-488d-8c76-e1626ccf5e71",
+    "title": "Theoretical Guarantees of Data Augmented Last Layer Retraining Methods",
+    "description": "Ensuring fair predictions across many distinct subpopulations in the training data can be prohibitive for large models. Recently, simple linear last layer retraining strategies, in combination with data augmentation methods such as upweighting, downsampling and mixup, have been shown to achieve stat...",
+    "url": "https://arxiv.org/abs/2405.05934",
+    "author": "Sankar, Lalitha",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [],
+    "published": "2024-05-10 07:43:06 +0000",
+    "short_uuid": "8f022662"
+  },
+  {
+    "id": "964d5091-551c-4e79-a669-19aebd08a55e",
+    "title": "Non-asymptotic estimates for accelerated high order Langevin Monte Carlo algorithms",
+    "description": "In this paper, we propose two new algorithms, namely aHOLA and aHOLLA, to sample from high-dimensional target distributions with possibly super-linearly growing potentials. We establish non-asymptotic convergence bounds for aHOLA in Wasserstein-1 and Wasserstein-2 distances with rates of convergence...",
+    "url": "https://arxiv.org/abs/2405.05679",
+    "author": "Zhang, Ying",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [],
+    "published": "2024-05-10 07:43:06 +0000",
+    "short_uuid": "b4b14b6b"
+  },
+  {
+    "id": "4570f74b-3e3c-45e9-9cc5-0e8a5a4864c3",
+    "title": "Imprecise Multi-Armed Bandits",
+    "description": "We introduce a novel multi-armed bandit framework, where each arm is associated with a fixed unknown credal set over the space of outcomes (which can be richer than just the reward). The arm-to-credal-set correspondence comes from a known class of hypotheses. We then define a notion of regret corres...",
+    "url": "https://arxiv.org/abs/2405.05673",
+    "author": "Kosoy, Vanessa",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [],
+    "published": "2024-05-10 07:43:06 +0000",
+    "short_uuid": "d685774d"
+  },
+  {
+    "id": "b7dc644f-d5eb-4473-8cdf-c2e44f655ec0",
+    "title": "Outlier-robust Kalman Filtering through Generalised Bayes",
+    "description": "We derive a novel, provably robust, and closed-form Bayesian update rule for online filtering in state-space models in the presence of outliers and misspecified measurement models. Our method combines generalised Bayesian inference with filtering methods such as the extended and ensemble Kalman filt...",
+    "url": "https://arxiv.org/abs/2405.05646",
+    "author": "Murphy, Kevin",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [],
+    "published": "2024-05-10 07:43:06 +0000",
+    "short_uuid": "6cc5fcfc"
+  },
+  {
+    "id": "834bb1f1-804c-48d9-b591-f515a1a55886",
+    "title": "Thousands protest Israel's Eurovision participation",
+    "description": "MALMO, May 10 \u2014 Thousands of people opposed to Israel\u2019s participation in the Eurovision Song Contest demonstrated ahead of this year\u2019s second semi-final, where Israeli...",
+    "url": "https://www.malaymail.com/news/world/2024/05/10/thousands-protest-israels-eurovision-participation/133591/dw",
+    "author": "Malay Mail",
+    "image": "https://www.malaymail.com/malaymail/uploads/images/2024/05/10/thumbs/400x400/208961.jpg",
+    "language": "en",
+    "category": [
+      "general",
+      "regional"
+    ],
+    "published": "2024-05-10 07:38:48 +0000",
+    "short_uuid": "b31d1ad9"
+  },
+  {
+    "id": "90f4c6f8-fc4d-4369-bd84-673c539a7638",
+    "title": "The Netherlands bans British-Palestinian surgeon from entry - DutchNews.nl",
+    "description": "The Netherlands has followed Germany and France in refusing admission to the country by British Palestinian plastic surgeon Ghassan Abu-Sittah, who was working in Gaza during the first weeks of the Israel offensive. Abu-Sittah, who is also rector of the University of Glasgow, had been invited to spe...",
+    "url": "https://www.dutchnews.nl/2024/05/the-netherlands-bans-british-palestinian-surgeon-from-entry/",
+    "author": "Robin Pascoe",
+    "image": "https://www.dutchnews.nl/wpcms/wp-content/uploads/2024/03/IMG_5517-scaled.jpg",
+    "language": "en",
+    "category": [
+      "national"
+    ],
+    "published": "2024-05-10 07:37:28 +0000",
+    "short_uuid": "15e21d"
+  },
+  {
+    "id": "a202bbf3-4bd7-4b01-afc0-ea19e0c9f053",
+    "title": "Israel-Gaza war live: Rafah offensive could give Hamas \u2018strategic victory\u2019, US says; UNGA in new Palestinian vote",
+    "description": "2m ago 08.57 BST 1:46 Benjamin Netanyahu says he hopes to overcome differences with Joe Biden \u2013 video Share\n\n25m ago 08.35 BST View image in fullscreen Smoke billows from Israeli strikes in Rafah in t...",
+    "url": "https://www.theguardian.com/world/live/2024/may/10/israel-gaza-war-live-rafah-offensive-hamas-unga-new-palestinian-vote",
+    "author": "Tom Ambrose",
+    "image": "https://i.guim.co.uk/img/media/b541a67fad66eed1349ad310c948af53532a4cc7/0_367_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=18ac47ed5a889caf95393202b67b5d94",
+    "language": "en",
+    "category": [
+      "regional"
+    ],
+    "published": "2024-05-10 07:35:12 +0000",
+    "short_uuid": "ca93770b"
+  },
+  {
+    "id": "1e4930d5-24d5-4035-be89-d2b401e3f299",
+    "title": "Mani Shankar Aiyar under fire, Congress counters with Jaishankar's China remark",
+    "description": "The Congress on Friday distanced itself from senior party leader Mani Shankar Aiyar's remarks on advocating dialogue with Pakistan, which caused controversy.",
+    "url": "https://www.indiatoday.in/elections/lok-sabha/story/mani-shankar-aiyar-pak-praise-remarks-congress-video-s-jaishankar-china-remark-lok-sabha-elections-2537499-2024-05-10",
+    "author": "India Today News Desk",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202405/congress-leader-mani-shankar-aiyar-102939724-16x9_0.jpeg?VersionId=cWuBaMck6S0B.Poq16ZrOtFPw2k16qNc",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-10 07:32:37 +0000",
+    "short_uuid": "a79843fc"
+  },
+  {
+    "id": "e95e26d4-98ef-41c3-a0a3-c63f2c95ea01",
+    "title": "Xiaomi likely to launch its Mix Fold 4 and Mix Flip this year:  camera details, processor and other details leaked",
+    "description": "Xiaomi is reportedly set to expand its foldable smartphone offerings with the Mix Fold 4 and Mix Flip models. These devices, expected to launch in the third quarter, will feature significant upgrades in camera technology and processing power.",
+    "url": "https://www.indiatoday.in/technology/news/story/xiaomi-likely-to-launch-its-mix-fold-4-and-mix-flip-this-year-camera-details-processor-and-other-details-leaked-2537505-2024-05-10",
+    "author": "Divya Bhati",
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202405/xiaomi-mix-fold-3-1007394-16x9_0.jpg?VersionId=MsI35chWQtvNfLiEfQrf.gqb8wcbkISm",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-10 07:32:28 +0000",
+    "short_uuid": "dbf4048f"
+  },
+  {
+    "id": "f84c9c7d-0193-43d0-8efa-ed4a4e9c9476",
+    "title": "Stats Dept: Malaysia's March manufacturing sales value grows 1.4pc to RM158.4b",
+    "description": "KUALA LUMPUR, May 10 \u2015 The sales value of Malaysia's manufacturing sector expanded by 1.4 per cent, year-on-year (y-o-y) to RM158.4 billion in March 2024, according to the Department of Statistics Mal...",
+    "url": "https://www.malaymail.com/news/money/2024/05/10/stats-dept-malaysias-march-manufacturing-sales-value-grows-14pc-to-rm1584b/133590",
+    "author": "Malay Mail",
+    "image": "https://www.malaymail.com/malaymail/uploads/images/2024/05/10/thumbs/400x400/208960.jpg",
+    "language": "en",
+    "category": [
+      "general",
+      "regional"
+    ],
+    "published": "2024-05-10 07:32:14 +0000",
+    "short_uuid": "28b36e31"
   }
 ]
