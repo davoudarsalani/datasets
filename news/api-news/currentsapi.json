@@ -3001,5 +3001,285 @@
     ],
     "published": "2024-05-10 11:40:02 +0000",
     "short_uuid": "6204241b"
+  },
+  {
+    "id": "d164820e-f22b-44d7-b73e-c7c7a17f0aed",
+    "title": "'Such Brave Girls': BBC, Hulu comedy renewed for Season 2 - UPI.com",
+    "description": "\"Such Brave Girls,\" a British comedy starring Kat Sadler, will return for a second season on BBC Three and Hulu.",
+    "url": "https://www.upi.com/Entertainment_News/TV/2024/05/10/Such-Brave-Girls-renewed-Season-2-BHulu/6641715348336/",
+    "author": "Annie Martin",
+    "image": "https://cdnph.upi.com/ph/st/th/6641715348336/2024/i/17153492051472/v2.1/Such-Brave-Girls-BBC-Hulu-comedy-renewed-for-Season-2.jpg?lg=4",
+    "language": "en",
+    "category": [
+      "entertainment"
+    ],
+    "published": "2024-05-10 13:59:10 +0000",
+    "short_uuid": "54d45729"
+  },
+  {
+    "id": "3f418829-3de2-41ab-a298-70baef126428",
+    "title": "Sam Altman takes nuclear energy company Oklo public to help power his AI ambitions",
+    "description": "Sam Altman, best known as the CEO of OpenAI, is also chairman of a nuclear power company called Oklo, which has just gone public through a SPAC. ",
+    "url": "https://www.cnbc.com/2024/05/10/sam-altman-takes-nuclear-startup-oklo-public-to-power-ai-ambitions.html",
+    "author": "Hayden Field,MacKenzie Sigalos",
+    "image": "https://image.cnbcfm.com/api/v1/image/107361037-17055870662024-01-18t102403z_838136397_rc2ak5a86bbx_rtrmadp_0_davos-meeting.jpeg?v=1705594949&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-10 13:57:54 +0000",
+    "short_uuid": "905ab1b2"
+  },
+  {
+    "id": "6258a674-99bc-43e5-b790-08d7022bb98d",
+    "title": "Sharon Stone suffered brain bleed for 9 days before best friend 'convinced' doctors to intervene",
+    "description": "Sharon Stone opened up about her \"near-death experience\" in 2001 and explained how her Hollywood career was impacted.",
+    "url": "https://www.foxnews.com/entertainment/sharon-stone-suffered-brain-bleed-for-9-days-before-best-friend-convinced-doctors-to-intervene",
+    "author": "Fox News",
+    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/11/1024/512/sharon-stone.jpg?ve=1&tl=1",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-10 13:57:07 +0000",
+    "short_uuid": "4fe8a816"
+  },
+  {
+    "id": "cabccbae-daa9-4bbc-ba14-823c5fd37e75",
+    "title": "Google Pixel 8a comes in abandoned house bathroom green",
+    "description": "It comes with 8GB of RAM, 128GB of storage and a 64 megapixel main camera with a 13 megapixel ultrawide.",
+    "url": "https://boingboing.net/2024/05/10/google-pixel-8a-comes-in-abandoned-house-bathroom-green.html",
+    "author": "Rob Beschizza",
+    "image": "https://boingboing.net/wp-content/uploads/2024/05/image-48.png",
+    "language": "en",
+    "category": [
+      "entertainment"
+    ],
+    "published": "2024-05-10 13:56:45 +0000",
+    "short_uuid": "96409eb4"
+  },
+  {
+    "id": "73fc404b-6c29-4b0f-8910-79ed6b1a44d8",
+    "title": "Rivian, Lucid and other EV startups scramble to shore up cash and reassure Wall Street",
+    "description": "Rivian, Lucid and Nikola this week each detailed plans to reduce costs while attempting to grow operations and make their first profits. ",
+    "url": "https://www.cnbc.com/2024/05/10/rivian-lucid-nikola-shore-up-cash.html",
+    "author": "Michael Wayland",
+    "image": "https://image.cnbcfm.com/api/v1/image/107384151-1709835368416-gettyimages-2023738908-BIZ-AUTO-RIVIAN-LAYOFFS-TB.jpeg?v=1709835400&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-10 13:55:32 +0000",
+    "short_uuid": "94b503c9"
+  },
+  {
+    "id": "8cc8ee2e-302e-4c5d-a364-610633c54720",
+    "title": "Venezuelan artist transforms plastic waste into vibrant murals",
+    "description": "A Venezuelan artist is turning plastic trash into artistic treasure. His latest project is a 200-meter-long masterpiece in a small city in Panama. \u00d3scar Sulbar\u00e1n reports, in this story narrated by Veronica Villafa\u00f1e.",
+    "url": "https://www.voanews.com/a/venezuelan-artist-transforms-plastic-waste-into-vibrant-murals/7605937.html",
+    "author": "voanews",
+    "image": "https://gdb.voanews.com/01000000-0aff-0242-6dc9-08dc70f66f3d_tv_w1200_r1.jpg",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2024-05-10 13:52:22 +0000",
+    "short_uuid": "351b3b13"
+  },
+  {
+    "id": "564de80f-19fe-4e58-98ad-a400529a6fb9",
+    "title": "The wasps that tamed viruses",
+    "description": "Some insects have transformed wild viruses into tiny biological weapons.",
+    "url": "https://arstechnica.com/science/2024/05/the-wasps-that-tamed-viruses/",
+    "author": "Nala Rogers, Knowable Magazine",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/tiny-wasp-760x380.jpg",
+    "language": "en",
+    "category": [
+      "science"
+    ],
+    "published": "2024-05-10 13:52:20 +0000",
+    "short_uuid": "4cb09e51"
+  },
+  {
+    "id": "6a8eb76c-5d4c-4e61-a196-7e1fb81d8c43",
+    "title": "Third week of testimony in Trump's hush money trial draws to a close, with Michael Cohen yet to come",
+    "description": "NEW YORK -\n\nThe third week of testimony in Donald Trump\u2019s hush money trial draws to a close Friday after jurors heard the dramatic, if not downright seamy, account of porn actor Stormy Daniels, while ...",
+    "url": "https://www.ctvnews.ca/world/third-week-of-testimony-in-trump-s-hush-money-trial-draws-to-a-close-with-michael-cohen-yet-to-come-1.6881448",
+    "author": "@CTVNews",
+    "image": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/5/10/donald-trump-1-6881452-1715345874467.jpg",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2024-05-10 13:51:00 +0000",
+    "short_uuid": "1a60d007"
+  },
+  {
+    "id": "bb8e0a5d-6659-4d7c-9dfe-d86c44dad920",
+    "title": "Police charge 2 teens in Halifax high school bomb threat case",
+    "description": "Two teens are facing mischief and threats charges related to a bomb threat\u00a0this week at a Halifax high school, the latest in a rash of such incidents that have plagued schools in the region for more than a month.",
+    "url": "https://www.cbc.ca/news/canada/nova-scotia/jl-ilsley-bomb-threat-charges-1.7200031?cmp=rss",
+    "author": "cbc",
+    "image": "https://i.cbc.ca/1.6235834.1715346347!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/j-l-ilsley-high-school.jpg",
+    "language": "en",
+    "category": [
+      "regional"
+    ],
+    "published": "2024-05-10 13:50:43 +0000",
+    "short_uuid": "6ae4f230"
+  },
+  {
+    "id": "c4bb82a7-4961-432f-bfcb-7922762e4e22",
+    "title": "Russia Mounting New Border Assaults in North, Ukraine Says",
+    "description": "Ukraine rushed reinforcements to its northern border on Friday after Russian forces attempted to break through Ukrainian lines along several stretches, applying new pressure on Ukrainian forces alread...",
+    "url": "https://www.nytimes.com/2024/05/10/world/europe/russia-border-assaults-north-ukraine.html",
+    "author": "Marc Santora",
+    "image": "https://static01.nyt.com/images/2024/05/10/multimedia/10ukraine-kharkiv-01-mgql/10ukraine-kharkiv-01-mgql-facebookJumbo.jpg",
+    "language": "en",
+    "category": [
+      "regional"
+    ],
+    "published": "2024-05-10 13:50:08 +0000",
+    "short_uuid": "313da3be"
+  },
+  {
+    "id": "9e4d1ca0-6106-4e75-9398-e27e434a4c25",
+    "title": "Trump urges Biden to follow through with debate promise: 'I'm ready to go anywhere'",
+    "description": "Former President Donald Trump urged President Biden to set up a presidential debate in Washington D.C. or New York City via a \"letter to Joe\" published to Truth Social.",
+    "url": "https://www.foxnews.com/politics/trump-urges-biden-follow-debate-promise-ready",
+    "author": "Fox News",
+    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/02/1024/512/Trump-Biden.jpg?ve=1&tl=1",
+    "language": "en",
+    "category": [
+      "politics",
+      "world"
+    ],
+    "published": "2024-05-10 13:49:27 +0000",
+    "short_uuid": "9e5a711d"
+  },
+  {
+    "id": "4c0117df-28e3-4fd5-a64d-5a42bffa58f5",
+    "title": "Why Bordeaux wine is under threat in France this year",
+    "description": "Winemakers in the famous French Bordeaux wine region fear the weather conditions this spring may lead to a disastrous harvest.",
+    "url": "https://www.thelocal.fr/20240510/why-bordeaux-wine-is-under-threat-in-france-this-year",
+    "author": "James Harrington",
+    "image": "https://apiwp.thelocal.com/cdn-cgi/image/format=webp,width=855,quality=75/https://apiwp.thelocal.com/wp-content/uploads/2024/05/watermarks-logo-AFP__20240422__34PY2XE__v4__Preview__FranceAgricultureWineEconomy.jpg",
+    "language": "en",
+    "category": [
+      "regional"
+    ],
+    "published": "2024-05-10 13:48:14 +0000",
+    "short_uuid": "83d19b97"
+  },
+  {
+    "id": "f1e7137f-1055-4e21-95ed-b55b2425eaf2",
+    "title": "Has Virginia Tech found a formula to rekindle its glory days?",
+    "description": "Open Extended Reactions\n\nIn an era of college football with roster turnover at an all-time high, Virginia Tech has worked to build a culture that stresses continuity. That continuity has led expectati...",
+    "url": "https://www.espn.com/college-football/story/_/id/40096568/why-expectations-rise-virginia-tech-football",
+    "author": "Harry Lyles Jr.",
+    "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0507%2Fr1329456_1296x729_16%2D9.jpg",
+    "language": "en",
+    "category": [],
+    "published": "2024-05-10 13:47:28 +0000",
+    "short_uuid": "e4d64472"
+  },
+  {
+    "id": "2af6a208-ff3f-443b-abcb-09a189b3a8f2",
+    "title": "Analyst on Starlink\u2019s rapid rise: \u201cNothing short of mind-blowing\u201d",
+    "description": "Starlink's estimated free cash flow this year is about $600 million. ",
+    "url": "https://arstechnica.com/space/2024/05/just-5-years-after-its-first-launch-the-starlink-constellation-is-profitable/",
+    "author": "Eric Berger",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2019/10/starlink-satellites-760x380.jpg",
+    "language": "en",
+    "category": [
+      "science"
+    ],
+    "published": "2024-05-10 13:45:45 +0000",
+    "short_uuid": "436685be"
+  },
+  {
+    "id": "2618a590-6826-47e1-ba4d-f1f1317000b3",
+    "title": "A Windows 11 PC the size of a phone",
+    "description": "Minisform's S100 Mini PC is a Windows 11 desktop PC the size of a phone. It has a 4-core Intel N100 CPU with Intel UHD graphics, 8GB of RAM and\u2026",
+    "url": "https://boingboing.net/2024/05/10/a-windows-11-pc-the-size-of-a-phone.html",
+    "author": "Rob Beschizza",
+    "image": "https://boingboing.net/wp-content/uploads/2024/05/minisforum-crams-windows-11-an-alder-lake-cpu-and-ddr5-ram-v0-BwvTXTA_LWogM0qrrAnnnjyCbL5ePqBXhl1RLpyEnAw.webp",
+    "language": "en",
+    "category": [
+      "entertainment"
+    ],
+    "published": "2024-05-10 13:45:22 +0000",
+    "short_uuid": "4d1829f5"
+  },
+  {
+    "id": "b05b7cf8-79a1-45fc-8cf4-ca68f63af1cb",
+    "title": "Guardiola hails 'incredible' rivals as title race goes down to the wire",
+    "description": "Manchester City manager Pep Guardiola knows all about Premier League title battles that go down to the wire and said his side's main rivals this season Arsenal were playing at the same level as Liverpool did when they pushed them in recent races. Defending champions City are a point behind Arsenal i...",
+    "url": "https://www.channelnewsasia.com/sport/guardiola-hails-incredible-rivals-title-race-goes-down-wire-4327301",
+    "author": "CNA",
+    "image": "https://onecms-res.cloudinary.com/image/upload/s--yI33IKe6--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-05-10t134422z_1_lynxmpek490f8_rtroptp_3_soccer-england-mci-wlv-report.jpg?itok=NLjxup_d",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-10 13:44:22 +0000",
+    "short_uuid": "b6890ea9"
+  },
+  {
+    "id": "5cee0d9a-d0c9-4d04-8841-860dea115f5a",
+    "title": "Target to reduce number of stores carrying Pride-themed merchandise after last year's backlash",
+    "description": "Target confirmed that it won\u2019t be carrying its LGBTQ+ merchandise for Pride month in June in some stores after the discount retailer received backlash last year for its assortment",
+    "url": "https://abcnews.go.com/Business/wireStory/target-reduce-number-stores-carrying-pride-themed-merchandise-110102990",
+    "author": "ABC News",
+    "image": "https://i.abcnewsfe.com/a/850bb805-93c8-40d5-b3cd-a1d80fe4f31a/wirestory_667ab2f6545645f5f86ca76394e531d6_16x9.jpg?w=1600",
+    "language": "en",
+    "category": [
+      "finance",
+      "business"
+    ],
+    "published": "2024-05-10 13:42:27 +0000",
+    "short_uuid": "c2aaea0f"
+  },
+  {
+    "id": "4c41d4eb-fe8d-401e-853b-a730532351a6",
+    "title": "Mike Johnson touts bipartisanship after Democrats help sink Marjorie Taylor Greene challenge \u2013 live",
+    "description": "Republican House speaker praised Democratic minority leader Hakeem Jeffries and made veiled dig at far-right congresswoman",
+    "url": "https://www.theguardian.com/us-news/live/2024/may/10/biden-trump-mike-johnson-latest-news-updates",
+    "author": "Alice Herman",
+    "image": "https://i.guim.co.uk/img/media/684220f20eb83aed3c5cdaea0d99353c0f036945/0_158_6515_3911/master/6515.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&s=b8295bc9a82c00d67a96ab37f06e7696",
+    "language": "en",
+    "category": [
+      "regional"
+    ],
+    "published": "2024-05-10 13:42:17 +0000",
+    "short_uuid": "586b6d31"
+  },
+  {
+    "id": "48794cb0-1a42-4901-bfac-c6388f991b4e",
+    "title": "Listen: RM of BTS releases 'Come Back to Me' ahead of new album - UPI.com",
+    "description": "K-pop star RM released \"Come Back to Me,\" a new song featuring a music video directed by \"Beef\" creator Lee Sung Jin.",
+    "url": "https://www.upi.com/Entertainment_News/Music/2024/05/10/RM-Come-Back-Me-single-music-video-BTS/5651715346227/",
+    "author": "Annie Martin",
+    "image": "https://cdnph.upi.com/ph/st/th/5651715346227/2024/upi/23537fdaeb0bb46aa35fd5e72cc60647/v2.1/RM-of-BTS-releases-Come-Back-to-Me-ahead-of-new-album.jpg?lg=4",
+    "language": "en",
+    "category": [
+      "entertainment"
+    ],
+    "published": "2024-05-10 13:39:28 +0000",
+    "short_uuid": "822faea7"
+  },
+  {
+    "id": "177b1582-041d-4a8e-8ab3-b143cd981277",
+    "title": "Polish farmers march in Warsaw opposing European Union climate policies",
+    "description": "Polish farmers marched through downtown Warsaw on Friday to protest the European Union\u2019s climate policies and to oppose the pro-EU government, officials said.",
+    "url": "https://www.foxnews.com/world/polish-farmers-march-warsaw-opposing-european-union-climate-policies",
+    "author": "Fox News",
+    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/05/1024/512/Poland.jpg?ve=1&tl=1",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-10 13:36:00 +0000",
+    "short_uuid": "ccf8c09"
   }
 ]
