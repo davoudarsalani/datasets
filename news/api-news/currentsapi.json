@@ -15949,5 +15949,168 @@
     ],
     "published": "2024-05-13 11:30:30 +0000",
     "short_uuid": "10aa1b82"
+  },
+  {
+    "id": "bf776041-7470-44d6-87d1-e77dc6f3417b",
+    "title": "Bronny James Medically Cleared For NBA After 2023 Cardiac Arrest",
+    "description": "Bronny James has been medically cleared for the NBA following his July 2023 cardiac arrest.",
+    "url": "https://www.tmz.com/2024/05/13/bronny-james-medically-cleared-nba-2023-cardiac-arrest/",
+    "author": "TMZ Staff",
+    "image": "https://imagez.tmz.com/image/9a/16by9/2024/05/13/9aae663249eb47788b045c661f2a0d42_xl.jpg",
+    "language": "en",
+    "category": [
+      "sports"
+    ],
+    "published": "2024-05-13 14:06:53 +0000",
+    "short_uuid": "800ee30c"
+  },
+  {
+    "id": "f0bc6bbc-8d2e-4894-9d47-4cb8dc6d78c7",
+    "title": "Optimal epidemic control by social distancing and vaccination of an infection structured by time since infection: the covid-19 case study",
+    "description": "Motivated by the issue of COVID-19 mitigation, in this work we tackle the general problem of optimally controlling an epidemic outbreak of a communicable disease structured by time since exposure, by the aid of two types of control instruments namely, social distancing and vaccination by a vaccine a...",
+    "url": "https://arxiv.org/abs/2405.06628",
+    "author": "Marinoschi, Gabriela",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "BIO"
+    ],
+    "published": "2024-05-13 13:58:33 +0000",
+    "short_uuid": "cfccb71"
+  },
+  {
+    "id": "3e4d0aa6-5252-44bd-b475-aca490639026",
+    "title": "Osobor joining Huskies, set to make $2M in NIL",
+    "description": "Open Extended Reactions\n\nUtah State transfer Great Osobor, the top available player in the NCAA transfer portal, has committed to Washington, he told ESPN.\n\nOsobor, the Mountain West Conference Player...",
+    "url": "https://www.espn.com/mens-college-basketball/story/_/id/40137329/great-osobor-transferring-washington-big-nil-deals",
+    "author": "Jonathan Givony",
+    "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0403%2Fr1313787_1296x729_16%2D9.jpg",
+    "language": "en",
+    "category": [
+      "sports"
+    ],
+    "published": "2024-05-13 13:57:33 +0000",
+    "short_uuid": "54838486"
+  },
+  {
+    "id": "1a519b9c-ec5c-477b-8d53-57ca5da97820",
+    "title": "QED corrections to the thermal neutrino interaction rate",
+    "description": "Motivated by precision computations of neutrino decoupling at MeV temperatures, we show how QED corrections to the thermal neutrino interaction rate can be related to the electron-positron spectral function as well as an effective $bar\u03bd\u03bd\u03b3$ vertex. The spectral function is needed both in a timelike a...",
+    "url": "https://arxiv.org/abs/2312.07015",
+    "author": "Laine, M.",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "ASTRO"
+    ],
+    "published": "2024-05-13 13:51:51 +0000",
+    "short_uuid": "582edf2"
+  },
+  {
+    "id": "39986d19-a764-42ba-afda-f7d2f0132da2",
+    "title": "Primordial Black Holes with QCD Color Charge",
+    "description": "We describe a realistic mechanism whereby black holes with significant QCD color charge could have formed during the early universe. Primordial black holes (PBHs) could make up a significant fraction of the dark matter if they formed well before the QCD confinement transition. Such PBHs would form b...",
+    "url": "https://arxiv.org/abs/2310.16877",
+    "author": "Kaiser, David I.",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "ASTRO"
+    ],
+    "published": "2024-05-13 13:51:51 +0000",
+    "short_uuid": "c5f4ef8b"
+  },
+  {
+    "id": "2d7a82d6-277b-470f-8f5d-cdc5c2e07887",
+    "title": "F\u00e9eton ($B-L$ Gauge Boson) Dark Matter for the 511-keV Gamma-Ray Excess and the Prediction of Low-energy Neutrino Flux",
+    "description": "The f\u00e9eton is the gauge boson of the $U(1)_{B-L}$ gauge theory. If the gauge coupling constant is extremely small, it becomes a candidate for dark matter. We show that its decay to a pair of electron and positron explains the observed Galactic 511-keV gamma-ray excess in a consistent manner. This f\u00e9...",
+    "url": "https://arxiv.org/abs/2310.05420",
+    "author": "Yanagida, Tsutomu T.",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "ASTRO"
+    ],
+    "published": "2024-05-13 13:51:51 +0000",
+    "short_uuid": "f8b45e97"
+  },
+  {
+    "id": "b2b10b49-a09b-4d6d-b91c-8795545893e3",
+    "title": "The CO-to-H$_2$ Conversion Factor in the Central Molecular Zone of the Milky Way using CO isotopologues",
+    "description": "We performed correlation analyses between the $^{12}$CO and $^{13}$CO $J=$1-0 line intensities in order to derive the variability of the CO-to-H$_2$ conversion factor ($X_{rm CO, iso}$) in the central molecular zone (CMZ) of our Galaxy. New high-resolution $X_{rm CO, iso}$ maps at a resolution of $s...",
+    "url": "https://arxiv.org/abs/2404.04084",
+    "author": "Sofue, Yoshiaki",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "ASTRO"
+    ],
+    "published": "2024-05-13 13:51:51 +0000",
+    "short_uuid": "7c19dfb9"
+  },
+  {
+    "id": "e8792c99-3167-4ce7-860e-e5de7643c16f",
+    "title": "Neutrino fluxes from different classes of galactic sources",
+    "description": "We estimate the neutrino flux from different kinds of galactic sources and compare it with the recently diffuse neutrino flux detected by IceCube. We find that the flux from these sources may contribute to ~ 20% of the IceCube neutrino flux. Most of the sources selected in this work populate the sou...",
+    "url": "https://arxiv.org/abs/2403.05288",
+    "author": "Capone, Antonio",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "ASTRO"
+    ],
+    "published": "2024-05-13 13:51:51 +0000",
+    "short_uuid": "13929381"
+  },
+  {
+    "id": "a27e15b2-25a1-4ef3-8336-f3cdab583247",
+    "title": "Fits for the convective envelope mass in massive stars",
+    "description": "We explore the evolution of massive stars (>8 solar masses) with 1-D models and present analytical fits to the masses and binding energies of the convective portions of their envelopes. These fits are given as functions of total mass, metallicity, and surface temperature (used as a proxy for evoluti...",
+    "url": "https://arxiv.org/abs/2402.13180",
+    "author": "Mandel, Ilya",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "ASTRO"
+    ],
+    "published": "2024-05-13 13:51:51 +0000",
+    "short_uuid": "7d83c899"
+  },
+  {
+    "id": "d9a4e4f9-06b7-45a2-b0dd-d2055a3c3e96",
+    "title": "Close encounters of the primordial kind: a new observable for primordial black holes as dark matter",
+    "description": "Primordial black holes (PBHs) remain a viable dark matter candidate in the asteroid-mass range. We point out that in this scenario, the PBH abundance would be large enough for at least one object to cross through the inner Solar System per decade. Since Solar System ephemerides are modeled and measu...",
+    "url": "https://arxiv.org/abs/2312.17217",
+    "author": "Kaiser, David I.",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "ASTRO"
+    ],
+    "published": "2024-05-13 13:51:51 +0000",
+    "short_uuid": "deab48f2"
+  },
+  {
+    "id": "57ee0539-a7aa-4982-82f4-155b55305b6f",
+    "title": "TOI-2015b: A Warm Neptune with Transit Timing Variations Orbiting an Active mid M Dwarf",
+    "description": "We report the discovery of a close-in ($P_{mathrm{orb}} = 3.349:mathrm{days}$) warm Neptune with clear transit timing variations (TTVs) orbiting the nearby ($d=47.3:mathrm{pc}$) active M4 star, TOI-2015. We characterize the planet's properties using TESS photometry, precise near-infrared radial velo...",
+    "url": "https://arxiv.org/abs/2310.11775",
+    "author": "Wisniewski, John",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "ASTRO"
+    ],
+    "published": "2024-05-13 13:51:51 +0000",
+    "short_uuid": "7bdc6e82"
   }
 ]
