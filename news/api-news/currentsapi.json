@@ -14383,5 +14383,156 @@
     ],
     "published": "2024-05-13 01:05:00 +0000",
     "short_uuid": "b0633160"
+  },
+  {
+    "id": "c1bd2aa8-9fa0-45f7-a8b1-577dde778187",
+    "title": "Sandboxing Adoption in Open Source Ecosystems",
+    "description": "Sandboxing mechanisms allow developers to limit how much access applications have to resources, following the least-privilege principle. However, it's not clear how much and in what ways developers are using these mechanisms. This study looks at the use of Seccomp, Landlock, Capsicum, Pledge, and Un...",
+    "url": "https://arxiv.org/abs/2405.06447",
+    "author": "Hallett, Joseph",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "CS",
+      "CR"
+    ],
+    "published": "2024-05-13 04:05:31 +0000",
+    "short_uuid": "9a3f4d98"
+  },
+  {
+    "id": "05792cfd-ea84-4b09-8115-f7ba05fac28a",
+    "title": "Anomaly Detection in Graph Structured Data: A Survey",
+    "description": "Real-world graphs are complex to process for performing effective analysis, such as anomaly detection. However, recently, there have been several research efforts addressing the issues surrounding graph-based anomaly detection. In this paper, we discuss a comprehensive overview of anomaly detection ...",
+    "url": "https://arxiv.org/abs/2405.06172",
+    "author": "Eberle, William",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "CS",
+      "CR"
+    ],
+    "published": "2024-05-13 04:05:31 +0000",
+    "short_uuid": "1fc4f350"
+  },
+  {
+    "id": "07cb9279-ded0-4865-be00-0e4ac433cd44",
+    "title": "CRATOR: a Dark Web Crawler",
+    "description": "Dark web crawling is a complex process that involves specific methodologies and techniques to navigate the Tor network and extract data from hidden services. This study proposes a general dark web crawler designed to extract pages handling security protocols, such as captchas, efficiently. Our appro...",
+    "url": "https://arxiv.org/abs/2405.06356",
+    "author": "Heuvel, Willem-Jan Van Den",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "ru",
+    "category": [
+      "academic",
+      "CS",
+      "CR"
+    ],
+    "published": "2024-05-13 04:05:31 +0000",
+    "short_uuid": "ef518fb5"
+  },
+  {
+    "id": "c589310d-4dac-4d8e-92b4-e3c7f8b53a80",
+    "title": "Risks of Practicing Large Language Models in Smart Grid: Threat Modeling and Validation",
+    "description": "Large Language Model (LLM) is a significant breakthrough in artificial intelligence (AI) and holds considerable potential for application within smart grids. However, as demonstrated in previous literature, AI technologies are susceptible to various types of attacks. It is crucial to investigate and...",
+    "url": "https://arxiv.org/abs/2405.06237",
+    "author": "Sun, Jinyuan",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "CS",
+      "CR"
+    ],
+    "published": "2024-05-13 04:05:31 +0000",
+    "short_uuid": "22ee6074"
+  },
+  {
+    "id": "cbbb26dd-d491-4d0b-b15b-d023f99397d2",
+    "title": "Weekend Discussion - May 12, 2024 (Mother's Day)",
+    "description": "Happy Mother's Day, Shacknews!",
+    "url": "https://www.shacknews.com/article/139849/weekend-discussion-may-12-2024-mothers-day",
+    "author": "Ozzie Mejia",
+    "image": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2024/05/11/weekend-discussion-feature_feature.jpeg",
+    "language": "en",
+    "category": [
+      "game",
+      "review"
+    ],
+    "published": "2024-05-13 04:00:00 +0000",
+    "short_uuid": "44346ed"
+  },
+  {
+    "id": "0fab5664-67f5-473f-9052-d2f1613e6501",
+    "title": "Red Metal looks to stretch Queensland rare earths plot",
+    "description": "Aspiring rare earths developer Red Metal wants to stretch its \u201cworld-first\u201d Sybella discovery in Mt Isa with a new drill program outside known mineralisation.",
+    "url": "https://www.smh.com.au/business/companies/red-metal-looks-to-stretch-queensland-rare-earths-plot-20240513-p5jd7d.html?ref=rss",
+    "author": "Craig Nolan",
+    "image": "https://static.ffx.io/images/$zoom_0.7358%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_0%2C$y_23/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/2e82eda7ede9ee7eb72b7b4f6315e239562d6e8e",
+    "language": "en",
+    "category": [
+      "business"
+    ],
+    "published": "2024-05-13 03:40:31 +0000",
+    "short_uuid": "4898d1fd"
+  },
+  {
+    "id": "a9ddacdb-088e-46ac-b8ae-cffe40cddae9",
+    "title": "UK plots an accounting trick to hit its climate goals",
+    "description": "It\u2019s an accounting trick that would effectively give the U.K. headroom to pollute more in the years ahead without breaching its own rules.\n\nBut climate experts argue it\u2019s a bureaucratic wheeze that co...",
+    "url": "https://www.politico.eu/article/uk-accounting-trick-hit-climate-goals-carbon-emissions-budget/",
+    "author": "Abby Wallace",
+    "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/05/10/GettyImages-57314662-scaled.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2024-05-13 03:39:05 +0000",
+    "short_uuid": "9a7befa5"
+  },
+  {
+    "id": "dcae9f95-c769-4c1f-9d61-30241161ec82",
+    "title": "\u2018Strengthening coop with China needed to enhance mushroom export\u2019",
+    "description": "Faisalabad\u00a0\u00a0 -\u00a0\u00a0 Pakistan enjoys rich potential for mushroom exports through enhanced cooperation with China, and taping new markets. This",
+    "url": "https://www.nation.com.pk/13-May-2024/strengthening-coop-with-china-needed-to-enhance-mushroom-export",
+    "author": "INP",
+    "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+    "language": "en",
+    "category": [
+      "regional",
+      "multan"
+    ],
+    "published": "2024-05-13 03:28:14 +0000",
+    "short_uuid": "497967b5"
+  },
+  {
+    "id": "c6a53606-9da6-4081-969f-9494f14a3a18",
+    "title": "SoftBank's Arm to reportedly launch AI chips by 2025 to capture explosive demand",
+    "description": "Arm logo displayed on a screen and and microchip are seen in this illustration photo taken in Krakow, Poland on September 14, 2023.\n\nSoftBank Group subsidiary Arm is planning to launch artificial inte...",
+    "url": "https://www.cnbc.com/2024/05/13/softbanks-arm-to-launch-ai-chips-by-2025-amid-explosive-demand.html",
+    "author": "Sheila Chiang",
+    "image": "https://image.cnbcfm.com/api/v1/image/107372340-1707755955868-gettyimages-1665282931-porzycki-armphoto230914_npsnU.jpeg?v=1707756116&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2024-05-13 03:27:56 +0000",
+    "short_uuid": "599baaab"
+  },
+  {
+    "id": "70bdb630-5194-40c2-a981-17114219e09e",
+    "title": "Steve Buscemi Says Man Randomly Attacked Him in New York City",
+    "description": "Steve Buscemi's recovering after a random attack in New York City ... saying a guy punched him in the face in broad daylight for no reason -- and, lamenting the state of the city.",
+    "url": "https://www.tmz.com/2024/05/12/steve-buscemi-man-randomly-attack-him-new-york-city-no-provacation/",
+    "author": "TMZ Staff",
+    "image": "https://imagez.tmz.com/image/40/16by9/2024/05/12/40464f2cd3d246e6bb46dc5b0d72d97a_xl.png",
+    "language": "en",
+    "category": [
+      "television",
+      "tv"
+    ],
+    "published": "2024-05-13 03:27:09 +0000",
+    "short_uuid": "4597ee1b"
   }
 ]
