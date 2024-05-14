@@ -17672,5 +17672,312 @@
     ],
     "published": "2024-05-13 21:38:39 +0000",
     "short_uuid": "328a6b80"
+  },
+  {
+    "id": "2ed8032e-fa79-4850-91a9-58af32c7b08c",
+    "title": "Corruption watchdog to publicly probe council contracts",
+    "description": "The Independent Commission Against Corruption is investigating the awarding of contracts at a Sydney council over a period of more than 18 months.",
+    "url": "https://thewest.com.au/politics/corruption-watchdog-to-publicly-probe-council-contracts-c-14658380",
+    "author": "Jack Gramenz",
+    "image": "https://images.thewest.com.au/publication/C-14658380/14c0a9c6cbe8596a71eefb735619d28a284b4192-16x9-x0y0w1280h720.jpg?imwidth=1200",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-14 00:25:00 +0000",
+    "short_uuid": "bc8332c9"
+  },
+  {
+    "id": "4f8734f5-e78f-4a94-a6af-cc0988653c0a",
+    "title": "China and India still rely heavily on coal, climate targets remain 'very difficult' to achieve",
+    "description": "China and India have not reduced coal generation for electricity, making it harder for Asia's largest carbon emitters to reach their climate targets.\u00a0\u00a0",
+    "url": "https://www.cnbc.com/2024/05/14/china-india-still-rely-heavily-on-coal-climate-targets-remain-difficult.html",
+    "author": "Charmaine Jacob",
+    "image": "https://image.cnbcfm.com/api/v1/image/107413094-1715301216475-gettyimages-1779067793-cfoto-huanengh231113_nplhs.jpeg?v=1715301302&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-14 00:24:12 +0000",
+    "short_uuid": "4c4a8590"
+  },
+  {
+    "id": "be96de0e-eaaa-47fd-95b9-b15673946537",
+    "title": "Art worth $100,000 damaged at Chinese heritage museum",
+    "description": "Police are calling for information after paintings and statues at a museum dedicated to Chinese heritage were defaced in regional Victoria.",
+    "url": "https://thewest.com.au/news/crime/art-worth-100000-damaged-at-chinese-heritage-museum-c-14658361",
+    "author": "Adrian Black",
+    "image": "https://images.thewest.com.au/publication/C-14658361/347bbd083b86023490ddbb36aee21caea694dc7a-16x9-x0y0w1280h720.jpg?imwidth=1200",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-14 00:23:57 +0000",
+    "short_uuid": "b67e3080"
+  },
+  {
+    "id": "5ee51ea5-4f57-4bb0-992d-a3f46476411b",
+    "title": "OpenAI launches new, conversational GPT-40 with 'real-time responsiveness' - UPI.com",
+    "description": "OpenAI has revealed its newest AI model, GPT-40, a desktop version of its popular chatbot ChatGPT that is more conversational and easier to use.",
+    "url": "https://www.upi.com/Top_News/US/2024/05/13/openAI-gpt-40-chatbot/5371715643642/",
+    "author": "Sheri Walsh",
+    "image": "https://cdnph.upi.com/ph/st/th/5371715643642/2024/upi_com/a73648ec6a9de3add134a88fb759b08a/v2.1/OpenAI-launches-new-conversational-GPT-40-with-real-time-responsiveness.jpg?lg=4",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-14 00:19:55 +0000",
+    "short_uuid": "36129228"
+  },
+  {
+    "id": "d4a4588c-85fa-46f2-9390-4521c7f7b54d",
+    "title": "'Frustrated' board member quits due to PGA-LIV stall",
+    "description": "Jimmy Dunne, the Wall Street deal maker who helped architect the PGA Tour's controversial deal with LIV Golf's Saudi backers, has resigned from the board.",
+    "url": "https://thewest.com.au/sport/golf/frustrated-board-member-quits-due-to-pga-liv-stall-c-14658299",
+    "author": "Staff Writers",
+    "image": "https://images.thewest.com.au/publication/C-14658299/dbdedf143810a9f47ed1c9fd0ad04b2307a65e82-16x9-x0y0w1280h720.jpg?imwidth=1200",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-14 00:16:51 +0000",
+    "short_uuid": "5bdbe5e7"
+  },
+  {
+    "id": "995a1ab9-6872-4f49-9eae-36168a20d027",
+    "title": "Japan April wholesale inflation steady as weak yen boosts import costs",
+    "description": "TOKYO : Japan's wholesale prices rose 0.9 per cent in April from a year earlier, steady from the previous month as the yen's decline pushed up import costs, central bank data showed on Tuesday. The rise in the corporate goods price index (CGPI), which measures the price companies charge each other f...",
+    "url": "https://www.channelnewsasia.com/business/japan-april-wholesale-inflation-steady-weak-yen-boosts-import-costs-4333381",
+    "author": "CNA",
+    "image": "https://onecms-res.cloudinary.com/image/upload/s--GlPkwLZB--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-05-14t001506z_2_lynxmpek4d00a_rtroptp_3_japan-economy-prices.jpg?itok=75X6X1-T",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-14 00:15:06 +0000",
+    "short_uuid": "96d81222"
+  },
+  {
+    "id": "d44cf1a7-ff38-4754-aedb-e98fd85abb31",
+    "title": "Informativeness of Weighted Conformal Prediction",
+    "description": "Weighted conformal prediction (WCP), a recently proposed framework, provides uncertainty quantification with the flexibility to accommodate different covariate distributions between training and test data. However, it is pointed out in this paper that the effectiveness of WCP heavily relies on the o...",
+    "url": "https://arxiv.org/abs/2405.06479",
+    "author": "Hung, Ying",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [],
+    "published": "2024-05-14 00:12:04 +0000",
+    "short_uuid": "ccad2e30"
+  },
+  {
+    "id": "f361c8a6-f8cf-46aa-81dd-3ee06583b20c",
+    "title": "As Microsoft default-encrypts Windows 11, Linux is set to get a huge performance boost",
+    "description": "Linux is about to get a huge performance boost in AES-XTS or AES encryption performance thanks to new improvements. This could tip people over to make the switch from Windows 11 24H2 over to Linux.",
+    "url": "https://www.neowin.net/news/as-microsoft-default-encrypts-windows-11-linux-is-set-to-get-a-huge-performance-boost/",
+    "author": "Sayan Sen",
+    "image": "https://cdn.neowin.com/news/images/uploaded/2020/10/1603746100_tux_story.jpg",
+    "language": "en",
+    "category": [
+      "technology"
+    ],
+    "published": "2024-05-14 00:12:01 +0000",
+    "short_uuid": "1dd0afec"
+  },
+  {
+    "id": "23e1043e-35b1-4dd4-a8db-715d83b8b450",
+    "title": "House, shop rammed by burning vehicles",
+    "description": "A house and a business have been smashed by burning cars in what police believe are targeted attacks.",
+    "url": "https://thewest.com.au/news/cars-set-alight-and-driven-into-house-shop-in-melbourne-c-14658258",
+    "author": "Blair Jackson",
+    "image": "https://images.thewest.com.au/publication/C-14658258/8a2e2e484712205b08481607f7f8b526205262aa-16x9-x0y192w2048h1152.jpg?imwidth=1200",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-14 00:11:57 +0000",
+    "short_uuid": "a7432c5c"
+  },
+  {
+    "id": "5f9c8db0-025a-46b8-a09e-1d03e7609db0",
+    "title": "Apple Music starts its first-ever 100 Best Albums countdown",
+    "description": "KUALA LUMPUR, May 14 \u2014 Apple Music just announced 10 days of counting down to its first Best Albums list. Over the next few days the service will reveal its picks curated by...",
+    "url": "https://www.malaymail.com/news/tech-gadgets/2024/05/14/apple-music-starts-its-first-ever-100-best-albums-countdown/134224",
+    "author": "Erna Mahyuni",
+    "image": "https://www.malaymail.com/malaymail/uploads/images/2024/05/14/thumbs/400x400/209910.jpg",
+    "language": "en",
+    "category": [
+      "technology",
+      "gadgets"
+    ],
+    "published": "2024-05-14 00:11:10 +0000",
+    "short_uuid": "385be182"
+  },
+  {
+    "id": "874bed3f-f244-45c8-bdea-94f5f44beef4",
+    "title": "Lisa Bluder, who coached Caitlin Clark at Iowa, announces retirement",
+    "description": "Bluder led the Hawkeyes for 24 years, setting program and Big Ten records for wins, as part of a 40-year head coaching career.",
+    "url": "https://www.washingtonpost.com/sports/2024/05/13/lisa-bluder-retires-iowa-caitlin-clark/",
+    "author": "Des Bieler",
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DAH7ILGNEJBFTJ75W5E4JDZ4ZU_size-normalized.jpg&w=1440",
+    "language": "en",
+    "category": [
+      "sports"
+    ],
+    "published": "2024-05-14 00:11:00 +0000",
+    "short_uuid": "f6830a23"
+  },
+  {
+    "id": "fb876c65-2cf5-4272-b869-f461399e704e",
+    "title": "Follow live: Celtics aim to extend lead vs. Cavaliers in Game 4",
+    "description": "NBA playoffs 2024: Conference semifinals news, schedule, scores and highlights\n\nHere's what you need to know about the conference semifinals, including the latest scores, news and schedules....",
+    "url": "https://www.espn.com/nba/game/_/gameId/401658227/celtics-cavaliers",
+    "author": "espn",
+    "image": "http://s.espncdn.com/stitcher/sports/basketball/nba/events/401658227.png?templateId=espn.com.share.1",
+    "language": "en",
+    "category": [
+      "sports"
+    ],
+    "published": "2024-05-14 00:09:13 +0000",
+    "short_uuid": "b927bb15"
+  },
+  {
+    "id": "2eb61ba0-687a-490b-bde4-223ddf4ab81d",
+    "title": "US VP Harris drops f-bomb during speech to youngsters",
+    "description": "An audience has laughed and hollered as US Vice President Kamala Harris used a profanity while offering advice to young Asian Americans.",
+    "url": "https://thewest.com.au/politics/us-vp-harris-drops-f-bomb-during-speech-to-youngsters-c-14658196",
+    "author": "Staff Writers",
+    "image": "https://images.thewest.com.au/publication/C-14658196/63b699121172821fddc84bf75917217dc1f63030-16x9-x0y0w1280h720.jpg?imwidth=1200",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-14 00:07:48 +0000",
+    "short_uuid": "e5c9e321"
+  },
+  {
+    "id": "0423c294-e627-47a3-a8c3-4ff7e5046334",
+    "title": "Will US voters continue to care about Ukraine amid Israel-Hamas conflict?",
+    "description": "As Russia pushed into northern Ukraine this week, the U.S. presidential race between President Joe Biden and former President Donald Trump remained focused on another foreign policy crisis -- the war in Gaza. ",
+    "url": "https://www.voanews.com/a/will-us-voters-continue-to-care-about-ukraine-amid-israel-hamas-conflict-/7610044.html",
+    "author": "Katherine Gypson",
+    "image": "https://gdb.voanews.com/01000000-0aff-0242-dc14-08dc73a8ece4_tv_w1200_r1.jpg",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2024-05-14 00:07:28 +0000",
+    "short_uuid": "1d6cd663"
+  },
+  {
+    "id": "4b764ccb-d5a2-4186-8805-6dd6de73e651",
+    "title": "Nationals-White Sox rained out; Josiah Gray edges closer to return",
+    "description": "Trevor Williams will start the opener Tuesday with Mitchell Parker set for the nightcap. Gray, out for more than a month, threw a fourth bullpen session.",
+    "url": "https://www.washingtonpost.com/sports/2024/05/13/nationals-white-sox-postponed/",
+    "author": "Andrew Golden",
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/V46HC4Q5ADS6VQ5XTFNE2CZSZM_size-normalized.JPG&w=1440",
+    "language": "en",
+    "category": [
+      "sports"
+    ],
+    "published": "2024-05-14 00:05:00 +0000",
+    "short_uuid": "ae00997c"
+  },
+  {
+    "id": "d813b0b7-c6f7-4c08-90ef-38a77a7cddda",
+    "title": "Perseverance Wraps Up Over 1000 Days on Mars. Still Going Strong - Universe Today",
+    "description": "Comprehensive, up-to-date news coverage, aggregated from sources all over the world by Google News.",
+    "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnVuaXZlcnNldG9kYXkuY29tLzE2Njk3OC9wZXJzZXZlcmFuY2Utd3JhcHMtdXAtb3Zlci0xMDAwLWRheXMtb24tbWFycy1zdGlsbC1nb2luZy1zdHJvbmcv0gEA?oc=5&hl=en-SG&gl=SG&ceid=SG:en",
+    "author": "google",
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+    "language": "en",
+    "category": [
+      "regional"
+    ],
+    "published": "2024-05-14 00:04:28 +0000",
+    "short_uuid": "11567ae8"
+  },
+  {
+    "id": "06447dee-3bec-48e5-95c7-f77c35a43325",
+    "title": "James Dyson tells us why he's a 'clean freak' and what's so special about their new wet floor cleaner",
+    "description": "Launching Dyson\u2019s new WashG1, the brand\u2019s first dedicated wet floor cleaner, Sir James Dyson humoured us at CNA Lifestyle by answering the question, \u201cIf you were a Dyson product, which would you be, and why?\u201d",
+    "url": "https://cnalifestyle.channelnewsasia.com/living/james-dyson-interview-washg1-wet-floor-cleaner-390066",
+    "author": "May Seah",
+    "image": "https://onecms-res.cloudinary.com/image/upload/s--Yr3_Blmx--/c_crop,h_843,w_1500,x_0,y_141/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/13/Hero.jpg?itok=jmWjv_nN",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-14 00:04:00 +0000",
+    "short_uuid": "aa820983"
+  },
+  {
+    "id": "1221c181-43af-4ad3-a0c0-d5890fd6dcc0",
+    "title": "Mortgage companies could intensify the next recession, U.S. officials warn",
+    "description": "U.S. officials worry the next recession could be intensified by a cascading series of failures in the mortgage industry caused by crashing home prices, frozen financial markets and soaring delinquencies.",
+    "url": "https://www.ctvnews.ca/business/mortgage-companies-could-intensify-the-next-recession-u-s-officials-warn-1.6885693",
+    "author": "@CTVNews",
+    "image": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/5/13/home-for-sale-1-6885729-1715644939799.jpg",
+    "language": "en",
+    "category": [
+      "business"
+    ],
+    "published": "2024-05-14 00:03:08 +0000",
+    "short_uuid": "dc6cef7e"
+  },
+  {
+    "id": "a9c5e920-82d1-4dad-b9d0-81fc91c34494",
+    "title": "Sky Bruise: heavy sessions prep NSW for Origin opener",
+    "description": "Yasmin Clydsdale says NSW's State of Origin build-up has been perfect, despite so few players getting game time over the early part of 2024.",
+    "url": "https://thewest.com.au/sport/rugby-league/sky-bruise-heavy-sessions-prep-nsw-for-origin-opener-c-14658102",
+    "author": "George Clarke",
+    "image": "https://images.thewest.com.au/publication/C-14658102/f2594b77f295e922e1414b5885abe1f2353e3f08-16x9-x0y0w1280h720.jpg?imwidth=1200",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-14 00:01:41 +0000",
+    "short_uuid": "e595913c"
+  },
+  {
+    "id": "07c02087-2a54-4915-804e-4794339e2180",
+    "title": "Biden, Trump head to Southern California in June for big-dollar fundraisers",
+    "description": "Trump will headline Beverly Hills and Newport Beach events. Biden will attend a downtown L.A. fundraiser with former President Obama, actors George Clooney and Julia Roberts.",
+    "url": "https://www.latimes.com/politics/story/2024-05-13/biden-trump-head-to-southern-california-in-june-for-big-dollar-fundraisers",
+    "author": "@latseema",
+    "image": "https://ca-times.brightspotcdn.com/dims4/default/554534d/2147483647/strip/true/crop/5949x3346+0+495/resize/1200x675!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffd%2F5c%2Fc63aec914365b5f47442ebbedb42%2F1360493-me-laphonza-butler30-mam.jpg",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2024-05-13 23:54:17 +0000",
+    "short_uuid": "e6a05f58"
+  },
+  {
+    "id": "59695116-9df9-48db-86e4-c428354c3866",
+    "title": "\u2018Commitment\u2019: Chalmers budget hint",
+    "description": "Australians should have a \u201cvery close look\u201d at tonight\u2019s budget papers, the Treasurer hinted.",
+    "url": "https://thewest.com.au/business/jim-chalmers-will-hand-down-his-third-federal-budget-as-parliament-returns-c-14658056",
+    "author": "Eleanor Campbell",
+    "image": "https://images.thewest.com.au/publication/C-14658056/15cabecf740272077be7fddd32322250ca233300-16x9-x0y192w2048h1152.jpg?imwidth=1200",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-13 23:54:15 +0000",
+    "short_uuid": "1d34e35c"
+  },
+  {
+    "id": "e168104c-7ad4-4230-bee7-51ac2570ec7b",
+    "title": "Warburg Pincus is relocating a New York dealmaker to Singapore",
+    "description": "WARBURG Pincus is relocating a senior dealmaker to Singapore from New York as the firm bolsters its presence in the region, according to sources with knowledge of the matter. Read more at The Business Times.",
+    "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/warburg-pincus-relocating-new-york-dealmaker-singapore",
+    "author": "",
+    "image": "https://cassette.sphdigital.com.sg/image/businesstimes/20e0736a6307b1fea48ce97df629f3775a9d205ffe8ceeb6ea65be93bafd0679",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-13 23:51:43 +0000",
+    "short_uuid": "ac191519"
   }
 ]
