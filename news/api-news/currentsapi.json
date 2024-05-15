@@ -23489,5 +23489,35 @@
     ],
     "published": "2024-05-15 05:50:15 +0000",
     "short_uuid": "8cf550bc"
+  },
+  {
+    "id": "fcd1d706-c750-4d54-b0b0-d26a079cae37",
+    "title": "GVEL: Fast Graph Loading in Edgelist and Compressed Sparse Row (CSR) formats",
+    "description": "Efficient IO techniques are crucial in high-performance graph processing frameworks like Gunrock and Hornet, as fast graph loading can help minimize processing time and reduce system/cloud usage charges. This research study presents approaches for efficiently reading an Edgelist from a text file and...",
+    "url": "https://arxiv.org/abs/2311.14650",
+    "author": "Sahu, Subhajit",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "CS"
+    ],
+    "published": "2024-05-15 08:02:44 +0000",
+    "short_uuid": "f06f903b"
+  },
+  {
+    "id": "2157de19-7dcd-47a4-a8f8-fa80a79332d4",
+    "title": "High-Speed Voltage Control in Active Distribution Systems with Smart Inverter Coordination and Deep Reinforcement Learning",
+    "description": "The increasing penetration of renewable energy resources in distribution systems necessitates high-speed monitoring and control of voltage for ensuring reliable system operation. However, existing voltage control algorithms often make simplifying assumptions in their formulation, such as real-time a...",
+    "url": "https://arxiv.org/abs/2311.13080",
+    "author": "Pal, Anamitra",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "CS"
+    ],
+    "published": "2024-05-15 08:02:44 +0000",
+    "short_uuid": "46dfce7"
   }
 ]
