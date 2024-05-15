@@ -23365,5 +23365,129 @@
     ],
     "published": "2024-05-15 03:16:00 +0000",
     "short_uuid": "405e208c"
+  },
+  {
+    "id": "465cf7fb-0854-40c3-99b3-555ab2ee7b08",
+    "title": "An Efficient PGD Solver for Structural Dynamics Applications",
+    "description": "We propose in this paper a Proper Generalized Decomposition (PGD) solver for reduced-order modeling of linear elastodynamic problems. It primarily focuses on enhancing the computational efficiency of a previously introduced PGD solver based on the Hamiltonian formalism. The novelty of this work lies...",
+    "url": "https://arxiv.org/abs/2401.17804",
+    "author": "Prudhomme, Serge",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "CS",
+      "CE"
+    ],
+    "published": "2024-05-15 06:10:52 +0000",
+    "short_uuid": "a31cf2b7"
+  },
+  {
+    "id": "8b8c0ab3-c524-4861-8896-52913a9282f4",
+    "title": "Space-time boundary elements for frictional contact in elastodynamics",
+    "description": "This article studies a boundary element method for dynamic frictional contact between linearly elastic bodies. We formulate these problems as a variational inequality on the boundary, involving the elastodynamic Poincar\u00e9-Steklov operator. The variational inequality is solved in a mixed formulation u...",
+    "url": "https://arxiv.org/abs/2405.08566",
+    "author": "Gimperlein, Heiko",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "CS",
+      "CE"
+    ],
+    "published": "2024-05-15 06:10:52 +0000",
+    "short_uuid": "d7893bc4"
+  },
+  {
+    "id": "68aacbe3-ed5f-4255-8016-114c3607fe1d",
+    "title": "Space-time stochastic Galerkin boundary elements for acoustic scattering problems",
+    "description": "Acoustic emission or scattering problems naturally involve uncertainties about the sound sources or boundary conditions. This article initiates the study of time domain boundary elements for such stochastic boundary problems for the acoustic wave equation. We present a space-time stochastic Galerkin...",
+    "url": "https://arxiv.org/abs/2405.08565",
+    "author": "\u00d6zdemir, Ceyhun",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "CS",
+      "CE"
+    ],
+    "published": "2024-05-15 06:10:52 +0000",
+    "short_uuid": "d3bb63e7"
+  },
+  {
+    "id": "5a107a92-d4b7-4652-942e-6b7c12c6df94",
+    "title": "Michael Schumacher's watches fetch millions at auction \u2013 DW \u2013 05/15/2024",
+    "description": "The sale featured eight watches belonging to the seven-time F1 champion, who has not been seen in public since a skiing accident in 2013. Among the watches were timepieces from Rolex, Audemars Piguet and Patek Philippe.",
+    "url": "https://www.dw.com/en/michael-schumachers-watches-fetch-millions-at-auction/a-69081368",
+    "author": "dw",
+    "image": "https://static.dw.com/image/69058876_6.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-15 06:06:04 +0000",
+    "short_uuid": "b9efed1f"
+  },
+  {
+    "id": "998152f6-e775-4fbd-a3cb-d3467c1b7a2e",
+    "title": "S3C2 Summit 2024-03: Industry Secure Supply Chain Summit",
+    "description": "Supply chain security has become a very important vector to consider when defending against adversary attacks. Due to this, more and more developers are keen on improving their supply chains to make them more robust against future threats. On March 7th, 2024 researchers from the Secure Software Supp...",
+    "url": "https://arxiv.org/abs/2405.08762",
+    "author": "Williams, Laurie",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "CS",
+      "CR"
+    ],
+    "published": "2024-05-15 05:53:44 +0000",
+    "short_uuid": "9506225b"
+  },
+  {
+    "id": "bc1ace2d-5b65-444a-bcea-39968107e24b",
+    "title": "A Survey on Complexity Measures of Pseudo-Random Sequences",
+    "description": "Since the introduction of the Kolmogorov complexity of binary sequences in the 1960s, there have been significant advancements in the topic of complexity measures for randomness assessment, which are of fundamental importance in theoretical computer science and of practical interest in cryptography....",
+    "url": "https://arxiv.org/abs/2405.08479",
+    "author": "Li, Chunlei",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "CS",
+      "CR"
+    ],
+    "published": "2024-05-15 05:53:44 +0000",
+    "short_uuid": "b7199caa"
+  },
+  {
+    "id": "9990b8a0-d756-416d-99d9-9a68d07fb77c",
+    "title": "PrivFED -- A Framework for Privacy-Preserving Federated Learning in Enhanced Breast Cancer Diagnosis",
+    "description": "In the day-to-day operations of healthcare institutions, a multitude of Personally Identifiable Information (PII) data exchanges occur, exposing the data to a spectrum of cybersecurity threats. This study introduces a federated learning framework, trained on the Wisconsin dataset, to mitigate challe...",
+    "url": "https://arxiv.org/abs/2405.08084",
+    "author": "Raja, K.",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "CS",
+      "CR"
+    ],
+    "published": "2024-05-15 05:53:44 +0000",
+    "short_uuid": "6a071c28"
+  },
+  {
+    "id": "559eade3-815b-4693-bc7b-b578e7d5ca26",
+    "title": "Live updates: Russia's war in Ukraine, Blinken in Kyiv, Kharkiv under attack",
+    "description": "An apartment is being damaged by an airstrike in Kharkiv, Ukraine, on May 14. Pavlo Pakhomenko/NurPhoto/AP\n\nRussia is continuing its push into northeastern Ukraine since making several advances there ...",
+    "url": "https://edition.cnn.com/europe/live-news/russia-ukraine-war-news-05-15-24/index.html",
+    "author": "Heather Chen",
+    "image": "https://cdn.cnn.com/cnnnext/dam/assets/240514184828-kharkiv-conflic-ukraine-super-tease.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-15 05:50:15 +0000",
+    "short_uuid": "8cf550bc"
   }
 ]
