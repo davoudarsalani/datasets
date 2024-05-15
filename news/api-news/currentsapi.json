@@ -23032,5 +23032,338 @@
     ],
     "published": "2024-05-15 01:32:38 +0000",
     "short_uuid": "9b24e8c0"
+  },
+  {
+    "id": "206f62e8-4653-48ef-b6e8-801d8e6fdef5",
+    "title": "Maximal Closed Substrings",
+    "description": "A string is closed if it has length 1 or has a nonempty border without internal occurrences. In this paper we introduce the definition of a emph{maximal closed substring} (MCS), which is an occurrence of a closed substring that cannot be extended to the left nor to the right into a longer closed sub...",
+    "url": "https://arxiv.org/abs/2209.00271",
+    "author": "Puglisi, Simon",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "CS",
+      "DS"
+    ],
+    "published": "2024-05-15 04:04:06 +0000",
+    "short_uuid": "b059ed45"
+  },
+  {
+    "id": "f3246fca-d8f4-486f-92e8-eaa33ade36cf",
+    "title": "Anytime Sorting Algorithms (Extended Version)",
+    "description": "This paper addresses the anytime sorting problem, aiming to develop algorithms providing tentative estimates of the sorted list at each execution step. Comparisons are treated as steps, and the Spearman's footrule metric evaluates estimation accuracy. We propose a general approach for making any sor...",
+    "url": "https://arxiv.org/abs/2405.08564",
+    "author": "Mathieu, Fabien",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "CS",
+      "DS"
+    ],
+    "published": "2024-05-15 04:04:06 +0000",
+    "short_uuid": "42611a06"
+  },
+  {
+    "id": "bd48b96f-e053-46b9-b329-dcfed0cf0258",
+    "title": "Bank of Ireland to wind down \u20ac2bn British corporate lending business",
+    "description": "Forty jobs at risk in bank\u2019s latest retrenchment in increasingly profitable UK market",
+    "url": "https://www.irishtimes.com/business/financial-services/2024/05/15/bank-of-ireland-to-wind-down-2bn-british-corporate-lending-business/",
+    "author": "Joe Brennan",
+    "image": "https://www.irishtimes.com/resizer/4z-HcNa1B8RtTp-xqMxpUkb7xTE=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/75IXUL5E4JOQLIM6FT3ODLK7TY.jpg",
+    "language": "en",
+    "category": [
+      "business"
+    ],
+    "published": "2024-05-15 04:00:00 +0000",
+    "short_uuid": "97d67242"
+  },
+  {
+    "id": "503f5b01-5f78-4698-8f9c-a12ad9f4d543",
+    "title": "Increased longevity will bring profound social change",
+    "description": "People will have to work longer and pension systems will need to be transformed \u2013 we need to rethink old age, as individuals and societies",
+    "url": "https://www.irishtimes.com/business/economy/2024/05/15/increased-longevity-will-bring-profound-social-change/",
+    "author": "Martin Wolf",
+    "image": "https://www.irishtimes.com/resizer/5rZPIRIb-l46o1v4Z3vfmkxtwQA=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/3HZMXHOHZRB2RNX6AOKKJ2QHLY.jpg",
+    "language": "en",
+    "category": [
+      "business"
+    ],
+    "published": "2024-05-15 04:00:00 +0000",
+    "short_uuid": "bc67ae1a"
+  },
+  {
+    "id": "725892c8-94e7-4877-bf05-3d671b1f093f",
+    "title": "Notorious pod of killer whales may be behind boat attack",
+    "description": "Orcas have rammed and sunk another boat with reports pointing to it being the work of a pod led by a killer whale dubbed White Gladis.\u00a0",
+    "url": "https://www.perthnow.com.au/news/wildlife/white-gladis-warning-issued-after-killer-whales-attack-and-sink-another-boat-in-strait-of-gibraltar--c-14674096",
+    "author": "Peta Rasdien",
+    "image": "https://images.perthnow.com.au/publication/C-14674096/cad6c236eaaf4cd2fe9d4a774feb4bfbfd42fb73-16x9-x2y0w1796h1010.jpg?imwidth=1200",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-15 03:55:49 +0000",
+    "short_uuid": "9ed36206"
+  },
+  {
+    "id": "1de6cc32-e939-43be-b2df-ada0b8aa1a3d",
+    "title": "Australia news LIVE: Treasurer\u2019s $3.5b energy subsidy to fight inflation revealed in federal budget; Defence whistleblower sentenced to almost six years jail",
+    "description": "Treasurer Jim Chalmers handed down his budget which included a $3.5 billion energy subsidy and defence whistleblower David McBride was jailed.",
+    "url": "https://www.smh.com.au/national/australia-news-live-treasurer-s-3-5b-energy-subsidy-to-fight-inflation-revealed-in-federal-budget-defence-whistleblower-sentenced-to-almost-six-years-jail-20240514-p5jdm5.html?ref=rss",
+    "author": "Josefine Ganko, Caroline Schelle",
+    "image": "https://static.ffx.io/images/$zoom_0.3558467741935484%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_0%2C$y_213/t_crop_custom/q_86%2Cf_jpg/t_smh_live_no_age_social_wm/74c5b9a16de6b8a4fe439074960b1f06cc13cb17",
+    "language": "en",
+    "category": [
+      "national"
+    ],
+    "published": "2024-05-15 03:50:58 +0000",
+    "short_uuid": "2c75e783"
+  },
+  {
+    "id": "3bbc2731-3998-486f-b9c1-56043a0b1f3c",
+    "title": "Russell Hill told fellow campers about his love for the High Country. A week later he was killed there",
+    "description": "Campers who came across Russell Hill in the Alpine region have told a Supreme Court jury he was a kind-natured and approachable man.",
+    "url": "https://www.smh.com.au/national/victoria/russell-hill-told-fellow-campers-about-his-love-for-the-high-country-a-week-later-he-was-killed-there-20240515-p5jdpd.html?ref=rss",
+    "author": "Erin Pearson",
+    "image": "https://static.ffx.io/images/$zoom_0.776%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_jpg/t_smh_no_label_no_age_social_wm/a41717a71bc369f3b301f931c9451edafc0be8db",
+    "language": "en",
+    "category": [
+      "national"
+    ],
+    "published": "2024-05-15 03:47:35 +0000",
+    "short_uuid": "db19f3bf"
+  },
+  {
+    "id": "54ef1038-ed58-46d6-9084-c6409aab9d86",
+    "title": "CFA makes record $3.5 million settlement to victim of horrific bullying",
+    "description": "A former volunteer firefighter who was duct-taped to the bull bar of a fire truck when she was just 17 has received the payout in a landmark legal case.",
+    "url": "https://www.smh.com.au/national/victoria/cfa-makes-record-3-5-million-settlement-to-victim-of-horrific-bullying-20240514-p5jdef.html?ref=rss",
+    "author": "Cameron Houston",
+    "image": "https://static.ffx.io/images/$zoom_0.5519%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/921e0c66f63fe6cb0cd580bd21d3e52029a9fd31",
+    "language": "en",
+    "category": [
+      "national"
+    ],
+    "published": "2024-05-15 03:44:41 +0000",
+    "short_uuid": "940241b5"
+  },
+  {
+    "id": "2e1b7bdb-3475-4f67-b81a-3f11520e1f75",
+    "title": "SW woman on a mission to rescue, rehabilitate wildlife",
+    "description": "Bridgetown Wildlife Service founder Shane Williams has been looking after the region\u2019s injured native animals for 20 years, gaining an international audience for her work.",
+    "url": "https://www.perthnow.com.au/news/animals/passion-for-animals-drives-bridgetown-wildlife-service-founder-shane-williams-two-decades-of-dedication-c-14676594",
+    "author": "Anjelica Smilovitis",
+    "image": "https://images.perthnow.com.au/publication/C-14676594/e07c55308643445a3f288cd339ef3677e0fc4d93-16x9-x0y269w2573h1447.jpg?imwidth=1200",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-15 03:44:37 +0000",
+    "short_uuid": "dc4ab86f"
+  },
+  {
+    "id": "b0cafc9a-20ab-45d5-8593-9006f4d0f84d",
+    "title": "Car pollution cop to police automakers in Australia",
+    "description": "A regulator will be established to track vehicle emissions and ensure automakers are meeting pollution targets, federal budget papers have revealed.",
+    "url": "https://www.perthnow.com.au/news/transport/car-pollution-cop-to-police-automakers-in-australia-c-14677071",
+    "author": "Jennifer Dudley-Nicholson",
+    "image": "https://images.perthnow.com.au/publication/C-14677071/63b9c2d000c1402fd583325d5f961b3c62e191b6-16x9-x0y0w1280h720.jpg?imwidth=1200",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-15 03:38:53 +0000",
+    "short_uuid": "995aa630"
+  },
+  {
+    "id": "f795e081-8264-4edc-bc83-b9d549658de8",
+    "title": "Disney rolls out new lineup of programming at 2024 upfront",
+    "description": "From the Golden Bachelorette to a new ESPN analyst, major announcements were made and trailers were shown at the 2024 Disney Advertising Upfront.",
+    "url": "https://abc11.com/post/disney-upfront-2024-golden-bachelorette-announced-along-with-jason-kelce-as-new-espn-analyst/14815349/",
+    "author": "@ABC11_WTVD",
+    "image": "https://cdn.abcotvs.com/dip/images/14815815_051424-cc-disney-upfront-jason-kelce-2-img.jpg?w=1600",
+    "language": "en",
+    "category": [
+      "regional",
+      "north-carolina",
+      "durham"
+    ],
+    "published": "2024-05-15 03:38:21 +0000",
+    "short_uuid": "9285399d"
+  },
+  {
+    "id": "a6036973-74e2-4e76-b7e0-46703e42f736",
+    "title": "Defence truck crashes into Queensland servo",
+    "description": "Video has emerged showing an ADF truck after it crashed into a service station near Mackay, Queensland.",
+    "url": "https://www.smh.com.au/national/defence-truck-crashes-into-queensland-servo-20240515-p5jduw.html?ref=rss",
+    "author": "",
+    "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/128db09f2af81c686740e83c6e203c6ce079752f",
+    "language": "en",
+    "category": [
+      "national"
+    ],
+    "published": "2024-05-15 03:33:37 +0000",
+    "short_uuid": "394ebd"
+  },
+  {
+    "id": "b4a1585c-91ee-431d-9b18-6e3c0df48281",
+    "title": "Deer hunter\u2019s take on slain camper",
+    "description": "A deer hunter has told the jury in the trial of a murder-accused pilot that a camper he allegedly killed was \u201cvery kind-natured\u201d.",
+    "url": "https://www.perthnow.com.au/news/australia/greg-lynn-trial-hunter-tells-jury-he-met-kind-natured-russell-hill-a-week-before-alleged-murder-c-14676882",
+    "author": "Liam Beatty",
+    "image": "https://images.perthnow.com.au/publication/C-14676882/4b70752b02316b875ab0f50fe81721e367721b7f-16x9-x0y288w748h421.jpg?imwidth=1200",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-15 03:33:03 +0000",
+    "short_uuid": "c13c0f89"
+  },
+  {
+    "id": "dc1d3b69-8b0e-4b44-8b2b-ebafebb0d59d",
+    "title": "Release Notes: More information when scheduled Add-Ons stop working",
+    "description": "DocumentCloud now allows Add-On developers to customize the emails sent when a scheduled run fails, making it easier to understand why something stopped working and potentially fix it. The Regex Extractor Add-On now enables tagging documents when a matching regular expression is found, opening up ne...",
+    "url": "https://www.muckrock.com/news/archives/2024/may/14/release-notes-disable-notifications/",
+    "author": "muckrock",
+    "image": "https://cdn.muckrock.com/news_images/2024/05/14/regex_header.jpg.2400x800_q85.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2024-05-15 03:30:57 +0000",
+    "short_uuid": "48f5e99b"
+  },
+  {
+    "id": "0ee0f776-1dd8-47f0-91d3-3a0fbe61f486",
+    "title": "Hundreds call new NC recidivism hotline within days of it opening: 'We love them and we care'",
+    "description": "The hotline's goal is to help people leaving prison make successful transitions back into society by offering resources when they need them most.",
+    "url": "https://abc11.com/post/hundreds-call-new-nc-recidivism-hotline-within-days-of-it-opening-we-love-them-and-we-care/14816469/",
+    "author": "@ABC11_WTVD",
+    "image": "https://cdn.abcotvs.com/dip/images/14817214_051424-wtvd-sydnee-clean-11pm-img.jpg?w=1600",
+    "language": "en",
+    "category": [
+      "regional",
+      "north-carolina",
+      "durham"
+    ],
+    "published": "2024-05-15 03:25:42 +0000",
+    "short_uuid": "26432c49"
+  },
+  {
+    "id": "a53e0b30-af24-43bb-8694-cb6e7c091d0d",
+    "title": "New Caledonia riots after Paris approves voting change",
+    "description": "Lawmakers in Paris have voted to allow French residents who have lived in New Caledonia for 10 years to vote in provincial elections.",
+    "url": "https://www.perthnow.com.au/news/conflict/new-caledonia-riots-after-paris-approves-voting-change-c-14676644",
+    "author": "Staff Writers",
+    "image": "https://images.perthnow.com.au/publication/C-14676644/c3fa29fcba3143da707c32cfe19ed6bded680722-16x9-x0y0w1280h720.jpg?imwidth=1200",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-15 03:24:44 +0000",
+    "short_uuid": "31c0cf33"
+  },
+  {
+    "id": "b61d71df-9dd0-41a3-8e40-7340c8afb2fe",
+    "title": "Marmota drilling to connect SA uranium jigsaw puzzle",
+    "description": "\u2018The revelation that there is not one, but two uranium systems of different ages \u2026 are enormously exciting developments.\u2019\n\nSaffron already hosts an inferred resource of 5.4 million pounds grading 557 ...",
+    "url": "https://www.theage.com.au/business/companies/marmota-drilling-to-connect-sa-uranium-jigsaw-puzzle-20240515-p5jdul.html?ref=rss",
+    "author": "Michael Philipps",
+    "image": "https://static.ffx.io/images/$zoom_0.7358%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_theage_no_label_no_age_social_wm/1cc6a5523ae1500ce348195a3fecfb56cdedad35",
+    "language": "en",
+    "category": [
+      "business"
+    ],
+    "published": "2024-05-15 03:23:58 +0000",
+    "short_uuid": "e3ea5237"
+  },
+  {
+    "id": "2bc569e7-a7e1-4dd6-827b-08a7e3480dbe",
+    "title": "WA news LIVE: Machete hold-up at Carine petrol station goes wrong; Saffioti defends WA\u2019s GST deal after $52b blow-out",
+    "description": "Follow our live coverage here.",
+    "url": "https://www.smh.com.au/national/western-australia/wa-news-live-winthrop-house-engulfed-by-fire-west-australians-to-get-two-energy-rebates-20240514-p5jdfw.html?ref=rss",
+    "author": "Heather McNeill",
+    "image": "https://static.ffx.io/images/$zoom_2.121%2C$multiply_0.5%2C$ratio_1.776846%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_jpg/t_smh_live_no_age_social_wm/4e97a925abded8a510957ae185b64edf4610c09a",
+    "language": "en",
+    "category": [
+      "national"
+    ],
+    "published": "2024-05-15 03:22:13 +0000",
+    "short_uuid": "d6831f90"
+  },
+  {
+    "id": "fe914e90-ab2d-4b55-83cc-4872d9f6f5da",
+    "title": "Colonial premier's statue toppled, spray-painted",
+    "description": "A statue of former Tasmanian premier William Crowther, which a council had voted to taken down, has been spray painted and cut off at the ankles.",
+    "url": "https://www.perthnow.com.au/news/social/colonial-premiers-statue-toppled-spray-painted-c-14676546",
+    "author": "Ethan James",
+    "image": "https://images.perthnow.com.au/publication/C-14676546/591b2080cfee5205d7e4d34eaec466fa02e86530-16x9-x0y0w1280h720.jpg?imwidth=1200",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-15 03:18:36 +0000",
+    "short_uuid": "70d5df3"
+  },
+  {
+    "id": "3c35a055-fbee-4f04-b6e7-7481decd7d11",
+    "title": "North Carolina primary election runoff 2024: Trump-backed Knott among winners",
+    "description": "Brad Knott overwhelmingly won the Republican primary runoff for the 13th Congressional District in North Carolina. ",
+    "url": "https://abc11.com/post/north-carolina-primary-election-runoff-2024-candidates-make-final-pitch-voters/14815276/",
+    "author": "@ABC11_WTVD",
+    "image": "https://cdn.abcotvs.com/dip/images/14817189_051424-wtvd-josh-votig-runoff-clean-11pm-img.jpg?w=1600",
+    "language": "en",
+    "category": [
+      "regional",
+      "north-carolina",
+      "durham"
+    ],
+    "published": "2024-05-15 03:18:16 +0000",
+    "short_uuid": "17e93fc1"
+  },
+  {
+    "id": "a179d3eb-5089-412d-b865-3a6d743878f0",
+    "title": "Tom Brady has regrets about roast because of how it \u2018affected my kids\u2019",
+    "description": "Tom Brady has regrets about roast because of how it \u2018affected my kids\u2019\n\nWhile the Netflix special drew a large audience, the former quarterback said on a podcast that he \u201cwouldn\u2019t do that again.\u201d...",
+    "url": "https://www.washingtonpost.com/sports/2024/05/14/tom-brady-roast-netflix-regrets-kids/",
+    "author": "Des Bieler",
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MXSTDLHRJRHIXAMAU6EHG7KTSE_size-normalized.jpg&w=1440",
+    "language": "en",
+    "category": [
+      "sports"
+    ],
+    "published": "2024-05-15 03:18:00 +0000",
+    "short_uuid": "e0e6fcdd"
+  },
+  {
+    "id": "7c9b5a0c-03a7-41a6-9759-4e852b274ed7",
+    "title": "HMM Posts 16th Consecutive Quarter of Profitability in Q1",
+    "description": "",
+    "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=217063",
+    "author": "Michael Herh",
+    "image": "https://www.businesskorea.co.kr/news/thumbnail/202405/217063_218491_1457_v150.jpg",
+    "language": "en",
+    "category": [
+      "business",
+      "finance"
+    ],
+    "published": "2024-05-15 03:16:07 +0000",
+    "short_uuid": "85197132"
+  },
+  {
+    "id": "78cc7e3d-93c4-4851-a54f-b76150a8bbb1",
+    "title": "Singapore\"s riches grew under its leader, so did discontent",
+    "description": "Singapore's riches grew under its leader, so did discontent\n\nBuildings in Singapore on Tuesday. (Photo: Bloomberg)\n\nSINGAPORE \u2014 Singapore was once known as an affluent and strait-laced city-state. Tod...",
+    "url": "https://www.bangkokpost.com/world/2793275/singapores-riches-grew-under-its-leader-so-did-discontent",
+    "author": "Bangkok Post Public Company Limited",
+    "image": "https://static.bangkokpost.com/media/content/20240515/c1_2793275_700.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-15 03:16:00 +0000",
+    "short_uuid": "405e208c"
   }
 ]
