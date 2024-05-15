@@ -22248,5 +22248,425 @@
     ],
     "published": "2024-05-14 21:23:20 +0000",
     "short_uuid": "545ba141"
+  },
+  {
+    "id": "2f66c844-d885-44c6-a903-7dab41b6f6a3",
+    "title": "Biden advances $1 billion in arms for Israel amid Rafah tensions",
+    "description": "The decision underscores that President Biden remains intent on surging arms into Israel despite pausing a shipment of 2,000 pound bombs last week.",
+    "url": "https://www.washingtonpost.com/national-security/2024/05/14/biden-israel-weapons-gaza-rafah/",
+    "author": "John Hudson",
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PD4MSLTF2AM7WTHLWJXGPSFZQY.JPG&w=1440",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2024-05-15 00:45:27 +0000",
+    "short_uuid": "b21864c5"
+  },
+  {
+    "id": "0d37b307-1b68-4e74-8d06-f672ee56901d",
+    "title": "Breanna Stewart leads WNBA's best dressed on opening night",
+    "description": "Open Extended Reactions\n\nAfter a memorable offseason that saw women's basketball undergo a historic rise in popularity, WNBA opening night is finally upon us.\n\nThe New York Liberty, led by reigning MV...",
+    "url": "https://www.espn.com/wnba/story/_/id/40147062/wnba-season-opener-fashion-liberty-mystics-fever-sun-mercury-aces-lynx-storm",
+    "author": "Espn Staff",
+    "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0514%2Fr1333039_288x288_1%2D1.jpg",
+    "language": "en",
+    "category": [],
+    "published": "2024-05-15 00:31:04 +0000",
+    "short_uuid": "50b4b1f"
+  },
+  {
+    "id": "e15c0356-3b1e-4aac-bfc3-b8b67be2bf6b",
+    "title": "Nasim Nu\u00f1ez\u2019s heads-up base running helps Nats win doubleheader opener",
+    "description": "Nu\u00f1ez went first to third on a groundball in the eighth inning, aiding a three-run rally in a 6-3 victory over the White Sox.",
+    "url": "https://www.washingtonpost.com/sports/2024/05/14/nationals-white-sox-doubleheader/",
+    "author": "Andrew Golden",
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BZ3PJRDS75FDTCYADCC7GL44BY_size-normalized.jpg&w=1440",
+    "language": "en",
+    "category": [
+      "sports"
+    ],
+    "published": "2024-05-15 00:22:00 +0000",
+    "short_uuid": "5b198d54"
+  },
+  {
+    "id": "ebe4ce82-f2ac-4758-ad09-3c9ce0995b71",
+    "title": "[KOREAN TEMPLE ADVENTURES] Visiting Bongam Temple during Buddha's Birthday holiday",
+    "description": "Around this time of year, celebrations for Buddha\u2019s Birthday are in full swing across Korea. And for most, this includes visiting a temple, enjoying a lantern festival or perhaps even enjoying some temple food. ",
+    "url": "https://koreatimes.co.kr/www/special/2024/05/177_374159.html",
+    "author": "Dale Quarrington",
+    "image": "https://img.koreatimes.co.kr/upload/thumbnailV2/0a8ed66f4d344f9fb5c7a59e94463f9f.png",
+    "language": "en",
+    "category": [
+      "regional"
+    ],
+    "published": "2024-05-15 00:21:14 +0000",
+    "short_uuid": "d9288cc1"
+  },
+  {
+    "id": "9f5b3531-8f7e-429c-a232-0b820c680e3c",
+    "title": "[INTERVIEW] KakaoBank confident in its competitive edge for Thai, Vietnamese markets, strategy chief says",
+    "description": "However, it achieved groundbreaking success by offering services that met customers' needs, such as simplifying the cumbersome verification process and introducing innovative financial products. It has also developed an intuitive mobile app environment, which has greatly contributed to transforming ...",
+    "url": "https://koreatimes.co.kr/www/biz/2024/05/126_374209.html",
+    "author": "Lee Yeon-woo",
+    "image": "https://img.koreatimes.co.kr/upload/thumbnailV2/df4f9db50b7f4c6480b81902fdac3e2e.png",
+    "language": "en",
+    "category": [
+      "regional"
+    ],
+    "published": "2024-05-15 00:21:12 +0000",
+    "short_uuid": "4d0c940e"
+  },
+  {
+    "id": "b57c4f99-98d8-479d-b786-e01fe57de787",
+    "title": "[INTERVIEW] Mom's Touch set to soar as nationwide burger brand in Japan",
+    "description": "The head of the Korean chicken burger chain Mom's Touch said the company aims to become a nationwide brand in Japan, leveraging its successful franchise business in Korea and benefiting from the renewed popularity of hallyu (Korean wave) in the neighboring country. ",
+    "url": "https://koreatimes.co.kr/www/nation/2024/05/419_374554.html",
+    "author": "Ko Dong-hwan",
+    "image": "https://img.koreatimes.co.kr/upload/thumbnailV2/cddb4bc4d9964e4abec5eb7ff670f9e6.jpg",
+    "language": "en",
+    "category": [
+      "regional"
+    ],
+    "published": "2024-05-15 00:18:34 +0000",
+    "short_uuid": "8a26d67c"
+  },
+  {
+    "id": "d94fb1c3-0f19-421d-9276-82c9b73fddb2",
+    "title": "Rural areas left behind by gov't transportation subsidy scheme",
+    "description": "While some parts of the nation are currently awash with unlimited transit pass schemes, rural areas still remain overlooked.",
+    "url": "https://koreatimes.co.kr/www/nation/2024/05/281_374609.html",
+    "author": "Jung Da-hyun",
+    "image": "https://img.koreatimes.co.kr/upload/thumbnailV2/29d56d937dd14a808968ba9301dc2ebf.jpg",
+    "language": "en",
+    "category": [
+      "regional"
+    ],
+    "published": "2024-05-15 00:17:45 +0000",
+    "short_uuid": "5fc34bd4"
+  },
+  {
+    "id": "57bd5731-8260-4f09-9505-e667862ff6a0",
+    "title": "Parental wealth transfer at center of real estate purchases",
+    "description": "Recent data shows that the number of people purchasing a house for the first time reached 92,100 in the first quarter of 2024, a 35 percent increase compared to the same period last year. ",
+    "url": "https://koreatimes.co.kr/www/nation/2024/05/488_374613.html",
+    "author": "Lee Yeon-woo",
+    "image": "https://img.koreatimes.co.kr/upload/thumbnailV2/8ef9286edff54fffae991385b8db71ac.png",
+    "language": "en",
+    "category": [
+      "regional"
+    ],
+    "published": "2024-05-15 00:17:41 +0000",
+    "short_uuid": "1df3bded"
+  },
+  {
+    "id": "4a15a559-f7a7-47ee-958e-853b684de90a",
+    "title": "Real Housewives: Star felt pressure of South Asian representation",
+    "description": "Jessel Taank tells BBC Asian Network about her experiences of being the first South Asian cast member.",
+    "url": "https://www.bbc.co.uk/news/newsbeat-69004896",
+    "author": "@BBCNews",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/F6AE/production/_133305136_gettyimages-1702355965.jpg",
+    "language": "en",
+    "category": [
+      "regional"
+    ],
+    "published": "2024-05-15 00:17:10 +0000",
+    "short_uuid": "e45c3914"
+  },
+  {
+    "id": "2d64ee1e-0cdf-43d5-a61e-ec3e1575d208",
+    "title": "Kolmar Holdings CEO promises substantial perks for new parents",
+    "description": "The CEO of Kolmar Holdings has announced hefty incentives for its employees to encourage them to have children as the country is suffering from a record-low birthrate and a somewhat gloomy economic outlook as the nation's workforce is downsized, according to the holding company of cosmetic developer...",
+    "url": "https://koreatimes.co.kr/www/nation/2024/05/419_374644.html",
+    "author": "Ko Dong-hwan",
+    "image": "https://img.koreatimes.co.kr/upload/thumbnailV2/74c3be8d3a0c442facf09c6c07401745.jpg",
+    "language": "en",
+    "category": [
+      "regional"
+    ],
+    "published": "2024-05-15 00:17:03 +0000",
+    "short_uuid": "837bb19b"
+  },
+  {
+    "id": "397a6cb4-b3b2-4e18-83d0-c71d4a54f2e0",
+    "title": "Lenses become fashion 'It' items as showcased by aespa",
+    "description": "Contact lenses, created for vision correction, have become a popular beauty item, gaining popularity with a variety of colors and patterns. ",
+    "url": "https://koreatimes.co.kr/www/art/2024/05/135_374645.html",
+    "author": "KTimes",
+    "image": "https://img.koreatimes.co.kr/upload/thumbnailV2/ed56f020037047bf95fa8d70d0dac58f.png",
+    "language": "en",
+    "category": [
+      "regional"
+    ],
+    "published": "2024-05-15 00:17:01 +0000",
+    "short_uuid": "3936b095"
+  },
+  {
+    "id": "e8c9c1c1-1700-4b08-a6c7-0bf27d868d5e",
+    "title": "K-dramas about entertainment industry aren't popular - here's why",
+    "description": "A new jinx has emerged within the Korean entertainment industry: Dramas about the entertainment world itself fail to capture audiences' attention. ",
+    "url": "https://koreatimes.co.kr/www/nation/2024/05/398_374648.html",
+    "author": "KTimes",
+    "image": "https://img.koreatimes.co.kr/upload/thumbnailV2/bf4cd62012c24fc9809cf667a58306c2.png",
+    "language": "en",
+    "category": [
+      "regional"
+    ],
+    "published": "2024-05-15 00:17:00 +0000",
+    "short_uuid": "6810af73"
+  },
+  {
+    "id": "3e352cc8-127c-4505-a582-9d1ca1652779",
+    "title": "Korea-US alliance to 'incessantly' strengthen regardless of US election result: Seoul envoy",
+    "description": "Korea's top envoy to the United States expressed confidence Tuesday that the alliance between Seoul and Washington will strengthen 'incessantly' through the allies' 'institutionalized' cooperation irrespective of who wins the White House in November. ",
+    "url": "https://koreatimes.co.kr/www/nation/2024/05/120_374658.html",
+    "author": "@koreatimes",
+    "image": "https://img.koreatimes.co.kr/upload/thumbnailV2/bcb6f26636264942b742f07ec4ad6f58.png",
+    "language": "en",
+    "category": [
+      "regional"
+    ],
+    "published": "2024-05-15 00:15:44 +0000",
+    "short_uuid": "6738bd6d"
+  },
+  {
+    "id": "25c8a873-ac31-4f87-8072-14073ffe36ff",
+    "title": "Asia\u2019s extreme April heat worsened by climate change, scientists say",
+    "description": "SINGAPORE, May 15 \u2014 Extreme temperatures throughout Asia last month were made worse \u2014 and more likely \u2014 as a result of human-driven climate change, a team of international...",
+    "url": "https://www.malaymail.com/news/life/2024/05/15/asias-extreme-april-heat-worsened-by-climate-change-scientists-say/134418",
+    "author": "Malay Mail",
+    "image": "https://www.malaymail.com/malaymail/uploads/images/2024/05/15/thumbs/400x400/210206.jpg",
+    "language": "en",
+    "category": [
+      "lifestyle"
+    ],
+    "published": "2024-05-15 00:05:58 +0000",
+    "short_uuid": "cf52c923"
+  },
+  {
+    "id": "f9760259-7aad-45ae-80e4-08cb1058f5b0",
+    "title": "Live Updates: The Westminster Dog Show Will Crown the Nation\u2019s Best Dog",
+    "description": "The final night of the competition is underway. Judges will select the top dogs from three remaining groups before awarding this year\u2019s best in show.",
+    "url": "https://www.nytimes.com/live/2024/05/14/style/westminster-dog-show",
+    "author": "The New York Times",
+    "image": "https://static01.nyt.com/images/2024/05/14/multimedia/14westminster-live-promo-630p-mlpj/14westminster-live-promo-630p-mlpj-facebookJumbo.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-15 00:05:11 +0000",
+    "short_uuid": "87bf758f"
+  },
+  {
+    "id": "2d834876-6a73-4ba3-92a5-0acf7d750269",
+    "title": "Paris Olympics: Time for the City of Light to Shine",
+    "description": "MAY 15 \u2015 We are on countdown here in Paris, less than three months to go before the City of Light opens her doors to the Olympics in late July, followed by the Paralympics...",
+    "url": "https://www.malaymail.com/news/opinion/2024/05/15/paris-olympics-time-for-the-city-of-light-to-shine/134414",
+    "author": "Helen Hickey",
+    "image": "https://www.malaymail.com/malaymail/uploads/images/2024/05/15/thumbs/400x400/210203.jpg",
+    "language": "en",
+    "category": [
+      "opinion",
+      "regional"
+    ],
+    "published": "2024-05-15 00:04:51 +0000",
+    "short_uuid": "fd9aa39c"
+  },
+  {
+    "id": "e8ba7051-ca7a-4d48-a0b1-f16026237488",
+    "title": "Gayle King, Kate Upton model for 60th Sports Illustrated swimsuit issue",
+    "description": "LOS ANGELES, May 15 \u2014 Journalist Gayle King, plus-sized model Hunter McGrady and returning stars Chrissy Teigen and Kate Upton pose on separate covers unveiled on Tuesday for...",
+    "url": "https://www.malaymail.com/news/life/2024/05/15/gayle-king-kate-upton-model-for-60th-sports-illustrated-swimsuit-issue/134417",
+    "author": "Malay Mail",
+    "image": "https://www.malaymail.com/malaymail/uploads/images/2024/05/15/thumbs/400x400/210200.jpg",
+    "language": "en",
+    "category": [
+      "lifestyle"
+    ],
+    "published": "2024-05-15 00:03:19 +0000",
+    "short_uuid": "278c339a"
+  },
+  {
+    "id": "1274aa9c-c1cc-4b7d-92ef-d14ae0b71fb6",
+    "title": "GeoVax Labs, Inc. (GOVX) Q1 2024 Earnings Call Transcript",
+    "description": "GeoVax Labs, Inc. (NASDAQ:NASDAQ:GOVX) Q1 2024 Earnings Conference Call May 14, 2024 4:30 PM ETCompany ParticipantsMax Gadicke - Investor Relations, Stern...",
+    "url": "https://seekingalpha.com/article/4693290-geovax-labs-inc-govx-q1-2024-earnings-call-transcript?source=feed_all_articles",
+    "author": "SA Transcripts",
+    "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+    "language": "en",
+    "category": [
+      "business",
+      "finance"
+    ],
+    "published": "2024-05-15 00:01:02 +0000",
+    "short_uuid": "d3668e5f"
+  },
+  {
+    "id": "f7cda3d2-7287-418a-b7c2-55bc5adb706c",
+    "title": "New dad Scheffler: No rust, fatigue ahead of PGA",
+    "description": "Open Extended Reactions\n\nLOUISVILLE, Ky. -- Since world No. 1 Scottie Scheffler last carded a competitive golf round -- a 3-shot win at the RBC Heritage last month, a week after securing his second Ma...",
+    "url": "https://www.espn.com/golf/story/_/id/40147456/scottie-scheffler-says-game-desire-sharp-ahead-pga",
+    "author": "Paolo Uggetti",
+    "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0514%2Fr1332977_1296x729_16%2D9.jpg",
+    "language": "en",
+    "category": [],
+    "published": "2024-05-15 00:00:13 +0000",
+    "short_uuid": "e2d834a"
+  },
+  {
+    "id": "7a96d511-5a42-4150-a417-c1f3d74ef56f",
+    "title": "Hong Kong is missing out on Asia-Pacific office property boom as supply glut puts off investors: Colliers",
+    "description": "Hong Kong is missing out on an office investment boom in the Asia-Pacific region this year as a supply glut and high vacancy rates put investors off the segment, according to analysts.",
+    "url": "https://www.scmp.com/business/article/3262694/hong-kong-missing-out-asia-pacific-office-property-boom-supply-glut-puts-investors-colliers",
+    "author": "Cheryl Arcibal",
+    "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/05/14/c21872b7-1527-4d56-afd0-7e7d8979e87e_bc96512a.jpg?itok=TsxzstQQ&v=1715696907",
+    "language": "en",
+    "category": [
+      "regional"
+    ],
+    "published": "2024-05-15 00:00:13 +0000",
+    "short_uuid": "4dc0b68"
+  },
+  {
+    "id": "1072eb82-11bd-4220-8da7-262828a40301",
+    "title": "Pep to City players: 'Relax' and title will be ours",
+    "description": "The \"ESPN FC\" crew react to Manchester City's 2-0 win at Tottenham that puts them on the brink of a record-breaking fourth Premier League title in a row. (1:26)\n\nHow Man City 'got the job done' vs. Sp...",
+    "url": "https://www.espn.com/soccer/story/_/id/40147905/pep-guardiola-manchester-city-relax-premier-league-title",
+    "author": "James Olley",
+    "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0514%2Fr1333033_1296x729_16%2D9.jpg",
+    "language": "en",
+    "category": [],
+    "published": "2024-05-15 00:00:12 +0000",
+    "short_uuid": "a190fe57"
+  },
+  {
+    "id": "892b230a-2a34-46f1-bef9-8c84163c58fa",
+    "title": "Welcome Thread - v276",
+    "description": "Leave a comment below to introduce yourself! You can talk about what brought you here, what...",
+    "url": "https://dev.to/devteam/welcome-thread-v276-4mok",
+    "author": "Sloan the DEV Moderator",
+    "image": "https://media.dev.to/cdn-cgi/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwsb7spex8kkvmm9rhhob.jpg",
+    "language": "fr",
+    "category": [
+      "programming"
+    ],
+    "published": "2024-05-15 00:00:00 +0000",
+    "short_uuid": "7e9453a3"
+  },
+  {
+    "id": "5f1817e1-8598-4986-b395-3708bbadef7f",
+    "title": "Petrobras earnings miss stirs criticism of pricing policy",
+    "description": "RIO DE JANEIRO, May 15 \u2014 Weaker-than-expected earnings at Brazil\u2019s state-run oil firm Petrobras PETR4.SA drew criticism on Tuesday from industry groups of a pricing policy that...",
+    "url": "https://www.malaymail.com/news/money/2024/05/15/petrobras-earnings-miss-stirs-criticism-of-pricing-policy/134416",
+    "author": "Malay Mail",
+    "image": "https://www.malaymail.com/malaymail/uploads/images/2024/05/15/thumbs/400x400/210197.jpg",
+    "language": "en",
+    "category": [
+      "business",
+      "finance"
+    ],
+    "published": "2024-05-14 23:59:59 +0000",
+    "short_uuid": "7b0c470a"
+  },
+  {
+    "id": "d5110319-c000-472c-b4c6-f150f7d18988",
+    "title": "Ironheart Confirmed for 2025 as Trailer Shows Riri Stealing to Build Her Suit",
+    "description": "Ironheart will finally be released in 2025, Disney confirmed today, as a trailer was shown behind closed doors at the company's Upfronts presentation.",
+    "url": "https://www.ign.com/articles/ironheart-confirmed-for-2025-as-trailer-shows-riri-stealing-to-build-her-suit",
+    "author": "Alex Stedman",
+    "image": "https://assets-prd.ignimgs.com/2024/05/14/image-67-1715730983285.png?width=1280",
+    "language": "en",
+    "category": [
+      "entertainment",
+      "game"
+    ],
+    "published": "2024-05-14 23:59:20 +0000",
+    "short_uuid": "92b05445"
+  },
+  {
+    "id": "e67d5dba-1bdf-4a3a-aae8-0bcb5a5ca37f",
+    "title": "China\u2019s BYD launches hybrid pickup in Mexico as US hikes EV tariffs",
+    "description": "MEXICO CITY, May 15 \u2014 Chinese automaker BYD unveiled the Shark, a mid-size hybrid-electric pickup truck, in Mexico on Tuesday, as its regional chief brushed off new US tariff...",
+    "url": "https://www.malaymail.com/news/money/2024/05/15/chinas-byd-launches-hybrid-pickup-in-mexico-as-us-hikes-ev-tariffs/134415",
+    "author": "Malay Mail",
+    "image": "https://www.malaymail.com/malaymail/uploads/images/2024/05/15/thumbs/400x400/210196.jpg",
+    "language": "en",
+    "category": [
+      "business",
+      "finance"
+    ],
+    "published": "2024-05-14 23:58:50 +0000",
+    "short_uuid": "10f3159c"
+  },
+  {
+    "id": "3ba25aaf-e7d5-421f-82a5-d6123e48d29a",
+    "title": "Plan to ban sex education for children under nine",
+    "description": "New guidance for schools in England is expected to be set out on Thursday.",
+    "url": "https://www.bbc.co.uk/news/uk-politics-69013002",
+    "author": "@BBCNews",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/14DFD/production/_133310558_gettyimages-926840446.jpg",
+    "language": "en",
+    "category": [
+      "regional"
+    ],
+    "published": "2024-05-14 23:57:26 +0000",
+    "short_uuid": "466f4660"
+  },
+  {
+    "id": "a4cc6bc9-e285-4f75-af03-b38579e8e1ea",
+    "title": "Parks! America, Inc. (PRKA) Q2 2024 Earnings Call Transcript",
+    "description": "Parks! America, Inc. (OTCQB:PRKA) Q2 2024 Earnings Conference Call May 14, 2024 4:30 PM ETCompany ParticipantsJoe Dorame - Lytham Partners, IRLisa Brady -...",
+    "url": "https://seekingalpha.com/article/4693289-parks-america-inc-prka-q2-2024-earnings-call-transcript?source=feed_all_articles",
+    "author": "SA Transcripts",
+    "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+    "language": "en",
+    "category": [
+      "business",
+      "finance"
+    ],
+    "published": "2024-05-14 23:56:08 +0000",
+    "short_uuid": "1eaaf4e4"
+  },
+  {
+    "id": "de365cf7-ed5f-4e20-bee6-fe8aa82d9538",
+    "title": "Akaka Falls to close weekdays for rockfall mitigation work | Honolulu Star-Advertiser",
+    "description": "State officials say Akaka Falls State Park on Hawaii island will be closed on weekdays, starting Wednesday, for rockfall mitigation work.",
+    "url": "https://www.staradvertiser.com/2024/05/14/breaking-news/akaka-falls-to-close-weekdays-for-rockfall-mitigation-work/",
+    "author": "Star-Advertiser staff",
+    "image": "https://www.staradvertiser.com/wp-content/uploads/2023/02/Star-Advertiser-thumbnail-image.jpg",
+    "language": "en",
+    "category": [
+      "regional"
+    ],
+    "published": "2024-05-14 23:56:00 +0000",
+    "short_uuid": "247d2bab"
+  },
+  {
+    "id": "f5e790ad-f48a-47b2-9ae3-aea5bf71eb27",
+    "title": "Former Nickelodeon Star Says Dan Schneider \u2018Preyed\u2019 on Her as Boss",
+    "description": "Lori Beth Denberg, who appeared on \u201cAll That,\u201d told Business Insider that he showed her porn multiple times and fondled her once. He says her claims are \u201cexaggerated\u201d and \u201cin most cases, false.\u201d",
+    "url": "https://www.nytimes.com/2024/05/14/arts/dan-schneider-lori-beth-denberg.html",
+    "author": "Matt Stevens and Julia Jacobs",
+    "image": "https://static01.nyt.com/images/2024/05/14/arts/14schneider/14schneider-facebookJumbo.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-14 23:55:29 +0000",
+    "short_uuid": "69b5779e"
+  },
+  {
+    "id": "78325fee-0f78-4651-a416-2b4647e11254",
+    "title": "Battery issue delays Auckland\u2019s first electric ferries",
+    "description": "Superchargers for piers also behind schedule.",
+    "url": "https://www.nzherald.co.nz/business/battery-issue-delays-aucklands-first-electric-ferries/CZWA45HA4NG7VMRPPBD2HNIH4I/",
+    "author": "Chris Keall",
+    "image": "https://www.nzherald.co.nz/resizer/v2/7S4EAIMOQFGHVE565TOLRN3V34.webp?auth=894f4a95f8f4d746b43671aaad415819e125fd882e51d90868b7c4b1ccbd77dc&width=1200&height=675&quality=70&smart=true",
+    "language": "en",
+    "category": [
+      "technology"
+    ],
+    "published": "2024-05-14 23:55:14 +0000",
+    "short_uuid": "553d91cb"
   }
 ]
