@@ -28087,5 +28087,125 @@
     ],
     "published": "2024-05-16 07:00:19 +0000",
     "short_uuid": "b39be227"
+  },
+  {
+    "id": "4b7e6e3f-6929-44ab-adf7-6c3a06bf6d05",
+    "title": "Search for Axion dark matter with the QUAX-LNF tunable haloscope",
+    "description": "We report the first experimental results obtained with the new haloscope of the QUAX experiment located at Laboratori Nazionali di Frascati of INFN (LNF). The haloscope is composed of a OFHC Cu resonant cavity cooled down to about 30 mK and immersed in a magnetic field of 8 T. The cavity frequency w...",
+    "url": "https://arxiv.org/abs/2402.19063",
+    "author": "Vidali, G.",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "ASTRO"
+    ],
+    "published": "2024-05-16 10:02:44 +0000",
+    "short_uuid": "6223d4b1"
+  },
+  {
+    "id": "ac0601d9-bfaf-4ae1-9dd9-ebe03f70f27b",
+    "title": "A 25-micron single photon sensitive kinetic inductance detector",
+    "description": "We report measurements characterizing the performance of a kinetic inductance detector array designed for a wavelength of 25 microns and very low optical background level suitable for applications such as a far-infrared instrument on a cryogenically cooled space telescope. In a pulse counting mode o...",
+    "url": "https://arxiv.org/abs/2404.10246",
+    "author": "Leduc, Henry G.",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "ASTRO"
+    ],
+    "published": "2024-05-16 10:02:44 +0000",
+    "short_uuid": "c2440aa9"
+  },
+  {
+    "id": "cfdd8c0f-8751-44f8-99a4-386c0f2187d7",
+    "title": "Large fluctuations in the Sky",
+    "description": "Renormalization of quantum loop effects generated from large fluctuations is a hugely debatable topic of research these days which rules out the Primordial Black Hole (PBH) formation within the framework of single-field inflation. In this article, we briefly discuss that the correct implementation o...",
+    "url": "https://arxiv.org/abs/2403.07343",
+    "author": "Choudhury, Sayantan",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "ASTRO"
+    ],
+    "published": "2024-05-16 10:02:44 +0000",
+    "short_uuid": "5fda0818"
+  },
+  {
+    "id": "d0cf0939-3f0a-41ff-859f-c042984e3f15",
+    "title": "New Light on Dark Extended Lenses with the Roman Space Telescope",
+    "description": "The Roman Space Telescope's Galactic Bulge Time Domain Survey will constitute the most sensitive microlensing survey of the Galactic Bulge to date, opening up new opportunities to search for dark matter (DM). Many extensions of the Standard Model predict the formation of extended DM substructures, s...",
+    "url": "https://arxiv.org/abs/2312.14782",
+    "author": "Takhistov, Volodymyr",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "ASTRO"
+    ],
+    "published": "2024-05-16 10:02:44 +0000",
+    "short_uuid": "d9afdd60"
+  },
+  {
+    "id": "7f220524-d9c1-43eb-a84c-0dbac0d8a8a6",
+    "title": "Ghost stars in general relativity",
+    "description": "We explore an idea put forward many years ago by Zeldovich and Novikov concerning the existence of compact objects endowed with arbitrarily small mass. The energy-density of such objects, which we call ``Ghost stars'', is negative in some regions of the fluid distribution, producing a vanishing tota...",
+    "url": "https://arxiv.org/abs/2405.09480",
+    "author": "Ospino, J.",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "ASTRO"
+    ],
+    "published": "2024-05-16 10:02:44 +0000",
+    "short_uuid": "49c7dd60"
+  },
+  {
+    "id": "ebff35b6-289e-42ce-8d3a-47794653a0a8",
+    "title": "Spin-spin Interactions in General Relativity versus Linearized Massive Gravity: $N$-body Simulations",
+    "description": "We simulated spin-spin interactions of $N$-bodies in linearized General Relativity (GR) and linearized Massive Gravity of the Fierz-Pauli type (mGR). It was noted earlier that there is a discrete difference between the spin-spin interaction potential in GR and mGR for a $2$-body system, akin to the ...",
+    "url": "https://arxiv.org/abs/2405.09411",
+    "author": "Tekin, Bayram",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "ASTRO"
+    ],
+    "published": "2024-05-16 10:02:44 +0000",
+    "short_uuid": "2c709578"
+  },
+  {
+    "id": "663448a1-b4eb-43ec-8831-0b87bf6ba347",
+    "title": "Origin and detection of nontopological soliton dark matter",
+    "description": "Macroscopic dark matter like nontopological solitons can form either via the fusion and accumulation of free particles or during cosmological phase transitions. Both mechanisms can create dark matter with large masses ranging from TeV to solar mass. This can lead to interesting targets in direct det...",
+    "url": "https://arxiv.org/abs/2405.09239",
+    "author": "Orlofsky, Nicholas",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "ASTRO"
+    ],
+    "published": "2024-05-16 10:02:44 +0000",
+    "short_uuid": "f9dde491"
+  },
+  {
+    "id": "c832af1d-2037-4a71-bd7a-7d489412dc61",
+    "title": "Constant-roll inflation with a complex scalar field",
+    "description": "We consider inflation with a constant rate of rolling in which a complex scalar field plays the role of inflaton during the inflationary epoch. We implement the inflationary analysis for an accredited angular speed $dot\u03b8$ which satisfies our dynamical equations. Scalar and tensorial perturbations ge...",
+    "url": "https://arxiv.org/abs/2405.08928",
+    "author": "Sadeghi, Jafar",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "ASTRO"
+    ],
+    "published": "2024-05-16 10:02:44 +0000",
+    "short_uuid": "7ac84e9"
   }
 ]
