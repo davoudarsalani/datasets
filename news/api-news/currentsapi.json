@@ -34895,5 +34895,415 @@
     ],
     "published": "2024-05-17 21:34:04 +0000",
     "short_uuid": "bb025685"
+  },
+  {
+    "id": "591339fb-d9c3-4f5e-9781-6eff5b57cae7",
+    "title": "Iraq asks UN to leave after 20 years",
+    "description": "After 20 years in Iraq, the United Nations has been told by the Iraqi prime minister it is time to move on. VOA's United Nations correspondent Margaret Besheer reports.",
+    "url": "https://www.voanews.com/a/iraq-asks-un-to-leave-after-20-years-/7616937.html",
+    "author": "Margaret Besheer",
+    "image": "https://gdb.voanews.com/01000000-0aff-0242-1306-08dc76cbbba9_tv_w1200_r1.jpg",
+    "language": "en",
+    "category": [
+      "union",
+      "lifestyle"
+    ],
+    "published": "2024-05-18 00:32:25 +0000",
+    "short_uuid": "f86517db"
+  },
+  {
+    "id": "9c48d984-cfb3-439e-8f1b-f6437e42317c",
+    "title": "Storms clear, but air quality concerns arise this weekend in Metro Detroit",
+    "description": "Pollutants are forecast to be in the \"unhealthy range sensitive groups,\" such as individuals with asthma and other respiratory diseases and disorders.",
+    "url": "https://www.clickondetroit.com/weather/2024/05/18/storms-clear-but-air-quality-concerns-arise-this-weekend-in-metro-detroit/",
+    "author": "Ron Hilliard",
+    "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/LRKCNU2XE5BB3CBU543XN2OQ7Y.jpg?_a=ATAPphC0",
+    "language": "en",
+    "category": [
+      "regional",
+      "detroit"
+    ],
+    "published": "2024-05-18 00:13:03 +0000",
+    "short_uuid": "c43ca712"
+  },
+  {
+    "id": "ceb80e59-e6ec-4c00-9b71-f573bf376e5d",
+    "title": "Trump speaks in battleground state he vowed to avoid after losing twice",
+    "description": "It's been more than 50 years since a Republican won Minnesota in a presidential election, but former President Trump says he's got \"a really good shot\" of breaking the losing streak this November in his 2024 rematch with President Biden.The former president is in the reliably blue state Friday eveni...",
+    "url": "https://www.foxnews.com/politics/trump-speaks-battleground-state-he-vowed-avoid-after-losing-twice",
+    "author": "Fox News",
+    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/05/1024/512/AP24133009413570.jpg?ve=1&tl=1",
+    "language": "en",
+    "category": [
+      "politics",
+      "world"
+    ],
+    "published": "2024-05-18 00:10:54 +0000",
+    "short_uuid": "9f3fe1f6"
+  },
+  {
+    "id": "14d81118-866e-45e0-9f1e-f4754b94a1e8",
+    "title": "AI Lexicon \u2014 N \u2013 DW \u2013 05/17/2024",
+    "description": "Do you know your AI from your ML? Or your facial recognition from your Ethical AI? Our AI Lexicon offers easy-to-understand definitions and examples of AI in everyday life. It really is what you need to know.",
+    "url": "https://www.dw.com/en/ai-lexicon-n-is-for-natural-language-processing/a-69086889",
+    "author": "dw",
+    "image": "https://static.dw.com/image/69049249_6.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 00:10:28 +0000",
+    "short_uuid": "ca5d72de"
+  },
+  {
+    "id": "a278c39a-1260-4c0a-b7a7-dc9d2457b060",
+    "title": "AI Lexicon \u2014 M \u2013 DW \u2013 05/17/2024",
+    "description": "Do you know your AI from your ML? Or your facial recognition from your Ethical AI? Our AI Lexicon offers easy-to-understand definitions and examples of AI in everyday life. It really is what you need to know.",
+    "url": "https://www.dw.com/en/ai-lexicon-m-is-for-machine-learning/a-69086886",
+    "author": "dw",
+    "image": "https://static.dw.com/image/69049195_6.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 00:10:28 +0000",
+    "short_uuid": "bed87811"
+  },
+  {
+    "id": "190d650f-e6a5-498c-9b84-9ffaacc34df1",
+    "title": "AI Lexicon \u2014 L \u2013 DW \u2013 05/17/2024",
+    "description": "Do you know your AI from your ML? Or your facial recognition from your Ethical AI? Our AI Lexicon offers easy-to-understand definitions and examples of AI in everyday life. It really is what you need to know.",
+    "url": "https://www.dw.com/en/ai-lexicon-l-is-for-large-language-model/a-69086883?maca=en-rss-en-top-1022-rdf",
+    "author": "dw",
+    "image": "https://static.dw.com/image/69049776_6.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 00:10:28 +0000",
+    "short_uuid": "6304a079"
+  },
+  {
+    "id": "8a406497-a99b-45a7-860c-874008c71938",
+    "title": "AI Lexicon \u2014 K \u2013 DW \u2013 05/17/2024",
+    "description": "Do you know your AI from your ML? Or your facial recognition from your Ethical AI? Our AI Lexicon offers easy-to-understand definitions and examples of AI in everyday life. It really is what you need to know.",
+    "url": "https://www.dw.com/en/ai-lexicon-k-is-for-knowledge-graph/a-69086880",
+    "author": "dw",
+    "image": "https://static.dw.com/image/69049728_6.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 00:10:28 +0000",
+    "short_uuid": "bd32a3ca"
+  },
+  {
+    "id": "0d73c797-8dab-4afd-88d5-4024d31949f8",
+    "title": "Germany: Police say gasoline caused deadly D\u00fcsseldorf blast \u2013 DW \u2013 05/17/2024",
+    "description": "Officials in D\u00fcsseldorf say gasoline was present at the scene of an investigation into an explosion and fire that engulfed an apartment building. Three men were killed in the incident and two people were hospitalized.",
+    "url": "https://www.dw.com/en/germany-police-say-gasoline-caused-deadly-d%C3%BCsseldorf-blast/a-69104748",
+    "author": "dw",
+    "image": "https://static.dw.com/image/69094473_6.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 00:10:28 +0000",
+    "short_uuid": "9ce19157"
+  },
+  {
+    "id": "50cfcaf1-30ce-44c3-be4b-5320ebe5255b",
+    "title": "AI Lexicon \u2014 J \u2013 DW \u2013 05/17/2024",
+    "description": "Do you know your AI from your ML? Or your facial recognition from your Ethical AI? Our AI Lexicon offers easy-to-understand definitions and examples of AI in everyday life. It really is what you need to know.",
+    "url": "https://www.dw.com/en/ai-lexicon-j-is-for-junction-tree/a-69086877",
+    "author": "dw",
+    "image": "https://static.dw.com/image/69049710_6.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 00:10:28 +0000",
+    "short_uuid": "a1600a58"
+  },
+  {
+    "id": "c3925acd-05ac-4cb8-9c2a-3120bea816de",
+    "title": "AI Lexicon \u2014 I \u2013 DW \u2013 05/17/2024",
+    "description": "Do you know your AI from your ML? Or your facial recognition from your Ethical AI? Our AI Lexicon offers easy-to-understand definitions and examples of AI in everyday life. It really is what you need to know.",
+    "url": "https://www.dw.com/en/ai-lexicon-i-is-for-image-recognition/a-69086864",
+    "author": "dw",
+    "image": "https://static.dw.com/image/69049692_6.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 00:10:28 +0000",
+    "short_uuid": "7ef5111b"
+  },
+  {
+    "id": "f3534511-e883-4bd0-b65f-50f823d64d22",
+    "title": "AI Lexicon \u2014 H \u2013 DW \u2013 05/17/2024",
+    "description": "Do you know your AI from your ML? Or your facial recognition from your Ethical AI? Our AI Lexicon offers easy-to-understand definitions and examples of AI in everyday life. It really is what you need to know.",
+    "url": "https://www.dw.com/en/ai-lexicon-h-is-for-humans-like-grace-hopper/a-69086861",
+    "author": "dw",
+    "image": "https://static.dw.com/image/69049648_6.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 00:10:28 +0000",
+    "short_uuid": "7af1d910"
+  },
+  {
+    "id": "cfdf6428-981f-4195-97d7-f378f2fd4b04",
+    "title": "AI Lexicon \u2014 G \u2013 DW \u2013 05/17/2024",
+    "description": "Do you know your AI from your ML? Or your facial recognition from your Ethical AI? Our AI Lexicon offers easy-to-understand definitions and examples of AI in everyday life. It really is what you need to know.",
+    "url": "https://www.dw.com/en/ai-lexicon-g-is-for-generative-artificial-intelligence/a-69086850",
+    "author": "dw",
+    "image": "https://static.dw.com/image/69049629_6.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 00:10:28 +0000",
+    "short_uuid": "40a11bdd"
+  },
+  {
+    "id": "5bcc02d7-629d-4bfc-ba7f-936d1eb68b39",
+    "title": "AI Lexicon \u2014 F \u2013 DW \u2013 05/17/2024",
+    "description": "Do you know your AI from your ML? Or your facial recognition from your Ethical AI? Our AI Lexicon offers easy-to-understand definitions and examples of AI in everyday life. It really is what you need to know.",
+    "url": "https://www.dw.com/en/ai-lexicon-f-is-for-facial-recognition/a-69086847",
+    "author": "dw",
+    "image": "https://static.dw.com/image/69049611_6.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 00:10:28 +0000",
+    "short_uuid": "6da37a44"
+  },
+  {
+    "id": "a954a372-8124-475d-b262-290d975ae8e5",
+    "title": "AI Lexicon \u2014 E \u2013 DW \u2013 05/17/2024",
+    "description": "Do you know your AI from your ML? Or your facial recognition from your Ethical AI? Our AI Lexicon offers easy-to-understand definitions and examples of AI in everyday life. It really is what you need to know.",
+    "url": "https://www.dw.com/en/ai-lexicon-e-is-for-ethical/a-69086844",
+    "author": "dw",
+    "image": "https://static.dw.com/image/69049582_6.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 00:10:28 +0000",
+    "short_uuid": "43d4a0a4"
+  },
+  {
+    "id": "de0e550a-ac3d-46e8-87ed-d8686045c767",
+    "title": "AI Lexicon \u2014 D \u2013 DW \u2013 05/17/2024",
+    "description": "Do you know your AI from your ML? Or your facial recognition from your Ethical AI? Our AI Lexicon offers easy-to-understand definitions and examples of AI in everyday life. It really is what you need to know.",
+    "url": "https://www.dw.com/en/ai-lexicon-d-is-for-deep-learning/a-69086841",
+    "author": "dw",
+    "image": "https://static.dw.com/image/69049564_6.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 00:10:28 +0000",
+    "short_uuid": "a9e4b59d"
+  },
+  {
+    "id": "f04d101d-ec53-46de-a99d-34e4471bcc77",
+    "title": "AI Lexicon: C is for chatbot",
+    "description": "Do you know your AI from your ML? Or your facial recognition from your Ethical AI? Our AI Lexicon offers easy-to-understand definitions and examples of AI in everyday life. It really is what you need to know.",
+    "url": "https://www.dw.com/en/ai-lexicon-c-is-for-chatbot/a-69086838",
+    "author": "dw",
+    "image": "https://static.dw.com/image/69049546_6.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 00:10:28 +0000",
+    "short_uuid": "2c1a082b"
+  },
+  {
+    "id": "47de5a3f-7e38-4148-9345-4b3a9d6fb79e",
+    "title": "AI Lexicon \u2014 B \u2013 DW \u2013 05/17/2024",
+    "description": "Do you know your AI from your ML? Or your facial recognition from your Ethical AI? Our AI Lexicon offers easy-to-understand definitions and examples of AI in everyday life. It really is what you need to know.",
+    "url": "https://www.dw.com/en/ai-lexicon-b-is-for-big-data/a-69086827",
+    "author": "dw",
+    "image": "https://static.dw.com/image/69049528_6.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 00:10:28 +0000",
+    "short_uuid": "2f8fe8a0"
+  },
+  {
+    "id": "8f926ff5-56ca-4127-be95-45cc9c76c511",
+    "title": "AI Lexicon \u2014 A \u2013 DW \u2013 05/17/2024",
+    "description": "Do you know your AI from your ML? Or your facial recognition from your Ethical AI? Our AI Lexicon offers easy-to-understand definitions and examples of AI in everyday life. It really is what you need to know.",
+    "url": "https://www.dw.com/en/ai-lexicon-a-is-for-artificial-intelligence/a-69086824",
+    "author": "dw",
+    "image": "https://static.dw.com/image/69049491_6.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 00:10:28 +0000",
+    "short_uuid": "1939165a"
+  },
+  {
+    "id": "fad18cee-e02d-4a5f-8dff-4ddb9fd8c1d6",
+    "title": "Germany: New online atlas compares 1,700 hospitals' services",
+    "description": "Which hospital in Germany offers which services at which level of quality? The government is launching a new online \"atlas\" tracking this. The health minister said it offered a \"clear guide through the hospital jungle.\"",
+    "url": "https://www.dw.com/en/germany-new-online-atlas-compares-1700-hospitals-services/a-69118008",
+    "author": "dw",
+    "image": "https://static.dw.com/image/69117537_6.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 00:10:28 +0000",
+    "short_uuid": "a32e362a"
+  },
+  {
+    "id": "218b6970-e184-4ea1-bd79-d020b24f4aae",
+    "title": "Iran: Police arrest some 260 people at 'satanist' gathering \u2013 DW \u2013 05/17/2024",
+    "description": "Police broke up an apparent party dubbed a \"satanist gathering\" outside the Iranian capital and arrested some 260 people, including three Europeans.",
+    "url": "https://www.dw.com/en/iran-police-arrest-some-260-people-at-satanist-gathering/a-69118880",
+    "author": "dw",
+    "image": "https://static.dw.com/image/69119162_6.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 00:10:28 +0000",
+    "short_uuid": "ad725c91"
+  },
+  {
+    "id": "5eaefdee-750a-4300-bea9-0eb015fdcca1",
+    "title": "Slovakia: PM Fico in 'serious' state after another operation \u2013 DW \u2013 05/17/2024",
+    "description": "Friday's operation lasted almost two hours, Robert Fico's deputy said. The prime minister underwent a longer surgery in the immediate aftermath of Wednesday's shooting.",
+    "url": "https://www.dw.com/en/slovakia-pm-fico-in-serious-state-after-another-operation/a-69119313",
+    "author": "dw",
+    "image": "https://static.dw.com/image/69119339_6.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 00:10:28 +0000",
+    "short_uuid": "cccfaf73"
+  },
+  {
+    "id": "12b90ae4-9eb1-439e-bc80-62bbac07d70f",
+    "title": "Germany: Floods hit large parts of Saarland \u2013 DW \u2013 05/17/2024",
+    "description": "Much of the German state of Saarland is struggling with flash flooding caused by heavy rains. So far, no one has been injured.",
+    "url": "https://www.dw.com/en/germany-floods-hit-large-parts-of-saarland/a-69119562",
+    "author": "dw",
+    "image": "https://static.dw.com/image/69118939_6.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 00:10:28 +0000",
+    "short_uuid": "667b05e4"
+  },
+  {
+    "id": "d0703467-947d-4807-a329-e85b03e54a0a",
+    "title": "US: 30 years for man who attacked Nancy Pelosi's husband \u2013 DW \u2013 05/17/2024",
+    "description": "A man convicted of trying to kidnap then-US House Speaker Nancy Pelosi and attacking her husband late in 2022 has been sentenced to 30 years in prison. Paul Pelosi was 82 at the time.",
+    "url": "https://www.dw.com/en/us-30-years-for-man-who-attacked-nancy-pelosis-husband/a-69119324",
+    "author": "dw",
+    "image": "https://static.dw.com/image/64543736_6.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 00:10:28 +0000",
+    "short_uuid": "cf35cf0e"
+  },
+  {
+    "id": "59be2c6c-2a17-4bd7-9044-694ffe0f43ab",
+    "title": "US: Mercedes-Benz plants in Alabama remain union-free \u2013 DW \u2013 05/17/2024",
+    "description": "Workers at two Mercedes-Benz plants in the US state of Alabama voted against joining the United Auto Workers.",
+    "url": "https://www.dw.com/en/us-mercedes-benz-plants-in-alabama-remain-union-free/a-69119756",
+    "author": "dw",
+    "image": "https://static.dw.com/image/69119754_6.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 00:10:28 +0000",
+    "short_uuid": "ddaf1d99"
+  },
+  {
+    "id": "12d2f305-52bf-4b32-9a9b-b0131666e237",
+    "title": "SHLS DEADLINE ALERT: TOP RANKED ROSEN LAW FIRM Encourages Shoals Technologies Group, Inc. Investors With Losses in Excess of $100K to Secure Counsel Before Important May 21 Deadline in Securities Class Action \u2013 SHLS",
+    "description": "NEW YORK, May  17, 2024  (GLOBE NEWSWIRE) --   WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of common stock of Shoals...",
+    "url": "https://www.globenewswire.com/news-release/2024/05/18/2884529/673/en/SHLS-DEADLINE-ALERT-TOP-RANKED-ROSEN-LAW-FIRM-Encourages-Shoals-Technologies-Group-Inc-Investors-With-Losses-in-Excess-of-100K-to-Secure-Counsel-Before-Important-May-21-Deadline-in.html",
+    "author": "The Rosen Law Firm PA",
+    "image": "https://ml.globenewswire.com/Resource/Download/745335af-3a3a-4fb5-84c0-fdedc9adf092",
+    "language": "en",
+    "category": [
+      "company"
+    ],
+    "published": "2024-05-18 00:10:00 +0000",
+    "short_uuid": "146dbfc"
+  },
+  {
+    "id": "f1ee6c98-d111-49ca-9748-0e8c953456a9",
+    "title": "PLUG FINAL DEADLINE ALERT: ROSEN, SKILLED INVESTOR COUNSEL, Encourages Plug Power Inc. Investors with Losses in Excess of $100K to Secure Counsel Before Important May 21 Deadline in Securities Class Action \u2013 PLUG",
+    "description": "NEW YORK, May  17, 2024  (GLOBE NEWSWIRE) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Plug Power Inc....",
+    "url": "https://www.globenewswire.com/news-release/2024/05/18/2884528/673/en/PLUG-FINAL-DEADLINE-ALERT-ROSEN-SKILLED-INVESTOR-COUNSEL-Encourages-Plug-Power-Inc-Investors-with-Losses-in-Excess-of-100K-to-Secure-Counsel-Before-Important-May-21-Deadline-in-Sec.html",
+    "author": "The Rosen Law Firm PA",
+    "image": "https://ml.globenewswire.com/Resource/Download/745335af-3a3a-4fb5-84c0-fdedc9adf092",
+    "language": "en",
+    "category": [
+      "company"
+    ],
+    "published": "2024-05-18 00:00:00 +0000",
+    "short_uuid": "b33a61fc"
+  },
+  {
+    "id": "547f4621-e3f5-4e0a-90ab-0bb0259f9f6d",
+    "title": "LIVE BLOG: Scheffler enjoys brilliant second round after 6am arrest",
+    "description": "Relive Mail Sport's live blog from round two of the PGA Championship.",
+    "url": "https://www.dailymail.co.uk/sport/golf/article-13429575/Scottie-Scheffler-PGA-Championship-2024-Round-Two.html?ns_mchannel=rss",
+    "author": "Editor",
+    "image": "https://i.dailymail.co.uk/1s/2024/05/17/14/85004925-0-image-a-21_1715953280426.jpg",
+    "language": "en",
+    "category": [
+      "sports"
+    ],
+    "published": "2024-05-17 23:54:19 +0000",
+    "short_uuid": "3efa5578"
+  },
+  {
+    "id": "367dc1f6-7edd-46fd-8f27-7591110244aa",
+    "title": "Special Counsel urges judge to reject Hunter Biden's request to delay tax trial",
+    "description": "Federal prosecutors are asking a judge to deny Hunter Biden's request to delay his upcoming California tax trial in what is expected to be a busy summer for the president's son, who also faces a separate criminal trial in Delaware.\u00a0In his motion, Special Counsel David Weiss said Biden's attorney, wh...",
+    "url": "https://www.foxnews.com/politics/special-counsel-urges-judge-reject-hunter-bidens-request-delay-tax-trial",
+    "author": "Fox News",
+    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/01/1024/512/GettyImages-1915184722.jpg?ve=1&tl=1",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-17 23:50:53 +0000",
+    "short_uuid": "569df30c"
+  },
+  {
+    "id": "96d61d88-99cf-49d1-affe-d9da94c558e5",
+    "title": "Detroit police want help finding missing 28-year-old woman",
+    "description": "Police are seeking information about a 28-year-old woman who went missing in Detroit.",
+    "url": "https://www.clickondetroit.com/news/local/2024/05/17/detroit-police-want-help-finding-missing-28-year-old-woman/",
+    "author": "Brandon Carr",
+    "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/CIOXB5XYFFETHDBXELS4YAKKP4.jpg?_a=ATAPphC0",
+    "language": "en",
+    "category": [
+      "regional",
+      "detroit"
+    ],
+    "published": "2024-05-17 23:48:44 +0000",
+    "short_uuid": "e441df04"
   }
 ]
