@@ -36061,5 +36061,425 @@
     ],
     "published": "2024-05-18 02:54:00 +0000",
     "short_uuid": "c94f1e56"
+  },
+  {
+    "id": "193ef0a5-0ef4-4007-9e6a-b50a0031e8d0",
+    "title": "\u2018Such a relief\u2019: infected blood scandal victims create support groups",
+    "description": "The \u2018blood friends\u2019 share stories and medical advice to help one another feel unburdened by their experiences",
+    "url": "https://www.theguardian.com/uk-news/article/2024/may/18/infected-blood-scandal-victims-create-support-groups",
+    "author": "Rachel Hall",
+    "image": "https://i.guim.co.uk/img/media/0ae7f8c8d627573a7961ba0cfff48232d82365a8/0_72_4806_2884/master/4806.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=31ecca4def5b5cdf57c2b46345a4c0e3",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2024-05-18 06:00:08 +0000",
+    "short_uuid": "ba0d418c"
+  },
+  {
+    "id": "7df6fad3-42da-4798-8034-f5ad5edee01f",
+    "title": "\u2018Bloody \u00a39 for two\u2019: TikTok twins rage at ice-cream van prices",
+    "description": "Eight-year-olds\u2019 video, which racked up 14m views, hits a sore point for mobilers who have struggled with the cost of living",
+    "url": "https://www.theguardian.com/business/article/2024/may/18/bloody-9-for-two-tiktok-twins-rage-at-ice-cream-van-prices",
+    "author": "Zoe Wood",
+    "image": "https://i.guim.co.uk/img/media/ca1af4b956428d770c96e2e22df386060c15ed61/0_246_4928_2956/master/4928.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=06cc6c864314588dca3bf013b8680c6a",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2024-05-18 06:00:04 +0000",
+    "short_uuid": "d83376f2"
+  },
+  {
+    "id": "1e27db1d-6118-4927-ab36-110e97666998",
+    "title": "Slovakia: 'We have to stop this hatred' \u2013 DW \u2013 05/18/2024",
+    "description": "Politicians in Slovakia have unanimously condemned Wednesday's attack on PM Robert Fico. Still, after months of anti-government protests in the capital there was shock but limited compassion from Bratislavans. ",
+    "url": "https://www.dw.com/en/slovakia-we-have-to-stop-this-hatred/a-69119511",
+    "author": "DW.COM, Deutsche Welle",
+    "image": "https://static.dw.com/image/69091390_6.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 05:46:00 +0000",
+    "short_uuid": "96d0ff16"
+  },
+  {
+    "id": "f424bae6-6bbe-4997-a9e3-3a8218f026bc",
+    "title": "Ukraine updates: Russia may try taking Kharkiv  \u2014 Zelenskyy  \u2013 DW \u2013 05/18/2024",
+    "description": "Ukrainian President Volodymyr Zelenskyy warned Russian forces might aim at capturing Kharkiv city, while Russia President Vladimir Putin said he was not currently seeking to do so. DW has the latest.",
+    "url": "https://www.dw.com/en/ukraine-updates-russia-may-try-taking-kharkiv-zelenskyy/live-69120398",
+    "author": "DW.COM, Deutsche Welle",
+    "image": "https://static.dw.com/image/69105475_6.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 05:44:00 +0000",
+    "short_uuid": "1f0fc709"
+  },
+  {
+    "id": "9f7af2ea-786d-4f73-81e6-e0f2e1eca8f1",
+    "title": "Inside Germany: Citizenship campaign, wedding bureaucracy and landmark cinema closure",
+    "description": "From a campaign to encourage foreigners to apply for German citizenship and the clunky process of getting married in Germany to an East German cinema, here are a few of the things we've been talking about this week.",
+    "url": "https://www.thelocal.de/20240518/inside-germany-citizenship-campaign-wedding-bureaucracy-and-landmark-cinema-closure",
+    "author": "Rachel Loxton",
+    "image": "https://apiwp.thelocal.com/cdn-cgi/image/format=webp,width=855,quality=75/https://apiwp.thelocal.com/wp-content/uploads/2024/05/watermarks-logo-IMG_2206.jpg",
+    "language": "en",
+    "category": [
+      "regional"
+    ],
+    "published": "2024-05-18 05:43:00 +0000",
+    "short_uuid": "df70da40"
+  },
+  {
+    "id": "bfb4c209-3f77-41fa-9f28-aace894c799a",
+    "title": "Inside France: Violence, QR codes and stuffed animals",
+    "description": "From violent unrest in a French territory to the QR codes required at the Paris Olympics, via D-Day and weird taxidermy, our weekly newsletter Inside France looks at what we have been talking about in France this week.",
+    "url": "https://www.thelocal.fr/20240518/inside-france-violence-qr-codes-and-stuffed-animals",
+    "author": "Emma Pearson",
+    "image": "https://apiwp.thelocal.com/cdn-cgi/image/format=webp,width=855,quality=75/https://apiwp.thelocal.com/wp-content/uploads/2024/05/watermarks-logo-AFP__20240515__34RM7MU__v1__Preview__FrancePrisonCrime.jpg",
+    "language": "en",
+    "category": [
+      "regional"
+    ],
+    "published": "2024-05-18 05:37:56 +0000",
+    "short_uuid": "4a1403e3"
+  },
+  {
+    "id": "afbf4fef-d7eb-4d4d-8c57-6ee7ee2e4522",
+    "title": "Munich airport disrupted due to climate protesters \u2013 DW \u2013 05/18/2024",
+    "description": "Several climate activists breached the Munich airport early on Saturday and glued themselves to the tarmac.",
+    "url": "https://www.dw.com/en/munich-airport-disrupted-due-to-climate-protester/a-69120463",
+    "author": "DW.COM, Deutsche Welle",
+    "image": "https://static.dw.com/image/68284226_6.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 05:34:00 +0000",
+    "short_uuid": "6e0782f8"
+  },
+  {
+    "id": "592854d0-2e8b-4ff5-975f-602035cdc0ee",
+    "title": "In joint statement, PM Anwar and Uzbekistan President agree to further develop cooperation in education",
+    "description": "TASHKENT, May 18 \u2014 Malaysia and Uzbekistan agreed to organise joint educational programmes in Uzbekistan with the leading universities of Malaysia to further develop cooperation...",
+    "url": "https://www.malaymail.com/news/malaysia/2024/05/18/in-joint-statement-pm-anwar-and-uzbekistan-president-agree-to-further-develop-cooperation-in-education/135117",
+    "author": "Malay Mail",
+    "image": "https://www.malaymail.com/malaymail/uploads/images/2024/05/18/thumbs/400x400/211175.jpg",
+    "language": "en",
+    "category": [
+      "regional"
+    ],
+    "published": "2024-05-18 05:30:17 +0000",
+    "short_uuid": "c34ca117"
+  },
+  {
+    "id": "ae66f229-30e9-454e-a5be-a8bd76c6e117",
+    "title": "Queen pays last respects to two policemen slain in Ulu Tiram attack",
+    "description": "JOHOR BARU, May 18 \u2014 Her Majesty Raja Zarith Sofiah, Queen of Malaysia, today paid her last respects to the two slain policemen, Constable Ahmad Azza Fahmi Azhar and Constable...",
+    "url": "https://www.malaymail.com/news/malaysia/2024/05/18/queen-pays-last-respects-to-two-policemen-slain-in-ulu-tiram-attack/135116",
+    "author": "Malay Mail",
+    "image": "https://www.malaymail.com/malaymail/uploads/images/2024/05/18/thumbs/400x400/211174.jpg",
+    "language": "en",
+    "category": [
+      "regional"
+    ],
+    "published": "2024-05-18 05:25:23 +0000",
+    "short_uuid": "25ce1059"
+  },
+  {
+    "id": "53b2b2ce-8cad-4086-9490-a1741d92b03f",
+    "title": "San Diego is latest hot spot for illegal border crossings, but routes change quickly",
+    "description": "On many nights, hundreds of migrants squeeze through poles in a border wall or climb over on metal ladders. They gather in a buffer zone between two walls with views of the night lights of Tijuana, Me...",
+    "url": "https://www.voanews.com/a/the-latest-hot-spot-for-illegal-border-crossings-is-san-diego-but-routes-change-quickly-/7617274.html",
+    "author": "Associated Press",
+    "image": "https://gdb.voanews.com/9B3C6F5D-3264-42C6-AFAC-D0974141B2CC.jpg",
+    "language": "en",
+    "category": [
+      "regional"
+    ],
+    "published": "2024-05-18 05:23:07 +0000",
+    "short_uuid": "d26bc78c"
+  },
+  {
+    "id": "796df6f1-3be5-4b12-bc5b-83298411ec6b",
+    "title": "Religious affairs minister says dept consistent in rejecting extremist ideologies",
+    "description": "KUALA LUMPUR, May 18 \u2014 The Prime Minister\u2019s Department (JPM) (Religious Affairs) has always been consistent in rejecting extremist ideologies said its Minister Datuk Mohd...",
+    "url": "https://www.malaymail.com/news/malaysia/2024/05/18/religious-affairs-minister-says-dept-consistent-in-rejecting-extremist-ideologies/135115",
+    "author": "Malay Mail",
+    "image": "https://www.malaymail.com/malaymail/uploads/images/2024/05/18/thumbs/400x400/211173.jpg",
+    "language": "en",
+    "category": [
+      "regional"
+    ],
+    "published": "2024-05-18 05:17:49 +0000",
+    "short_uuid": "25af424"
+  },
+  {
+    "id": "b85a21ae-6d35-475b-bdb3-2d10c967b920",
+    "title": "19-year-old Nolan Siegel Catches Air In Wreck During Practice For Indianapolis 500 Qualifying - News18",
+    "description": "Nolan Siegel brought the Indianapolis 500 practice to a halt on Friday when the 19yearold rookie spun coming out of Turn 2 and hit the outside wall, sending his Dale Coyne Racing entry flying through the air before it landed on its side.",
+    "url": "https://www.news18.com/sports/19-year-old-nolan-siegel-catches-air-in-wreck-during-practice-for-indianapolis-500-qualifying-8894707.html",
+    "author": "@cnnnews18",
+    "image": "https://images.news18.com/ibnlive/uploads/2023/11/do_not_delete_sports-2023-11-e67ff22d7739531b4934072abdcbdf60-16x9.jpg?impolicy=website&width=1200&height=675",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 05:16:30 +0000",
+    "short_uuid": "ff295ba3"
+  },
+  {
+    "id": "0ac1e6da-3545-4320-8efe-1d7e736f8f25",
+    "title": "Chicago Cubs 2B Nico Hoerner Still Hampered By Left Hamstring Issue - News18",
+    "description": "Cubs second baseman Nico Hoerner is out of the starting lineup for the fourth consecutive day, increasing the possibility that he could need a stint on the injured list.",
+    "url": "https://www.news18.com/sports/chicago-cubs-2b-nico-hoerner-still-hampered-by-left-hamstring-issue-8894708.html",
+    "author": "@cnnnews18",
+    "image": "https://images.news18.com/ibnlive/uploads/2023/11/do_not_delete_sports-2023-11-e67ff22d7739531b4934072abdcbdf60-16x9.jpg?impolicy=website&width=1200&height=675",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 05:16:19 +0000",
+    "short_uuid": "c8e8c0f1"
+  },
+  {
+    "id": "08095e79-1bae-4354-8ae4-1071d3edf094",
+    "title": "Peterka Has Goal, 3 Assists In Germany's 8-2 Rout Of Kazakhstan At Men's Hockey World Championship - News18",
+    "description": "JJ Peterka had a goal and three assists, Wojciech Stachowiak set up four goals, and Germany clinched a playoff berth with an 82 rout of Kazakhstan at the men\u2019s hockey world championship on Friday.",
+    "url": "https://www.news18.com/sports/peterka-has-goal-3-assists-in-germanys-8-2-rout-of-kazakhstan-at-mens-hockey-world-championship-8894709.html",
+    "author": "@cnnnews18",
+    "image": "https://images.news18.com/ibnlive/uploads/2023/11/do_not_delete_sports-2023-11-e67ff22d7739531b4934072abdcbdf60-16x9.jpg?impolicy=website&width=1200&height=675",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 05:16:07 +0000",
+    "short_uuid": "50152c12"
+  },
+  {
+    "id": "3d35cbd4-275e-4098-80a6-9c224d9422df",
+    "title": "Scottie Scheffler, From The Course To Jail And Back: What To Know About His PGA Championship Arrest - News18",
+    "description": "Twotime Masters champion Scottie Scheffler was arrested after police say he dragged an officer while trying to get around the scene of a fatal accident Friday ahead of the second round of the PGA Championship.",
+    "url": "https://www.news18.com/sports/scottie-scheffler-from-the-course-to-jail-and-back-what-to-know-about-his-pga-championship-arrest-8894710.html",
+    "author": "@cnnnews18",
+    "image": "https://images.news18.com/ibnlive/uploads/2023/11/do_not_delete_sports-2023-11-e67ff22d7739531b4934072abdcbdf60-16x9.jpg?impolicy=website&width=1200&height=675",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 05:16:04 +0000",
+    "short_uuid": "eae217ab"
+  },
+  {
+    "id": "e9418e90-c42a-4adf-95eb-8f2b50bd922d",
+    "title": "Porto Fined $1.6M By UEFA And Threatened With One-season European Ban Over Unpaid Debts - News18",
+    "description": "Twotime European champion Porto was fined 1.5 million euros ($1.6 million) by UEFA on Friday and threatened with a oneyear ban from European competitions because of unpaid debts this season.",
+    "url": "https://www.news18.com/sports/porto-fined-1-6m-by-uefa-and-threatened-with-one-season-european-ban-over-unpaid-debts-8894711.html",
+    "author": "@cnnnews18",
+    "image": "https://images.news18.com/ibnlive/uploads/2023/11/do_not_delete_sports-2023-11-e67ff22d7739531b4934072abdcbdf60-16x9.jpg?impolicy=website&width=1200&height=675",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 05:16:00 +0000",
+    "short_uuid": "9efcef8c"
+  },
+  {
+    "id": "a7dfec1b-f1b1-4c15-a4fa-cb79dfdbd469",
+    "title": "Scottie Scheffler Isn't The First Pro Golfer To Be Arrested During A Tournament - News18",
+    "description": "Scottie Scheffler's arrest hours before his second-round tee time at the PGA Championship in Louisville, Kentucky, will go down as one of the most shocking in professional golf history. It certainly wasn't the first, though.",
+    "url": "https://www.news18.com/sports/scottie-scheffler-isnt-the-first-pro-golfer-to-be-arrested-during-a-tournament-8894712.html",
+    "author": "@cnnnews18",
+    "image": "https://images.news18.com/ibnlive/uploads/2023/11/do_not_delete_sports-2023-11-e67ff22d7739531b4934072abdcbdf60-16x9.jpg?impolicy=website&width=1200&height=675",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 05:15:56 +0000",
+    "short_uuid": "bacfb37b"
+  },
+  {
+    "id": "d5069a35-61c6-4a06-baf9-723b67ed8d20",
+    "title": "Jonathan Milan Sprints To His 3rd Stage Win In The Giro D'Italia - News18",
+    "description": "Jonathan Milan sprinted to his third victory in the Giro d\u2019Italia on the 13th stage while Tadej Pogacar fought through crosswinds to keep his overall lead on Friday.",
+    "url": "https://www.news18.com/sports/jonathan-milan-sprints-to-his-3rd-stage-win-in-the-giro-ditalia-8894713.html",
+    "author": "@cnnnews18",
+    "image": "https://images.news18.com/ibnlive/uploads/2023/11/do_not_delete_sports-2023-11-e67ff22d7739531b4934072abdcbdf60-16x9.jpg?impolicy=website&width=1200&height=675",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 05:15:53 +0000",
+    "short_uuid": "71226ba6"
+  },
+  {
+    "id": "ab9c7c09-1355-4191-b523-9192ac17e1a5",
+    "title": "Zverev Produces A Comeback Win Over Tabilo To Earn A Spot In The Italian Open Final - News18",
+    "description": "For about an hour, Alexander Zverev had no answer to the rocketlike forehands and perfectly placed drop shots that Alejandro Tabilo kept producing.",
+    "url": "https://www.news18.com/sports/zverev-produces-a-comeback-win-over-tabilo-to-earn-a-spot-in-the-italian-open-final-8894714.html",
+    "author": "@cnnnews18",
+    "image": "https://images.news18.com/ibnlive/uploads/2023/11/do_not_delete_sports-2023-11-e67ff22d7739531b4934072abdcbdf60-16x9.jpg?impolicy=website&width=1200&height=675",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 05:15:40 +0000",
+    "short_uuid": "197b5d01"
+  },
+  {
+    "id": "1f0f82e2-e84f-414e-98a7-af6f23fd43f0",
+    "title": "Djokovic Gets Late Wild Card To Geneva Open In Bid For More Clay Action Before Roland Garros - News18",
+    "description": "Novak Djokovic is a surprise entry for the Geneva Open, the last men's warmup for the French Open, and could open against his old friend and rival Andy Murray.",
+    "url": "https://www.news18.com/sports/djokovic-gets-late-wild-card-to-geneva-open-in-bid-for-more-clay-action-before-roland-garros-8894715.html",
+    "author": "@cnnnews18",
+    "image": "https://images.news18.com/ibnlive/uploads/2023/11/do_not_delete_sports-2023-11-e67ff22d7739531b4934072abdcbdf60-16x9.jpg?impolicy=website&width=1200&height=675",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 05:15:37 +0000",
+    "short_uuid": "3a9bc4ae"
+  },
+  {
+    "id": "54ac5183-04ba-4db1-a04a-18ef3f216b77",
+    "title": "Juventus Fires Coach Massimiliano Allegri For His Outburst Toward The Refs In The Italian Cup Final - News18",
+    "description": "Juventus fired coach Massimiliano Allegri on Friday for his ugly outburst toward the referees in the Italian Cup final.",
+    "url": "https://www.news18.com/sports/juventus-fires-coach-massimiliano-allegri-for-his-outburst-toward-the-refs-in-the-italian-cup-final-8894716.html",
+    "author": "@cnnnews18",
+    "image": "https://images.news18.com/ibnlive/uploads/2023/11/do_not_delete_sports-2023-11-e67ff22d7739531b4934072abdcbdf60-16x9.jpg?impolicy=website&width=1200&height=675",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 05:15:28 +0000",
+    "short_uuid": "b573db6f"
+  },
+  {
+    "id": "95831a91-0165-4816-9cee-a64ce2f2be6e",
+    "title": "Scheffler, Charged With Assault After Officer Dragged Near Fatal Crash, Tees Off At PGA Championship - News18",
+    "description": "Masters champion Scottie Scheffler was arrested Friday morning on his way to the PGA Championship, with stunning images showing him handcuffed as he was taken to jail for not following police orders during a pedestrian fatality investigation.",
+    "url": "https://www.news18.com/sports/scheffler-charged-with-assault-after-officer-dragged-near-fatal-crash-tees-off-at-pga-championship-8894717.html",
+    "author": "@cnnnews18",
+    "image": "https://images.news18.com/ibnlive/uploads/2023/11/do_not_delete_sports-2023-11-e67ff22d7739531b4934072abdcbdf60-16x9.jpg?impolicy=website&width=1200&height=675",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 05:15:26 +0000",
+    "short_uuid": "1fd2ed97"
+  },
+  {
+    "id": "8bcb4639-0f16-40c3-9cf4-987838db2d62",
+    "title": "Soccer-Napkin Used By Barcelona To Sign Messi Sold For Nearly $1 Million - News18",
+    "description": "The napkin on which Barcelona promised to sign Lionel Messi when he was a 13yearold has been sold for 762,400 pounds ($969,000, auction house Bonhams said on Friday.",
+    "url": "https://www.news18.com/sports/soccer-napkin-used-by-barcelona-to-sign-messi-sold-for-nearly-1-million-8894720.html",
+    "author": "@cnnnews18",
+    "image": "https://images.news18.com/ibnlive/uploads/2023/11/do_not_delete_sports-2023-11-e67ff22d7739531b4934072abdcbdf60-16x9.jpg?impolicy=website&width=1200&height=675",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 05:15:19 +0000",
+    "short_uuid": "e723a306"
+  },
+  {
+    "id": "4b9dd1d9-0a1e-4ef0-b100-78dd58905bfa",
+    "title": "John Daly Withdraws From The PGA Championship With A Thumb Injury - News18",
+    "description": "Former champion John Daly withdrew from the PGA Championship on Friday with what he said was a thumb injury.",
+    "url": "https://www.news18.com/sports/john-daly-withdraws-from-the-pga-championship-with-a-thumb-injury-8894721.html",
+    "author": "@cnnnews18",
+    "image": "https://images.news18.com/ibnlive/uploads/2023/11/do_not_delete_sports-2023-11-e67ff22d7739531b4934072abdcbdf60-16x9.jpg?impolicy=website&width=1200&height=675",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 05:15:13 +0000",
+    "short_uuid": "9ed35b4"
+  },
+  {
+    "id": "554f5ce1-68e1-4829-b59c-31923bdaefa7",
+    "title": "Kenyan Runner Kwemoi Banned 6 Years For Blood Doping And Stripped Of Olympics, World Champs Results - News18",
+    "description": "Kenyan 10,000meter runner Rodgers Kwemoi was banned for six years on Friday for suspected blood doping 18 times and disqualified from Olympics and world championships races.",
+    "url": "https://www.news18.com/sports/kenyan-runner-kwemoi-banned-6-years-for-blood-doping-and-stripped-of-olympics-world-champs-results-8894722.html",
+    "author": "@cnnnews18",
+    "image": "https://images.news18.com/ibnlive/uploads/2023/11/do_not_delete_sports-2023-11-e67ff22d7739531b4934072abdcbdf60-16x9.jpg?impolicy=website&width=1200&height=675",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 05:15:09 +0000",
+    "short_uuid": "fb82efb8"
+  },
+  {
+    "id": "c11d9075-dafc-4c17-9d07-0243917b941c",
+    "title": "Doping-WADA Criticises U.S. For Undermining Anti-doping Efforts - News18",
+    "description": "The World AntiDoping Agency (WADA) continued to vigorously defend its handling of a drugs case involving 23 Chinese swimmers on Friday while taking direct aim at the United States for trying to undermine the global antidoping effort.",
+    "url": "https://www.news18.com/sports/doping-wada-criticises-u-s-for-undermining-anti-doping-efforts-8894723.html",
+    "author": "@cnnnews18",
+    "image": "https://images.news18.com/ibnlive/uploads/2023/11/do_not_delete_sports-2023-11-e67ff22d7739531b4934072abdcbdf60-16x9.jpg?impolicy=website&width=1200&height=675",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 05:15:06 +0000",
+    "short_uuid": "7e0d6ad5"
+  },
+  {
+    "id": "2a8dbd67-a256-4e81-ae3f-16f11baf7b5f",
+    "title": "Feyenoord Coach Arne Slot Says He Will Be The Liverpool Manager Next Season - News18",
+    "description": "Feyenoord coach Arne Slot confirmed one of soccer\u2019s worst-kept secrets: He is the next Liverpool manager.",
+    "url": "https://www.news18.com/sports/feyenoord-coach-arne-slot-says-he-will-be-the-liverpool-manager-next-season-8894724.html",
+    "author": "@cnnnews18",
+    "image": "https://images.news18.com/ibnlive/uploads/2023/11/do_not_delete_sports-2023-11-e67ff22d7739531b4934072abdcbdf60-16x9.jpg?impolicy=website&width=1200&height=675",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 05:15:02 +0000",
+    "short_uuid": "9a434337"
+  },
+  {
+    "id": "2bfc01e5-9a1c-475e-a99b-19ceccb10fc5",
+    "title": "Soccer-Marseille Manager Gasset Announces Retirement - News18",
+    "description": "Olympique de Marseille manager JeanLouis Gasset will take charge of his last game on Sunday before retiring from management, the 70yearold said on Friday.",
+    "url": "https://www.news18.com/sports/soccer-marseille-manager-gasset-announces-retirement-8894725.html",
+    "author": "@cnnnews18",
+    "image": "https://images.news18.com/ibnlive/uploads/2023/11/do_not_delete_sports-2023-11-e67ff22d7739531b4934072abdcbdf60-16x9.jpg?impolicy=website&width=1200&height=675",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 05:14:57 +0000",
+    "short_uuid": "56fbc6f3"
+  },
+  {
+    "id": "fdc67a0e-3fba-4f30-879f-97203b3e32fd",
+    "title": "Bob Baffert Is Again The Center Of Attention At The Preakness, Even Without The Derby Winner - News18",
+    "description": "Bob Baffert does not need to bring the Kentucky Derby winner to the Preakness to become the center of attention at Pimlico Race Course.",
+    "url": "https://www.news18.com/sports/bob-baffert-is-again-the-center-of-attention-at-the-preakness-even-without-the-derby-winner-8894731.html",
+    "author": "@cnnnews18",
+    "image": "https://images.news18.com/ibnlive/uploads/2023/11/do_not_delete_sports-2023-11-e67ff22d7739531b4934072abdcbdf60-16x9.jpg?impolicy=website&width=1200&height=675",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 05:14:54 +0000",
+    "short_uuid": "5ca78e3c"
+  },
+  {
+    "id": "f0eaedaf-f39a-43c5-8f96-45eed797c439",
+    "title": "Olympic Champion Gabby Douglas' Comeback Takes Another Important Step At The U.S. Classic - News18",
+    "description": "Olympic gymnastics champion Gabby Douglas' comeback following an eightyear layoff will take another important step on Saturday at the U.S. Classic.",
+    "url": "https://www.news18.com/sports/olympic-champion-gabby-douglas-comeback-takes-another-important-step-at-the-u-s-classic-8894732.html",
+    "author": "@cnnnews18",
+    "image": "https://images.news18.com/ibnlive/uploads/2023/11/do_not_delete_sports-2023-11-e67ff22d7739531b4934072abdcbdf60-16x9.jpg?impolicy=website&width=1200&height=675",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 05:14:52 +0000",
+    "short_uuid": "df17606b"
   }
 ]
