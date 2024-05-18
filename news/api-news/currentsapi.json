@@ -37094,5 +37094,349 @@
     ],
     "published": "2024-05-18 09:22:50 +0000",
     "short_uuid": "89e0880d"
+  },
+  {
+    "id": "be728ca4-64bb-4580-a367-123d28112e09",
+    "title": "U.S. says the first shipment of aid has reached Gaza through its floating pier",
+    "description": "The U.S. military says the first shipment of aid has moved ashore into Gaza over a new, massive floating pier. It wants to scale up to 150 trucks entering Gaza per day....",
+    "url": "https://www.npr.org/2024/05/18/1252307685/u-s-says-the-first-shipment-of-aid-has-reached-gaza-through-its-floating-pier",
+    "author": "Scott Simon",
+    "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2024-05-18 12:02:00 +0000",
+    "short_uuid": "61548f8a"
+  },
+  {
+    "id": "25fa50b7-f4c9-48f5-82b9-d428bfd9f0c3",
+    "title": "The assassination attempt on Slovakian PM is the latest example of violence in Europe",
+    "description": "There's a lot of finger-pointing in Slovakia following the assassination attempt this week on its prime minister. It's another example of political violence that's been taking place in Europe of late....",
+    "url": "https://www.npr.org/2024/05/18/1252307692/the-assassination-attempt-on-slovakian-pm-is-the-latest-example-of-violence-in-e",
+    "author": "Scott Simon",
+    "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2024-05-18 12:02:00 +0000",
+    "short_uuid": "f4c704"
+  },
+  {
+    "id": "d6a18c9b-85e3-42de-bd28-c6d4a5625806",
+    "title": "A Crimean couple in Ukraine says they're reliving an 80-year-old story",
+    "description": "A Crimean Tatar couple in Ukraine, displaced by Russian troops, sees parallels to the Soviets' forced deportation of 200,000 Tatars from Crimea 80 years ago....",
+    "url": "https://www.npr.org/2024/05/18/1252307699/a-crimean-couple-in-ukraine-says-theyre-reliving-an-80-year-old-story",
+    "author": "Joanna Kakissis",
+    "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2024-05-18 12:02:00 +0000",
+    "short_uuid": "992afb08"
+  },
+  {
+    "id": "ec3a2bf0-3c43-4799-8ffd-b2d23e90c7c6",
+    "title": "NYT interviews swing state voters who regret supporting Joe Biden in 2020: 'Biggest mistake of my life'",
+    "description": "Reporters at the New York Times spoke to a variety of swing state voters who might have voted for Biden in 2020, but plan to vote for somebody else in the upcoming election.",
+    "url": "https://www.foxnews.com/media/nyt-interviews-swing-state-voters-regret-supporting-joe-biden-2020-biggest-mistake-life",
+    "author": "Fox News",
+    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/02/1024/512/voting-booth.jpg?ve=1&tl=1",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 12:00:59 +0000",
+    "short_uuid": "59ba10f4"
+  },
+  {
+    "id": "447a12f9-ee3f-42b7-9b68-afec3ca99791",
+    "title": "Sean 'Diddy' Combs hotel video likely to speed up federal case, investigator says",
+    "description": "Homeland Security Investigations' federal probe into Sean \"Diddy\" Combs is likely to come to a head after \"damaging\" surveillance video surfaces, former NYPD investigator says.",
+    "url": "https://www.foxnews.com/us/sean-diddy-combs-hotel-video-likely-speed-federal-case-investigator-says",
+    "author": "Fox News",
+    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/05/1024/512/Diddy-Sean-Combs-Cassie_01.jpg?ve=1&tl=1",
+    "language": "en",
+    "category": [
+      "regional"
+    ],
+    "published": "2024-05-18 12:00:49 +0000",
+    "short_uuid": "406e9fe8"
+  },
+  {
+    "id": "88f5b140-cf3f-44c2-9fb6-b555093d3f60",
+    "title": "Dutch firebrand Geert Wilders joins new government as Europe's 'liberal elites' put on notice",
+    "description": "The Dutch electorate\u2019s concerns over radical Islam and unfettered immigration led to the establishment of a right-wing coalition to address the country\u2019s social problems.",
+    "url": "https://www.foxnews.com/world/dutch-firebrand-geert-wilders-joins-new-government-europes-liberal-elites-on-notice",
+    "author": "Fox News",
+    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/05/1024/512/GettyImages-1797670481.jpg?ve=1&tl=1",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 12:00:30 +0000",
+    "short_uuid": "7bdbcff2"
+  },
+  {
+    "id": "e42fe897-bd40-4a56-b00e-a677fef4cbb0",
+    "title": "Media giants lean on sports as Hollywood strikes still loom over content slates",
+    "description": "Media companies charming advertisers during the Upfront meetings let sports take center stage as content slates still suffer from last year's Hollywood strikes.",
+    "url": "https://www.cnbc.com/2024/05/18/media-upfronts-sports-hollywood-strikes.html",
+    "author": "Lillian Rizzo",
+    "image": "https://image.cnbcfm.com/api/v1/image/107372009-1707697879156-gettyimages-2003784651-mr1_4832_etzdquun.jpeg?v=1707697920&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "business"
+    ],
+    "published": "2024-05-18 12:00:01 +0000",
+    "short_uuid": "37e28b8d"
+  },
+  {
+    "id": "a2f741fb-3c91-41b5-b7d6-b865e952fb0f",
+    "title": "Sevilla confirm coach to leave, offer Navas lifetime deal",
+    "description": "BARCELONA, May 18 \u2014 Sevilla confirmed today coach Quique Sanchez Flores will leave the club at the end of the season and that the club wanted to keep departing captain Jesus...",
+    "url": "https://www.malaymail.com/news/sports/2024/05/18/sevilla-confirm-coach-to-leave-offer-navas-lifetime-deal/135188",
+    "author": "Malay Mail",
+    "image": "https://www.malaymail.com/malaymail/uploads/images/2024/05/18/thumbs/400x400/211277.jpg",
+    "language": "en",
+    "category": [
+      "sports",
+      "regional"
+    ],
+    "published": "2024-05-18 11:56:24 +0000",
+    "short_uuid": "da0a96dd"
+  },
+  {
+    "id": "b2520806-fd3e-4f7a-afb0-fa1bacfa4340",
+    "title": "Cannes 2024 review: 'Bird' - Andrea Arnold finding hope in turmoil",
+    "description": "Screening in Competition, Andrea Arnold's new film manages to fuse social and magical realism, in a harsh yet uplifting tale that will leave you ready to take flight.",
+    "url": "https://www.euronews.com/culture/2024/05/18/cannes-2024-review-bird-andrea-arnolds-superb-fantastical-tale-set-in-broken-britain",
+    "author": "David Mouriquand",
+    "image": "https://static.euronews.com/articles/stories/08/44/48/48/1200x675_cmsv2_0be11a7b-3878-519f-a96c-7bac443e1a99-8444848.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 11:50:41 +0000",
+    "short_uuid": "2e972db4"
+  },
+  {
+    "id": "5139ba2d-e8d9-43bc-a607-611ea8c68ac2",
+    "title": "Fox News AI Newsletter: How artificial intelligence is reshaping modern warfare",
+    "description": "Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and for the future.",
+    "url": "https://www.foxnews.com/tech/fox-news-ai-newsletter-artificial-intelligence-reshaping-modern-warfare",
+    "author": "Fox News",
+    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/05/1024/512/bdc332cb-AI-can-stalk-unsuspecting-victims-with-ease-and-precision.jpg?ve=1&tl=1",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 11:45:52 +0000",
+    "short_uuid": "12563e3c"
+  },
+  {
+    "id": "7e3de107-2f48-41ed-922b-caea8a082917",
+    "title": "Eight climate activists arrested in Germany over airport protest",
+    "description": "About 60 flights cancelled after members of Letzte Generation glue themselves to ground at Munich",
+    "url": "https://www.theguardian.com/world/article/2024/may/18/climate-activists-arrested-germany-munich-airport",
+    "author": "Agencies",
+    "image": "https://i.guim.co.uk/img/media/e261a2d15b432ed91c0ee6a830cbeb5208801b89/0_57_1697_1018/master/1697.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=c5015d26a360ae6a238d9a249254fde0",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2024-05-18 11:42:29 +0000",
+    "short_uuid": "820a52d8"
+  },
+  {
+    "id": "7c18a266-6ff2-4acf-b460-7e17b4796c82",
+    "title": "Youngkin vetoes slew of Virginia bills, including contraception access measure",
+    "description": "Virginia Gov. Glenn Youngkin signed seven bills into law and vetoed 48, including legislation that focuses on protecting access to contraceptives, as well as a measure regarding skills games",
+    "url": "https://www.foxnews.com/politics/youngkin-vetoes-slew-virginia-bills-including-contraception-access-measure",
+    "author": "Fox News",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2023/12/Gov-Glenn-Youngkin.gif",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-18 11:38:52 +0000",
+    "short_uuid": "841d94c3"
+  },
+  {
+    "id": "732f6616-07b3-4bb2-978e-4b37bcdea05d",
+    "title": "Skepta, From Meridian Walk to the World",
+    "description": "Joseph Adenuga Jr. is a modern day Renaissance man. Born in London to Nigerian parents and better known to most as Skepta, he has steadily become one of the greatest artists to emanate from the UK in ...",
+    "url": "https://hypebeast.com/2024/5/skepta-from-meridian-walk-to-the-world",
+    "author": "Felix Young",
+    "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2024%2F05%2F17%2Fskepta-x-hypebeast-tw.jpg?w=1080&cbr=1&q=90&fit=max",
+    "language": "en",
+    "category": [
+      "fashion",
+      "lifestyle"
+    ],
+    "published": "2024-05-18 11:25:16 +0000",
+    "short_uuid": "6f46611b"
+  },
+  {
+    "id": "d2123012-8689-4730-8455-5aad18737aa3",
+    "title": "Norway Sovereign Wealth Fund Excludes APSEZ, Joins 14 Other Indian Cos Facing Similar Action",
+    "description": "The Norwegian fund's Council of Ethics acknowledged APSEZ's May 2023 disclosure that it had sold its port-related operations in Myanmar to Solar Energy Ltd but said 'no information on buyer is availab...",
+    "url": "https://www.ndtvprofit.com/pti/biz-adani-norway-fund",
+    "author": "Stock Market",
+    "image": "https://media.assettype.com/bloombergquint%2F2024-01%2F30d85b85-d4fb-44cb-9385-efca7e43d0e6%2FAdani_Ports_website.jpg?rect=0%2C0%2C1156%2C607&w=1200&auto=format%2Ccompress&ogImage=true",
+    "language": "en",
+    "category": [
+      "general",
+      "business"
+    ],
+    "published": "2024-05-18 11:21:59 +0000",
+    "short_uuid": "9208f59f"
+  },
+  {
+    "id": "f7785ad8-47c1-49ab-af54-4b6116552d1d",
+    "title": "Man City\u2019s Foden voted Premier League player of the season",
+    "description": "LONDON, May 18 \u2014 Phil Foden has been voted the Premier League\u2019s player of the season, the league announced today after the 23-year-old had the best campaign of his career to...",
+    "url": "https://www.malaymail.com/news/sports/2024/05/18/man-citys-foden-voted-premier-league-player-of-the-season/135181",
+    "author": "Malay Mail",
+    "image": "https://www.malaymail.com/malaymail/uploads/images/2024/05/18/thumbs/400x400/211268.jpg",
+    "language": "en",
+    "category": [
+      "sports",
+      "regional"
+    ],
+    "published": "2024-05-18 11:19:19 +0000",
+    "short_uuid": "fbdfb6bf"
+  },
+  {
+    "id": "3f0d1a04-257e-45d4-a12a-93d5b36a2a02",
+    "title": "Bengaluru-Bound Private Carrier Makes 'Emergency Landing' In Tamil Nadu's Tiruchirappally",
+    "description": "A Bengaluru bound Air India Express flight with about 137 passengers made an 'emergency landing,' here following a technical glitch, sources at the airport said.\n\nThe Thiruvananthapuram-Bengaluru serv...",
+    "url": "https://www.ndtvprofit.com/nation/avi-tn-ld-emergency-landing",
+    "author": "Stock Market",
+    "image": "https://media.assettype.com/bloombergquint%2F2024-05%2Fdf440272-f3b3-4de8-9e79-5589b1e1b155%2Favel_chuklanov_b1qpD3bhPOc_unsplash.jpg?rect=0%2C315%2C5760%2C3024&w=1200&auto=format%2Ccompress&ogImage=true",
+    "language": "en",
+    "category": [
+      "general",
+      "business"
+    ],
+    "published": "2024-05-18 11:17:53 +0000",
+    "short_uuid": "72bf5eaf"
+  },
+  {
+    "id": "0459d936-4202-4954-b794-1e1c77d79f20",
+    "title": "Debt, Equity Holders Approve Merger Of IDFC With IDFC First Bank",
+    "description": "Shareholders and non-convertible debenture holders of IDFC First Bank have approved a proposal to merge parent IDFC Ltd with the lender.\n\nThe National Company Law Tribunal convened a meeting on May 17...",
+    "url": "https://www.ndtvprofit.com/business/biz-idfc-first-merger",
+    "author": "Stock Market",
+    "image": "https://media.assettype.com/bloombergquint%2F2021-05%2F57918693-a2f4-451a-a35e-5af74d7bdf30%2FTiltup_namesign_of_IDFC_First_Bank_Nerul_branch__Photographer_Vijay_Sartape_BloombergQuint__061020.jpeg?rect=0%2C144%2C1280%2C672&w=1200&auto=format%2Ccompress&ogImage=true",
+    "language": "en",
+    "category": [
+      "general",
+      "business"
+    ],
+    "published": "2024-05-18 11:17:45 +0000",
+    "short_uuid": "3cc15253"
+  },
+  {
+    "id": "37a6f459-7ca3-4e0a-bf1f-7c09231b6b59",
+    "title": "Russia Presses Attacks in Northeast Ukraine, Seeking Buffer Zone on Border",
+    "description": "Russian forces continued to press a grinding advance on Saturday into northeastern Ukraine, moving closer to a village about 10 miles from the outer ring of Kharkiv and raising fears that the city, Uk...",
+    "url": "https://www.nytimes.com/2024/05/18/world/europe/russia-northeast-ukraine.html",
+    "author": "Constant M\u00e9heut",
+    "image": "https://static01.nyt.com/images/2024/05/18/multimedia/18ukraine-battlefield-1-glzk/18ukraine-battlefield-1-glzk-facebookJumbo.jpg",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2024-05-18 11:15:07 +0000",
+    "short_uuid": "ece34c18"
+  },
+  {
+    "id": "3a3e3767-667d-4bb0-8001-ace7c04e8956",
+    "title": "In Rio de Janeiro, young women in a favela hope to overcome slum violence to play in 2027 Women's World Cup",
+    "description": "That chance, once remote, became more realistic on Friday when Fifa members voted to make Brazil the first Latin American country to host the Women\u2019s World Cup.\n\nOne of its residents, 15-year-old socc...",
+    "url": "https://www.scmp.com/news/world/americas/article/3263205/rio-de-janeiro-young-women-favela-hope-overcome-slum-violence-play-2027-womens-world-cup",
+    "author": "Associated Press",
+    "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/05/18/c073bd2c-f23c-4133-80ea-195075c33810_27acff18.jpg?itok=Tps7Q61i&v=1716030811",
+    "language": "en",
+    "category": [
+      "regional"
+    ],
+    "published": "2024-05-18 11:13:36 +0000",
+    "short_uuid": "a9fe9956"
+  },
+  {
+    "id": "d4169891-b199-498c-b833-1c4c3adb4053",
+    "title": "Kanye West and Bianca Censori Dine at Denny's Amid Major Yeezy Changes",
+    "description": "Kanye West and Bianca Censori chowing down at America's Diner isn't something you'd expect, but their affordable meal comes as a major shakeup goes down at Ye's company.",
+    "url": "https://www.tmz.com/2024/05/18/kanye-west-bianca-censori-dennys-yeezy-mass-exodus-employees/",
+    "author": "TMZ Staff",
+    "image": "https://imagez.tmz.com/image/39/16by9/2024/05/15/3938ad74bf234b35bde2ee62dc54f473_xl.jpg",
+    "language": "en",
+    "category": [
+      "entertainment"
+    ],
+    "published": "2024-05-18 11:09:27 +0000",
+    "short_uuid": "70142a30"
+  },
+  {
+    "id": "ef66db02-ea7d-4edf-930b-0f47eb8daf75",
+    "title": "Slovakian PM remains in serious condition as suspect appears in court",
+    "description": "Second operation to remove dead tissue has \u2018contributed to a positive prognosis\u2019 for Robert Fico, health minister says",
+    "url": "https://www.theguardian.com/world/article/2024/may/18/slovakian-pm-robert-fico-remains-in-serious-condition-as-suspect-appears-in-court",
+    "author": "Associated Press in Bratislava",
+    "image": "https://i.guim.co.uk/img/media/273db2a75e172a79fa625504d661911d55e565ed/126_193_3386_2031/master/3386.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=57c9b1461d787d03fd910e32d1e3e5a7",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2024-05-18 11:07:20 +0000",
+    "short_uuid": "7918d54b"
+  },
+  {
+    "id": "be01c663-7d1d-4a66-8da8-0a04c3919bed",
+    "title": "Narayanan Vaghul: Philanthropist First, Legendary Banker Second",
+    "description": "In 1981, Narayanan Vaghul was appointed chairman and managing director at the Bank of India. At the age of 44, he was the youngest ever to claim the post in the history of the public sector bank.\n\nWhe...",
+    "url": "https://www.ndtvprofit.com/profit-insights/narayanan-vaghul-philanthropist-first-legendary-banker-second",
+    "author": "Vishwanath Nair",
+    "image": "https://media.assettype.com/bloombergquint%2F2024-05%2F082c9233-c35d-4a14-954a-fedd9d146175%2FN_Vaghul_Sketch.png?w=1200&auto=format%2Ccompress&ogImage=true",
+    "language": "en",
+    "category": [
+      "general",
+      "business"
+    ],
+    "published": "2024-05-18 11:04:36 +0000",
+    "short_uuid": "1eb8c19f"
+  },
+  {
+    "id": "284f6fa5-684f-4b64-a84c-812f1aef6276",
+    "title": "Six of the best: Manchester City\u2019s mainstays who have gone distance",
+    "description": "A core of players have seen all or most of Pep Guardiola\u2019s Etihad tenure and are on the verge of a sixth title winner\u2019s medal",
+    "url": "https://www.theguardian.com/football/article/2024/may/18/six-of-the-best-manchester-citys-mainstays-who-have-gone-distance",
+    "author": "Will Unwin",
+    "image": "https://i.guim.co.uk/img/media/93e62912dac56f5414a31a365b50ece8c3124a24/0_0_5000_3000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&s=b5580cad9c010de536bdf91c8135f284",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2024-05-18 11:04:29 +0000",
+    "short_uuid": "5b0f9078"
+  },
+  {
+    "id": "23e770ef-247a-45b8-b7c0-e1b1b7b9aae9",
+    "title": "Istanbul derby is fraught title showdown for Fenerbahce and Galatasaray",
+    "description": "ISTANBUL, Turkiye, May 18\u2014 With their president complaining of \u201can occult network\u201d working against his club, Fenerbahce take on Galatasaray tomorrow in an Istanbul derby they...",
+    "url": "https://www.malaymail.com/news/sports/2024/05/18/istanbul-derby-is-fraught-title-showdown-for-fenerbahce-and-galatasaray/135175",
+    "author": "Malay Mail",
+    "image": "https://www.malaymail.com/malaymail/uploads/images/2024/05/18/thumbs/400x400/211262.jpg",
+    "language": "en",
+    "category": [
+      "sports",
+      "regional"
+    ],
+    "published": "2024-05-18 11:04:08 +0000",
+    "short_uuid": "b0ec3905"
   }
 ]
