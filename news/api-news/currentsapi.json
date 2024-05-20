@@ -47126,5 +47126,289 @@
     ],
     "published": "2024-05-20 13:15:00 +0000",
     "short_uuid": "7f3b5d04"
+  },
+  {
+    "id": "36ee432d-08ce-4448-be26-a07b68584e7c",
+    "title": "New York-Dublin video link is back up after shutdown for bad behavior",
+    "description": "A video link between New York City and Dublin that was shut down due to inappropriate behavior on both sides of the Atlantic has reopened with new security measures",
+    "url": "https://abcnews.go.com/Entertainment/wireStory/new-york-dublin-video-link-back-after-shutdown-110404929",
+    "author": "ABC News",
+    "image": "https://i.abcnewsfe.com/a/eade955b-20fa-4d4e-8c43-79b0f28eebcb/wirestory_ae721b2dec9afc1ac15184b5655fc8fa_16x9.jpg?w=1600",
+    "language": "en",
+    "category": [
+      "entertainment"
+    ],
+    "published": "2024-05-20 16:06:42 +0000",
+    "short_uuid": "e62a2b67"
+  },
+  {
+    "id": "e6758d83-af59-4d01-9928-ccb9e7c091cc",
+    "title": "They're both dependable and irritating. What you need to know about mosquitoes",
+    "description": "Fiona Hunter, a medical and veterinary entomology professor at Brock University who studies all flies that bite, shares information about mosquitoes.",
+    "url": "https://www.cbc.ca/news/canada/windsor/windsor-mosquitoes-1.7209331?cmp=rss",
+    "author": "cbc",
+    "image": "https://i.cbc.ca/1.6820391.1682449702!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/mosquitoes-bobo-dioulasso-burkina-faso.jpg",
+    "language": "en",
+    "category": [
+      "regional",
+      "windsor"
+    ],
+    "published": "2024-05-20 16:01:26 +0000",
+    "short_uuid": "c01772cb"
+  },
+  {
+    "id": "a3af4d7f-2e7b-4c5c-a086-c26f6c131dcb",
+    "title": "Movie Review: The 'Mad Max' saga treads (hard-to-find) water with frustrating 'Furiosa'",
+    "description": "Creator and director George Miller has taken the coolest role of his \u201cMad Max: Fury Road\u201d and built a whole prequel around her",
+    "url": "https://abcnews.go.com/Entertainment/wireStory/movie-review-mad-max-saga-treads-hard-find-110404413",
+    "author": "ABC News",
+    "image": "https://i.abcnewsfe.com/a/6e6cd0b3-2cbd-4b8f-9c69-d9145e2221bf/wirestory_a75ac30b14240643add5ee3d4bc7bcba_16x9.jpg?w=1600",
+    "language": "en",
+    "category": [
+      "entertainment"
+    ],
+    "published": "2024-05-20 15:58:29 +0000",
+    "short_uuid": "193fd351"
+  },
+  {
+    "id": "be7e9957-3b0c-47c5-a244-cd4eff0fcb1e",
+    "title": "Two people in hospital after parasite outbreak",
+    "description": "Two people have been taken to hospital following a parasite outbreak in Devon, the government says.",
+    "url": "https://www.bbc.com/news/articles/cprrz203vv5o",
+    "author": "bbc",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/bc6e/live/ffd0c730-16bc-11ef-82b1-cd7f9b279722.jpg",
+    "language": "en",
+    "category": [
+      "regional"
+    ],
+    "published": "2024-05-20 15:54:01 +0000",
+    "short_uuid": "95995f0d"
+  },
+  {
+    "id": "4beae385-0f05-4cf5-b451-14c5aff60e5a",
+    "title": "South African Constitutional Court disqualifies former President Zuma from upcoming election",
+    "description": "Zuma once led South Africa's ruling African National Congress party but was forced out as its leader in 2017 and resigned as president in 2018 under a cloud of corruption allegations.",
+    "url": "https://www.pbs.org/newshour/world/south-african-constitutional-court-disqualifies-former-president-zuma-from-upcoming-election",
+    "author": "Gerald Imray",
+    "image": "https://d3i6fh83elv35t.cloudfront.net/static/2024/05/2024-05-18T144518Z_956527874_RC2ZS7AP4YSD_RTRMADP_3_SAFRICA-ELECTION-MK-1024x693.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-20 15:49:58 +0000",
+    "short_uuid": "cc64141c"
+  },
+  {
+    "id": "22271c6d-e763-499c-8ba9-b50b4699cde3",
+    "title": "ICC prosecutor seeks arrest of Israeli and Hamas leaders",
+    "description": "They are wanted for alleged war crimes committed in the 7 October attacks and the war which followed. ",
+    "url": "https://www.bbc.com/news/articles/c3ggpe3qj6wo",
+    "author": "bbc",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ff86/live/a6411930-169f-11ef-976f-87c9f89e656e.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-20 15:48:02 +0000",
+    "short_uuid": "77e855aa"
+  },
+  {
+    "id": "0c94c306-c37c-498d-bf4a-c12eb7196d8a",
+    "title": "2024 may be the year you start paying with your face",
+    "description": "Automated fast food restaurant CaliExpress by Flippy, in Pasadena, Calif., opened in January to considerable hype due to its robot burger makers, but the restaurant launched with another, less heralde...",
+    "url": "https://www.cnbc.com/2024/05/20/this-may-be-the-year-you-pay-with-your-face-as-biometrics-hit-tipping-point.html",
+    "author": "Todd Wasserman",
+    "image": "https://image.cnbcfm.com/api/v1/image/107417247-1716214761753-gettyimages-1359519806-_dsc8694.jpeg?v=1716214780&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-20 15:47:09 +0000",
+    "short_uuid": "116e125e"
+  },
+  {
+    "id": "f52d719e-14a4-4278-bd5e-67e54e590ee3",
+    "title": "I can't afford olive oil\u2014what else can I use?",
+    "description": "If you buy your olive oil in bulk, you've likely been in for a shock in recent weeks. Major supermarkets have been selling olive oil for up to A$65 for a four-liter tin, and up to $26 for a 750 milliliter bottle.",
+    "url": "https://medicalxpress.com/news/2024-05-olive-oil.html",
+    "author": "medicalxpress",
+    "image": "https://scx2.b-cdn.net/gfx/news/2024/olive-oil.jpg",
+    "language": "en",
+    "category": [
+      "lifestyle",
+      "health"
+    ],
+    "published": "2024-05-20 15:43:03 +0000",
+    "short_uuid": "56c51b80"
+  },
+  {
+    "id": "41e247c9-448d-46a6-b73b-f0a72d322ef4",
+    "title": "Julian Assange Can Appeal Extradition to U.S., British Court Rules",
+    "description": "",
+    "url": "https://www.nationalreview.com/news/julian-assange-can-appeal-extradition-to-u-s-british-court-rules/",
+    "author": "David Zimmermann",
+    "image": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/05/Free-Assange-Sign.jpg?fit=2057%2C1200&ssl=1",
+    "language": "en",
+    "category": [
+      "opinion",
+      "politics"
+    ],
+    "published": "2024-05-20 15:42:40 +0000",
+    "short_uuid": "b498e205"
+  },
+  {
+    "id": "ef0c1bd5-8652-4292-a1b0-c30d599cc056",
+    "title": "Lebanon foreign minister 'feels great loss' over death of Iran president, other officials in helicopter crash",
+    "description": "Lebanese caretaker Foreign Minister, Abdallah Bouhabib, expressed condolences for the death of Iran's president and its foreign minister, with whom he had a close working relationship.",
+    "url": "https://www.foxnews.com/world/lebanon-foreign-minister-feels-great-loss-death-iran-president-officials-helicopter-crash",
+    "author": "Fox News",
+    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/05/1024/512/Lebanon-Iran-Foreign-Ministers.jpg?ve=1&tl=1",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2024-05-20 15:37:32 +0000",
+    "short_uuid": "bb4cb0e1"
+  },
+  {
+    "id": "98288157-f1c4-4c5c-a6cb-af2b93374677",
+    "title": "US Supreme Court rejects appeal of former Guantanamo Bay detainee who killed US soldier",
+    "description": "The U.S. Supreme Court turned away on Monday a Canadian former Guantanamo Bay detainee's bid to vacate his convictions for the 2002 murder of an American soldier in Afghanistan and other crimes he committed at age 15 to which he later pleaded guilty.The justices declined to hear an appeal by Omar Kh...",
+    "url": "https://www.foxnews.com/us/us-supreme-court-rejects-appeal-former-guantanamo-bay-detainee-killed-us-soldier",
+    "author": "Fox News",
+    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/05/1024/512/Omar-Khadr.png?ve=1&tl=1",
+    "language": "en",
+    "category": [
+      "regional"
+    ],
+    "published": "2024-05-20 15:35:40 +0000",
+    "short_uuid": "fe4ee1b7"
+  },
+  {
+    "id": "ce0334dc-9e71-4990-87a7-f509aed24619",
+    "title": "Kecia Lewis in Broadway's 'Hell's Kitchen' delivers the soul and earns a Tony Award nomination",
+    "description": "It\u2019s fitting that Kecia Lewis has had her most successful theater season while playing a mentor",
+    "url": "https://abcnews.go.com/Entertainment/wireStory/kecia-lewis-broadways-hells-kitchen-delivers-soul-earns-110402813",
+    "author": "ABC News",
+    "image": "https://i.abcnewsfe.com/a/033ac65f-3433-4337-a876-430b9e6f0966/wirestory_dd9f0f7e5db57bbd2e1b4854e724e720_16x9.jpg?w=1600",
+    "language": "en",
+    "category": [
+      "entertainment"
+    ],
+    "published": "2024-05-20 15:34:31 +0000",
+    "short_uuid": "29f74f53"
+  },
+  {
+    "id": "a0e90b0b-8525-4e19-9f5b-20c1ad5714b3",
+    "title": "Oliver Stone says \u2018lawfare\u2019 being used against Trump: \u2018New form of warfare\u2019",
+    "description": "Filmmaker Oliver Stone said \"lawfare\" is being used against former President Trump in the various criminal proceedings he's facing in 2024.Stone brought up Trump in the context of his new documentary, \"Lula,\" about Brazilian President Luiz In\u00e1cio Lula da Silva, who served prison time in 2018-2019 fo...",
+    "url": "https://www.foxnews.com/media/oliver-stone-lawfare-being-used-against-trump-new-form-warfare",
+    "author": "Fox News",
+    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/05/1024/512/image0-2.png?ve=1&tl=1",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-20 15:34:02 +0000",
+    "short_uuid": "cccfed15"
+  },
+  {
+    "id": "e93be9b8-534f-4e05-a04b-085e33430ee3",
+    "title": "WNBA Power Rankings: Lynx up, Fever down in Week 1",
+    "description": "Open Extended Reactions\n\nCatch your breath yet after a whirlwind first week, WNBA fans?\n\nThe 2024 season kicked off in memorable fashion. Rookies from Caitlin Clark to Angel Reese to Cameron Brink mad...",
+    "url": "https://www.espn.com/wnba/story/_/id/40183339/wnba-power-rankings-2024-week-1-minnesota-lynx-indiana-fever",
+    "author": "Alexa Philippou",
+    "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0520%2Fr1335348_1296x729_16%2D9.jpg",
+    "language": "en",
+    "category": [
+      "job"
+    ],
+    "published": "2024-05-20 15:32:00 +0000",
+    "short_uuid": "165ecf93"
+  },
+  {
+    "id": "65939915-bdb3-4075-a69a-b35a1689bad0",
+    "title": "Students say it\u2019s time for this university to acknowledge its ties to slavery",
+    "description": "The resolution comes after the descendants worked with an economist to estimate the value of their ancestor's unpaid labor: between $361 million and $70-plus billion.",
+    "url": "https://www.pbs.org/newshour/nation/students-say-its-time-for-this-university-to-acknowledge-its-ties-to-slavery",
+    "author": "Gabrielle Hays",
+    "image": "https://d3i6fh83elv35t.cloudfront.net/static/2024/05/stlouis4-e1716218084440-1024x653.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-20 15:31:15 +0000",
+    "short_uuid": "fbf03711"
+  },
+  {
+    "id": "21d33101-053d-43f9-b261-f8425d0825ba",
+    "title": "I bought my first home this year: 7 things I wish I'd done before getting serious about my search",
+    "description": "When my partner and I signed a two-year lease to move into our second New York City apartment together in 2021, we agreed that the next place we lived in would be ours. Come 2023, I had no idea what a...",
+    "url": "https://www.cnbc.com/2024/05/20/we-bought-our-first-home-steps-to-take-before-looking-for-new-place.html",
+    "author": "Celia Fernandez",
+    "image": "https://image.cnbcfm.com/api/v1/image/107416795-1715975608493-gettyimages-1356074039-miniseries20211009__n8a0710_r22.jpeg?v=1715975665&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-20 15:31:08 +0000",
+    "short_uuid": "39ca819c"
+  },
+  {
+    "id": "fd3e509d-5990-42a9-b434-69ff407b5fd0",
+    "title": "These home remodeling projects offer the highest return on investment in history, report finds",
+    "description": "watch now\n\nHome renovation activity may have cooled somewhat compared to its pandemic-era frenzy, but homeowners are still investing in their spaces, particularly as the spring housing market heats up...",
+    "url": "https://www.cnbc.com/2024/05/20/home-remodeling-projects-that-boost-curb-appeal-pay-off-the-most.html",
+    "author": "Jessica Dickler",
+    "image": "https://image.cnbcfm.com/api/v1/image/107208606-1678822137858-gettyimages-82778190-dd016ddf-0df4-40b7-9d39-e2f7e4101aa6.jpeg?v=1715952079&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-20 15:30:35 +0000",
+    "short_uuid": "5c769aed"
+  },
+  {
+    "id": "08887b66-a766-4ae3-9773-27c69548d0a7",
+    "title": "Boeing Starliner launch delayed again due to helium leak",
+    "description": "This bird isn't going to space for a while",
+    "url": "https://www.theregister.com/2024/05/20/starliner_launch_delayed_again/",
+    "author": "Richard Speed",
+    "image": "https://regmedia.co.uk/2023/08/08/starliner-orbit.jpg",
+    "language": "en",
+    "category": [
+      "science"
+    ],
+    "published": "2024-05-20 15:30:10 +0000",
+    "short_uuid": "4734160d"
+  },
+  {
+    "id": "7aad5c2b-a975-49e4-8106-69780523df26",
+    "title": "Defense for Utah children\u2019s book author accused of killing hubby requests withdraw: 'Irreconcilable' situation",
+    "description": "Defense attorneys for Kouri Richins, the Utah children's book author accused of fatally poisoning her husband, Eric Richins, in 2022, are now requesting a withdraw from her case.",
+    "url": "https://www.foxnews.com/us/defense-utah-childrens-book-author-accused-killing-hubby-requests-withdraw-irreconcilable-situation",
+    "author": "Fox News",
+    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/05/1024/512/AP24136613560637-1.jpg?ve=1&tl=1",
+    "language": "en",
+    "category": [
+      "regional"
+    ],
+    "published": "2024-05-20 15:30:01 +0000",
+    "short_uuid": "a828e71b"
+  },
+  {
+    "id": "867cff44-13fb-4bd8-b7ab-f0a3cfa2d275",
+    "title": "Siblings flourish at University of Cincinnati",
+    "description": "Pro-Palestinian protesters set up a new encampment at Drexel University in Philadelphia over the weekend, prompting a lockdown of school buildings, a day after authorities thwarted an attempted occupa...",
+    "url": "https://www.voanews.com/a/siblings-flourish-at-university-of-cincinnati/7594623.html",
+    "author": "Voa News",
+    "image": "https://gdb.voanews.com/01000000-0aff-0242-5b01-08dc6a4d7e69_cx0_cy8_cw0_w1200_r1.jpg",
+    "language": "en",
+    "category": [
+      "health",
+      "science"
+    ],
+    "published": "2024-05-20 15:30:00 +0000",
+    "short_uuid": "8acb9a38"
   }
 ]
