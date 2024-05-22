@@ -54378,5 +54378,78 @@
     ],
     "published": "2024-05-22 06:01:54 +0000",
     "short_uuid": "223e8629"
+  },
+  {
+    "id": "43c48042-6cc1-4be7-af2b-88d491083a95",
+    "title": "Norway, Ireland and Spain say they will recognize a Palestinian state",
+    "description": "Norway, Ireland and Spain recognized a Palestinian state on Wednesday in a historic move that drew immediate condemnation from Israel and jubilation from the Palestinians....",
+    "url": "https://www.npr.org/2024/05/22/1252853968/norway-ireland-spain-palestinian-state",
+    "author": "The Associated Press",
+    "image": "https://media.npr.org/assets/img/2024/05/22/ap24143242078388_wide-8218069d7ba1f0609331286589197f2d9271c718.jpg?s=1400&c=100&f=jpeg",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2024-05-22 08:03:12 +0000",
+    "short_uuid": "88295487"
+  },
+  {
+    "id": "2f2756cf-5b88-4445-ab32-4a7535dac2f4",
+    "title": "Cornel West joins DC reparations protest against Wells Fargo Bank",
+    "description": "EXCLUSIVE: Unaffiliated presidential candidate Cornel West joined a group of protesters picketing in front of Wells Fargo Bank in downtown Washington, D.C., on Tuesday afternoon \u2013 bolstering their demands for reparations.\u00a0West, who was initially running under the People's Party banner before electin...",
+    "url": "https://www.foxnews.com/politics/cornel-west-headlines-reparations-protest-against-capitol-hill-bank-benefitted-barbaric-injustice",
+    "author": "Fox News",
+    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/05/1024/512/Cornel-West-Pic1.jpg?ve=1&tl=1",
+    "language": "en",
+    "category": [
+      "politics",
+      "world"
+    ],
+    "published": "2024-05-22 08:00:56 +0000",
+    "short_uuid": "89915c8a"
+  },
+  {
+    "id": "0c8a6e16-b3e0-4b30-9487-b28289b48608",
+    "title": "Biden blasted by experts for repeating 'debunked lie' to Black students at HBCU graduation: 'Factually false'",
+    "description": "President Biden has faced a storm of criticism on social media and by experts over the past few days for repeating what many have labeled a lie about Georgia's election law that was implemented several years ago.\"Today in Georgia, they won't allow water to be available to you while you wait in line ...",
+    "url": "https://www.foxnews.com/politics/biden-blasted-by-experts-for-repeating-debunked-lie-to-black-students-at-hbcu-graduation-factually-false",
+    "author": "Fox News",
+    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/05/1024/512/file-4.jpg?ve=1&tl=1",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-22 08:00:46 +0000",
+    "short_uuid": "c01b8842"
+  },
+  {
+    "id": "9570fba2-c2b5-495b-8933-cfe9e5fbc99a",
+    "title": "GOP AGs ask SCOTUS to hear Mexico's lawsuit blaming US gun manufacturers for cartel violence",
+    "description": "A cohort of 27 top Republican prosecutors have filed an amicus brief at the Supreme Court, asking it to take up a case brought by the Mexican government that seeks to hold American gun manufacturers responsible for gun violence at the hands of the cartels.On Tuesday, Montana Attorney General Austin ...",
+    "url": "https://www.foxnews.com/politics/gop-ags-ask-scotus-hear-mexico-lawsuit-blaming-us-gun-manufacturers-cartel-violence",
+    "author": "Fox News",
+    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/08/1024/512/AP21216585297239.jpg?ve=1&tl=1",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-22 08:00:40 +0000",
+    "short_uuid": "dcc0eff1"
+  },
+  {
+    "id": "c63d9c5c-6020-4f74-ab35-f94001f7e881",
+    "title": "A Two-Stage Algorithm for Cost-Efficient Multi-instance Counterfactual Explanations",
+    "description": "Counterfactual explanations constitute among the most popular methods for analyzing black-box systems since they can recommend cost-efficient and actionable changes to the input of a system to obtain the desired system output. While most of the existing counterfactual methods explain a single instan...",
+    "url": "https://arxiv.org/abs/2403.01221",
+    "author": "Gregoriades, Andreas",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "CS",
+      "AI"
+    ],
+    "published": "2024-05-22 08:00:28 +0000",
+    "short_uuid": "5e710459"
   }
 ]
