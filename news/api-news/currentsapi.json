@@ -54288,5 +54288,95 @@
     ],
     "published": "2024-05-22 03:22:24 +0000",
     "short_uuid": "bad1d863"
+  },
+  {
+    "id": "5370714d-aa53-490b-9bab-5e3c59b86bf7",
+    "title": "Yankees' Schmidt believes he tipped homer pitch",
+    "description": "Open Extended Reactions\n\nNEW YORK -- Clarke Schmidt thought he tipped his pitch to Seattle's Dylan Moore, who put the Mariners ahead to stay with a two-run homer in the third inning of a 6-3 win over ...",
+    "url": "https://www.espn.com/mlb/story/_/id/40194950/yankees-starter-clarke-schmidt-believes-tipped-hr-pitch",
+    "author": "Jesse Rogers",
+    "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0522%2Fr1336084_1296x729_16%2D9.jpg",
+    "language": "en",
+    "category": [],
+    "published": "2024-05-22 06:08:02 +0000",
+    "short_uuid": "89633c4"
+  },
+  {
+    "id": "84651188-f16a-473d-b295-ce60696e6cfd",
+    "title": "UK inflation drops to 2.3% in April, nearing Bank of England's target",
+    "description": "The Office for National Statistics released inflation figures for April on Wednesday.",
+    "url": "https://www.cnbc.com/2024/05/22/uk-inflation-april-2024.html",
+    "author": "Jenni Reid",
+    "image": "https://image.cnbcfm.com/api/v1/image/107068685-gettyimages-1371981344-_sol2164e.jpeg?v=1716357017&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2024-05-22 06:05:35 +0000",
+    "short_uuid": "4501017e"
+  },
+  {
+    "id": "df3ca857-d983-4081-bbeb-40ee219180dc",
+    "title": "On the Injectivity of Euler Integral Transforms with Hyperplanes and Quadric Hypersurfaces",
+    "description": "The Euler characteristic transform (ECT) is an integral transform used widely in topological data analysis. Previous efforts by Curry et al. and Ghrist et al. have independently shown that the ECT is injective on all compact definable sets. In this work, we first study the injectivity of the ECT on ...",
+    "url": "https://arxiv.org/abs/2312.10002",
+    "author": "Ji, Mattie",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "STATS",
+      "MATH"
+    ],
+    "published": "2024-05-22 06:01:55 +0000",
+    "short_uuid": "316b4d4c"
+  },
+  {
+    "id": "bd4f25eb-41ac-4023-bac9-95edbb2232b8",
+    "title": "A spectral based goodness-of-fit test for stochastic block models",
+    "description": "Community detection is a fundamental problem in complex network data analysis. Though many methods have been proposed, most existing methods require the number of communities to be the known parameter, which is not in practice. In this paper, we propose a novel goodness-of-fit test for the stochasti...",
+    "url": "https://arxiv.org/abs/2303.14508",
+    "author": "Hu, Jiang",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "STATS",
+      "MATH"
+    ],
+    "published": "2024-05-22 06:01:55 +0000",
+    "short_uuid": "8a587565"
+  },
+  {
+    "id": "9919c067-7e33-4240-8d15-d642b4032d46",
+    "title": "Refined Graph Encoder Embedding via Self-Training and Latent Community Recovery",
+    "description": "This paper introduces a refined graph encoder embedding method, enhancing the original graph encoder embedding using linear transformation, self-training, and hidden community recovery within observed communities. We provide the theoretical rationale for the refinement procedure, demonstrating how a...",
+    "url": "https://arxiv.org/abs/2405.12797",
+    "author": "Priebe, Carey E.",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "STATS",
+      "MATH"
+    ],
+    "published": "2024-05-22 06:01:54 +0000",
+    "short_uuid": "85fd51c1"
+  },
+  {
+    "id": "140f7c17-7747-4305-9c2d-3296f530e666",
+    "title": "On Measuring Calibration of Discrete Probabilistic Neural Networks",
+    "description": "As machine learning systems become increasingly integrated into real-world applications, accurately representing uncertainty is crucial for enhancing their safety, robustness, and reliability. Training neural networks to fit high-dimensional probability distributions via maximum likelihood has becom...",
+    "url": "https://arxiv.org/abs/2405.12412",
+    "author": "Jenkins, Porter",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "STATS",
+      "MATH"
+    ],
+    "published": "2024-05-22 06:01:54 +0000",
+    "short_uuid": "223e8629"
   }
 ]
