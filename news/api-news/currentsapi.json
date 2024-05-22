@@ -56743,5 +56743,346 @@
     ],
     "published": "2024-05-22 19:13:09 +0000",
     "short_uuid": "cf05517c"
+  },
+  {
+    "id": "27d5667f-8cb5-4918-88bd-8e86692ce4fe",
+    "title": "Hershey's lawsuit argues the company uses 'deceptive' packaging in Reese's products",
+    "description": "Four plaintiffs in Florida say Hershey falsely represented several Reese's Peanut Butter products by showing \"explicit carved-out artistic designs\" on the wrappers being sold....",
+    "url": "https://www.npr.org/2024/05/22/1252702577/reeses-packaging-lawsuit-chocolates-carvings-florida",
+    "author": "Jonathan Franklin",
+    "image": "https://media.npr.org/assets/img/2024/05/21/reese-s_wide-5feb92cbd79737753b0380de35d7781b495a670d.jpg?s=1400&c=100&f=jpeg",
+    "language": "en",
+    "category": [
+      "legal"
+    ],
+    "published": "2024-05-22 22:03:11 +0000",
+    "short_uuid": "d982f17a"
+  },
+  {
+    "id": "8c151c16-c29f-423f-b7c2-25826aaf57bb",
+    "title": "Nikki Haley says she is voting Trump for president",
+    "description": "Ms Haley was once Mr Trump's UN ambassador and was the last of his major Republican primary rivals.",
+    "url": "https://www.bbc.com/news/articles/ck77rvmp8xno",
+    "author": "bbc",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/7fb9/live/6c22a350-187e-11ef-b5cc-cb8b8c4cef5a.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-22 21:52:00 +0000",
+    "short_uuid": "8f752223"
+  },
+  {
+    "id": "5274811a-30fb-4fcc-a4e6-32def69550c4",
+    "title": "UCLA Police Chief Reassigned over Handling of Anti-Israel Protest Violence",
+    "description": "Law enforcement officials stand in front of demonstrators forming a human chain during a protest at an encampment in support of Palestinians at UCLA campus in Los Angeles, Calif., May 2, 2024....",
+    "url": "https://www.nationalreview.com/news/ucla-police-chief-reassigned-over-handling-of-anti-israel-protest-violence/",
+    "author": "David Zimmermann",
+    "image": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/05/protesters-police-ucla.jpg?fit=2057%2C1200&ssl=1",
+    "language": "en",
+    "category": [
+      "opinion",
+      "politics"
+    ],
+    "published": "2024-05-22 21:43:26 +0000",
+    "short_uuid": "2b63e109"
+  },
+  {
+    "id": "ff5422aa-fe0e-4840-995f-13119a9a4bc4",
+    "title": "House votes to make CFTC main crypto regulator, a win for the industry",
+    "description": "The House approved a major win for the cryptocurrency industry Wednesday, voting by a large bipartisan margin to establish the Commodity Futures Trading Commission \u2014 rather than the Securities and Exc...",
+    "url": "https://www.washingtonpost.com/business/2024/05/22/crypto-cftc-sec-house-vote/",
+    "author": "Jacob Bogage",
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M2ZIKWOBTULPTCAGLG3KVEMJGA.JPG&w=1440",
+    "language": "en",
+    "category": [
+      "business"
+    ],
+    "published": "2024-05-22 21:42:29 +0000",
+    "short_uuid": "543e7ac"
+  },
+  {
+    "id": "4f5a11f7-e236-4ec1-b569-cc5159e2ec3f",
+    "title": "OpenAI Strikes a Deal to License News Corp Content",
+    "description": "The deal gives OpenAI\u2019s chatbots access to new and archived material from The Wall Street Journal, The New York Post, MarketWatch and Barron\u2019s, among others.",
+    "url": "https://www.nytimes.com/2024/05/22/business/media/openai-news-corp-content-deal.html",
+    "author": "Katie Robertson",
+    "image": "https://static01.nyt.com/images/2024/05/23/multimedia/22newscorp-print-tpjm/22newscorp-1-tpjm-facebookJumbo.jpg",
+    "language": "en",
+    "category": [
+      "business"
+    ],
+    "published": "2024-05-22 21:41:26 +0000",
+    "short_uuid": "60a44403"
+  },
+  {
+    "id": "8f583e10-4532-4951-a786-6720af572939",
+    "title": "Emmanuel Macron's visit to New Caledonia has been described as a 'poker move' that some experts say won't pay off",
+    "description": "After more than a week of deadly rioting that has left six people dead, Emmanuel Macron plans to meet with local leaders to find a way forward \u2014 but experts say the visit is unlikely to address the root causes of the unrest.",
+    "url": "https://www.abc.net.au/news/2024-05-23/emmanuel-macrons-visit-unlikely-to-bring-peace-to-new-caledonia/103879232",
+    "author": "ABC News",
+    "image": "https://live-production.wcms.abc-cdn.net.au/62968a96eb687cd8cc77de4921379677?impolicy=wcms_watermark_news&cropH=2657&cropW=4724&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-22 21:41:23 +0000",
+    "short_uuid": "e1f187f9"
+  },
+  {
+    "id": "ee1a7aae-a1fb-454b-b3a4-fe3b4279bf9f",
+    "title": "Live: Anglo American rejects fresh $74 billion takeover bid from BHP, Wall Street drops on inflation concerns",
+    "description": "Anglo American has knocked back BHP's third takeover offer, but has given the mining giant a week to make another offer. Meanwhile, Wall Street fell after minutes showed the Federal Reserve is concerned about inflation's progress. Follow live.",
+    "url": "https://www.abc.net.au/news/2024-05-23/asx-markets-business-live-news/103882304",
+    "author": "ABC News",
+    "image": "https://live-production.wcms.abc-cdn.net.au/bd75b175a679a3a00d8c589804db18ba?impolicy=wcms_watermark_news&cropH=1969&cropW=3500&xPos=0&yPos=167&width=862&height=485&imformat=generic",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-22 21:40:09 +0000",
+    "short_uuid": "90155f0e"
+  },
+  {
+    "id": "9636b91b-3782-4864-808b-7f2b4159ca9c",
+    "title": "Trump attends Houston lunch to ask oil bosses for more campaign cash",
+    "description": "Invitation-only meeting comes on heels of controversial dinner at Mar-a-Lago where Trump reportedly offered $1bn quid pro quo",
+    "url": "https://www.theguardian.com/us-news/article/2024/may/22/trump-oil-industry-campaign",
+    "author": "Dharna Noor",
+    "image": "https://i.guim.co.uk/img/media/a1f5a3a5865417afd21678b856f831da04069784/0_356_5500_3301/master/5500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=31fbbd88440c48a9c621d8cca4dc87d7",
+    "language": "en",
+    "category": [
+      "environment",
+      "lifestyle"
+    ],
+    "published": "2024-05-22 21:38:53 +0000",
+    "short_uuid": "210b5173"
+  },
+  {
+    "id": "9d1e810d-5bd3-4803-bc48-caa6fbf69f77",
+    "title": "Bare-knuckle boxing champ Bec Rawlings makes film about domestic violence journey",
+    "description": "Bec started her mixed martial arts journey in 2010....",
+    "url": "https://www.abc.net.au/news/2024-05-23/bec-rawlings-fight-to-live-film-domestic-violence-launceston/103877882",
+    "author": "ABC News",
+    "image": "https://live-production.wcms.abc-cdn.net.au/f9ec3d8d619fc15079f7c749116ac4f8?impolicy=wcms_watermark_news&cropH=1875&cropW=3333&xPos=0&yPos=868&width=862&height=485&imformat=generic",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-22 21:38:02 +0000",
+    "short_uuid": "33aff04b"
+  },
+  {
+    "id": "5ada6245-7bd9-4bf9-9d4b-8f1ad53ab089",
+    "title": "The USPS is repeatedly firing probationary workers who report injuries, feds claim",
+    "description": "U.S. Postal Service holds job fair to fill hundreds of open positions U.S. Postal Service holds job fair to fill hundreds of open positions 03:30\n\nThe U.S. Postal Service will have to compensate a pro...",
+    "url": "https://www.cbsnews.com/news/usps-firing-probationary-workers-who-report-injuries-labor-department/",
+    "author": "Kate Gibson",
+    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/07/11/0232913d-dac8-491d-ab40-fb137bfe01fc/thumbnail/1200x630/3866876c6185fe83973450d46750dc2f/gettyimages-1202345247.jpg?v=83093a0dd27502f0a52cd68b1c5b8b6e",
+    "language": "en",
+    "category": [
+      "finance",
+      "business"
+    ],
+    "published": "2024-05-22 21:36:35 +0000",
+    "short_uuid": "9555e22f"
+  },
+  {
+    "id": "c3c2c7a5-93cf-4f1f-973b-bce720ce3eef",
+    "title": "Australia politics live: Melbourne students to pack up pro-Palestine camp; another 103 Australians repatriated from New Caledonia",
+    "description": "Follow live",
+    "url": "https://www.theguardian.com/australia-news/live/2024/may/23/australia-politics-live-melbourne-students-pro-palestine-camp-university-australians-repatriated-new-caledonia-icc-arrest-warrent-bhp-suv-renewables",
+    "author": "Emily Wind",
+    "image": "https://i.guim.co.uk/img/media/3db56919379f5554cda8efb6fa463ebb8f1531b4/0_376_6464_3878/master/6464.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&s=6736d8c2b22b1197574ab2515d2cc461",
+    "language": "en",
+    "category": [
+      "national"
+    ],
+    "published": "2024-05-22 21:33:26 +0000",
+    "short_uuid": "519670c5"
+  },
+  {
+    "id": "be29ef27-7a71-45cc-8404-db975252e0b0",
+    "title": "IRS whistleblower Shapley said he 'could no longer pursue' Hunter Biden sugar brother Kevin Morris due to CIA",
+    "description": "Join Fox News for access to this content You have reached your maximum number of articles. Log in or create an account FREE of charge to continue reading. Please enter a valid email address.\n\nIRS whis...",
+    "url": "https://www.foxnews.com/politics/irs-whistleblower-shapley-said-he-could-longer-pursue-hunter-biden-sugar-brother-kevin-morris-due-cia",
+    "author": "Brooke Singman",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/GettyImages-1915736431.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-22 21:32:14 +0000",
+    "short_uuid": "ec9a3395"
+  },
+  {
+    "id": "f5d761f3-e5bc-45df-90b9-07df7c338b03",
+    "title": "Nikki Haley Says She Will Vote for Trump",
+    "description": "",
+    "url": "https://www.nationalreview.com/news/nikki-haley-says-she-will-vote-for-trump/",
+    "author": "Brittany Bernstein",
+    "image": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/01/Trump-and-Biden-16.jpg?fit=2057%2C1200&ssl=1",
+    "language": "en",
+    "category": [
+      "opinion",
+      "politics"
+    ],
+    "published": "2024-05-22 21:32:02 +0000",
+    "short_uuid": "2297fde6"
+  },
+  {
+    "id": "c8eb8243-713b-4f4f-877d-53d3e1a15fb1",
+    "title": "How Fortnite brought Google to its knees",
+    "description": "How Fortnite brought Google to its knees\n\nEnlarge this image Getty Images Getty Images\n\nIn August 2020, Epic Games launched a legal assault against both Google and Apple, alleging that their mobile ap...",
+    "url": "https://www.npr.org/2024/05/22/1197964842/the-indicator-from-planet-money-epic-games-google-antitrust-fortnite-05-22-2024",
+    "author": "Wailin Wong Darian Woods Corey Bridges Kate Concannon",
+    "image": "https://media.npr.org/assets/img/2024/05/22/today-s-show-epsiode-artwork_wide-8fd854e5aa9d9044db469f07a82467c7bfb5910f.jpg?s=1400&c=100&f=jpeg",
+    "language": "en",
+    "category": [
+      "business"
+    ],
+    "published": "2024-05-22 21:31:44 +0000",
+    "short_uuid": "7ea77163"
+  },
+  {
+    "id": "63d5a814-ac7e-4493-9952-d0c11fbbefe3",
+    "title": "Man charged with murder after alleged domestic violence incident in Western Sydney",
+    "description": "A 32-year-old man is due to face court today after he was charged with the murder of another male believed to be in his 50s.",
+    "url": "https://www.abc.net.au/news/2024-05-23/man-charged-murder-domestic-violence-western-sydney/103882344",
+    "author": "ABC News",
+    "image": "https://live-production.wcms.abc-cdn.net.au/94cc539a8305d4b157097fe8353fa6ad?impolicy=wcms_watermark_news&cropH=2268&cropW=4032&xPos=0&yPos=378&width=862&height=485&imformat=generic",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-22 21:27:59 +0000",
+    "short_uuid": "daeba808"
+  },
+  {
+    "id": "f01c7c86-788c-4207-8adf-cfd741e2d419",
+    "title": "Trump\u2019s campaign rival decides between voting for him or Biden",
+    "description": "Join Fox News for access to this content You have reached your maximum number of articles. Log in or create an account FREE of charge to continue reading. Please enter a valid email address.\n\nFormer U...",
+    "url": "https://www.foxnews.com/politics/nikki-haley-takes-aim-biden-republicans-first-speech-since-dropping-trump-primary-challenge",
+    "author": "Paul Steinhauser",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2024/05/6c554e4b-Nikki-Haley-Hudson-Institute-speech-DC-May-22-2024.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-22 21:23:29 +0000",
+    "short_uuid": "25fe0f21"
+  },
+  {
+    "id": "7a3c66a4-1af3-461f-a38b-3c511686c258",
+    "title": "Louisiana considers law requiring Ten Commandments in public school classrooms",
+    "description": "Louisiana might pass a law requiring the Ten Commandments be posted in every public school classroom. It's a move a few other states have considered after a court decision about religion.",
+    "url": "https://www.npr.org/2024/05/22/1252987491/louisiana-considers-law-requiring-ten-commandments-in-public-school-classrooms",
+    "author": "Molly Ryan",
+    "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+    "language": "en",
+    "category": [
+      "education",
+      "lifestyle"
+    ],
+    "published": "2024-05-22 21:20:25 +0000",
+    "short_uuid": "ea0b564f"
+  },
+  {
+    "id": "060ec53d-d7d9-41df-bd72-6031994f5e56",
+    "title": "There are now 25 states with bans on trans health care for minors",
+    "description": "There are now 25 states with bans on trans health care for minors With the governor of South Carolina's signature Tuesday, there are now 25 states with laws on the books banning trans health care for ...",
+    "url": "https://www.npr.org/2024/05/22/1252987492/there-are-now-25-states-with-bans-on-trans-health-care-for-minors",
+    "author": "Selena Simmons-Duffin",
+    "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+    "language": "en",
+    "category": [
+      "legal"
+    ],
+    "published": "2024-05-22 21:20:25 +0000",
+    "short_uuid": "2fae55e8"
+  },
+  {
+    "id": "32915b7d-dab0-4c7e-a2d2-62ea6701a75e",
+    "title": "Secretary of Commerce Gina Raimondo says \"Congress needs to act\" on AI regulation",
+    "description": "Secretary of Commerce Gina Raimondo says \"Congress needs to act\" on AI regulation NPR's Ari Shapiro speaks with Commerce Secretary Gina Raimondo about a new \"global AI safety network.\"\n\nLaw Secretary ...",
+    "url": "https://www.npr.org/2024/05/22/1252987490/secretary-of-commerce-gina-raimondo-says-congress-needs-to-act-on-ai-regulation",
+    "author": "Karen Zamora Patrick Jarenwattananon Ari Shapiro",
+    "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+    "language": "en",
+    "category": [
+      "legal"
+    ],
+    "published": "2024-05-22 21:20:25 +0000",
+    "short_uuid": "402f1551"
+  },
+  {
+    "id": "476306e5-1904-4362-babf-f6e39876a22d",
+    "title": "A concentrated dose of history: The class of 2024 looks back",
+    "description": "A concentrated dose of history: The class of 2024 looks back\n\nEnlarge this image toggle caption Alexis Jones; Mei Lamison; Anaka Srinivas Alexis Jones; Mei Lamison; Anaka Srinivas\n\nHigh school seniors...",
+    "url": "https://www.npr.org/2024/05/22/1198912370/class-of-2024-graduation-college-protests-gaza-israel-pandemic",
+    "author": "NPR",
+    "image": "https://media.npr.org/assets/img/2024/05/22/trip_wide-ea823324bfbe3adf296d339272c52ab4327a653f.jpg?s=1400&c=100&f=jpeg",
+    "language": "en",
+    "category": [
+      "education",
+      "lifestyle"
+    ],
+    "published": "2024-05-22 21:19:33 +0000",
+    "short_uuid": "6f35a029"
+  },
+  {
+    "id": "376e0a23-1232-4dfb-ab6d-51e86c8debd1",
+    "title": "Are you spending more money shopping online? Remote work could be to blame.",
+    "description": "It's a lot easier to shop online during the workday when you're sitting in the privacy of home \u2014 where your boss can't catch glimpses of your computer screen. Other aspects of remote work, like that f...",
+    "url": "https://www.cbsnews.com/news/working-from-home-online-shopping-spending-more/",
+    "author": "Megan Cerullo",
+    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/05/22/c06a89ae-2bfb-4223-bac5-6ee0033d0618/thumbnail/1200x630/a6879d19f8cdf26bed011922b0f6062a/gettyimages-1330798400.jpg?v=83093a0dd27502f0a52cd68b1c5b8b6e",
+    "language": "en",
+    "category": [
+      "finance",
+      "business"
+    ],
+    "published": "2024-05-22 21:18:00 +0000",
+    "short_uuid": "5901379c"
+  },
+  {
+    "id": "a83c61cf-9422-412b-af17-17524c41ad33",
+    "title": "News Corp. signs deal with OpenAI to show news in ChatGPT",
+    "description": "News Corp., the multinational news publisher controlled by the Murdoch family, announced Wednesday it will allow artificial intelligence company OpenAI to show its news content when people ask questio...",
+    "url": "https://www.washingtonpost.com/technology/2024/05/22/news-corp-openai-ai-murdoch-altman/",
+    "author": "Gerrit De Vynck",
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XURWOQAEWJT6Z2UKCCK2SDKZIA.JPG&w=1440",
+    "language": "en",
+    "category": [
+      "technology"
+    ],
+    "published": "2024-05-22 21:17:15 +0000",
+    "short_uuid": "2003d53f"
+  },
+  {
+    "id": "ecf24c38-2d87-44f2-b639-fc055ef2e2d8",
+    "title": "\u3010\u793e\u8ad6\u3011\u843d\u5be6\u76db\u590f\u9810\u9632\u4fdd\u5065\u2002\u78ba\u7dad\u90e8\u968a\u6230\u529b\u5b8c\u6574",
+    "description": "\u7acb\u590f\u4e4b\u5f8c\uff0c\u81fa\u7063\u9010\u6f38\u9032\u5165\u6ebd\u6691\u7684\u6c23\u5019\u578b\u614b\uff0c\u5404\u5730\u9664\u6613\u51fa\u73fe\u868a\u868b\u87f2\u86c7\uff0c\u8d85\u904e\u651d\u6c0f30\u5ea6\u7684\u9ad8\u6eab\u4e5f\u5c07\u6210\u70ba\u5e38\u614b\u3002\u70ba\u4e86\u505a\u597d\u590f\u4ee4\u671f\u9593\u5404\u9805\u5b89\u5168\u5de5\u4f5c\uff0c\u570b\u9632\u90e8\u91cd\u7533\u9810\u9632\u4fdd\u5065\u76f8\u95dc\u6ce8\u610f\u4e8b\u9805\uff0c\u63d0\u9192\u5404\u7d1a\u9032\u884c\u8a13\u7df4\u8207\u64cd\u8ab2\u6642\uff0c\u96a8\u6642\u7559\u5fc3\u53ca\u8b39\u614e\u9632\u7bc4\uff0c\u78ba\u7dad\u90e8\u968a\u6230\u529b\u5b8c\u6574\u3002\n\n\u5728\u590f\u4ee4\u671f\u9593\u5404\u9805\u5de5\u4f5c\u5b89\u5168\u6ce8\u610f\u4e8b\u9805\u4e2d\uff0c\u7d93\u5206\u6790\u8087\u751f\u4e4b\u610f\u5916\u4e8b\u4ef6\u767c\u73fe\uff0c\u4e3b\u8981\u6709\u8a13\u7df4\u5b89\u5168\u3001\u98f2\u98df\u885b\u751f\u3001\u87f2\u5a92\u50b7\u75c5\u7b49\u91cd\u9ede\uff0c\u52d9\u9808\u52a0\u5f37\u6ce8\u610f\u3002\n\n\u5c31\u8a13\u7df4\u5b89\u5168\u8981\u6c42\u89d2\u5ea6\u89c0\u4e4b\uff0c\u9762\u5c0d\u5929\u6c23\u9177\u71b1\uff0c\u5982\u4f55\u9810\u9632\u71b1\u50b7\u5bb3\u767c\u751f...",
+    "url": "https://www.ydn.com.tw/news/newsInsidePage?chapterID=1678539",
+    "author": "ydn",
+    "image": "https://www.ydn.com.tw/static/img/home/no-img.jpg",
+    "language": "zh-hant",
+    "category": [],
+    "published": "2024-05-22 21:15:53 +0000",
+    "short_uuid": "ed6632d"
+  },
+  {
+    "id": "34e8585a-0ffe-4068-998b-80b5e0312f03",
+    "title": "A Second Dairy Worker Has Contracted Bird Flu, C.D.C. Reports",
+    "description": "The new case, in a Michigan farmworker, did not suggest that bird flu was widespread in people, health officials said, adding that the risk to the general public remained low.",
+    "url": "https://www.nytimes.com/2024/05/22/health/h5n1-bird-flu-dairy.html",
+    "author": "Apoorva Mandavilli and Emily Anthes",
+    "image": "https://static01.nyt.com/images/2024/05/22/multimedia/22bird-flu-lhmj/22bird-flu-lhmj-facebookJumbo.jpg",
+    "language": "en",
+    "category": [
+      "business"
+    ],
+    "published": "2024-05-22 21:12:06 +0000",
+    "short_uuid": "34adb815"
   }
 ]
