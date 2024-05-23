@@ -57084,5 +57084,329 @@
     ],
     "published": "2024-05-22 21:12:06 +0000",
     "short_uuid": "34adb815"
+  },
+  {
+    "id": "7f65acfa-9f9a-4ca7-8f02-39d9b88b71ce",
+    "title": "Windows XP Can Run On an Intel CPU From 1989 Thanks To Dedicated Modder  (techspot.com)",
+    "description": "An anonymous reader shares a report: For those of us who came of age in the early days of personal computing, the names \"Intel 486\" and \"Windows XP\" evoke a nostalgic whirlwind of memories. The 486 was the hot new CPU of the early 90s, while Windows XP became a household name and Microsoft's most po...",
+    "url": "https://tech.slashdot.org/story/24/05/22/1722222/windows-xp-can-run-on-an-intel-cpu-from-1989-thanks-to-dedicated-modder",
+    "author": "help",
+    "image": "https://a.fsdn.com/sd/topics/windows_64.png",
+    "language": "en",
+    "category": [
+      "technology"
+    ],
+    "published": "2024-05-23 00:25:57 +0000",
+    "short_uuid": "45f4f263"
+  },
+  {
+    "id": "2ebbca64-8b32-4506-b19b-baa778258f8b",
+    "title": "Undisclosed WhatsApp Vulnerability Lets Governments See Who You Message  (theintercept.com)",
+    "description": "WhatsApp's security team warned that despite the app's encryption, users are vulnerable to government surveillance through traffic analysis, according to an internal threat assessment obtained by The Intercept. The document suggests that governments can monitor when and where encrypted communication...",
+    "url": "https://yro.slashdot.org/story/24/05/22/1829203/undisclosed-whatsapp-vulnerability-lets-governments-see-who-you-message",
+    "author": "help",
+    "image": "https://a.fsdn.com/sd/topics/encryption_64.png",
+    "language": "en",
+    "category": [
+      "technology"
+    ],
+    "published": "2024-05-23 00:25:57 +0000",
+    "short_uuid": "b7818848"
+  },
+  {
+    "id": "29c417b4-498f-4dfb-bd4b-d6f162fdaf8d",
+    "title": "White House reveals dinner menu for state dinner with Kenyan president",
+    "description": "President Biden and first lady Jill Biden are preparing to host Kenya, the first African nation in nearly 14 years, for a state dinner Thursday at the White House, with a menu that includes lavish items like butter-poached lobster and a white chocolate basket with banana ganache, raspberries, peache...",
+    "url": "https://www.foxnews.com/politics/white-house-reveals-dinner-menu-state-dinner-kenyan-president",
+    "author": "Fox News",
+    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/05/1024/512/Kenya-State-Dinner-Menus.jpg?ve=1&tl=1",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-23 00:22:12 +0000",
+    "short_uuid": "c02dbcce"
+  },
+  {
+    "id": "dd24a5bb-df43-4ebc-a4ea-b8ca473f0b79",
+    "title": "President Biden has appointed 201 judges, boosting diversity of federal courts",
+    "description": "President Joe Biden and Vice President Kamala Harris with Ketanji Brown Jackson in April 2022 after her Supreme Court confirmation. (Jabin Botsford/The Washington Post)The Senate on Wednesday confirmed two women of color as President Biden's 200th and 201st judicial nominees, a significant milestone...",
+    "url": "https://www.adn.com/nation-world/2024/05/22/president-biden-has-appointed-201-judges-boosting-diversity-of-federal-courts/",
+    "author": "Tobi Raji, The Washington Post",
+    "image": "https://www.adn.com/resizer//BZdp8_OM7FSiPKCHRr6SZwNCQzI=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/adn/GJMK4HUWXBEELMMBOVIJPZV7ZQ.jpg",
+    "language": "en",
+    "category": [
+      "regional",
+      "politics"
+    ],
+    "published": "2024-05-23 00:17:09 +0000",
+    "short_uuid": "366aa450"
+  },
+  {
+    "id": "624f4b09-a184-433f-a96c-11c1172cd74e",
+    "title": "Would you rather encounter a man or a bear? Women in Singapore weigh in on the US TikTok trend",
+    "description": "The US-based TikTok trend had most women there preferring to encounter a bear rather than a man if they\u2019re lost in the forest. Do women in Singapore feel the same way? CNA Women finds out.\u00a0",
+    "url": "https://cnalifestyle.channelnewsasia.com/women/man-vs-bear-tiktok-trend-singapore-390656?cid=internal_sharetool_iphone_23052024_cna",
+    "author": "Izza Haziqah Abdul Rahman",
+    "image": "https://onecms-res.cloudinary.com/image/upload/s--54qwkyAh--/c_crop,h_1702,w_3027,x_1,y_55/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/21/man_vs_bear_singapore_us_tiktok_trend.png?itok=LUHpJaAf",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-23 00:14:27 +0000",
+    "short_uuid": "c36094dd"
+  },
+  {
+    "id": "0240ce5a-66d0-41a0-9c20-fd205bd26987",
+    "title": "Nvidia shows no signs of AI slowdown after over 400% increase in data center business",
+    "description": "Nvidia finance chief Colette Kress told investors on Wednesday that cloud providers were seeing an \"immediate and strong return\" on investment. ",
+    "url": "https://www.cnbc.com/2024/05/22/nvidia-no-sign-of-ai-slowdown-after-over-400percent-jump-in-data-center-unit.html",
+    "author": "Kif Leswing",
+    "image": "https://image.cnbcfm.com/api/v1/image/107417951-1716311636231-gettyimages-2089849532-NVIDIA_GTC_CONFERENCE.jpeg?v=1716419820&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "national"
+    ],
+    "published": "2024-05-23 00:13:18 +0000",
+    "short_uuid": "c95c3d5f"
+  },
+  {
+    "id": "42db3f3e-9b11-44da-847b-f4e7896f448e",
+    "title": "JetBlue, British Airways seek partnership to expand networks",
+    "description": "JetBlue, British Airways need DOT approval for the codesharing agreement, which would allow the airlines to sell seats on each other's flights.",
+    "url": "https://www.cnbc.com/2024/05/22/jetblue-british-airways-seek-partnership-to-expand-networks.html",
+    "author": "Leslie Josephs",
+    "image": "https://image.cnbcfm.com/api/v1/image/107403141-1713445374566-gettyimages-2147827677-economou-jetbluea240411_npwJI.jpeg?v=1713445401&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "regional"
+    ],
+    "published": "2024-05-23 00:09:37 +0000",
+    "short_uuid": "f978bc06"
+  },
+  {
+    "id": "6dc4fa0f-d221-4e6b-b8b7-0ee85ae13fad",
+    "title": "Singapore maintains 2024 GDP growth forecast at 1% to 3%; economy grew 2.7% in Q1",
+    "description": "On a quarter-on-quarter seasonally adjusted basis, Singapore's economy expanded by 0.1 per cent, moderating from the 1.2 per cent growth in the preceding quarter.",
+    "url": "https://www.channelnewsasia.com/singapore/singapore-economy-2024-gdp-growth-forecast-4356716",
+    "author": "CNA",
+    "image": "https://onecms-res.cloudinary.com/image/upload/s--JXYQo_b6--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2022/11/21/dsc_6099.jpg?itok=b2mRutRr",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-23 00:05:00 +0000",
+    "short_uuid": "7f1ffbbe"
+  },
+  {
+    "id": "f18e8a07-cba3-4d18-8f0f-e89ea1c25188",
+    "title": "A Democrat listed Trump\u2019s trials on the House floor. His words were struck from the record.",
+    "description": "\u201cMaybe they want to distract from the fact that their candidate for president has been indicted more times than he\u2019s been elected,\u201d Rep. Jim McGovern (D-Mass.) said of his Republican colleagues.",
+    "url": "https://www.washingtonpost.com/politics/2024/05/22/house-trump-mcgovern-strike-2/",
+    "author": "Mariana Alfaro, Jacob Bogage",
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RRBOYFH3SQI6THQCDVC4WPP2R4.jpg&w=1440",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2024-05-23 00:04:29 +0000",
+    "short_uuid": "1bc0f188"
+  },
+  {
+    "id": "2f8d2b9e-0518-49b3-8f6b-c0ff5e2d13ef",
+    "title": "On the week Trump\u2019s Florida trial was scheduled to start, uncertainty and a pre-trial hearing",
+    "description": "Walt Nauta with former president Donald Trump at the Waldorf Astoria hotel on Jan. 9 in Washington. MUST CREDIT: Jabin Botsford/The Washington Post (Jabin Botsford/)FORT PIERCE, Fla. - Donald Trump's classified-documents trial was supposed to begin with jury selection here this week. It is the case ...",
+    "url": "https://www.adn.com/nation-world/2024/05/22/on-the-week-trumps-florida-trial-was-scheduled-to-start-uncertainty-and-a-pre-trial-hearing/",
+    "author": "David Ovalle,Perry Stein, The Washington Post",
+    "image": "https://www.adn.com/resizer//_WMRS54lvVj4vnV-aam1WGiVjr4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/adn/W4KKVLCHNVKIHHSJ4EW6QCPDBE.jpg",
+    "language": "en",
+    "category": [
+      "regional",
+      "politics"
+    ],
+    "published": "2024-05-22 23:51:26 +0000",
+    "short_uuid": "2a51da5e"
+  },
+  {
+    "id": "5cc8b3b5-20f1-49b3-9221-901158d77259",
+    "title": "Obama cheers Biden judicial milestone as former adviser warns of Trump 'MAGA Court Majority' on Supreme Court",
+    "description": "Former President Obama cheered President Biden Wednesday after the Senate confirmed his 200th pick for a federal judgeship amid fears from the left over what the November election could mean for the highest court in the land.Dan Pfeiffer, a former senior Obama adviser, warned that the U.S. Supreme C...",
+    "url": "https://www.foxnews.com/politics/obama-cheers-biden-judicial-milestone-former-adviser-warns-trump-maga-court-majority-supreme-court",
+    "author": "Fox News",
+    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/03/1024/512/Trump-Supreme-Court.jpg?ve=1&tl=1",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-22 23:51:12 +0000",
+    "short_uuid": "5f42c539"
+  },
+  {
+    "id": "c18b9bbb-90f0-447b-b54c-34f1034adea1",
+    "title": "Conservatives blast Biden admin authorizing 'deadly use of force' for Trump Mar-a-Lago raid",
+    "description": "The conservative Heritage Foundation says Americans of any political leaning should be \"outraged\" and \"shaken to the bone\" over the Biden administration's authorized use of deadly force when the FBI raided former President Trump's Mar-a-Lago estate in Florida.The August 2022 raid was part of the Dep...",
+    "url": "https://www.foxnews.com/politics/conservatives-blast-biden-admin-authorizing-deadly-force-trump-mar-a-lago-raid",
+    "author": "Fox News",
+    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/04/1024/512/Trump-Mar-a-Lago-FBI-Documents.jpg?ve=1&tl=1",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-22 23:50:40 +0000",
+    "short_uuid": "cb3bca31"
+  },
+  {
+    "id": "9dd462af-7c46-4bb9-bedc-759fbff44e72",
+    "title": "'The Voice' winning coach Reba McEntire shares advice for success: 'Life\u2019s too short to be dragged down'",
+    "description": "Reba McEntire is in celebration mode.\u00a0The legendary country singer spoke with Fox News Digital following her and Asher Havon's big win on the season 25 finale of \"The Voice.\"When speaking with Fox News Digital, McEntire reflected on hosting the ACM Awards and getting to see Lainey Wilson open the sh...",
+    "url": "https://www.foxnews.com/entertainment/the-voice-winning-coach-reba-mcentire-shares-advice-success-lifes-too-short-dragged-down",
+    "author": "Fox News",
+    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/05/1024/512/reba-mcentire-the-voice.jpg?ve=1&tl=1",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-22 23:46:52 +0000",
+    "short_uuid": "a2b3d277"
+  },
+  {
+    "id": "393c6f93-d2da-4f4d-ad4c-943055881de1",
+    "title": "Sweden providing Ukraine with military support totaling $7 billion",
+    "description": "Assistance comes as Zelenskyy makes fresh plea for more air defenses to counter guided bombs Russia has used to attack Ukraine\u2019s energy and other infrastructure",
+    "url": "https://www.voanews.com/a/sweden-providing-ukraine-with-military-support-totaling-7-billion/7623184.html",
+    "author": "VOA News",
+    "image": "https://gdb.voanews.com/7B255918-362A-4879-B63D-0045F93B4F37.jpg",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2024-05-22 23:46:14 +0000",
+    "short_uuid": "adcbb38f"
+  },
+  {
+    "id": "41154c89-b329-438c-b060-c288e3bdc698",
+    "title": "National Folk Festival to be held in Mississippi's capital from 2025 through 2027",
+    "description": "Mississippi's capital city has been tapped to host the National Folk Festival from 2025 through 2027.The free, three-day festival is set to be held in downtown Jackson during the second week of November in each of those years and will feature music, art, dance and food from cultures throughout the n...",
+    "url": "https://www.foxnews.com/entertainment/national-folk-festival-held-mississippis-capital-2025-2027",
+    "author": "Fox News",
+    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/06/1024/512/ALL_CUSTOM_FS_LOCAL_NEWS_MS_GENERAL.png?ve=1&tl=1",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-22 23:40:44 +0000",
+    "short_uuid": "e2c56a59"
+  },
+  {
+    "id": "1eabec6b-c103-4069-9bc4-3ded202832b0",
+    "title": "'Who do you trust?' Sunak launches Tory election campaign",
+    "description": "text/plain...",
+    "url": "https://www.dailymail.co.uk/news/article-13448925/Who-trust-Rishi-Sunak-launches-Tory-election-campaign-July-4.html?ns_mchannel=rss",
+    "author": "Editor",
+    "image": "https://i.dailymail.co.uk/1s/2024/05/22/20/85218311-0-image-a-47_1716406490059.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-22 23:40:28 +0000",
+    "short_uuid": "55f4f06a"
+  },
+  {
+    "id": "b729cecf-6da0-421b-bc73-6914ca5343c0",
+    "title": "Alonso feels pride and pain after 'Neverlusen' finally lose",
+    "description": "DUBLIN : Bayer Leverkusen coach Xabi Alonso said his side will over time look back with pride on their European record unbeaten run but must use the pain of Wednesday's Europa League final defeat to spur them on for another final in three days time.Leverkusen - or 'Neverlusen' as they had been dubbe...",
+    "url": "https://www.channelnewsasia.com/sport/alonso-feels-pride-and-pain-after-neverlusen-finally-lose-4356696",
+    "author": "CNA",
+    "image": "https://onecms-res.cloudinary.com/image/upload/s--2HxJtcSS--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-05-22t233947z_1_lynxmpek4l0yo_rtroptp_3_soccer-europa-att-b04-report.jpg?itok=kbufxVAC",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-22 23:39:47 +0000",
+    "short_uuid": "cc1a51af"
+  },
+  {
+    "id": "5668aa18-ed1f-41a9-aa63-bd3ede5ee302",
+    "title": "Britain ready to vote over NHS, immigration and cost of living",
+    "description": "Brits have revealed the key issues they are voting over on July 4, after prime minister Rishi Sunak called a surprise election this afternoon, following months of speculation.\u00a0",
+    "url": "https://www.dailymail.co.uk/news/article-13448151/Immigration-living-costs-NHS-key-issues-Rishi-Keir-need-convince-say-voters-despite-split-party-theyre-united-one-thing-Britain-ready-polls.html?ns_mchannel=rss",
+    "author": "Editor",
+    "image": "https://i.dailymail.co.uk/1s/2024/05/22/18/85213277-0-image-m-54_1716398602786.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-22 23:39:28 +0000",
+    "short_uuid": "e92228d0"
+  },
+  {
+    "id": "823a70ff-c341-48c5-99bb-aaafde9b1c54",
+    "title": "Brazil's flooded south sees first deaths from disease, as experts warn of coming surge in fatalities",
+    "description": "The first two deaths from waterborne bacterial disease were reported in southern Brazil, where floodwaters were slowly receding, and health authorities warned additional fatalities were likely.Rio Grande do Sul state's health secretariat confirmed the death of a 33-year-old man due to leptospirosis ...",
+    "url": "https://www.foxnews.com/world/brazils-flooded-south-sees-first-deaths-disease-experts-warn-coming-surge-fatalities",
+    "author": "Fox News",
+    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/05/1024/512/APTOPIX-Brazil-Floods.jpg?ve=1&tl=1",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2024-05-22 23:38:25 +0000",
+    "short_uuid": "5fa6668b"
+  },
+  {
+    "id": "258730dc-703c-40dc-b481-b95bc7ed84b1",
+    "title": "Brisbane News Live: SEQ mayors demand new state deal; Brisbane tunnel plans stay secret",
+    "description": "The Katter\u2019s Australian Party has laced up its footy boots and attempted a field goal in its push for a separate \u201cNorth Queensland\u201d state, with leader Robbie Katter trying to draw an analogy last nigh...",
+    "url": "https://www.smh.com.au/national/queensland/brisbane-news-live-seq-mayors-demand-new-state-deal-brisbane-tunnel-plans-stay-secret-20240522-p5jfp6.html?ref=rss",
+    "author": "",
+    "image": "https://static.ffx.io/images/$zoom_0.2627%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_smh_live_no_age_social_wm/7e64b756b557043553d10996a062c2fac2d66536",
+    "language": "en",
+    "category": [
+      "national"
+    ],
+    "published": "2024-05-22 23:35:15 +0000",
+    "short_uuid": "a171d4be"
+  },
+  {
+    "id": "fe45b4c4-c263-4c08-bc6a-70dbbbdebeea",
+    "title": "Kentucky mom shocks husband after giving birth en route to the hospital, says he looked \u2018scared by a ghost\u2019",
+    "description": "A woman gave birth to her second child while sitting in the front seat of her husband's car on the way to the hospital \u2014\u00a0and didn't make a peep.\u00a0Brooke Canady, 30, was 37 weeks pregnant with her second son when she awoke on May 8, 2024, and felt strong contractions.\u00a0The Lexington, Kentucky, occupati...",
+    "url": "https://www.foxnews.com/lifestyle/kentucky-mom-shocks-husband-birth-route-hospital-looked-scared-ghost",
+    "author": "Fox News",
+    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/05/1024/512/baby-split.jpg?ve=1&tl=1",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-22 23:34:59 +0000",
+    "short_uuid": "effbaff6"
+  },
+  {
+    "id": "37434a01-1371-43e3-9f2f-5ede89dc6a98",
+    "title": "More States Require Age Verification for Online Porn Access",
+    "description": "Over a third of states require, or are considering requiring, age verification for online access to pornography. Here's why.",
+    "url": "https://www.dailysignal.com/2024/05/22/more-states-require-age-verification-for-online-porn-access/",
+    "author": "S.A. McCarthy",
+    "image": "https://first-heritage-foundation.s3.amazonaws.com/live_files/2024/05/240522_TeensPorn_McCarthy.jpg",
+    "language": "en",
+    "category": [
+      "legal"
+    ],
+    "published": "2024-05-22 23:31:44 +0000",
+    "short_uuid": "37cc2da3"
+  },
+  {
+    "id": "4369d9bf-e45c-47d4-a22f-99940c0072d3",
+    "title": "Rishi INSISTED on braving the rain for election speech",
+    "description": "Moments after he arrived at the lectern in Downing Street to announce a snap election on July 4, the heavens opened.",
+    "url": "https://www.dailymail.co.uk/news/article-13449151/Rishi-Sunak-INSISTED-braving-rain-inside-story-PMs-seemingly-snap-decision-secretly-months-planning.html?ns_mchannel=rss",
+    "author": "Jason Groves",
+    "image": "https://i.dailymail.co.uk/1s/2024/05/22/22/85222575-0-image-m-36_1716412906402.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-22 23:30:48 +0000",
+    "short_uuid": "c269323e"
   }
 ]
