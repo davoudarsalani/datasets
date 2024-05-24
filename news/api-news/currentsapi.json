@@ -63988,5 +63988,241 @@
     ],
     "published": "2024-05-24 09:17:28 +0000",
     "short_uuid": "ad79a74"
+  },
+  {
+    "id": "9a10a7d5-5352-42b4-a83a-15ea76f3ae18",
+    "title": "A Robust UAV-Based Approach for Power-Modulated Jammer Localization Using DoA",
+    "description": "Unmanned aerial vehicles (UAVs) are well-suited to localize jammers, particularly when jammers are at non-terrestrial locations, where conventional detection methods face challenges. In this work we propose a novel localization method, sample pruning gradient descend (SPGD), which offers robust perf...",
+    "url": "https://arxiv.org/abs/2405.09245",
+    "author": "Schotten, Hans D.",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "EE",
+      "SP"
+    ],
+    "published": "2024-05-24 12:11:51 +0000",
+    "short_uuid": "56a0c260"
+  },
+  {
+    "id": "8605de29-5045-42fb-9016-29df4d7d4611",
+    "title": "Load Estimation in a Two-Priority mMTC Random Access Channel",
+    "description": "The use of cellular networks for massive machine-type communications (mMTC) is an appealing solution due to the wide availability of cellular infrastructure. Estimating the number of devices (network load) is vital for efficient allocation of the available resources, especially for managing the rand...",
+    "url": "https://arxiv.org/abs/2405.14667",
+    "author": "Minh, Au",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "EE",
+      "SP"
+    ],
+    "published": "2024-05-24 12:11:51 +0000",
+    "short_uuid": "443fc293"
+  },
+  {
+    "id": "b2143cad-94dc-40f1-973b-6c356a385aba",
+    "title": "Study of 5G base station antenna array performance for self-interference reduction",
+    "description": "The study of 5G base station antenna array performance for self-interference reduction is derived. The line of sight signal channel model and Rayleigh channel model are developed. The relevant calculations for channel capacities are shown. This is the pre-material for this study. More results and co...",
+    "url": "https://arxiv.org/abs/2405.14220",
+    "author": "Icheln, Clemens",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "EE",
+      "SP"
+    ],
+    "published": "2024-05-24 12:11:51 +0000",
+    "short_uuid": "f2f25281"
+  },
+  {
+    "id": "581dde21-c813-4428-b9fb-9457b3913db9",
+    "title": "End-to-End Learning of Pulse-Shaper and Receiver Filter in the Presence of Strong Intersymbol Interference",
+    "description": "We numerically demonstrate that joint optimization of FIR based pulse-shaper and receiver filter results in an improved system performance, and shorter filter lengths (lower complexity), for 4-PAM 100 GBd IM/DD systems.",
+    "url": "https://arxiv.org/abs/2405.13367",
+    "author": "Zibar, Darko",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "language": "en",
+    "category": [
+      "academic",
+      "EE",
+      "SP"
+    ],
+    "published": "2024-05-24 12:11:51 +0000",
+    "short_uuid": "66e72a8b"
+  },
+  {
+    "id": "b1683c0b-e54e-4799-8931-d1ad07635ab2",
+    "title": "A Week of Diplomatic Blows to Israel, and Calls for Alito\u2019s Recusal",
+    "description": "Plus, a big step toward college athlete pay.",
+    "url": "https://www.nytimes.com/2024/05/24/podcasts/rafah-invasion-icc-south-africa-alito-congress-response.html",
+    "author": "Tracy Mumford, Maria Abi-Habib, Aaron Boxerman, Ian Stewart, Jessica Metzger and James Shield",
+    "image": "https://static01.nyt.com/images/2024/05/23/multimedia/24theheadlines-rafah-01/24theheadlines-rafah-01-facebookJumbo.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-24 12:05:51 +0000",
+    "short_uuid": "68209d44"
+  },
+  {
+    "id": "e5798c7b-6438-4ed1-9a80-f98721830e19",
+    "title": "What a UK Labour election win would mean for Ukraine",
+    "description": "Streeting \u2014 a centrist who always opposed the hard-left Corbyn \u2014 told the Fabian conference that voters were right to doubt Corbyn's ability to keep Britain safe, given his ambiguity regarding unsavor...",
+    "url": "https://www.politico.eu/article/uk-labour-party-britain-general-election-war-in-ukraine-defense-national-security-keir-starmer/",
+    "author": "Stefan Boscia",
+    "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/05/23/GettyImages-1247190855-scaled.jpg",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2024-05-24 11:57:51 +0000",
+    "short_uuid": "fa77a90b"
+  },
+  {
+    "id": "7c6fbe55-7233-42b2-8813-5c3b69935506",
+    "title": "Kabosu, Shiba Inu Who Helped Define the Doge Meme, Dies at 18",
+    "description": "The dog, whose face helped spread the popular doge meme and later became the logo of the Dogecoin cryptocurrency, died on Friday.",
+    "url": "https://www.nytimes.com/2024/05/24/world/asia/kabosu-doge-meme-dead.html",
+    "author": "Isabella Kwai",
+    "image": "https://static01.nyt.com/images/2024/05/24/multimedia/24xp-doge-02-gwch-alert/24xp-doge-02-gwch-alert-facebookJumbo-v3.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-24 11:56:17 +0000",
+    "short_uuid": "d62ccfa7"
+  },
+  {
+    "id": "fb02f378-1c11-4d1a-ab67-0754aef3db15",
+    "title": "Barcelona sack Xavi with Hansi Flick set to replace him",
+    "description": "Barcelona sack manager Xavi with former Bayern Munich boss Hansi Flick set to replace him. ",
+    "url": "https://www.bbc.com/sport/football/articles/c72250v375eo",
+    "author": "@BBCSport",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_sport/0ea2/live/e48dec20-19c6-11ef-a3f4-f1cabba3030d.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-24 11:49:48 +0000",
+    "short_uuid": "334440e2"
+  },
+  {
+    "id": "f5c1a939-2f74-4459-ba01-920976b1e628",
+    "title": "Fergie furious with Cannes Film Festival audience",
+    "description": "Sarah Ferguson silenced the audience as she thanked Simon de Pury for 'exceptional' auctioned piece of late Queen at amFAR gala at the 77th Cannes Film Festival gala auction last night.",
+    "url": "https://www.dailymail.co.uk/femail/article-13455109/Sarah-Ferguson-orders-Cannes-Film-Festival-audience-quiet-tells-looking-party-worrying-climate.html?ns_mchannel=rss",
+    "author": "Editor",
+    "image": "https://i.dailymail.co.uk/1s/2024/05/24/10/85286671-0-image-m-18_1716541774256.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-24 11:46:11 +0000",
+    "short_uuid": "8686fad5"
+  },
+  {
+    "id": "c796598b-b125-4316-bc53-a4346bae9311",
+    "title": "Omaze mansion sold just six months after it was won in the draw",
+    "description": "The property near Auchterarder, Perthshire was the top prize in an Omaze Million Pound House Draw last year - the first to be held in Scotland.",
+    "url": "https://www.dailymail.co.uk/news/article-13455565/The-Omaze-curse-strikes-Mansion-overlooking-Gleneagles-golf-course-latest-property-market-sold-4-2million-just-six-months-won-raffle-draw.html?ns_mchannel=rss",
+    "author": "Alesia Fiddler",
+    "image": "https://i.dailymail.co.uk/1s/2024/05/24/12/85292307-0-image-a-21_1716549512849.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-24 11:45:21 +0000",
+    "short_uuid": "19b96b5a"
+  },
+  {
+    "id": "35da2b74-4137-4464-b65f-ed10a1e1790a",
+    "title": "Bill OK'd by NC House panel would end automatic removal of some criminal records",
+    "description": "The legislation, if enacted, would stop an effort that began four years ago.",
+    "url": "https://spectrumlocalnews.com/nc/charlotte/news/2024/05/24/bill-ok-d-by-north-carolina-house-panel-would-end-automatic-removal-of-some-criminal-records",
+    "author": "Associated Press",
+    "image": "https://s7d2.scene7.com/is/image/TWCNews/ncga-legislature-sign-duncan_12032021",
+    "language": "en",
+    "category": [
+      "regional",
+      "charlotte",
+      "north-carolina"
+    ],
+    "published": "2024-05-24 11:45:00 +0000",
+    "short_uuid": "3d7d5f66"
+  },
+  {
+    "id": "e3e82673-124f-4009-a569-4794302e5a10",
+    "title": "Governor Roy Cooper vetoes first bill of 2024 legislative session",
+    "description": "Cooper on Thursday blocked passage of a transportation bill that contains billboard rule changes that he said would hinder the state&#39;s natural beauty.",
+    "url": "https://spectrumlocalnews.com/nc/charlotte/news/2024/05/24/governor-roy-cooper-vetoes-first-bill-of-2024-legislative-session",
+    "author": "Associated Press",
+    "image": "https://s7d2.scene7.com/is/image/TWCNews/roy_cooper_nc_gov03062023_03062023",
+    "language": "en",
+    "category": [
+      "regional",
+      "charlotte",
+      "north-carolina"
+    ],
+    "published": "2024-05-24 11:45:00 +0000",
+    "short_uuid": "e03ff6d6"
+  },
+  {
+    "id": "07d978b5-d94e-4f67-b5da-5edb149bd0ad",
+    "title": "Man, 23, died after friend pushed him from Topgolf driving range bay",
+    "description": "Conner Groom (pictured), 23, from Clacton-on-Sea, fell 3.7m from the first floor of Topgolf in Chigwell, Essex, during a work Christmas party on December 21 2021.",
+    "url": "https://www.dailymail.co.uk/news/article-13455203/Man-23-died-friend-pushed-Topgolf-driving-range-bay-prank-gone-wrong.html?ns_mchannel=rss",
+    "author": "Milo Pope",
+    "image": "https://i.dailymail.co.uk/1s/2024/05/24/09/85286733-0-image-m-33_1716538014636.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-24 11:44:50 +0000",
+    "short_uuid": "c8944fa0"
+  },
+  {
+    "id": "46995954-f0b2-468e-ba3b-fcf0abf9b98d",
+    "title": "Child contracts Weil's disease from river in Essex",
+    "description": "A child contracted the rare infection Weil's disease after going swimming in an Essex river, a council has said.",
+    "url": "https://www.dailymail.co.uk/news/article-13455385/Child-contracts-Weils-disease-poorly-going-swimming-river-Essex.html?ns_mchannel=rss",
+    "author": "Josh White",
+    "image": "https://i.dailymail.co.uk/1s/2024/05/24/12/85287247-0-image-m-68_1716549314725.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-24 11:44:44 +0000",
+    "short_uuid": "4bf7b731"
+  },
+  {
+    "id": "10d1b935-e6d5-4fa9-8dfc-05268008997c",
+    "title": "Singapore Airlines tweaks its in-flight seatbelt sign policies after fatal incident",
+    "description": "Singapore Airlines has altered its in-flight seatbelt rules and changed at least one flight route following Tuesday's turbulence incident which killed one and hospitalized dozens more.",
+    "url": "https://www.cnbc.com/2024/05/24/singapore-airlines-tweaks-in-flight-seatbelt-policies-after-fatal-incident.html",
+    "author": "Karen Gilchrist",
+    "image": "https://image.cnbcfm.com/api/v1/image/107417871-17163064682024-05-21t135954z_1671760108_rc20v7abk56u_rtrmadp_0_singaporeairlines-thailand.jpeg?v=1716306506&w=1920&h=1080",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-24 11:43:54 +0000",
+    "short_uuid": "5177694c"
+  },
+  {
+    "id": "5a1d868f-f7c2-44e1-a25c-25e3205c9555",
+    "title": "DOJ's Office of Inspector General takes heat for allegedly 'targeting political opponents'",
+    "description": "Join Fox News for access to this content Plus special access to select articles and other premium content with your account - free of charge. Please enter a valid email address.\n\nThe Office of Inspect...",
+    "url": "https://www.foxnews.com/politics/dojs-office-inspector-general-takes-heat-allegedly-targeting-political-opponents",
+    "author": "Brianna Herlihy",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2024/05/mkeh.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-24 11:43:19 +0000",
+    "short_uuid": "f72845b4"
   }
 ]
