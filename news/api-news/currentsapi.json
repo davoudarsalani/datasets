@@ -62026,5 +62026,365 @@
     ],
     "published": "2024-05-24 00:09:49 +0000",
     "short_uuid": "6d08ec5d"
+  },
+  {
+    "id": "d0bdcb57-89d2-4a6b-87c7-db70dd5bc208",
+    "title": "Stage Collapses at Mexico Presidential Rally Due to Strong Winds, 9 Dead",
+    "description": "Tragedy struck in Mexico Wednesday when a campaign rally stage collapsed due to high winds ... taking the lives of 9 people.",
+    "url": "https://www.tmz.com/2024/05/23/stage-collapse-mexico-election-rally-candidate-jorge-maynez-escapes/",
+    "author": "TMZ Staff",
+    "image": "https://imagez.tmz.com/image/3c/16by9/2024/05/23/3c262123f8e54a83a7b547f5c3d5143f_xl.jpg",
+    "language": "en",
+    "category": [
+      "celebrity",
+      "entertainment"
+    ],
+    "published": "2024-05-24 02:24:57 +0000",
+    "short_uuid": "204b31e8"
+  },
+  {
+    "id": "c4af9f52-9ccd-4abb-8ce7-a8905e241b25",
+    "title": "Mark Zuckerberg apologizes to families over social media harms in contentious Senate hearing | CNN Business",
+    "description": "Congress today is grilling the chief executives of several big tech companies, including Meta CEO Mark Zuckerberg, about potential harms from their products on teens.",
+    "url": "https://edition.cnn.com/tech/live-news/meta-x-discord-tiktok-snap-chiefs-testify-senate/index.html",
+    "author": "Clare Duffy,Brian Fung,Aditi Sangal",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/240129142347-013124-big-tech-hearing-ceos-split.jpg?c=16x9&q=w_800,c_fill",
+    "language": "en",
+    "category": [
+      "technology"
+    ],
+    "published": "2024-05-24 02:17:38 +0000",
+    "short_uuid": "a6858f6e"
+  },
+  {
+    "id": "fcbe68ac-bd40-448e-95b7-7a71edb776a2",
+    "title": "Jimmy Lai lawyer, fugitives target Hong Kong trade offices in talks with US lawmakers",
+    "description": "Frances Hui, Joey Siu and Jimmy Lai representative Jonathan Price urge House China committee to pass bill that could close city\u2019s American offices.",
+    "url": "https://www.scmp.com/news/china/politics/article/3263875/jimmy-lai-lawyer-fugitives-target-hong-kong-trade-offices-talks-us-lawmakers",
+    "author": "SCMP Reporters",
+    "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/05/24/10c9f7f8-844f-4b3a-a0a5-280b51ab0dc6_f0aec354.jpg?itok=U8nj3FNI&v=1716516195",
+    "language": "en",
+    "category": [
+      "politics",
+      "world"
+    ],
+    "published": "2024-05-24 02:04:24 +0000",
+    "short_uuid": "8801782b"
+  },
+  {
+    "id": "d0054cb2-75d7-427e-9bba-f543b7555b4a",
+    "title": "Mapped: Europe\u2019s rapidly rising right",
+    "description": "Hard-right forces are gaining ground ahead of next month\u2019s European Parliament election.",
+    "url": "https://www.politico.eu/article/mapped-europe-far-right-government-power-politics-eu-italy-finalnd-hungary-parties-elections-polling/",
+    "author": "Giovanna Coi",
+    "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/05/23/GettyImages-2150976163-scaled.jpg",
+    "language": "en",
+    "category": [
+      "general",
+      "world"
+    ],
+    "published": "2024-05-24 02:01:00 +0000",
+    "short_uuid": "32812dba"
+  },
+  {
+    "id": "f5effc1d-e5b7-4e27-af31-1b148b03ac8e",
+    "title": "Why Nigel Farage bottled it \u2014 again",
+    "description": "Britain\u2019s leading Brexiteer has boosted the Tories by ducking out of the general election.",
+    "url": "https://www.politico.eu/article/uk-nigel-farage-general-election-sunak-trump/",
+    "author": "Esther Webber",
+    "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/05/23/GettyImages-2148827774-scaled.jpg",
+    "language": "en",
+    "category": [
+      "general",
+      "world"
+    ],
+    "published": "2024-05-24 02:00:00 +0000",
+    "short_uuid": "c77d40f2"
+  },
+  {
+    "id": "58d54e8b-dbbf-4639-a7a4-cfff5b4683dd",
+    "title": "What happens if you are too far-right for the far right?",
+    "description": "Maximilian Krah was the only person making an effort, and now he\u2019s no longer campaigning in the EU election.",
+    "url": "https://www.politico.eu/article/what-happens-if-you-are-too-far-right-for-the-far-right/",
+    "author": "Paul Dallison",
+    "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/05/23/GettyImages-2149262767-scaled.jpg",
+    "language": "en",
+    "category": [
+      "general",
+      "world"
+    ],
+    "published": "2024-05-24 02:00:00 +0000",
+    "short_uuid": "b70ebc2e"
+  },
+  {
+    "id": "0d68c0a5-2344-40dc-8f31-5dbe43460e90",
+    "title": "EU election 101 \u2014 your questions answered",
+    "description": "This is your essential (and entertaining!) guide to the upcoming European election \u2014 everything you\u2019ve wanted to know but been too afraid to ask. With the crucial vote just two weeks away, we\u2026",
+    "url": "https://www.politico.eu/podcast/eu-election-101-your-questions-answered/",
+    "author": "Sarah Wheaton, Cristina Gonzalez, Dionisios Sturis",
+    "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2021/10/29/EU-Confidential-Website-Card.png",
+    "language": "en",
+    "category": [
+      "general",
+      "world"
+    ],
+    "published": "2024-05-24 02:00:00 +0000",
+    "short_uuid": "e2026437"
+  },
+  {
+    "id": "7855aec2-73c7-4ed2-86b8-06db2e173430",
+    "title": "The media and the UK election: Can Fleet Street still win it?",
+    "description": "Presented by Llyods.",
+    "url": "https://www.politico.eu/podcast/the-media-and-the-uk-election-can-fleet-street-still-win-it/",
+    "author": "Aggie Chambre",
+    "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2021/10/29/Westminster-Insider-Website-Card.png",
+    "language": "en",
+    "category": [
+      "general",
+      "world"
+    ],
+    "published": "2024-05-24 02:00:00 +0000",
+    "short_uuid": "232b9951"
+  },
+  {
+    "id": "23026103-2d1f-4070-9c3a-b99ca0c1c44d",
+    "title": "How Putin hijacked Austria\u2019s spy service \u2014 and is now gunning for its government",
+    "description": "Intelligence officials suspect Wirecard COO Jan Marsalek of colluding with the far-right Freedom Party on Moscow\u2019s behalf.\u00a0",
+    "url": "https://www.politico.eu/article/vladimir-putin-austria-spy-service-bvt-government-intelligence-wirecard-jan-marsalek-freedom-party/",
+    "author": "Matthew Karnitschnig",
+    "image": "https://www.politico.eu/wp-content/uploads/2024/05/22/Spy_130x186.jpg?w=640",
+    "language": "en",
+    "category": [
+      "general",
+      "world"
+    ],
+    "published": "2024-05-24 02:00:00 +0000",
+    "short_uuid": "cfb755d9"
+  },
+  {
+    "id": "1d844cf1-c936-49dc-96da-683392bbc744",
+    "title": "Netanyahu case will make or break the ICC",
+    "description": "The Hague court is coming in for scrutiny over Israel-Hamas moves.",
+    "url": "https://www.politico.eu/article/israel-icc-benjamin-netanyahu-arrest-warrant-war-crimes-palestine-gaza-justice-protests/",
+    "author": "Jamie Dettmer",
+    "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/05/23/GettyImages-2151065529-scaled.jpg",
+    "language": "en",
+    "category": [
+      "general",
+      "world"
+    ],
+    "published": "2024-05-24 02:00:00 +0000",
+    "short_uuid": "6f0c783d"
+  },
+  {
+    "id": "2e6b54dd-c3e9-44ee-a2ac-6850428994d5",
+    "title": "Russia should pay for Ukraine \u2014 but using frozen assets won\u2019t be easy",
+    "description": "No matter what, any deal will to take time, and a complex set of legal and political challenges await the EU.",
+    "url": "https://www.politico.eu/article/russia-pay-ukraine-frozen-assets-united-states-europe-deal/",
+    "author": "Mujtaba Rahman",
+    "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/05/23/GettyImages-2151333476-scaled.jpg",
+    "language": "en",
+    "category": [
+      "general",
+      "world"
+    ],
+    "published": "2024-05-24 02:00:00 +0000",
+    "short_uuid": "d83f14d2"
+  },
+  {
+    "id": "772071e7-9457-46e5-9332-0a8292f8d080",
+    "title": "Nathan Merritt's stunning last-second match-winner",
+    "description": "Prolific Rabbitohs try-scorer Nathan Merritt kicked a rare, match-winning field goal from near the SCG sideline to break the Wests Tigers hearts in 2009.",
+    "url": "https://www.smh.com.au/sport/nrl/nathan-merritts-stunning-last-second-match-winner-20240524-p5jgd9.html?ref=rss",
+    "author": "",
+    "image": "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/17bb574bf8f9fcbf4257ea53f50dde4222ab1074",
+    "language": "en",
+    "category": [
+      "sports"
+    ],
+    "published": "2024-05-24 01:53:35 +0000",
+    "short_uuid": "85ede5a6"
+  },
+  {
+    "id": "85551b5e-0eea-450e-8e6c-76e30b69db3b",
+    "title": "A New Photo Book Compiles 4 Years of Archival Prada Campaigns",
+    "description": "Compiling German photographer Norbert Schoerner\u2019s seminal work for the fashion house.",
+    "url": "https://hypebeast.com/2024/5/idea-books-norbert-schoerner-prada-1998-2002-book",
+    "author": "Sarah Kearns",
+    "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2024%2F05%2F23%2Fprada-norbert-schoerner-archival-campaign-idea-book-tw.jpg?w=960&cbr=1&q=90&fit=max",
+    "language": "en",
+    "category": [
+      "fashion",
+      "lifestyle"
+    ],
+    "published": "2024-05-24 01:51:16 +0000",
+    "short_uuid": "15c25cc9"
+  },
+  {
+    "id": "9d6ca0c7-4aac-4d0b-9860-5d5ac9d8ec15",
+    "title": "China reveals space weather radar tech",
+    "description": "China says it has created its own radar technology to help it forecast space weather, and claimed it made breakthroughs along the way.\n\nAccording to state-sponsored media the space weather forecast an...",
+    "url": "https://www.theregister.com/2024/05/24/china_space_weather_radar/",
+    "author": "Laura Dobberstein",
+    "image": "https://regmedia.co.uk/2024/05/24/aurora_shutterstock.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-24 01:50:12 +0000",
+    "short_uuid": "72c21dbf"
+  },
+  {
+    "id": "6dfc6c31-8aaf-4ca8-af21-0e3810b6e45e",
+    "title": "Bryan Kohberger defense challenges Idaho prosecutors over cellphone records",
+    "description": "Bryan Kohberger, who is accused of killing four University of Idaho students in 2022, was back in court Thursday for another pre-trial hearing where his defense pressed the Moscow Police Department detectives about the mishandling of phone records linked to his alibi.\u00a0Moscow Police Detective Lawrenc...",
+    "url": "https://www.foxnews.com/us/bryan-kohberger-defense-challenges-idaho-prosecutors-cellphone-records",
+    "author": "Fox News",
+    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/09/1024/512/Bryan-Kohberger-Idaho-Murders_13.jpg?ve=1&tl=1",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-24 01:46:13 +0000",
+    "short_uuid": "29cd722d"
+  },
+  {
+    "id": "0b6985e8-e534-4dff-8acd-4314b26a7a33",
+    "title": "Louis Vuitton Resort 2025 Collection",
+    "description": "Louis Vuitton Resort 2025 collection, runway looks, beauty, models, and reviews.",
+    "url": "https://www.vogue.com/fashion-shows/resort-2025/louis-vuitton",
+    "author": "Nicole Phelps",
+    "image": "https://assets.vogue.com/photos/664fab783d16c81af99750e3/16:9/pass/00001-louis-vuitton-resort-2025-credit-gorunway.jpg",
+    "language": "en",
+    "category": [
+      "fashion",
+      "lifestyle"
+    ],
+    "published": "2024-05-24 01:43:37 +0000",
+    "short_uuid": "41c24da4"
+  },
+  {
+    "id": "2d272211-2dcb-4d74-b683-3c1179903181",
+    "title": "Hollywood power couple say they've given up Tinseltown for Fort Worth",
+    "description": "A successful show business duo have found their paradise in the South after years in New York and Los Angeles.",
+    "url": "https://www.dailymail.co.uk/news/article-13453995/Hollywood-power-couple-fort-worth-Texas-hollywood.html?ns_mchannel=rss",
+    "author": "Sophie Mann",
+    "image": "https://i.dailymail.co.uk/1s/2024/05/24/01/85275971-0-image-m-18_1716509362783.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-24 01:43:05 +0000",
+    "short_uuid": "41815088"
+  },
+  {
+    "id": "8767bb8f-d1bc-4706-959e-433a82fcb8ec",
+    "title": "Menstrual blood stem cells: Our hope for future therapeutics \u2014 Badrul Hisham Yahaya",
+    "description": "MAY 24 \u2014 In recent years, scientists have shown unprecedented interest in stem cells derived from menstrual blood, known as Menstrual Blood-Derived Stem Cells (MenSCs). This innovative research has sparked considerable exploration into the feasibility of menstrual blood banking, a concept that could...",
+    "url": "https://www.malaymail.com/news/what-you-think/2024/05/24/menstrual-blood-stem-cells-our-hope-for-future-therapeutics-badrul-hisham-yahaya/136181",
+    "author": "Malay Mail",
+    "image": "https://www.malaymail.com/malaymail/uploads/images/2024/05/24/thumbs/400x400/212642.jpg",
+    "language": "en",
+    "category": [
+      "opinion",
+      "regional"
+    ],
+    "published": "2024-05-24 01:42:24 +0000",
+    "short_uuid": "88169171"
+  },
+  {
+    "id": "13a844da-df38-4388-af0f-c1dcfb6feef6",
+    "title": "Trump tells wild Bronx crowd he's going to win New York like Reagan",
+    "description": "Donald Trump\u00a0went deep into one of the bluest counties in the country on Thursday for a rally in the Bronx that had large crowds of his excited MAGA supporters lining up in the NYC borough.",
+    "url": "https://www.dailymail.co.uk/news/article-13453259/donald-trump-bronx-rally-new-york.html?ns_mchannel=rss",
+    "author": "Sarah Ewall-wice",
+    "image": "https://i.dailymail.co.uk/1s/2024/05/24/01/85274035-0-image-m-17_1716508862259.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-24 01:42:17 +0000",
+    "short_uuid": "795c622a"
+  },
+  {
+    "id": "ad9c3c69-5255-4491-8f97-b4c03a50ecb1",
+    "title": "BBC boss says comedy industry needs 'a couple of Berocca' to survive",
+    "description": "Jon Petrie, in a speech to the comedy industry, said while situation comedy was not 'dead', it 'needs a couple of Berocca' and a 'black Americano with two sugars'.",
+    "url": "https://www.dailymail.co.uk/news/article-13454303/sitcoms-BBC-comedy-Berocca-black-Americano-two-sugars.html?ns_mchannel=rss",
+    "author": "Paul Revoir",
+    "image": "https://i.dailymail.co.uk/1s/2024/05/24/01/85277715-0-image-a-50_1716512222763.jpg",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-24 01:41:12 +0000",
+    "short_uuid": "23206b35"
+  },
+  {
+    "id": "60528655-c7f0-4edc-8b83-fd02ebd094fc",
+    "title": "Tom Holland's New Short Cut is so George Clooney in 1995",
+    "description": "The actor is in London while starring in 'Romeo and Juliet' and got a new crop for the role.",
+    "url": "https://www.vogue.com/article/tom-hollands-haircut-2024",
+    "author": "Margaux Anbouba",
+    "image": "https://assets.vogue.com/photos/664fef352788f618eaf422b6/16:9/w_1280,c_limit/1934198208",
+    "language": "en",
+    "category": [
+      "fashion",
+      "lifestyle"
+    ],
+    "published": "2024-05-24 01:40:34 +0000",
+    "short_uuid": "7a8c21ab"
+  },
+  {
+    "id": "ef249388-3a5d-4319-ab26-34f3de2839e6",
+    "title": "\u2018Lucky to be alive\u2019: How Souths legend learned to walk again after a coma",
+    "description": "Nathan Merritt will take a simple stroll in Indigenous Round this weekend that represents a significant milestone in his recovery from a debilitating bout of double pneumonia.",
+    "url": "https://www.smh.com.au/sport/nrl/lucky-to-be-alive-how-souths-legend-learned-to-walk-again-after-a-coma-20240523-p5jg52.html?ref=rss",
+    "author": "Dan Walsh",
+    "image": "https://static.ffx.io/images/$zoom_0.5806%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/977ee667951fdeadf2246a5b59bbf7d0df01ac20",
+    "language": "en",
+    "category": [
+      "sports"
+    ],
+    "published": "2024-05-24 01:40:00 +0000",
+    "short_uuid": "af365c87"
+  },
+  {
+    "id": "e3408c43-5240-4958-a821-318b1a0c49a2",
+    "title": "'I Have Personally Checked Pakistan's Power': PM Modi On Mani Shankar Aiyar's 'Atom Bomb' Remark - News18",
+    "description": "Reacting to Congress leader Mani Shankar Aiyar's \"India should respect Pakistan because it has the nuclear bomb\" remark, Prime Minister Narendra Modi said he had \"personally\" visited Lahore and \"checked its power\"",
+    "url": "https://www.news18.com/politics/pm-modi-asks-why-some-people-are-crying-over-targeted-killings-in-pakistan-says-he-has-personally-checked-islamabads-power-8901963.html",
+    "author": "@cnnnews18",
+    "image": "https://images.news18.com/ibnlive/uploads/2024/05/pm-modi-dindori-rally-2024-05-225406bfb5223ad2c30e0e28a234427e-16x9.png?impolicy=website&width=1200&height=675",
+    "language": "en",
+    "category": [
+      "politics"
+    ],
+    "published": "2024-05-24 01:39:57 +0000",
+    "short_uuid": "62c8b73f"
+  },
+  {
+    "id": "b4c3a38d-3090-4ba9-8d02-046f9d604152",
+    "title": "Sources: Pistons to hire Langdon as new ops prez",
+    "description": "Open Extended Reactions\n\nThe Detroit Pistons are planning to hire New Orleans Pelicans general manager Trajan Langdon as the franchise's new president of basketball operations, and sides are beginning...",
+    "url": "https://www.espn.com/nba/story/_/id/40206067/pistons-set-hire-trajan-langdon-new-president-basketball-operations",
+    "author": "Adrian Wojnarowski",
+    "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0523%2Fr1336802_1296x729_16%2D9.jpg",
+    "language": "en",
+    "category": [],
+    "published": "2024-05-24 01:39:57 +0000",
+    "short_uuid": "e31ef8b0"
+  },
+  {
+    "id": "c0c272e2-fbaa-486b-9b21-685e4afd5d56",
+    "title": "Vancouver tells fans: Messi, Su\u00e1rez aren't coming",
+    "description": "Open Extended Reactions\n\nThe Vancouver Whitecaps have told fans not to expect to see Inter Miami CF stars Lionel Messi, Luis Su\u00e1rez and Sergio Busquets in their match Saturday at BC Place.\n\n\"While we ...",
+    "url": "https://www.espn.com/soccer/story/_/id/40206568/messi-suarez-busquets-travel-miami",
+    "author": "Lizzy Becherano",
+    "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0403%2Fr1313574_1296x729_16%2D9.jpg",
+    "language": "en",
+    "category": [],
+    "published": "2024-05-24 01:39:57 +0000",
+    "short_uuid": "4db6a7e7"
   }
 ]
