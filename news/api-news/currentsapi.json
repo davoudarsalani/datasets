@@ -61605,5 +61605,426 @@
     ],
     "published": "2024-05-23 21:18:49 +0000",
     "short_uuid": "daa8151f"
+  },
+  {
+    "id": "cd7efb2e-83e7-461f-95a1-6090e1e1242f",
+    "title": "All-Screen M5 MacBook With Foldable Display To Launch in 2026, Analyst Says  (9to5mac.com)",
+    "description": "An anonymous reader shares a report: Apple is working on all-screen foldable devices. Unlike its competitors, however, its focus seems less on foldable smartphones and tablets, and instead on an all-screen foldable laptop. Ming-Chi Kuo has previously reported that Apple was developing a 20.3-inch Ma...",
+    "url": "https://apple.slashdot.org/story/24/05/23/165238/all-screen-m5-macbook-with-foldable-display-to-launch-in-2026-analyst-says",
+    "author": "help",
+    "image": "https://a.fsdn.com/sd/topics/applelaptop_64.png",
+    "language": "en",
+    "category": [
+      "technology",
+      "game"
+    ],
+    "published": "2024-05-24 00:43:42 +0000",
+    "short_uuid": "a7626d6"
+  },
+  {
+    "id": "d8e409c2-72e7-47c5-be57-7a6731dec466",
+    "title": "Atari Buys Intellivision Brand, Ending 'Longest-Running Console War in History'",
+    "description": "An old-school video game rivalry has a new chapter: Atari, known for producing one of the first hit home game consoles, has announced the acquisition of long-time rival Intellivision's brand and rights to over 200 games from Intellivision Entertainment. The two companies were key players in the indu...",
+    "url": "https://games.slashdot.org/story/24/05/23/1630220/atari-buys-intellivision-brand-ending-longest-running-console-war-in-history",
+    "author": "help",
+    "image": "https://a.fsdn.com/sd/topics/games_64.png",
+    "language": "en",
+    "category": [
+      "technology",
+      "game"
+    ],
+    "published": "2024-05-24 00:43:42 +0000",
+    "short_uuid": "e202a721"
+  },
+  {
+    "id": "8c2e866e-4c25-4956-9fd4-6f3dd1bf3b18",
+    "title": "AI Software Engineers Make $100,000 More Than Their Colleagues  (qz.com)",
+    "description": "The AI boom and a growing talent shortage has resulted in companies paying AI software engineers a whole lot more than their non-AI counterparts. From a report: As of April 2024, AI software engineers in the U.S. were paid a median salary of nearly $300,000, while other software technicians made abo...",
+    "url": "https://developers.slashdot.org/story/24/05/23/1724218/ai-software-engineers-make-100000-more-than-their-colleagues",
+    "author": "help",
+    "image": "https://a.fsdn.com/sd/topics/ai_64.png",
+    "language": "en",
+    "category": [
+      "technology",
+      "game"
+    ],
+    "published": "2024-05-24 00:43:42 +0000",
+    "short_uuid": "ae5cdcae"
+  },
+  {
+    "id": "09aa1fd8-d83a-4df9-960e-9b41f8bf780c",
+    "title": "Google AI Search is Telling Users To Put Glue On Pizza Because It's Trained on Reddit Posts",
+    "description": "Google pays Reddit $60 million a year to train its AI on posts on Reddit, and it looks like Google's AI is now pulling directly from the dregs of the internet. Google's AI overview for \"cheese not sticking to pizza\" is brilliant information it got from an 11-year-old Reddit post....",
+    "url": "https://tech.slashdot.org/story/24/05/23/1730200/google-ai-search-is-telling-users-to-put-glue-on-pizza-because-its-trained-on-reddit-posts",
+    "author": "help",
+    "image": "https://a.fsdn.com/sd/topics/topicgoogle_fb.gif",
+    "language": "en",
+    "category": [
+      "technology",
+      "game"
+    ],
+    "published": "2024-05-24 00:43:42 +0000",
+    "short_uuid": "ec033ae0"
+  },
+  {
+    "id": "89fb577e-a839-4cfd-9f18-925de4c665a0",
+    "title": "Hacker Breaches Scam Call Center, Warns Victims They've Been Scammed  (404media.co)",
+    "description": "A hacker claims to have breached a scam call center, stolen the source code for the company's tools, and emailed the company's scam victims, according to multiple screenshots and files provided by the hacker to 404 Media. From the report: The hack is the latest in a long series of vigilante actions ...",
+    "url": "https://it.slashdot.org/story/24/05/23/1740215/hacker-breaches-scam-call-center-warns-victims-theyve-been-scammed",
+    "author": "help",
+    "image": "https://a.fsdn.com/sd/topics/security_64.png",
+    "language": "en",
+    "category": [
+      "technology",
+      "game"
+    ],
+    "published": "2024-05-24 00:43:42 +0000",
+    "short_uuid": "e342304"
+  },
+  {
+    "id": "e51f8aaa-835b-4c5a-ad8f-0180afa97748",
+    "title": "A Root-Server at the Internet's Core Lost Touch With Its Peers. We Still Don't Know Why.",
+    "description": "A server maintained by Cogent Communications, one of the 13 root servers crucial to the Internet's domain name system, fell out of sync with its peers for over four days due to an unexplained glitch. This issue, which could have caused worldwide stability and security problems, was resolved on Wedne...",
+    "url": "https://it.slashdot.org/story/24/05/23/1745246/a-root-server-at-the-internets-core-lost-touch-with-its-peers-we-still-dont-know-why",
+    "author": "help",
+    "image": "https://a.fsdn.com/sd/topics/network_64.png",
+    "language": "en",
+    "category": [
+      "technology",
+      "game"
+    ],
+    "published": "2024-05-24 00:43:42 +0000",
+    "short_uuid": "39593edc"
+  },
+  {
+    "id": "7a9d4074-bd58-48a2-b0f9-80eb2d380d21",
+    "title": "Apple Exec Admits Court-Ordered App Store Changes Fail To Boost Competition  (fortune.com)",
+    "description": "Apple executive Phil Schiller admitted in court on Wednesday that the company's court-mandated changes to its iPhone app store payment system have not significantly increased competition. The ongoing hearings in Oakland, California, are determining whether Apple is properly complying with an antitru...",
+    "url": "https://apple.slashdot.org/story/24/05/23/1752200/apple-exec-admits-court-ordered-app-store-changes-fail-to-boost-competition",
+    "author": "help",
+    "image": "https://a.fsdn.com/sd/topics/apple_64.png",
+    "language": "en",
+    "category": [
+      "technology",
+      "game"
+    ],
+    "published": "2024-05-24 00:43:42 +0000",
+    "short_uuid": "4eaa7883"
+  },
+  {
+    "id": "1f638748-820f-42c1-84c0-6f0221925458",
+    "title": "Google: Stop Trying To Trick Employees With Fake Phishing Emails  (pcmag.com)",
+    "description": "An anonymous reader shares a report: Did your company recently send you a phishing email? Employers will sometimes simulate phishing messages to train workers on how to spot the hacking threat. But one Google security manager argues the IT industry needs to drop the practice, calling it counterprodu...",
+    "url": "https://tech.slashdot.org/story/24/05/23/1756222/google-stop-trying-to-trick-employees-with-fake-phishing-emails",
+    "author": "help",
+    "image": "https://a.fsdn.com/sd/topics/topicgoogle_fb.gif",
+    "language": "en",
+    "category": [
+      "technology",
+      "game"
+    ],
+    "published": "2024-05-24 00:43:42 +0000",
+    "short_uuid": "2af270d9"
+  },
+  {
+    "id": "3f55ba9c-4edf-4690-acd2-ed32f956f923",
+    "title": "Ascension Cyberattack Continues To Disrupt Care At Hospitals  (npr.org)",
+    "description": "An anonymous reader quotes a report from NPR: Hospital staff are forced to write notes by hand and deliver orders for tests and prescriptions in person in the ongoing fallout from a recent ransomware attack at the national health system Ascension. Ascension is one of the largest health systems in th...",
+    "url": "https://science.slashdot.org/story/24/05/23/2027257/ascension-cyberattack-continues-to-disrupt-care-at-hospitals",
+    "author": "help",
+    "image": "https://a.fsdn.com/sd/topics/medicine_64.png?refresh=now",
+    "language": "en",
+    "category": [
+      "technology",
+      "game"
+    ],
+    "published": "2024-05-24 00:43:42 +0000",
+    "short_uuid": "bac9bbfa"
+  },
+  {
+    "id": "0723d308-6924-4b7a-bb76-30d25bd57f35",
+    "title": "Spotify Is Going To Break Ever 'Car Thing' Gadget It Ever Sold",
+    "description": "Spotify is about to render its Car Thing dashboard accessory inoperable on December 9th. Not only is the company refusing to open-source the device, it won't offer owners any subscription credit or automatic refund. \"Rather, it's just canning the project and telling people to (responsibly) dispose o...",
+    "url": "https://hardware.slashdot.org/story/24/05/23/2037255/spotify-is-going-to-break-ever-car-thing-gadget-it-ever-sold",
+    "author": "help",
+    "image": "https://a.fsdn.com/sd/topics/music_64.png",
+    "language": "en",
+    "category": [
+      "technology",
+      "game"
+    ],
+    "published": "2024-05-24 00:43:42 +0000",
+    "short_uuid": "b5f5ab4"
+  },
+  {
+    "id": "ddbd792a-f8f6-4099-b7a9-fb6be4f68706",
+    "title": "YouTube Rolling Out Its Widely Hated New Web Redesign  (9to5google.com)",
+    "description": "Ben Schoon reports via 9to5Google:  After first appearing earlier this year, YouTube once again appears to be rolling out a new redesign for its website that everyone hates. In mid-April, Google started testing a redesign to YouTube's website, which moved the title of the video, its description, and...",
+    "url": "https://news.slashdot.org/story/24/05/23/2042247/youtube-rolling-out-its-widely-hated-new-web-redesign",
+    "author": "help",
+    "image": "https://a.fsdn.com/sd/topics/youtube_64.png",
+    "language": "en",
+    "category": [
+      "technology",
+      "game"
+    ],
+    "published": "2024-05-24 00:43:42 +0000",
+    "short_uuid": "132bf748"
+  },
+  {
+    "id": "c9e34692-a8ce-44ef-ad20-30744aac01f3",
+    "title": "Leaked Contract Shows Samsung Forces Repair Shop To Snitch On Customers  (404media.co)",
+    "description": "Speaking of Samsung, samleecole shares a report about the contract the South Korean firm requires repair shops to sign:  In exchange for selling them repair parts, Samsung requires independent repair shops to give Samsung the name, contact information, phone identifier, and customer complaint detail...",
+    "url": "https://it.slashdot.org/story/24/05/23/1849224/leaked-contract-shows-samsung-forces-repair-shop-to-snitch-on-customers",
+    "author": "help",
+    "image": "https://a.fsdn.com/sd/topics/it_64.png",
+    "language": "en",
+    "category": [
+      "technology",
+      "game"
+    ],
+    "published": "2024-05-24 00:43:42 +0000",
+    "short_uuid": "cf18f0a1"
+  },
+  {
+    "id": "828c6a24-46c4-48f6-a4c7-e1daed0c3d08",
+    "title": "Sharks spotted off popular Memorial Day weekend getaway spot",
+    "description": "The New England Aquarium is warning Cape Cod beachgoers to beware of sharks ahead of the Memorial Day weekend after marine animals were spotted with shark bites.",
+    "url": "https://www.foxnews.com/us/sharks-spotted-off-popular-memorial-day-weekend-getaway-spot",
+    "author": "Fox News",
+    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/05/1024/512/SharkCapeCodThumb.jpg?ve=1&tl=1",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-24 00:36:11 +0000",
+    "short_uuid": "bfd606c5"
+  },
+  {
+    "id": "aeaf4830-7742-4e74-bff3-bf48d01bfc0b",
+    "title": "C\u00e9line Dion 'almost died' during stiff person syndrome battle",
+    "description": "C\u00e9line Dion nearly died during her battle with a rare neurological disorder, stiff person syndrome. The Grammy Award-winning singer was diagnosed in 2022.",
+    "url": "https://www.foxnews.com/entertainment/celine-dion-almost-died-during-stiff-person-syndrome-battle",
+    "author": "Fox News",
+    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/03/1024/512/celine-dion.jpg?ve=1&tl=1",
+    "language": "en",
+    "category": [
+      "entertainment"
+    ],
+    "published": "2024-05-24 00:35:23 +0000",
+    "short_uuid": "1984a8e0"
+  },
+  {
+    "id": "d53593e4-8c89-4efa-8c4e-7236d76b2e47",
+    "title": "WNBA announces Toronto franchise",
+    "description": "Toronto will be the league's 14th member and is set to start playing in 2026 ",
+    "url": "https://www.voanews.com/a/wnba-announces-toronto-franchise-/7625086.html",
+    "author": "VOA News",
+    "image": "https://gdb.voanews.com/FD3DE7E9-B5E0-43EB-B9EF-8E59C405CAA5.jpg",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2024-05-24 00:34:44 +0000",
+    "short_uuid": "26f18d1"
+  },
+  {
+    "id": "031a1f5e-2a56-402e-aba7-dee42d57ba80",
+    "title": "More bad weather could hit Iowa, where 3 powerful tornadoes caused millions in damage",
+    "description": "A destructive EF-4 tornado killed four people and injured at least 35 in the small city of Greenfield, Iowa; more than 100 homes in the community of 2,000 were ripped apart in just one minute.",
+    "url": "https://www.foxnews.com/us/more-bad-weather-could-hit-iowa-where-3-powerful-tornadoes-caused-millions-damage",
+    "author": "Fox News",
+    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/05/1024/512/Severe-Weather-Iowa.jpg?ve=1&tl=1",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-24 00:30:37 +0000",
+    "short_uuid": "d386f307"
+  },
+  {
+    "id": "75710412-d8cd-489b-b90e-fab1c305fa90",
+    "title": "European Parliament group expels far-right delegation",
+    "description": "Leader of expelled group had said Nazi SS were 'not all criminals' ",
+    "url": "https://www.voanews.com/a/european-parliament-group-expels-far-right-delegation/7625080.html",
+    "author": "VOA News",
+    "image": "https://gdb.voanews.com/547EB5BD-4624-4B07-8657-90C51B9272D7.jpg",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2024-05-24 00:28:23 +0000",
+    "short_uuid": "c2b2a7e9"
+  },
+  {
+    "id": "8bbb3860-80ba-42cf-996d-9a5ec31d8083",
+    "title": "NCAA to allow Power 5 conferences to pay players in unprecedented agreement: report",
+    "description": "In unprecedented fashion, the NCAA and its five power conferences have agreed to allow schools direct payment to players for the first time in the history of college sports.",
+    "url": "https://www.foxnews.com/sports/ncaa-allow-power-5-conferences-pay-players-unprecedented-agreement-report",
+    "author": "Fox News",
+    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/04/1024/512/NCAA-logo.jpg?ve=1&tl=1",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-24 00:26:03 +0000",
+    "short_uuid": "5a7cac8b"
+  },
+  {
+    "id": "a1b2b5db-6b0e-415a-aa01-2b9f2f1894db",
+    "title": "Australian in intensive care with severe spinal injury after \u2018horrifying\u2019 Singapore flight, husband says",
+    "description": "Kerry Davis was flung to ceiling of flight SQ321 before falling motionless to floor",
+    "url": "https://www.theguardian.com/world/article/2024/may/24/australian-in-intensive-care-with-severe-spinal-injury-after-horrifying-singapore-flight-husband-says",
+    "author": "Emily Wind",
+    "image": "https://i.guim.co.uk/img/media/5a1efd6d5e7cdd29aa13d11ca67a83ea017bf643/0_193_5791_3475/master/5791.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=9deb1a8fa9d7ea6bba140999e60ce529",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2024-05-24 00:24:25 +0000",
+    "short_uuid": "548b9164"
+  },
+  {
+    "id": "4d86aa51-bd3a-488e-ae10-c761e8a387f4",
+    "title": "In major change, college athletes set to be paid directly by schools",
+    "description": "The NCAA and major conferences agreed to a settlement that would establish a revenue-sharing model for athletes likely beginning in the fall of 2025, though many steps remain to finalize the arrangement.",
+    "url": "https://www.washingtonpost.com/sports/2024/05/23/ncaa-settlement-revenue-sharing/",
+    "author": "Jesse Dougherty",
+    "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UPDGOEKAPNFQ7EHMPSEBKNXFOY_size-normalized.jpg&w=1440",
+    "language": "en",
+    "category": [
+      "sports"
+    ],
+    "published": "2024-05-24 00:24:00 +0000",
+    "short_uuid": "58ba8469"
+  },
+  {
+    "id": "08ca4230-c20a-4d93-8e34-bc6fcaf5e01c",
+    "title": "Rapper Sean Kingston's home raided by SWAT; mother arrested on fraud and theft charges",
+    "description": "An attorney who witnessed the arrest says it is partly related to a lawsuit he filed against Kingston in February accusing him of defrauding a Florida company that installed a 232-inch television.",
+    "url": "https://cnalifestyle.channelnewsasia.com/entertainment/rapper-sean-kingston-home-raided-swat-mother-arrested-fraud-theft-390781",
+    "author": "CNA Lifestyle",
+    "image": "https://onecms-res.cloudinary.com/image/upload/s--7iDadHTp--/c_crop,h_576,w_1024,x_0,y_0/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/24/ap24144734852291.jpg?itok=5-mZasKU",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-24 00:22:26 +0000",
+    "short_uuid": "872e6875"
+  },
+  {
+    "id": "b067c33e-194b-4006-834d-8902ce3dfb59",
+    "title": "Trump vows to 'save' deep-blue New York City in massive, historic Bronx rally",
+    "description": "Thousands of people rallied for former President Donald Trump in the Bronx's Crotona Park, one of New York City's deepest-blue areas.",
+    "url": "https://www.foxnews.com/politics/trump-vows-save-deep-blue-new-york-city-masive-historic-bronx-rally",
+    "author": "Fox News",
+    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/05/1024/512/GettyImages-2154368105.jpg?ve=1&tl=1",
+    "language": "en",
+    "category": [
+      "politics",
+      "world"
+    ],
+    "published": "2024-05-24 00:16:26 +0000",
+    "short_uuid": "3ef230ab"
+  },
+  {
+    "id": "b1001c61-0661-43ab-91ff-cb8ce2a5fce6",
+    "title": "Costa Rica goalkeeper Navas announces international retirement",
+    "description": "Costa Rica goalkeeper Keylor Navas announced his retirement from international football on Thursday at the age of 37, putting an end to rumours that he would play in the next Copa America.Navas, who made his international debut in 2008, has made 114 appearances and played in three World Cups, the mo...",
+    "url": "https://www.channelnewsasia.com/sport/costa-rica-goalkeeper-navas-announces-international-retirement-4359881",
+    "author": "CNA",
+    "image": "https://onecms-res.cloudinary.com/image/upload/s--ShEt2WQb--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-05-24t001551z_1_lynxmpek4n00a_rtroptp_3_soccer-champions-soc-psg-report.jpg?itok=9pe5xUHt",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-24 00:15:51 +0000",
+    "short_uuid": "e1d150b4"
+  },
+  {
+    "id": "a57223fd-b245-40b9-8862-776cfaff8390",
+    "title": "Mysterious shooting outside Army Special Forces residence in North Carolina raises questions",
+    "description": "A mysterious May 3 shooting north of Fort Liberty, formerly Fort Bragg, has raised eyebrows over potential intelligence surveillance of elite U.S. forces.",
+    "url": "https://www.foxnews.com/us/mysterious-shooting-army-special-forces-residence-north-carolina-raises-questions",
+    "author": "Fox News",
+    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/05/1024/512/ft_liberty_2.jpg?ve=1&tl=1",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-24 00:15:20 +0000",
+    "short_uuid": "af6d9d84"
+  },
+  {
+    "id": "4bd52be1-3d3a-402f-b859-e309dc9cbcd7",
+    "title": "Rams GM says Stetson Bennett needed 'a break from the game' during rookie season",
+    "description": "Stetson Bennett overcame the odds during his college football days and rose to stardom. But his first year in the NFL was rocky, leaving many with more questions than answers.",
+    "url": "https://www.foxnews.com/sports/rams-gm-says-stetson-bennett-needed-break-game-during-rookie-season",
+    "author": "Fox News",
+    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/11/1024/512/Stetson-Bennett-2.jpg?ve=1&tl=1",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-24 00:14:26 +0000",
+    "short_uuid": "8806998e"
+  },
+  {
+    "id": "63b17bb8-8fdf-447b-a34b-a0843e40fb30",
+    "title": "Katherine Clark blasts Justice Alito for flags flown at his properties",
+    "description": "Clark slammed Justice Alito after a New York Times investigation revealed controversial flags flown at two of his properties.",
+    "url": "https://www.boston.com/news/politics/2024/05/23/katherine-clark-blasts-justice-alito-for-flags-flown-at-his-properties/",
+    "author": "Emily Spatz",
+    "image": "https://bdc2020.o0bc.com/wp-content/uploads/2024/05/lito-664fce8ab0ed3-768x432.jpg",
+    "language": "en",
+    "category": [
+      "politics",
+      "world"
+    ],
+    "published": "2024-05-24 00:13:53 +0000",
+    "short_uuid": "e88e86ac"
+  },
+  {
+    "id": "db181399-6d52-4e32-8f12-8f7795efebef",
+    "title": "Ryan Garcia\u2019s B-sample returns positive result",
+    "description": "A B-sample requested by boxer Ryan Garcia came back positive for the banned substance Ostarine on Thursday.Garcia, though, maintains his innocence and is now claiming that contamination caused a positive test in both his A- and B-samples prior to his fight against Devin Haney last month.G",
+    "url": "https://www.channelnewsasia.com/sport/ryan-garcias-b-sample-returns-positive-result-4359871",
+    "author": "CNA",
+    "image": "https://onecms-res.cloudinary.com/image/upload/s--PfzSPxwy--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-05-24t001221z_1_lynxmpek4n006_rtroptp_3_boxing.jpg?itok=tDUWll3z",
+    "language": "en",
+    "category": [
+      "general"
+    ],
+    "published": "2024-05-24 00:12:21 +0000",
+    "short_uuid": "195fc217"
+  },
+  {
+    "id": "e4721728-24b0-4fed-9c35-fcfb4e3aae55",
+    "title": "Australian passenger on horror Singapore flight says airline has left him 'in limbo' \u2013 video",
+    "description": "Keith Davis, a passenger on the deadly Singapore Airlines flight SQ321, says he has been left 'totally in limbo' by the airline while his wife is treated for severe injuries in Thailand. 'She\u2019s in ICU, needs a medivac,' he tells reporters at Samitivej Srinakarin hospital in Bangkok",
+    "url": "https://www.theguardian.com/world/video/2024/may/24/australian-passenger-on-horror-singapore-flight-says-airline-has-left-him-in-limbo-video",
+    "author": "",
+    "image": "https://i.guim.co.uk/img/media/c4e86b2cbdb4e8ff8466c7838c2501dff48940d8/0_0_1799_1080/master/1799.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=96bcc0d113da84faa67b9214335a757a",
+    "language": "en",
+    "category": [
+      "world"
+    ],
+    "published": "2024-05-24 00:11:22 +0000",
+    "short_uuid": "dc4242ac"
+  },
+  {
+    "id": "bfc25ca1-7ccf-4513-bd6e-0a018bae06df",
+    "title": "Hill aide interferes with Fox News camera crew during Tlaib interview",
+    "description": "Capitol Hill staffer uses umbrella to obstruct Fox News cameraman who was filming interview with Tlaib",
+    "url": "https://www.foxnews.com/politics/hill-aide-interferes-fox-news-camera-crew-during-tlaib-interview",
+    "author": "Fox News",
+    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/05/1024/512/Rashida-Tlaib-Tlaib-staffer-Chad-Pergram.jpg?ve=1&tl=1",
+    "language": "en",
+    "category": [
+      "politics",
+      "world"
+    ],
+    "published": "2024-05-24 00:09:49 +0000",
+    "short_uuid": "6d08ec5d"
   }
 ]
